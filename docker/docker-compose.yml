@@ -1,0 +1,11 @@
+version: '2.1'
+services:
+    jekyll:
+        image: starefossen/github-pages
+        container_name: jekyll
+        volumes:
+            - ..:/usr/src/app
+        ports:
+            - "4000:4000"
+        environment:
+            JEKYLL_GITHUB_TOKEN:
