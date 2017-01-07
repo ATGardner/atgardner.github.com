@@ -17,7 +17,7 @@ I worried all through the night about the climb out of Sierra City. In the morni
  hiker, and we got a table, and both had the eggs breakfast with no meat. It took a long time for the scrambled eggs
  and two toasts to appear...
 
- 
+
 {% include image.html src="https://2.bp.blogspot.com/-uKu-MCTwCww/VHq9AvsM_hI/AAAAAAAFqe4/w9Xt5Ssu5u4/s640/2014-07-06%2B16.51.14.jpg" caption="View from the climb up from Sierra City" %}
 
  In the mean time, we met Big Boots, who have just come into town. He planned to spend a few hours there, and head
@@ -32,7 +32,7 @@ The trail immediately began to climb,
 We saw some day hikers and bikers at around Packer Lake Saddle, but nobody offered us any sodas.
  We pushed through anyway.
 
- 
+
 {% include image.html src="https://3.bp.blogspot.com/-KMSmORFiNgw/VHq9So0mLYI/AAAAAAAFqe8/KCoptssg0YY/s640/2014-07-06%2B17.36.20.jpg" caption="A big deer on the trail, right by where we camped for the night" %}
 
  At the end of the day, I reached the sign to the water source, and couldn't see Idan. I went ahead a bit, and tried

@@ -14,11 +14,11 @@ blogger_orig_url: http://pct14.blogspot.com/2013/10/i-first-heard-about-pct-whil
 
 I first heard about the PCT while thru-hiking the Appalachian Trail in 2002. I recall being in the 501 shelter, meeting up with Bag of Tricks and (I think) Woody Woodpecker while cooking myself some dinner on my cat stove. Woody was telling me about his PCT hike in the previous year - how you have to watch out for Grizzly bears, cook away from your sleeping location, cross snow covered mountain passes. I liked the stories, but I haven't thought much about the PCT back then. I was still a long way off from Katahdin, the northern end of the AT.
 
-I don't think I really "decided" to hike the PCT for a long long time after that. I just kept telling myself that it might be an interesting adventure to have one day. Over the years, I kept recalling my time on the AT, having dreams about finally getting back out there, and generally hoping to hike another long trail again. 
+I don't think I really "decided" to hike the PCT for a long long time after that. I just kept telling myself that it might be an interesting adventure to have one day. Over the years, I kept recalling my time on the AT, having dreams about finally getting back out there, and generally hoping to hike another long trail again.
 
-At first, I vaguely hoped to try it after I graduate from university, but then it didn't work out. I somehow hoped every year that "next April" I'll be out on the trail, but every April came and gone, and I was never actually doing it, for various different reasons. Only about half a year ago I finally decided (and got a blessing from my partner) to actually start working towards realizing this dream. So right now I am in the planning phase of this great adventure. Some scary stuff indeed. 
+At first, I vaguely hoped to try it after I graduate from university, but then it didn't work out. I somehow hoped every year that "next April" I'll be out on the trail, but every April came and gone, and I was never actually doing it, for various different reasons. Only about half a year ago I finally decided (and got a blessing from my partner) to actually start working towards realizing this dream. So right now I am in the planning phase of this great adventure. Some scary stuff indeed.
 
-So here is a quick run down of stuff I have done so far in preparation to my coming hike: 
+So here is a quick run down of stuff I have done so far in preparation to my coming hike:
 
 * Ordered a [ZPacks](http://zpacks.com/) Arc Blast backpack and Sleeping bag - still waiting for them to ship it over here. I expect I'll have to pay a ton to release it from customs.
 * Bought and already gotten a [Sawyer](http://www.sawyer.com/) Mini Filter.
@@ -26,7 +26,7 @@ So here is a quick run down of stuff I have done so far in preparation to my com
 * Got in touch with 4 other Israelis who plan on starting the PCT in April 2014. One couple and two other guys. I hope to get over to Campo, CA with at least one other hiking partner, at least for the first few days.
 * Borrowed Yogi's PCT Handbook from one of those Israeli hikers, and have finished reading the pre-hike section of the book. Got some interesting insights about preparations I still need to do
 
-I still need to finish up those next several chores: 
+I still need to finish up those next several chores:
 
 * Decide which cellular provider I'm going to use, and get a SIM card with a suitable plan for the hike.
 * Buy a Personal Locator Beacon (Probably [ACR ResQlink 406](http://www.outdoorgearlab.com/Personal-Locator-Beacon-Reviews/ACR-ResQlink-406-Personal-Locator-Beacon))

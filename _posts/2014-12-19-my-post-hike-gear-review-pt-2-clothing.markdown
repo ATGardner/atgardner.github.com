@@ -20,7 +20,7 @@ blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-26085282478056344
 blogger_orig_url: http://pct14.blogspot.com/2014/12/my-post-hike-gear-review-pt-2-clothing.html
 ---
 
-([My complete gear list](http://pct14.blogspot.co.il/p/blog-page.html)) 
+([My complete gear list](http://pct14.blogspot.co.il/p/blog-page.html))
 <h4>_Hiking
  Shirt - [Columbia
  Silver Ridge Long Sleeve Shirt](http://www.columbia.com/mens-silver-ridge-long-sleeve-shirt-AM7453.html) _</h4>I think I wore that shirt every single day for my entire trip. So
@@ -40,7 +40,7 @@ The material is very light and feels nice against my skin, and it dries quickly.
  manage the excess material around my waist so it won't bother me too much. I should have bought a smaller pair
  somewhere half way through, but I wanted to hike in the same pair for as much as I could. I'm silly that way.
 
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-_nOOwVFXsSw/VJQ4tuuieII/AAAAAAAFPYA/ACUqT8Oet1k/s1600/2014-08-03%2B09.10.06.jpg" caption="Same clothes for the entire trip. They held up very well." %}
 
  <h4>_Boxers - [Exofficio
@@ -50,7 +50,7 @@ The material is very light and feels nice against my skin, and it dries quickly.
  occasional chafing and raw spots here and there.
 <h4>_Hat - [Columbia Bora Bora hat](http://www.columbia.com/bora-bora-ii-booney-CU9107.html)
  _</h4>
- 
+
 {% include image.html src="http://4.bp.blogspot.com/-N458-0fRlcE/VJQ5ZyGQa2I/AAAAAAAFPYQ/eqx5-FJnV-k/s640/2014-04-21%2B14.07.45.jpg" caption="And here's the hat." %}
 
  A very nice and comfortable hat. I think I can count on one hand the amount of days I didn't wear it (some rainy
@@ -65,7 +65,7 @@ It took me well over 2 months to figure out I don't need the
  (My quilt doesn't have a hood). I bought the ZPacks hat at the ADZPCTKO for $10, and it did the trick. Warm enough
  for all the nights on the trail, and I also hiked with it a couple of times. Great value.
 
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-bvJ6qKnw0VQ/VJQ5Var8zbI/AAAAAAAFPYI/JZpnaovVuw0/s640/2014-04-14%2B13.23.34.jpg" caption="The Ghost Whisperer Anorak" %}
 
  <h4>_Wind Shirt - [Mountain Hardwear Ghost Whisperer Anorak](http://www.mountainhardwear.com/mens-ghost-whisperer-hooded-jacket-OM5271.html) _</h4>The link above is to
@@ -78,7 +78,7 @@ I now
  carry it with me every day, just in case a sudden rain will catch me unprepared. The minimal weight makes it very
  comfortable as a last resort.
 
-<h4>_ 
+<h4>_
  _</h4><h4>_Rain Jacket - [Marmot PreCip](http://marmot.com/products/details/precip-jacket-new) _</h4>A
  great rain jacket, which I keep on using since my days on the AT, 12 years ago. In 2008 I bought a new jacket, since
  my old jacket was peeling on the inside, but I've used it since 2008 and on the PCT, and it performed wonderfully. I
@@ -89,7 +89,7 @@ In the hot and rainy days of Northern California I sometimes
  against the skin. But with the pit zips open, and the front zip also only part way closed, there was enough
  ventilation to prevent too much sweating, and enough protection at the top to prevent getting wet by the rain.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-GeufjXp1oA0/VJQ6GXd3tWI/AAAAAAAFPYc/fiBwtCf7hZw/s1600/2014-08-30%2B10.12.44.jpg" caption="And here is the infamous PreCip" %}
 
  In the cold rainy days of Washington I used to close it all tightly around me. But it was still easy enough to open
@@ -123,6 +123,6 @@ I can't find the exact Marmot base layer pants I have, but both the pants and th
  the Mont Blanc with them. They were still in pretty good shape (~150 miles on them, I'd guess). I had some blisters
  at the beginning
 
- 
+
 {% include image.html src="http://4.bp.blogspot.com/-5jFDvFJonyo/VJQ7vSarliI/AAAAAAAFPa8/c3SGHrG72vY/s1600/2014-05-08%2B17.14.04.jpg" caption="New shoes and socks" %}
 

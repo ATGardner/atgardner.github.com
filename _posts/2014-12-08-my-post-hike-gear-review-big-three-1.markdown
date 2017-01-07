@@ -27,7 +27,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/12/my-post-hike-gear-review-big
  were not worth the weight.
 Without further ado, here is my gear review:
 <h4>_Backpack - [ZPacks Arc Blast 60L](http://zpacks.com/backpacks/arc_blast.shtml) _</h4>
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-Z1keH0IyGxE/VIaYIqgycnI/AAAAAAAE8JI/ghEejgOcynY/s1600/2014-09-03%2B11.24.27.jpg" caption="Enjoying the view towards what should have been Alta Mountain." %}
 
  The pack had plenty of room inside for all of my gear. In the Sierras I carried the [BearVault 500](http://www.bearvault.com/bearvault_details.php), and it fit in
@@ -71,7 +71,7 @@ I tried using the straps both directly under me (and over the
  old (Bought around 2008), so it is a tiny bit different from the newer Rainbow model. But it's basically the
  same.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-0NAZcQCWDhI/VIaY28vWEOI/AAAAAAAE8LE/Kda-TGxS3cE/s1600/2014-04-13%2B17.47.06.jpg" caption="Everything I ever needed for my hike." %}
 
  Before the trail, I used to set it up as a freestanding tent, using my trekking poles at both ends, and only using

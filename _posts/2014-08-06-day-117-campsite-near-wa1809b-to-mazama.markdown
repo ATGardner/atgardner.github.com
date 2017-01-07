@@ -60,11 +60,11 @@ Frank got in at about 17:00. He also joined us
  at the hiker camp. He said I inspired him to get here in two days instead of three. Tomorrow he will rest here and
  do his chores.
 For dinner I just got a frozen microwave pizza, and also bought some stuff for breakfast for
- tomorrow. 
+ tomorrow.
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-CVyq-soPo-Q/U-wuw_y7kaI/AAAAAAADRto/wFEvWz7Fbrg/1407987214509.jpg cursor: pointer;" caption="A helicopter trying to put out a forest fire" %}
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-2jk4LQf9e4w/U-wx4XTVeCI/AAAAAAADRuE/QvA6yIF3L7c/1407987327643.jpg cursor: pointer;" caption="Boiling the my pole, to take off the tip" %}
 

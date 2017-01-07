@@ -25,7 +25,7 @@ Down at
  Tortoise, who is hiking his 3rd thru hike, and Brad, and some others I don't recall their names. Most if them are
  not getting into Tahoe today, but will just camp close by.
 
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-zbEcJNrvHkA/VokoBaeUA3I/AAAAAAAFp2Y/LNphajmrBro/s640/2014-06-28%2B11.20.25.jpg" caption="Enjoying our fruit salad" %}
 
  We headed out at about noon, and crossed the road to the 2nd parking area, where there was a finish line for a big
@@ -36,7 +36,7 @@ The trail went on easily as before, with some minor climbs. We saw some weekend 
  them doing the longer Tahoe Rim Trail. There was a spot by Shower Lake which had a lot of tents. I guess it's a
  popular camping spot.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-k799ALDwAL0/VokoBCZq2xI/AAAAAAAFp2U/jFz-2mwE1GU/s640/P1040714-PANO.jpg" caption="View from the trail" %}
 
  The last 4 miles had a very steep descent towards the highway, and then a long 1.5 mile right along the it, when all

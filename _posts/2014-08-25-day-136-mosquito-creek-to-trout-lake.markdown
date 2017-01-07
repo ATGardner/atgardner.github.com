@@ -56,12 +56,12 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-136-mosquito-creek-to-tr
  I finally went to sleep at 22:00,
  way too late for me. But it was a fun evening.
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-2Ba1arWf8Tw/VAXX6AJyuHI/AAAAAAADTCU/NTll8U34ejI/1409668839159.jpg cursor: pointer;" caption=" A butterfly on my hand" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-F-zVjmFFuzU/VAXYDndy8iI/AAAAAAADTCc/Mv2MNmCN_mE/1409668939068.jpg cursor: pointer;" caption=" Juneau, Kit & Rimshot sorting out their packages. Justin in the back." %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-2I4-K24i4Us/VAXYJBrbv8I/AAAAAAADTCk/hGfS--Freu4/IMG_20140825_141922.jpg cursor: pointer;" caption=" The huckleberry pie Kit bought" %}
 

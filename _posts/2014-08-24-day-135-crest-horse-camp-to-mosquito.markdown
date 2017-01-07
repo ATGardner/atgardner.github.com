@@ -37,9 +37,9 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-135-crest-horse-camp-to-
  All the other section hikers stopped here as well. There is plenty of room around. I'm still surprised
  no other thru hiker had come here yet, or passed me today. I hope I see some of them in town tomorrow.
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-bPvAP6iIuzI/U_v2sjpvZ3I/AAAAAAADSoo/G5QtQ-CdH9Q/1409006337584.jpg cursor: pointer;" caption=" Some distant fire tower" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-iPvpsOWlR2c/U_v3HYa16rI/AAAAAAADSow/58558BbbTDQ/1409006362736.jpg cursor: pointer;" caption=" Is this St Helena?" %}
 

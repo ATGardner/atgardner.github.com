@@ -10,13 +10,13 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-143-wa2379-to-snoqualmie
 ---
 
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-yFgeCQtirVo/VAYeVwJCwdI/AAAAAAADTXM/4tCR0nhQJj8/1409686829643.jpg cursor: pointer;" caption=" Dew on some mushrooms" %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-SzTeRmjS8As/VAYeGuKEVJI/AAAAAAADTW8/-0P1_kU3-BA/1409686906903.jpg cursor: pointer;" caption=" Lizard Lake" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-JWGjcW4lJOQ/VAYeQP33BhI/AAAAAAADTXE/t5wzfZBWZXQ/1409686968499.jpg cursor: pointer;" caption=" Snoqualamie Pass" %}
 
  I woke up in the middle night, and heard some noises coming from the direction of the spring. It sounded a bit like

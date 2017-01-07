@@ -39,6 +39,6 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-125-unplanned-zero-in-si
  The room I got is the biggest I've had so far, and I've spent the rest of my day
  watching TV. Soon I'll have a frozen microwave dinner, and keep on doing nothing.
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-sd2mUT5RRKQ/U-162dVHUgI/AAAAAAADR4k/Dz3iR-AkT4k/1408068770953.jpg cursor: pointer;" caption=" That's one big room..." %}
 

@@ -94,7 +94,7 @@ I also used DropBox to get an
  <iframe frameborder="0" height="315" marginheight="0" marginwidth="0" scrolling="no"
  src="https://maps.google.com/maps?layer=c&amp;panoid=vE3u1AHEkBYAAAQYRM4CNQ&amp;ie=UTF8&amp;source=embed&amp;output=svembed&amp;cbp=13%2C262.59506977224214%2C%2C0%2C-2.5478883760011115"
  width="100%"></iframe>
- 
+
 <h4>[Google
  Camera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera)</h4>A nice camera app from Google. It does the trick, same as most other stock or non-stock camera
  apps for Android. I really liked the Photosphere option, and I took such spheres in the high passes of the Sierras,

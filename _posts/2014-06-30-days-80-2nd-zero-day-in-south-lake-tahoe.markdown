@@ -13,7 +13,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/06/days-80-2nd-zero-day-in-sout
 ---
 
 
- 
+
 {% include image.html src="http://4.bp.blogspot.com/-42_BRuHyUXQ/VL3ux8mn2lI/AAAAAAAFYQI/16_nRK411sk/s1600/2014-06-30%2B16.25.54.jpg" caption="The letters we got from a Helen's class." %}
 
  Today I failed to replace my crappy smartphone battery.

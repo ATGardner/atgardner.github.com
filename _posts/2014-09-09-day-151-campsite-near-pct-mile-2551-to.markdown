@@ -28,6 +28,6 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-151-campsite-near-pct-mi
  stream, with a small flat spot where we can squeeze in both of our tents. Tomorrow morning we'll just _walk_
  the remaining distance and get into Stehekin for a long day of rest before the final push.
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-3hRQfU_C5TU/VBdc76Ef9iI/AAAAAAADUiA/sip8jcE4940/1410816927713.jpg cursor: pointer;" caption=" Another broken bridge" %}
 

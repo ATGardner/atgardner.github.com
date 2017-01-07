@@ -29,22 +29,22 @@ The past week, I've been fiddling around with creating a similar file myself, so
  <ol>
  <li>Copy it into your Android phone, under the bcnav\atlases folder (not sure exactly on how to do it on iPhone,
  but I assume it can be done).
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-yRQjo0FzpE4/VLGYLwfJTmI/AAAAAAAFXTY/6cytZzlpRsw/s1600/2015-01-10%2B21.17.33.png" caption="" %}
 
  </li>
  <li>Inside BackCountry Navigator, tap on the "Layers" icon at the top
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-vuJVmThVJBE/VLGYKQ1mMwI/AAAAAAAFXTA/Zp1BfNhJBT4/s1600/2015-01-10%2B21.17.39.png" caption="" %}
 
  </li>
  <li>Tap on "More Map Sources..."
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-3n9glK4vAsk/VLGYKYoOBfI/AAAAAAAFXTE/lfjd_S2LXEc/s1600/2015-01-10%2B21.17.50.png" caption="" %}
 
  </li>
  <li>Tap on "Use Mobile Atlas" and select the file.
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-Z4-AVvbS6Jo/VLGYLEiLBOI/AAAAAAAFXTI/oLZ7SYtAAJ8/s1600/2015-01-10%2B21.18.03.png" caption="" %}
 
  </li>

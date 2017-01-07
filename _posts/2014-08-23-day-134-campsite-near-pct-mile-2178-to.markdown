@@ -10,10 +10,10 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-134-campsite-near-pct-mi
 ---
 
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-hs34x1TAKX0/U_v1rS_x5sI/AAAAAAADSog/1rXXGuertMo/1409006250685.jpg cursor: pointer;" caption="Joe heating up the chili" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-xLISUw_1BLU/U_v1Oj_O3yI/AAAAAAADSoY/5a8hjnOiUeQ/1409006229195.jpg cursor: pointer;" caption="Trail magic indeed" %}
 
  After making 1 more mile last night, I decided I'll make 2 more today, just to make tomorrow easier. Those last
@@ -26,7 +26,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-134-campsite-near-pct-mi
  60, about 2.5 miles further from where I intended to camp. I'd do a few miles more for trail magic.
  And so I
  headed on, for a longer day. The trail kept on climbing and climbing, and I passed Slaughterhouse. She was also
- headed to the trail magic spot. 
+ headed to the trail magic spot.
  Only after the Grassy Knoll Trail Junction, the climbing ended, and it was a
  long way down, followed by a stretch of leveled trail all the way to the end.
  I finally reached the campsite,

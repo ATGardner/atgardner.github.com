@@ -48,12 +48,12 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-126-sisters-santiam-pass
  a flat spot next to the stream itself. Going back to the stream later, I saw two of them stayed there. I guess the
  other two went on further.
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-iR_FV7DuNq0/U_aopusU7kI/AAAAAAADSUs/rOCzqm0WNYw/1408672364480.jpg cursor: pointer;" caption=" Smiles being bummed about his broken camera" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-CB5o3ZRhSm0/U_apBKS3LNI/AAAAAAADSU0/hbz3Xlznb5c/1408672391923.jpg cursor: pointer;" caption=" Down Hill and Buck Snort" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-pPeB0J_5mT4/U_apWA4dT0I/AAAAAAADSU8/rumGAbL8AfM/1408672465440.jpg cursor: pointer;" caption=" Mt Jefferson" %}
 

@@ -22,7 +22,7 @@ I tried sleeping, but the thought that my camera might not be out there kept nag
 In the morning, we got up a bit earlier to make good time for the long day, and to get up Muir Pass as early as possible, before the snow melt too much. We left camp at 6:30, which is very impressive for us.
 
 The climb up to Muir was long and hard. We had to find trails to cross streams, and hike around snow covered bits. We also hiked in many snowy sections, some of them were a bit scary.
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-B-dDEY4CO5s/Vdl3_QHW_QI/AAAAAAAFjXo/uAJgBCkCW9o/s640/IMG_3005.JPG" caption="With Signal and Harmonic Wave up on Muir Pass" %}
 
 From the top, we saw a big frozen lake, the trail was supposed to pass along. The way down to the lake was not steep, but it was even more snow covered. And it was late enough that we post-holed most of the way. We dashed from icy cold slushy snow to small boulder fields, following Idan's lead and his GPS. Finally we reached the lake and found the trail along its banks.

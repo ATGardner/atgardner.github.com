@@ -17,5 +17,5 @@ blogger_orig_url: http://pct14.blogspot.com/2014/02/canada-permits-are-here.html
 Just wanted to share that I got my permits to enter Canada on the PCT last night. So that's good. Still waiting for the Long Distance Hiker permits from the [PCTA](http://www.pcta.org/discover-the-trail/permits/). But it's all good - I have time.
 
 I also got two nice stickers and another PCT map (I got my first with the PCTA registration), so now I have an extra map to bring to my parents, so they can follow up on my progress easily.
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-CWke26rlJzo/UyAcQMlR6NI/AAAAAAADJ60/vmFRLy7Njvc/s1600/2014-02-28+11.26.33.jpg" caption="" %}

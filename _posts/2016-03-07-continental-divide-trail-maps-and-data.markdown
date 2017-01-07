@@ -27,7 +27,7 @@ blogger_orig_url: http://pct14.blogspot.com/2016/03/continental-divide-trail-map
 
 [
  <img border="0" src="https://4.bp.blogspot.com/-FK7dlDg9rEI/Vt1HFBMSY0I/AAAAAAAFq3w/vt8f-u89Vug/s1600/cdt.png"/>
-](https://4.bp.blogspot.com/-FK7dlDg9rEI/Vt1HFBMSY0I/AAAAAAAFq3w/vt8f-u89Vug/s1600/cdt.png) 
+](https://4.bp.blogspot.com/-FK7dlDg9rEI/Vt1HFBMSY0I/AAAAAAAFq3w/vt8f-u89Vug/s1600/cdt.png)
 I had used several sources for my files -
 
  <ul>
@@ -47,7 +47,7 @@ I have made a separate file for each state, to
  make it easier to use on mobile apps - [New Mexico](https://drive.google.com/open?id=0B_DXc1YJDxkHZVdWSmpCbDR3X28),
  [Colorado](https://drive.google.com/open?id=0B_DXc1YJDxkHRGxNOFNEQU00elE), [Wyoming](https://drive.google.com/open?id=0B_DXc1YJDxkHblB4WFJHbUVwa28)
  and [Montana](https://drive.google.com/open?id=0B_DXc1YJDxkHRFJocWxpa3JCZDA). I have also created a single file for
- the [whole trail](https://drive.google.com/open?id=0B_DXc1YJDxkHRWZKUW1FcEdrMW8). 
+ the [whole trail](https://drive.google.com/open?id=0B_DXc1YJDxkHRWZKUW1FcEdrMW8).
 
 I have also kept
  separate files for every state/source/layer combination, so you can also mix and match anything you'd like, from my
@@ -61,7 +61,7 @@ I have also used my
  Android).
 
  <div id="map-cdt">
- 
+
 This map shows the trail layer (with alternates), using the same map tile data I used for creating the offline
  files, so you can zoom in and out, and see what you will get on your Android phone. The main difference is that the
  offline files contain only the trail corridor, to keep the file size manageable.
@@ -72,10 +72,10 @@ This map shows the trail layer (with alternates), using the same map tile data I
  reports found there while hiking the trail. Visit the [Water
  Report](http://continentaldividetrail.org/water-report/) page for up-to-date information.
 
- <h3> Here are the files:</h3>[BCNav](https://storage.googleapis.com/atgardner/CDT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20BCNav.zip) (842MB) 
-[Orux](https://storage.googleapis.com/atgardner/CDT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20MBTiles.zip) (877MB) 
+ <h3> Here are the files:</h3>[BCNav](https://storage.googleapis.com/atgardner/CDT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20BCNav.zip) (842MB)
+[Orux](https://storage.googleapis.com/atgardner/CDT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20MBTiles.zip) (877MB)
 A detailed walk-through on how
  to use these files with Backcountry Navigator or Orux Maps can be found [here](http://pct14.blogspot.co.il/p/offline-maps.html).
- 
+
 
 Share and enjoy!

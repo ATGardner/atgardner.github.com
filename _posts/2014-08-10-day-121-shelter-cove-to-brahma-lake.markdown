@@ -45,15 +45,15 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-121-shelter-cove-to-brah
  the tent.
  Numbers, Forest and all of Smiley's group also got here. But I'm holed up in my tent, as the rain
  drops outside.
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-pfabYneGyx0/U-zOSL0hajI/AAAAAAADRyI/RxbJW92oV1Q/1408027980310.jpg cursor: pointer;" caption=" The remains of my still liner. More hike than silk" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-MCgojxEHsoY/U-zP37ggNfI/AAAAAAADRys/Tgk7Z2VW0hE/1408028034005.jpg cursor: pointer;" caption=" Charleston Lake" %}
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-AdzMHQ5w1KM/U-zQLyszUpI/AAAAAAADRy4/QoBm62lNzYk/1408028056785.jpg cursor: pointer;" caption=" Hiking through burnt forest" %}
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-ICGaGTAWpJA/U-zQh8x7CeI/AAAAAAADRzI/So0GNHJdirk/1408028097827.jpg cursor: pointer;" caption=" Really old trail markets" %}
 

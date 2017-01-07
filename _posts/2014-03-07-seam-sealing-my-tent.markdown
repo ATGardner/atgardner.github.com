@@ -25,7 +25,7 @@ The Seam Grip was mostly dry already, but I managed to squeeze a bit into a plas
 Back at the house, I tried with some more mostly dry Seam Grip, and the pain thinner. No luck - still had a plastic cup with some thinner, and Seam Grip chunks floating about. It was getting late on Friday noon, and I figured the hardware store is closed by now. I was thinking about hitting the trail with my tent as it is, pushing through the first two weeks, and then getting someone to help me seam seal it at the Kick Off. Seemed like a passable plan.
 
 Then I figured I'd give it another try, and headed to the store again. It was still open, and I said nothing about the earlier mistake in the bill, and bought a new tube of clear silicone gel. This time everything worked as planned - the silicone dissolved in the thinner, and I used the brush along the seams, with a paper towel to try and push the silicone inside them. I hope the paper towel didn't absorb too much of the solution, and left enough on the seam itself.
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-wJwnaZMwLKw/UyAbSQp7hKI/AAAAAAADJ6I/a8qJH6KGL4w/s1600/2014-03-07+14.47.32.jpg" caption="The &quot;after&quot; photo. Told you it's going to appear almost the same." %}
 
 Well, the tent is still there, drying. I plan on passing through there and pack it up on my way to the Israeli Kick Off meeting that is planned for today. I just hope the seams are sealed properly.

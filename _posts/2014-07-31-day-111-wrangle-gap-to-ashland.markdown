@@ -53,12 +53,12 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-111-wrangle-gap-to-ashla
  We had a bit of trouble finding where Roi and Sarah were waiting for us. But we got there at the end,
  and I are another veggie burger. It was home made, but small and pricey. It was still s very nice evening.
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-5XP6Xvo0Ds0/U91tbr159QI/AAAAAAADQ8U/-ROGXED6Lkk/1407020131648.jpg cursor: pointer;" caption=" Forest fire from yesterday's storm" %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-KtIBRF7KoHw/U91td0eEZZI/AAAAAAADQ8c/OdYKGdnSrGM/1407020142321.jpg cursor: pointer;" caption=" Just a typical trail in the woods" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-Ubcy5aGY6gQ/U91tgMPKXjI/AAAAAAADQ8k/QrevUXBWt2k/1407020163136.jpg cursor: pointer;" caption=" Great trail magic just before Ashland" %}
 

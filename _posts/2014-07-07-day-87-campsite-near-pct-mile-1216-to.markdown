@@ -36,7 +36,7 @@ Yogi's book had a quote from Scott
  Williamson about Adler Spring being 0.5 miles after that first road crossing (at 1235.5). The mileage is wrong, and
  it's closer to 1237.5. Just FYI.
 
- 
+
 {% include image.html src="https://1.bp.blogspot.com/-88JTMlwXMKk/VHq9jLkVchI/AAAAAAAFqfE/sG14QtObjTc2uEiK8fTaupqCmVxJQEnHA/s640/2014-07-07%2B17.25.28.jpg" caption="The attacking Grouse" %}
 
  At the spring we filled up for dry camping, then headed out to find a good camp spot. I got attacked by a grouse, or
@@ -45,7 +45,7 @@ Yogi's book had a quote from Scott
 We had a hard time finding a flat area to camp, in this dense forest. But
  we found something. So I hope we will sleep well tonight.
 
- 
+
 {% include image.html src="https://2.bp.blogspot.com/-ROJGAF6oMfg/VHq9oUzEoyI/AAAAAAAFqfI/cZlMK9k89zgv_IOrPOincZbOFIpmXcbXQ/s640/2014-07-07%2B19.30.52.jpg" caption="Our tight campsite for the night" %}
 
- 
+

@@ -29,7 +29,7 @@ I woke up early, at 6:00. I had to use my phone as an alarm clock, which menu I 
  night in the toilets. Bummer. I packed up quickly, and was out before 7:00. First time I was leaving camp first,
  before anyone else. Wolf, Puss in Boots and Grock were still asleep.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-uNpPwEEF-s4/VT8zD5EnFNI/AAAAAAAFdNo/_TstZt39KsY/s1600/2014-08-04%2B09.20.29.jpg" caption="Canal near Grizzly Creek" %}
 
  I made good time today. Reaching the water source after 12 miles before 11:00. The trail in Oregon is easier, so
@@ -44,13 +44,13 @@ My plan was to hike 30 miles to the highway, and then 2 more into Fish Lake reso
  Swig and Frank told me they were going to hike it anyway, since there is no closure, or any fire danger, just maybe
  some smoke in that area. So I decided I'll do the same, and just camp at the creek by the road tonight.
 
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-z28E-uCk3EE/VT8zD-9Gs3I/AAAAAAAFdNs/l7uouryOq_M/s1600/2014-08-04%2B15.24.37.jpg" caption="Having a short break before finishing the day" %}
 
  I headed out of the shelter at 14:15, leaving Frank to take a nap. The remaining 10 miles were also mostly easy,
  though there were plenty of lava fields along the way.
 
- 
+
 {% include image.html src="http://4.bp.blogspot.com/-kJJbMdyEuWg/VT8zD6HZuEI/AAAAAAAFdN0/Clu0qZhGFtA/s1600/2014-08-04%2B16.06.04.jpg" caption="The trail crossed a lava rock scramble" %}
 
  I got here before 18:00, and met a lot of hikers hanging around. Moonshine and Sideways were filling up water and

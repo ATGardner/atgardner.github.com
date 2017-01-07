@@ -45,15 +45,15 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-128-trooper-spring-to-se
  I have cooked dinner, though I'm not
  really hungry. I figured that if I can eat it, I might as well. I can use the calories. So here it goes...
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-VMGz4amFyGI/U_aqpOUfR1I/AAAAAAADSVU/FIrkivkpwNE/1408672673748.jpg cursor: pointer;" caption=" Just nice leaves colors" %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-frmnjMEGvUE/U_arA9pzwrI/AAAAAAADSVc/uF9A8Nu4bx8/1408672706500.jpg cursor: pointer;" caption=" Copper Tone's trail magic" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-KlXaB_GOzSI/U_arXOkLQQI/AAAAAAADSVk/rydqp0-wjAU/1408672757072.jpg cursor: pointer;" caption=" The 55th Cascadia's trail magic" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-KgcKJiRxq04/U_asLL_9cOI/AAAAAAADSVw/sxF89GR317M/1408672794574.jpg cursor: pointer;" caption=" ... And Indian food" %}
 

@@ -41,9 +41,9 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-146-lemah-meadow-to-camp
  Buster came from the alternate, which means they did a bit less than us. What really surprised us was that
  Seamstress did _hike_ the official pct, and did about 35 miles today. Crazy.
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-kVHurvwaobQ/VBZeqWuvRnI/AAAAAAADT2k/M5c0tJHFqqc/1000567.jpg cursor: pointer;" caption=" Cathedral Rock" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-p9vHZJI043g/VBZhK2i-iHI/AAAAAAADT24/KIzRUDGUtKM/1410751345131.jpg cursor: pointer;" caption=" Creek fording. We remained dry." %}
 

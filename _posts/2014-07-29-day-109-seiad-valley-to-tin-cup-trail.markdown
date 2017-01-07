@@ -35,7 +35,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-109-seiad-valley-to-tin-
 
  From there it was an easy trail to our daily destination. We got to Cook &amp; Green Pass Spring and found a bunch
  of hikers resting the heat out in the shade. We met Thor The Hiking Viking and Fern Toe. We haven't seen them since
- before Lake Isabella 
+ before Lake Isabella
  We went to refill our bottles at the trickle, and decided to push on for 6 more miles,
  since it was way too early, at 15:30.
  We figured most hikers getting out of that shady spot will try to reach
@@ -51,9 +51,9 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-109-seiad-valley-to-tin-
  between Idan and me now, but I'm happy they seem quite normal. We still joke the same way during stops, and have had
  some normal conversations while hiking.
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-lqjfPZvLcTY/U91r57QmqzI/AAAAAAADQ70/epj30CiH1Bs/1407019899620.jpg cursor: pointer;" caption=" The famous pancake challenge is being made. 3 are ready, 2 more are being made." %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-GN5V3Dz3_Cc/U91r7l5ex_I/AAAAAAADQ78/OwJI7yJ8a7w/1407019931143.jpg cursor: pointer;" caption=" View back on Seiad Valley" %}
 

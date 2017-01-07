@@ -29,7 +29,7 @@ We met Blush and Tea Popping
 Idan suddenly recalled a small comment in Yogi's book about hitching into a small town
  called Markleeville, from the same highway. That seemed like a better plan.
 
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-2w-8pSZBmNM/VlcB4Axqf-I/AAAAAAAFo38/rvXK8ceuvvQ/s640/2014-06-26%2B15.24.02.jpg" caption="A bit of trail, after the rain" %}
 
  About mid day the rain stopped. Right after we had our lunch break and I finished all my snacks for the day at once.
@@ -39,7 +39,7 @@ In total we
  other things than the climbs. But after a long day, we finally reached or destination at highway 4 just before
  17:00.
 
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-mHV3RD4V6O8/VlcB4Jp19TI/AAAAAAAFo4A/c5umcs_jwhY/s640/2014-06-26%2B15.28.39.jpg" caption="Nice trees on the trail" %}
 
  The highway seemed deserted, and I was afraid we won't get a hitch. I was trying to fill my water bottle, and
@@ -55,13 +55,13 @@ We also met Neon, who got here earlier today. He is from
  sleep in our room.We got a great room at the nearby "Toll Station", at a great price. Sandie, the owner, did our
  laundry, let us dry our tents in the back and gave us beers.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-yaHM7FKdzvs/VlcIklHITgI/AAAAAAAFo4o/61uG07Ii-x8/s640/2014-06-26%2B19.26.40.jpg" caption="A really nice little motel along the trail" %}
 
  In the room, we managed to get the TV working, by setting the dish remote control to operate it. I suspect it didn't
  work well for a long time now. Right now there's "Django Unchained" on TV, and it's way too late for us hikers to
- still be awake. 
+ still be awake.
 
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-phS4zGvjT34/VlcIlL-FTqI/AAAAAAAFo4s/2qtEEKCd4_0/s640/2014-06-26%2B21.01.36.jpg" caption="Neon and Idan, in our room" %}
 

@@ -34,11 +34,11 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-107-etna-to-marble-valle
  we headed down to the designated campsite. It's flatter here, and the water is nearby. Some dear are hanging around
  close to us. I hope they won't bother during the night.
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-7qPPRIdlKlM/U91qUpMDLDI/AAAAAAADQ7E/HMWp2HyUPWM/1407019530887.jpg cursor: pointer;" caption=" A nice glacial lake" %}
 
- 
 
- 
+
+
 {% include image.html src="https://lh5.googleusercontent.com/-7HpQtp2cEMQ/U91qWGh_m9I/AAAAAAADQ7M/Ng2B5RUzLUs/1407019545425.jpg cursor: pointer;" caption=" Hills, hills and more hills" %}
 

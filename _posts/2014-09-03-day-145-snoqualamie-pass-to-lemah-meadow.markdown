@@ -39,9 +39,9 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-145-snoqualamie-pass-to-
  After a while Sizzler and Banjo came over as well. I thought
  more hikers will come around. Maybe a few took the shorter alternate, that also goes by some hot springs.
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-CTd_ouwEOY0/VBZZBfc65gI/AAAAAAADT0U/u_3OIspXPFU/1410727114289.jpg cursor: pointer;" caption=" Lighthouse and I enjoy the views" %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-30Wa-MWzlbE/VBZZ41WzQeI/AAAAAAADT0c/z3xBAABisw0/1000563.jpg cursor: pointer;" caption=" The bridge is gone. We had to ford through the water." %}
 

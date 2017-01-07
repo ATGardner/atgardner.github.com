@@ -40,18 +40,18 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-139-campsite-near-pct-mi
  ended up getting a small 10oz plastic bottle with whiskey, and bringing me the rest. I think I'll just drop it off
  at Chef &amp; Ghost at breakfast tomorrow.
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-SiEZUA5kVl4/VAXk1B-NsaI/AAAAAAADTEk/kP9qac9uj1M/1409672177306.jpg cursor: pointer;" caption=" Mt St Helen's" %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-1SCI2CBAB5g/VAXk5VBOGoI/AAAAAAADTEs/wKguq_RsUmY/1409672193356.jpg cursor: pointer;" caption=" Mt Rainier" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-yVUjOe7LQj0/VAXlBAPI2lI/AAAAAAADTE0/uvtlE2-9PPk/1409672268681.jpg cursor: pointer;" caption=" The knife's edge" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-YOurszHGLAM/VAXpWkgsQGI/AAAAAAADTF4/2BfHQurv_FY/1409672294168.jpg cursor: pointer;" caption=" I thought it was a bear, at first. It's a marmot" %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-H4Hp30V9xlo/VAXpqT36LOI/AAAAAAADTGM/HP1gWvLXR1c/1409672319990.jpg cursor: pointer;" caption=" A fog covered valley" %}
 

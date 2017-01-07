@@ -69,12 +69,12 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-124-bend-mckenzie-pass-t
  Yum. I then went to the Bend Brewing Company, and had a very late dinner of pretty good hummus and vegetables, and
  fries. The beer was good also.
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-wyvMYbiQEGU/U-zcY2kz6xI/AAAAAAADR0I/9sMoRs-qEU0/1408031694666.jpg cursor: pointer;" caption="Mt Washington" %}
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-_uvqXKsc1o8/U-zckktYdFI/AAAAAAADR0Q/kgU3q2e8kOE/1408031713007.jpg cursor: pointer;" caption="2000 miles" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-5jlWX9K29H4/U-zcutJBIYI/AAAAAAADR0Y/RXOsGPG9qj0/1408031735206.jpg cursor: pointer;" caption="Buck 30, AT class of &nbsp;'02 (and some other trails...)" %}
 

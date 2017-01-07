@@ -40,15 +40,15 @@ The spring here is
  stream, before going into the woods to the campsite. There are 4 section hikers here, going up to White Pass, and
  two going southbound, not sure how far. But there are plenty of camp spots on here, so it's not to crowded.
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-pJ648_GKiwM/VAXZrvCZ7tI/AAAAAAADTDE/srJx0aq-T4U/1409669366871.jpg cursor: pointer;" caption="Mt St Helen's" %}
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-Dny4VfEMNIY/VAXZwOm5edI/AAAAAAADTDM/NQfW8wtrV9M/1409669387870.jpg cursor: pointer;" caption="Mt Hood" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-lbskk9l7zHg/VAXZ439rS2I/AAAAAAADTDU/IQTcupNc7VA/1409669422218.jpg cursor: pointer;" caption="Mt Adams" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-RVytcl_3mbw/VAXaBJfAw0I/AAAAAAADTDc/bVcacCzsRfM/1409669482186.jpg cursor: pointer;" caption="Lava Spring" %}
 

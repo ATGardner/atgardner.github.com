@@ -23,6 +23,6 @@ And here are the pros, in no specific order:
 
 So, back at square one. I suspect I won't declare a final winner until I actually land in San Diego. Maybe even only after I finish my hike (wherever that will be).
 
-_Update:_ 
+_Update:_
 Another great reason:
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/LTiGC7WPacw?list=PLcwsDEfiUSgvDXIxFVxYSIWhcy6tTOR55#t=498" width="560"></iframe>

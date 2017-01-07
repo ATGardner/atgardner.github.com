@@ -17,14 +17,14 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-84-truckee-to-meadow-lak
  cream cheese from the fridge, but I did not take the Ben &amp; Jerri's I bought yesterday. I hope out will be put to
  good use.
 
- 
+
 {% include image.html src="https://3.bp.blogspot.com/-HdbaENA8Y4E/VHw8PcrjY6I/AAAAAAAFajQ/5YyaaRgBXvY/s640/2014-07-04%2B09.11.50.jpg" caption="View from Donner Pass towards Donner Lake" %}
 
  Greg took us up to the trail, back on highway 40, at about 9:00. We said farewell, and headed to the trail. We had
  less than 4 miles between highway 40 and interstate 80, and we covered it quite quickly. After crossing under the
  interstate we stopped for our first break, which lasted a bit longer than usual.
 
- 
+
 {% include image.html src="https://3.bp.blogspot.com/-738_k6Dn98I/VHw8YdpzItI/AAAAAAAFajQ/Xxlc97x96Mw/s640/2014-07-04%2B09.19.56.jpg" caption="And towards the old railway tunnel" %}
 
  We saw many day hikers climbing along the trail, mostly heading up to the Donner Lake Rim Trail, I guess. Maybe to
@@ -36,7 +36,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-84-truckee-to-meadow-lak
  Appalachian Trail like shelter, but it was a big, enclosed, hut, with two floors. It seemed like a very nice place
  to stop.
 
- 
+
 {% include image.html src="https://3.bp.blogspot.com/-QCp0InGpbMc/VHq78AM1zJI/AAAAAAAFYBM/rL2HFJPniAw/s640/2014-07-04%2B15.16.26.jpg" caption="Just an interesting tree stump, shaped like a foot" %}
 
  We met Chop Chop, Sugar and Prospector there, for the first time. They just left when we came, and I had my lunch,

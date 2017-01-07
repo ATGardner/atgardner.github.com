@@ -24,7 +24,7 @@ The best "trick" I added, was the first column - changing the value from TRUE wo
 
 There are several small bugs, and I hope to improve it a bit more. But feel free to create a copy in your own Google Drive accounts, or just download it as an xlsx (Microsoft Excel) file, to play with, and plan your own hike.
 
-[PCT Planner Spreadsheet](http://goo.gl/qdrKVH) 
+[PCT Planner Spreadsheet](http://goo.gl/qdrKVH)
 
 {% include image.html src='http://3.bp.blogspot.com/-kYNKEn6kSzY/Ur092zhPbRI/AAAAAAADHMM/EO0YB_tVkGI/s1600/2013-12-26+19.50.24.jpg' caption="Caldera Keg (with a spare keg), fuel bottle, spork and lighter, and the meal I'm going to eat xxx" %}
 

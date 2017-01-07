@@ -21,14 +21,14 @@ A short walk from our camp we had our first Ford of the
  day. Surprisingly, we managed to get across with some rock hopping. A while later, we had to ford across the
  Stubblefield, that was a bit harder, and I got one foot wet.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-UEDwAyNXgPo/Vj82LsZ_7kI/AAAAAAAFomU/r9TMLatfG8M/s640/2014-06-23%2B11.36.01.jpg" caption="I think that's Bailey Ridge" %}
 
  We were both in dread of fording the Falls Creek later in the afternoon. Yogi's book had one hiker telling of 9 feet
  deep cold water we'd might have to swim. At the end the water were no deeper than our ankles, and we just waded
  across barefoot. It was easy and quick.
 
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-VJ9eUjAt1Lc/Vj82L2YIDgI/AAAAAAAFomY/2DXDRkqVA1I/s640/2014-06-23%2B12.32.34.jpg" caption="Signal is crossing Falls Creek. We were worried we'd need to swim across..." %}
 
  In between we had many short and long climbs and short and long descents. The trail was hard and dull. and full of
@@ -37,7 +37,7 @@ We caught up to Smuggles, Lighthouse and Heat Wave. They also plan to get into B
  just for a quick resupply and then head out on the same day. We also met Joey again, who heads straight to
  Tahoe.
 
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-zOhvoa7-vQk/Vj82L2kOq5I/AAAAAAAFomc/QuYtb3n2EIw/s640/2014-06-23%2B16.46.19.jpg" caption="Dorothy Lake" %}
 
  After climbing to Dorothy Lake Pass, we finally started our final descent. We were aiming for the bridge near the

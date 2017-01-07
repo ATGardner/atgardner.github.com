@@ -20,11 +20,11 @@ Before we got to 3rd Gate Water Cache (near PCT mile 91), we stopped by the Barr
 {% include image.html src="http://4.bp.blogspot.com/-2Sp3zMw6-Zg/U0h64Apu-CI/AAAAAAADKm8/SQIVvmqv3Z4/s1600/2014-04-11+09.26.03.jpg" caption="Barrel Spring" %}
 
 From there, we continued along with Lawrence to the 3rd Gate cache, and filled it up with more water. We also carried away the empty bottles and cardboard boxes. It felt nice to take care of the cache, and I can't wait to actually get there on the trail, so I can view the work done there in a different light, now that I know what it takes to maintain a cache (well - I got a small taste of it, at least)
- 
+
 {% include image.html src="http://2.bp.blogspot.com/-J0NoSWKJ3QY/U0h664eGU5I/AAAAAAADKnE/8N4A8VwARP8/s1600/2014-04-11+10.32.07.jpg" caption="The re-stocked 3rd Gate water cache" %}
 
 Next, we went up the side trail from the cache, back to the PCT. It's a small 5 minute hike. There is a register at the trail junction that Jan wanted to check, and the wooden "Water" sign was mysteriously broken, so Lawrence fixed it with some nails. Everything looks good now.
- 
+
 {% include image.html src="http://4.bp.blogspot.com/-DAaa8tHDjr8/U0h68VAAPfI/AAAAAAADKnM/hrDtz6Bwx-0/s1600/2014-04-11+10.39.52.jpg" caption="Climbing up towards the PCT, from 3rd Gate water cache" %}
 
 We went on, southbound on the PCT, for about a mile. One northbound hiker past us along the way. We were looking for an old "water" sign laying in the dirt, near a washed out road which no longer led to any water source. We couldn't find that sign near the junction, but Lawrence and I went down the washed out old jeep road back to the "main" dirt road to meet up with Jan and Jim at their car. It was a nice little hike.

@@ -27,7 +27,7 @@ blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-69681939466543279
 blogger_orig_url: http://pct14.blogspot.com/2014/12/my-post-hike-gear-review-pt-3-misc.html
 ---
 
-([My complete gear list](http://pct14.blogspot.co.il/p/blog-page.html)) 
+([My complete gear list](http://pct14.blogspot.co.il/p/blog-page.html))
 <h4>_
  Trekking Poles - [Gossamer
  Gear LT4s](http://gossamergear.com/trekking/lt4-trekking-poles-all.html)/[Leki Quantum](http://shop.leki.com/en/product.php?product_id=56145) _
@@ -35,7 +35,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/12/my-post-hike-gear-review-pt-
  light indeed. I was worried that the lack of shock absorbing will bother me, but I quickly got used to them, and
  they've been very useful on the trail.
 
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-f57IbxcwxIs/VJQ97ZpEj1I/AAAAAAAFPdo/ylZurHfUKTU/s1600/2014-06-02%2B06.59.56.jpg" caption="They did work, for a good 2/3 of the trail" %}
 
  The biggest problem I had with the poles was theie locking mechanism. It seems simple enough, and it almost never
@@ -58,7 +58,7 @@ Coming out of Lone
  (Mile 2155). Coming down into Cascade Locks on the Eagle Creek (steep) alternate, I finally snapped my pole again.
  No GG poles for me in Washington!
 
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-sPimn976tYg/VJQ-KgEcD2I/AAAAAAAFPeA/n1ArQ80Wm8M/s1600/2014-08-05%2B12.45.20.jpg" caption="But then they snapped. Notice two broken sections, out of the four." %}
 
  I left the one intact pole section I still had at the Cascade Locks Post Office (I hope someone found it useful),
@@ -91,7 +91,7 @@ At the end,
  got the 0.6l Pot instead. I was afraid it won't be enough for me, and Trail Designs replaced it for me without a
  problem. In retrospect, I think the 0.6l one would have been enough as well.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-Z5jZU1eQg6k/VJRFHu0aMII/AAAAAAAFPl0/Fd-s8DMTS4Y/s1600/2014-08-06%2B18.43.35.jpg" caption="Stove&nbsp;+ Pot&nbsp;+ broken GG poles. The best method to get the tips off." %}
 
  The pot can easily fit a small gas canister, including my LiteMax stove and a small lighter. It held enough water
@@ -152,7 +152,7 @@ As the hike went on, and I got complacent, I slowly started skipping the
  light and airy, with an actual hole at the palm of my hand, and cut-off fingers. They were very comfortable, and
  lasted almost half way up to South Lake Tahoe (mile 1093).
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-n_8_mxbNM6w/VJv1CfXh8gI/AAAAAAAFR5k/krSPu0vgEOw/s1600/2014-07-01%2B10.55.49.jpg" caption="Old vs. New" %}
 
  [In Lake of the Sky Outfitters](https://www.facebook.com/lakeofthesky) I bought a new

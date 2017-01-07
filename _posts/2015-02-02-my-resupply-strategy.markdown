@@ -27,7 +27,7 @@ So, here is a list
  of places I bought food in bulk, and mailed it to myself further up the trail:
 
 
- 
+
 {% include image.html src="https://1.bp.blogspot.com/-j-tA_dMTTJs/VM9nytSNUcI/AAAAAAAFYyo/_2GLghIUZCA/s1600/2014-04-10%2B15.50.14.jpg" caption="My Bounce Box, and first package to Ziggy and The Bear" %}
 
  <h4> San Diego</h4>In San Diego I bought some food, and sent it ahead to [Warner

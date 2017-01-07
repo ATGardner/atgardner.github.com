@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Days 42-43 - zeroing in Lake Isabella 
+title: Days 42-43 - zeroing in Lake Isabella
 date: '2014-05-24T08:55:00.000-07:00'
 author: Noam Gal
 tags:

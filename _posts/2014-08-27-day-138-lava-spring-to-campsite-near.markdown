@@ -44,21 +44,21 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-138-lava-spring-to-camps
  outside on the meadow to enjoy the sun and the view on Mt Adams. I am also sitting here, cooking my dinner in the
  nice view.
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-PvZMAHnPyfg/VAXb-BOZrSI/AAAAAAADTDo/edq8HKFCUEs/1409669717566.jpg cursor: pointer;" caption=" Ray, Allan, Joanne and Warren" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/--CyBK3gkYeA/VAXcItT-oMI/AAAAAAADTDw/qfCBhNzo-2k/1409669739384.jpg cursor: pointer;" caption=" Where, indeed?" %}
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-Nxuej9XE9hM/VAXcmHb1oGI/AAAAAAADTD4/5MTdgwpZ-_k/1409669819749.jpg cursor: pointer;" caption=" Climbing up to the first pass" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-2Gj3MKCQaU0/VAXc2Ht6ilI/AAAAAAADTEA/aQzHyvnl1Fc/1409669876871.jpg cursor: pointer;" caption=" Nice lava formations, reminds me of The Devil's Postpile" %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-rCqldFRDGGI/VAXdHapmDAI/AAAAAAADTEI/XMLpsTachoQ/1409669897555.jpg cursor: pointer;" caption=" Just another valley" %}
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-mEqaCNf_5lY/VAXdUuBQckI/AAAAAAADTEQ/S96FyetGsgw/1409669960393.jpg cursor: pointer;" caption=" Mt Adams from tonight's campsite" %}
 

@@ -26,6 +26,6 @@ After dinner I tasted some strengthen wine, I
  think it was called Marcella, And retired to sleep early for a change. Tomorrow it should clear up a bit. Just in
  time for my hike onwards.
 
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-eEkDu0XHXtc/VZTsn-9qNfI/AAAAAAAFhZg/Dyfefpd51x8/s640/2014-09-02%2B17.23.40.jpg" caption="Onyx. Such a cute cat" %}
 

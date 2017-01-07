@@ -48,15 +48,15 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-120-campsite-near-wa1886
  [
  <img src="https://lh3.googleusercontent.com/-E6nxnw8aRXQ/U-w3LOEKs8I/AAAAAAADRvw/rMlGVk9nQ2M/1407988457365.jpg cursor: pointer;"
  width="320px"/> ](https://lh3.googleusercontent.com/-E6nxnw8aRXQ/U-w3LOEKs8I/AAAAAAADRvw/rMlGVk9nQ2M/1407988457365.jpg)
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-D4MT_g6R_as/U-w3Q0y9GrI/AAAAAAADRv4/UC40ajiGpz4/1407989025204.jpg cursor: pointer;" caption=" Nice creek at mile 1902" %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-xhYk_QDFSEU/U-w3WOF8bkI/AAAAAAADRwM/0lK4aBCa474/1407989085639.jpg cursor: pointer;" caption=" Dinner" %}
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-WvZYGPqQEPQ/U-w3buKYRvI/AAAAAAADRwU/Zj0fxSbVebE/1407989421588.jpg cursor: pointer;" caption=" Lighthouse, Ready to hear out for a few more miles" %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-RlT-t1M1Z7c/U-w3hhcaJzI/AAAAAAADRwc/Fyq87ulyGGA/1407989485603.jpg cursor: pointer;" caption=" Thor, Moonshine &amp; Sideways and Forest" %}
 

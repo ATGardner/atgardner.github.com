@@ -13,7 +13,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-82-dicks-lake-to-campsit
 
 It was a longer day than we first thought.
 
- 
+
 {% include image.html src="https://3.bp.blogspot.com/-P4MphzkS6zE/VHw6T_oFuII/AAAAAAAFajQ/gbTNlmvJgTE/s640/2014-07-02%2B07.57.05.jpg" caption="Passing by Middle Velma Lake" %}
 
  The trail was the usual rolling self. Some ups and downs. We kept leap frogging a couple we've seen many times now,
@@ -45,12 +45,12 @@ Janet, the friend on the phone,
  her phone number, and gave her ours. We are going into Truckee tomorrow evening.
 [ <img border="0" height="480"
  src="https://1.bp.blogspot.com/-sn_rNm5jQGU/VHw6ch_9RzI/AAAAAAAFajQ/iMMV28wkbmw/s640/2014-07-02%2B17.55.47.jpg"
- width="640"/> ](https://1.bp.blogspot.com/-sn_rNm5jQGU/VHw6ch_9RzI/AAAAAAAFajQ/iMMV28wkbmw/s1600/2014-07-02%2B17.55.47.jpg) 
+ width="640"/> ](https://1.bp.blogspot.com/-sn_rNm5jQGU/VHw6ch_9RzI/AAAAAAAFajQ/iMMV28wkbmw/s1600/2014-07-02%2B17.55.47.jpg)
 We still had some miles to cover, now with the added goal of
  making tomorrow's hike into Truckee a bit shorter. After passing our intended campsite, and filling up water for dry
  camping, we walked about 4 more miles, and found a spot for our tents. Is not the most level tent site I've had, but
  it will work for tonight.
 
- 
+
 {% include image.html src="https://2.bp.blogspot.com/-h0lBi3ESo_c/VHw61UGUWiI/AAAAAAAFajQ/VSAENxu9WGA/s640/2014-07-02%2B18.04.21.jpg" caption="Lake Tahoe at the distant horizon" %}
 

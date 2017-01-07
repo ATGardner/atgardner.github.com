@@ -31,7 +31,7 @@ I started making lists in my head, about all the different miles I had
  all the trail miles I haven't walked, with the reasons/excuses I gave myself every time. Some are better than
  others.
 
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-OE5Lj81M6jA/VJxN7QrNnhI/AAAAAAAFR50/U2bKfwNft5c/s1600/2014-04-22%2B08.02.24.jpg" caption="I got up all the way to the closure" %}
 
  _ [162.64-178.00
@@ -65,7 +65,7 @@ When we got to the road crossing right before the official
  success, as we were trying to hitch on that deserted road for ever, and nobody stopped for us. Finally, as the sun
  went down, we made camp at the rest area over there, and crashed.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-fv0kSTlBVHE/VKDpGXt-pxI/AAAAAAAFSG0/G46rSD5zMOM/s1600/CAM00826.jpg" caption="4 happy hikers, after cheating the trail a bit" %}
 
  The next morning, we wanted to at least get a ride to the end of the closure (thus skipping both the official, 1 day
@@ -83,7 +83,7 @@ _ [454.50-456.65
  missed any special sights on that road walk, and I was already in a "whatever" kind mood about being a purist or
  even completing the trail. So - "whatever".
 
- 
+
 {% include image.html src="http://4.bp.blogspot.com/-JNK5BR_WXkk/VJxPABcUv0I/AAAAAAAFR58/F2RaMl3mePs/s1600/2014-05-15%2B11.52.43.jpg" caption="A schematic map of the Powerhouse Fire Detour" %}
 
  _ [478.23-517.59
@@ -93,7 +93,7 @@ _ [454.50-456.65
  long, 20.3 mile, walk (or a 19.2 mile walk to Pine Canyon Road, and another 6.64 back on the PCT, up to Highway
  138). So we just skipped it.
 
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-SujLLsn_dns/VJxT-bBm7YI/AAAAAAAFR6I/LnP1in9KnEM/s1600/2014-05-15%2B15.26.19.jpg" caption="Hitching a ride into Hiker Town" %}
 
  _ [558.51-566.44
@@ -106,14 +106,14 @@ _ [454.50-456.65
  left the PCT and headed up towards Whitney on one trail, and then later got back to the PCT while hiking the the JMT
  from Whitney, which was a tiny bit further north on trail. I don't really consider this to be much of a skip.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-OeF91raEg2g/VJxWpQlnv2I/AAAAAAAFR6Y/5Luhc-CEgTI/s1600/2014-06-04%2B12.24.51.jpg" caption="View back towards Bullfrog Lake, from Kearsarge Pass" %}
 
  _ [788.47-789.08
  (Bullfrog Lake Trail to Onion Valley Trail)](http://pct14.blogspot.com/2014/06/day-56-lone-pine-to-cs790.html) _ - Another tiny bit. We hiked out towards Kearsarge Pass and
  into Lone Pine on one trail and got back on another one, thus skipping another 0.5 of PCT.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-SZhX37PxZgc/VJz56P_TuqI/AAAAAAAFR68/xyXWI-a5qWI/s1600/2014-06-16%2B15.09.43.jpg" caption="The Devil's Postpile" %}
 
  _ [907.24-909.02 (Devils
@@ -130,7 +130,7 @@ _ [940.84-942.50 (Tuolumne
  up the JMT with Yair, we cut over to the Tuolumne Meadows campground when we reached the intersection. Two days
  later, when we took the bus up from the valley, and back to the store, we kept on hiking from the highway.
 
- 
+
 {% include image.html src="http://4.bp.blogspot.com/-wrbM2Blm-JY/VJz6N5fTijI/AAAAAAAFR7E/8-7gO0DHFXE/s1600/2014-08-07%2B10.30.18-PANO.jpg" caption="I think it was worth the detour..." %}
 
  _ [1831.54-1843.62
@@ -139,7 +139,7 @@ _ [940.84-942.50 (Tuolumne
  detour, and further up the trail, take into consideration hiking on the Rim Trail, and not hiking on the official,
  equestrian trail.
 
- 
+
 {% include image.html src="http://1.bp.blogspot.com/-nK_2KMhl1HY/VJz7WDe0f1I/AAAAAAAFR7Q/vaohxU2PIQQ/s1600/2014-08-19%2B08.55.55.jpg" caption="This wasn't that impressive, in my opinion. I kinda reminded me of Amicalola Falls,
  near the start of the AT.
  " %}
@@ -150,7 +150,7 @@ _ [940.84-942.50 (Tuolumne
  figured that since I'm going to hike the Eagle Creek Alternate on the following day, I can be just as "unpure" on
  this day, and see some more nice falls. I wasn't too impressed with the falls, at the end.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-PJCOOPd0W2s/VJz8GOkkoYI/AAAAAAAFR7Y/o1F7BLxqDpc/s1600/2014-08-20%2B08.17.31.jpg" caption="And the famous Tunnel Falls" %}
 
  _ [2138.06-2154.70 (Eagle

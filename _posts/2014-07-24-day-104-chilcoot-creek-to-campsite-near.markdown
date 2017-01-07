@@ -32,6 +32,6 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-104-chilcoot-creek-to-ca
  we arrived at the seasonal stream we were aiming at, the water were not too good. We managed to get a bit for now,
  but we hope the close by stream we'll pass tomorrow morning will have a better flow.
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-1c1z2ZihjFo/U90MixiLkCI/AAAAAAADQ6U/5CCV8M7a_Zo/1406995467151.jpg cursor: pointer;" caption=" Nice views" %}
 

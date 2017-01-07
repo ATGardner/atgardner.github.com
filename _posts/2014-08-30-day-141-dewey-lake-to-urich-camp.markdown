@@ -42,9 +42,9 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-141-dewey-lake-to-urich-
  sat on the porch outside for a while, talked and saw some elk in the fog. Now, back up at the loft, we are being
  slowly cooked. I hope we will survive the night here. It's very dry and hot inside.
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-IzDlxuIpArk/VAX7oYPQwYI/AAAAAAADTQk/s4NOftVuMMY/1409673782271.jpg cursor: pointer;" caption=" The great views we had today" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-muCu3dQvx2o/VAX75dIzVaI/AAAAAAADTQ4/H4zJDYVGpq4/1409673804757.jpg cursor: pointer;" caption=" Just another mushroom" %}
 

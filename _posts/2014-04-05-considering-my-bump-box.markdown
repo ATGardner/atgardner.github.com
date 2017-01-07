@@ -18,7 +18,7 @@ What's a bump box?
 A bump box is basically a package a hiker sends to himself, to a town a bit up the trail. Once he reaches that location, he opens the box, gets some needed gear from it, puts in some gear he might not be needing in the near future, and bumps it again to another post office further up the trail. The trick is that if the hiker never opens the package, and it was sent as Express Mail, he can bump it ahead for free (I'm sure there is some fine print regarding this, but that's the general idea).
 I expect to open my bump box every time, so I won't be enjoying the tricky bit of the deal, but I do intend to put some stuff in it that I will probably not need in the beginning, and pulling them out as I go along.
 
-So, what will be inside my bump box? 
+So, what will be inside my bump box?
 Well, for a start, most of [Halfmile's Maps](http://www.pctmap.net/) will be there, except for the section I will be currently hiking. At 225 pages, they can get quite heavy for the full set, and completely not needed months in advance.
 
 I will also put in my [Marmot Precip](http://marmot.com/products/details/precip-jacket-new) rain jacket. I bought a [Mountain Hardwear Ghost Whisperer Anorak](http://www.mountainhardwear.com/mens-ghost-whisperer-anorak-OM4625.html?colorID=320), which is about 6 times lighter, and should be enough against some drizzling and windy conditions. I hope I won't get a lot of rain at the beginning, but if I do - I'll get wet. I'll pull out the rain jacket (Which served me well on the AT) further up north.

@@ -30,7 +30,7 @@ We got on the hiker bus down at Yosemite Valley, meeting
  Big Boots and Ido and Maya at the station. The ride took about 2.5 hours, with the driver talking all the time, and
  telling stories about Yosemite and it's history. Some of it was interesting, but it was a bit too much.
 
- 
+
 {% include image.html src="http://3.bp.blogspot.com/-o119QVZv9Ys/VjdpXzlMd0I/AAAAAAAFojE/Z1vmQozEhg4/s640/2014-06-21%2B11.20.48.jpg" caption="Tuolumne Meadows store, this bird was eyeing our food" %}
 
 When we finally got up to the Tuolumne store, there were even more hikers there than last time, three days ago. A trail Angel, I'm sorry I didn't catch her name, kept bringing beers, sodas, muffins, and at some point she brought over stuff for everyone to have a sandwich lunch, with cold cuts and vegetables and cheese.

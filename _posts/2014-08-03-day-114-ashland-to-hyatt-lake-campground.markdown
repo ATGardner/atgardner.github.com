@@ -60,12 +60,12 @@ I wanted to leave my phone
  will set the spark for 6:00. I am going to hike 30 miles tomorrow, to get to the Fish Lake resort, and ask around
  that fire the pcta are warning people about.
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-vQ7DL3rZvmA/U-LK0bY1_II/AAAAAAADQ-M/QfPDeWh_EUk/1407371217964.jpg cursor: pointer;" caption="Heading out, solo" %}
 
- 
+
 {% include image.html src="https://lh5.googleusercontent.com/-ldMkea3q6b4/U-LLKGESw3I/AAAAAAADQ-g/ZkQ4GMWzUGU/1407371239567.jpg cursor: pointer;" caption="Pilot rock, I think" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-9kYifTNjnuk/U-LMr51k8oI/AAAAAAADQ-0/Pzdp4gUVnBs/1407371268375.jpg cursor: pointer;" caption="A dam" %}
 

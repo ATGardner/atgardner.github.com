@@ -20,7 +20,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-81-south-lake-tahoe-to-d
  joined our ride up to the trail with trail Angel Mel. I also bought a new pair of sun gloves, but they are much
  heavier and sturdier than my old pair. I don't really like them as much.
 
- 
+
 {% include image.html src="https://3.bp.blogspot.com/-59oX4z_Rmhw/VHw5xz6jWCI/AAAAAAAFajU/PBdx38ragzY/s640/2014-07-01%2B10.55.49.jpg" caption="Old vs New" %}
 
  Back at the trail head, right after Mel has left, Emu and Mozi came out of the woods. I thought they were ahead of
@@ -30,7 +30,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-81-south-lake-tahoe-to-d
  crossing, at the Echo Lake resort. There were many people around the lake, even as we went further several miles on
  the trail.
 
- 
+
 {% include image.html src="https://4.bp.blogspot.com/--89ecgI08Vo/VHw6Co3e-mI/AAAAAAAFajU/e11C4wuU9rI/s640/2014-07-01%2B14.04.29.jpg" caption="View back towards Upper Echo Lake and Echo Lake" %}
 
  The trail was rather easy most of the day, but after we crossed the last water source, we started climbing up to
@@ -38,7 +38,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-81-south-lake-tahoe-to-d
  to the pass, overlooking Dick's Lake, the trail keeps going up for a short while, on the mountain side, before
  finally starting its descent to the lake.
 
- 
+
 {% include image.html src="https://4.bp.blogspot.com/-Jd5uik37mRo/VHw6Lb6JSoI/AAAAAAAFajQ/WE00stDi3HU/s640/2014-07-01%2B15.28.00.jpg" caption="View across the waters of Lake Aloha" %}
 
  We set up camp just by the lake, and later saw some tents not fat away from us. There are some weekend hikers with

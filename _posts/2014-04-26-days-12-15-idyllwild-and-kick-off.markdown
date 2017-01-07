@@ -17,7 +17,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/04/days-12-15-idyllwild-and-kic
 
 Well, these were some very uneventful days.
 
-On my first day in Idyllwild I went over to a doctor there, and she told me I should just take 600ml of Advil after every meal, and keep my foot iced. She also charged me $65. For the next two days I spent most of my time sitting in my hotel room, occasionally icing my foot, reading stuff on my phone, and sometimes going out for a pizza or a veggie burger. Idan, on the mean time, watched movies and TV series on his phone. 
+On my first day in Idyllwild I went over to a doctor there, and she told me I should just take 600ml of Advil after every meal, and keep my foot iced. She also charged me $65. For the next two days I spent most of my time sitting in my hotel room, occasionally icing my foot, reading stuff on my phone, and sometimes going out for a pizza or a veggie burger. Idan, on the mean time, watched movies and TV series on his phone.
 
 Idan did manage to get us a ride to the ADZPCTKO (Annual Day Zero Pacific Crest Trail Kick Off) with a very nice lady named Kay, who came over and picked us up at the Inn on Thursday evening. She also picked up Cat Dogs from the Inn, and brought over Sunshine from Ziggy and The Bear (a hostel two days North of us). We finally got to the Kick Off campground at Lake Morena at around 21:00, and found our campsite and set our tents.
 

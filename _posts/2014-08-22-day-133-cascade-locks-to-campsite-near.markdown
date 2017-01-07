@@ -54,12 +54,12 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-133-cascade-locks-to-cam
  I was talking about. She hasn't passed here yet, so I assume she stayed where I met her, or maybe at the next
  campsite I passed along the way.
 
- 
+
 {% include image.html src="https://lh4.googleusercontent.com/-fJd0iHQHyus/U_vszl9G62I/AAAAAAADSnU/1jgI89YEvuY/1409006063652.jpg cursor: pointer;" caption=" Starting to cross over to Washington" %}
 
- 
+
 {% include image.html src="https://lh6.googleusercontent.com/-lZ8Ut9wUy2c/U_vtSbCZNCI/AAAAAAADSnc/dJlgsrtdZek/1409006092174.jpg cursor: pointer;" caption=" Are these blackberries?" %}
 
- 
+
 {% include image.html src="https://lh3.googleusercontent.com/-Nmpn0bMCwJg/U_vvrk5dumI/AAAAAAADSns/earhSnPNY_I/1409006128873.jpg cursor: pointer;" caption=" Camping right next to the trail" %}
 

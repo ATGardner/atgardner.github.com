@@ -24,12 +24,12 @@ blogger_orig_url: http://pct14.blogspot.com/2016/05/israel-national-trail-offlin
  2008, and did almost half of it
  (The northern half. The easy half), before quitting. I still hope on finishing my hike someday, either by hiking
  from Eilat to Arad (should take ~3
- weeks), or by doing the whole thing from the beginning again. 
+ weeks), or by doing the whole thing from the beginning again.
 
 [ <img
  border="0"
  src="https://2.bp.blogspot.com/-Y24IqHHaiOc/Vzc9JhCTYiI/AAAAAAAF0kc/6UdcSYDpE046D40HiTCICUT1Kt0A8l6dQCLcB/s1600/int.png"/>
-](https://2.bp.blogspot.com/-Y24IqHHaiOc/Vzc9JhCTYiI/AAAAAAAF0kc/6UdcSYDpE046D40HiTCICUT1Kt0A8l6dQCLcB/s1600/int.png) 
+](https://2.bp.blogspot.com/-Y24IqHHaiOc/Vzc9JhCTYiI/AAAAAAAF0kc/6UdcSYDpE046D40HiTCICUT1Kt0A8l6dQCLcB/s1600/int.png)
 The
  INT is ~1000Km long (~620 miles), and goes from the northern tip of Israel (near Kibbutz Dan), towards the Kinneret
  (Sea of Galilee), westwards to
@@ -39,7 +39,7 @@ The
  and hard stretches without any
  natural water sources, crosses many beautiful areas like the Small, Big and Ramon Craters, and finally reaches the
  southern most city in Israel -
- Eilat, by the Red Sea. 
+ Eilat, by the Red Sea.
 
 A great source of information about the INT can be found in its Wiki page. There's
  a [Trail
@@ -64,10 +64,10 @@ I
  (OSM), and the Hiking Map Rules of the [Israel Hiking
  Map](http://israelhiking.osm.org.il/). I changed the rendering
  rules to use the English place name labels (where available), so that the map will be more useful for hikers from
- abroad. 
+ abroad.
 
  <div id="map-int">
- 
+
 This map sample displays Hebrew labels, and is here to show you the quality of the map before downloading.
  There is an English version of that
  map available to download at the end of this post.
@@ -101,10 +101,10 @@ You can get an updated gpx file of the entire trail
  <li>[Orux](https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%20-%207-15%20-%20MBTiles.zip) (533MB)
  </li>
  </ul>
- 
+
 A detailed walk-through on how to use these files with [Backcountry
  Navigator](http://backcountrynavigator.com/)
  or [Orux Maps](http://www.oruxmaps.com/index_en.html) can be found [here](http://pct14.blogspot.co.il/p/offline-maps.html).
- 
+
 
 Share and enjoy!
