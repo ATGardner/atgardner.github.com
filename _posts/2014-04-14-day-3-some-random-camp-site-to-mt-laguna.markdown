@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 3 -  some random camp site to Mt Laguna
+title: Day 3 - some random camp site to Mt Laguna
 date: '2014-04-14T15:01:00.001-07:00'
 author: Noam Gal
 tags:

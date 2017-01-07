@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 4 -  Mt. Laguna to Sunrise trail campsite
+title: Day 4 - Mt. Laguna to Sunrise trail campsite
 date: '2014-04-15T19:22:00.000-07:00'
 author: Noam Gal
 tags:

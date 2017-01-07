@@ -20,7 +20,7 @@ Last night I learned the hard way that I can't cook the Outdoor Herbivore meal i
 
 Today was the hardest day yet, mostly because of our inability to take a break at noon, _an_d our head strong approach to reach the campsite as soon as possible. Big mistake. The trail was his usual semi-hard self, but the sun was merciless, and we just kept on hiking, and skipped the side trail to what we now discovered was a spring full of shade.
 
-{% include image.html src="http://1.bp.blogspot.com/-XIGTcK3VKiQ/VJmB1llBQyI/AAAAAAAFRXc/WxFB_mOokgY/s1600/2014-04-20%2B11.23.24.jpg" caption="My first rattler. At least, I think it's a rattler. I am sure it is a snake, though.             UPDATE: Just a harmless gopher (Thanks to Mark)         " %}
+{% include image.html src="http://1.bp.blogspot.com/-XIGTcK3VKiQ/VJmB1llBQyI/AAAAAAAFRXc/WxFB_mOokgY/s1600/2014-04-20%2B11.23.24.jpg" caption="My first rattler. At least, I think it's a rattler. I am sure it is a snake, though. UPDATE: Just a harmless gopher (Thanks to Mark) " %}
 
 At least we finally saw a big snake just at that junction to the spring. That was a first for me.
 

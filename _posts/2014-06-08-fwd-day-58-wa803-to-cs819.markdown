@@ -1,0 +1,41 @@
+---
+layout: post
+title: Day 58 - wa803 to cs819
+date: '2014-06-08T20:44:00.000-07:00'
+author: Noam Gal
+tags:
+- Mather Pass
+- Pinchot Pass
+modified_time: '2015-08-09T04:42:22.673-07:00'
+thumbnail: http://2.bp.blogspot.com/-6n9sxodgx_w/U5kiI3T3__I/AAAAAAADNz0/DDQeumMigQc/s72-c/IMG_20140608_092219-773491.jpg
+blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3311127610546016762
+blogger_orig_url: http://pct14.blogspot.com/2014/06/fwd-day-58-wa803-to-cs819.html
+---
+
+We made it.
+
+We got up a bit earlier today, and hit the trail at 6:30. That doesn't happen a lot. The climb up to Pinchot Pass wasn't very hard. There was a section where the trail went behind a hill, and on its north side, before reaching the pass, there was plenty of snow. But apart from that the accent was rather easy, and the switchbacks up to the pass itself weren't too hard either.
+
+The way down on the north side was easy as well. I don't recall anything special about the climb down, so I guess it wasn't special.
+ 
+{% include image.html src="http://2.bp.blogspot.com/-6n9sxodgx_w/U5kiI3T3__I/AAAAAAADNz0/DDQeumMigQc/s640/IMG_20140608_092219-773491.jpg" caption="View from Pinchot Pass" %}
+
+{% include iframe.html src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2s!4v1483825471028!6m8!1m7!1sF%3A-GG86wCQx-Xk%2FVCl4ereWynI%2FAAAAAAADYwk%2F1L4tZCk3ImATrsKIsRjvs7s2OzSshaPAACJkC!2m2!1d36.93651320000001!2d-118.4127971!3f187!4f0!5f0.7820865974627469" %}
+ 
+We still had Mather Pass waiting, about 9 miles away. So we started hiking down the valley. The way down was very nice, except for all the streams we had to cross. Many didn't have rock bridges, and we just had to wet our shoes and feet. And every time we'd get to another such stream just when our socks were starting to dry.
+
+The hardest ford of the day was crossing Kings Creek, at the bottom of the valley. Only Idan never gave up, and found a way to cross it and remain dry.
+
+From there, we started climbing up towards Mather. We made relatively good time (especially in comparison to yesterday), and were nearing the final climb to the pass at 14:00. Like Pinchot, there were several snow fields just before the final climb to the pass, but it was nothing extreme. We did feel how soft the snow will be on the other side, this late in the day.
+
+The final climb was another way one, relatively. And we got to the top at around 15:40. The other side was just as people told us - steep and snowy. We had to find our way down, since the snow trails, while visible, were all through soft snow, which made going through them more dangerous.
+
+Idan used his GPS and led us down through boulder fields, cutting through the snow covered switchbacks, and heading towards the trail at the bottom. It was a bit scary, but eventually we managed to get to an exposed trail below most of the snow, and started following it further down, towards our planned campsite.
+
+{% include iframe.html src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sil!4v1483825925080!6m8!1m7!1sF%3A-ipJx0GoQVUU%2FVCl4elSYttI%2FAAAAAAADYws%2FZDvNczODbwcr-bErMHC9-Dtm1b98AQNPwCJkC!2m2!1d37.0320966!2d-118.4600576!3f81.03417256610432!4f-4.151520567089804!5f0.7820865974627469" %}
+ 
+During the climb down, three other hikers passed us, validating or reputation as the dust eaters of the trail. After some more slow hiking with the occasional snow patch, or shoe wetting stream, we finally made it to our campsite. It seems like a nice spot.
+
+While sitting here, having dinner and getting ready to sleep, 9 more hikers, at least, passed us. I don't know how much further they are going, but they did Mather even later than us. Crazy.
+
+Tonight I might try to sleep with only my base layer. I hope it won't get too cold.
