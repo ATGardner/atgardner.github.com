@@ -30,7 +30,7 @@ I have a [Gossamer Gear Mariposa Plus](http://gossamergear.com/packs/backpacks/m
 
 It can really handle above average loads, for an aspiring (but-not-quite-there-yet) ultra-light hiker such as me. On my INT hike I think I had a rather light total pack weight, cutting down to carry only essentials, and carrying a [Rainbow](http://tarptent.com/rainbow.html) Tarptent. But since then, I went out to several shorter hikes in the desert, where I had to carry up to 8 Liters of water on my back. Picking up the backpack when it was fully loaded was no fun, but it held.
 
-{% include image.html src='http://2.bp.blogspot.com/-DBrz7JZJOcI/UqlypLoGGYI/AAAAAAADG8Q/wKGX3QMBfvo/s400/ind_back_l.jpg' caption='ZPacks Arc Blast Ultralight Backpack' %}
+{% include image.html src="http://2.bp.blogspot.com/-DBrz7JZJOcI/UqlypLoGGYI/AAAAAAADG8Q/wKGX3QMBfvo/s400/ind_back_l.jpg" caption="ZPacks Arc Blast Ultralight Backpack" %}
 
 I figured that after 5 years, it's time for me to find a new backpack, and I was contemplating just ordering the newer Mariposa model, or maybe a Gorilla, but during my recent hike on the Tour du Mont Blanc, with my old backpack, I noticed that I sweat a lot along my back, even when the weather itself was not exceptionally hot. I recalled reading about the [ZPacks Arc Blast](http://zpacks.com/backpacks/arc_blast.shtml), with its outer frame that enables ventilation along the back, and figured I should look into it.
 
@@ -50,7 +50,7 @@ So now I was on the lookout for a new sleeping bag/quilt. Golite didn't have the
 
 So that eliminated GoLite (They just now released a hooded jacket with a water repellent down, so I bet next season more of their product will use it).
 
-{% include image.html src='http://3.bp.blogspot.com/-HlAEXWHG5Vw/UqlzFOLrQDI/AAAAAAADG8Y/pivF9rGTPFo/s1600/green_quilt_bottom_l.jpg' caption='ZPacks 20 Degree 850 Fill Power Down Sleeping Bags' %}
+{% include image.html src="http://3.bp.blogspot.com/-HlAEXWHG5Vw/UqlzFOLrQDI/AAAAAAADG8Y/pivF9rGTPFo/s1600/green_quilt_bottom_l.jpg" caption="ZPacks 20 Degree 850 Fill Power Down Sleeping Bags" %}
 
 I've heard many good things on Katabatic Gear, and also enLIGHTened Equipment are well known for their high quality quilts, and much more reasonably prices quilts, but at the end I decided I will go and add the [ZPacks 20 Degree 850 Fill Power Down Sleeping Bag](http://zpacks.com/quilts/sleepingbag.shtml) to the already-decided-upon Arc Blast, and just went ahead and ordered them together straight from the site. Shipping to Israel was also a factor, and I think ZPacks had the cheapest shipping cost for me.
 
