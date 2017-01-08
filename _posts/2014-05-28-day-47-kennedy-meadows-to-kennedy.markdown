@@ -20,7 +20,7 @@ Today was almost a zero day.
 
 We woke up to a chilly morning, and Yair took off to Ridgecrest to return his rental car. We were hoping he'd have good luck hitching back.
 
-{% include image.html src="http://2.bp.blogspot.com/-QzF5aOyDii4/VZJ4Xfsx00I/AAAAAAAFhVk/7hPZlbhYQPE/s640/2014-05-28%2B11.21.13.jpg" caption="Bambi and Rudolph relaxing at the &quot;Internet Cafe&quot;" %}
+{% include image.html src="http://2.bp.blogspot.com/-QzF5aOyDii4/VZJ4Xfsx00I/AAAAAAAFhVk/7hPZlbhYQPE/s1600/2014-05-28%2B11.21.13.jpg" caption="Bambi and Rudolph relaxing at the &quot;Internet Cafe&quot;" %}
 
 We finally got our laundry done, and had a shower, after the water shortage ended. So we were relatively clean. I then started the task of arranging my food for the next 7 hiking days. It's a long stretch, and we also have to fit about 5 days of food inside our Bear canisters. I managed to get all of my food inside my canister, for the entire 7 days. I just don't eat that much. I hope I won't get too hungry on the trail.
 
@@ -28,6 +28,6 @@ Yair got back just before 13:00, and we decided officially that we'd head out in
 
 At about 18:00 we left the general store, and headed out. We stopped to weigh our heavy packs at the Internet Cafe. Idan's was 40 pounds, Yair's was 35, and mine was just 30. I hope I didn't forget anything.
 
-{% include image.html src="http://4.bp.blogspot.com/-gH5P_7k70kE/VZJ4XdsZVNI/AAAAAAAFhVg/nax5UrdEDTo/s640/2014-05-28%2B18.39.08.jpg" caption="Entering Bear country" %}
+{% include image.html src="http://4.bp.blogspot.com/-gH5P_7k70kE/VZJ4XdsZVNI/AAAAAAAFhVg/nax5UrdEDTo/s1600/2014-05-28%2B18.39.08.jpg" caption="Entering Bear country" %}
 
 The trail to the campground was easy, and Yair got his first taste of the pct. Once there, we found a nice spot not far from the water spigot, set up camp and made dinner. A short while later Big Boots, Sock Pot and Twice came by, and made a camp fire in their campsite. We joined in for a while, and it was very nice. Penguin also showed up and camped nearby. All in all, a very relaxing and easy day.

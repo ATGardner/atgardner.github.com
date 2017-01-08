@@ -16,7 +16,7 @@ blogger_orig_url: http://pct14.blogspot.com/2013/12/solar-power.html
 
 I have started looking into solar panels back around 2007, while following [Craig Stanton's blog](http://pct2007.org/) of hiking the PCT. I really liked the fact he was using a GPS to log the trail while he was hiking it, mostly because I am really into mapping. He was using an OHararp LLC GPSlogger (An older version of [this](http://ohararp.com/product/imu-logger/)) that came along with a [solar panel](https://www.sparkfun.com/products/7840) to keep it running during the long hike.
 
-{% include image.html src="http://2.bp.blogspot.com/-6YZ2NVdrkzQ/UrXL7Ux32AI/AAAAAAADHH4/OzaWmHfP33Q/s640/2013-12-20+18.23.07.jpg" caption="My Geo Logger in its OtterBox case." %}
+{% include image.html src="http://2.bp.blogspot.com/-6YZ2NVdrkzQ/UrXL7Ux32AI/AAAAAAADHH4/OzaWmHfP33Q/s1600/2013-12-20+18.23.07.jpg" caption="My Geo Logger in its OtterBox case." %}
 
 Before I set out to hike the Israel trail I ordered the same kind of GPS logger for myself, along with the generic solar panel. This was all in the days before smartphones, don't forget. I carried it with me while walking all the way from kibbutz Dan in the north, to Tel Lachish (Where I quit my INT hike), and photographed every trail crossing along the way, for future geo tagging of points of interest. I never did anything with the data I collected. Although I checked it out once, and the trail had sampling errors all over the place..
 

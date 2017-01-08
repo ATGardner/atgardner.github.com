@@ -20,14 +20,14 @@ Today we had a short day into town. Shortly after heading out we crossed a nice 
  in Halfmile's app, so that was a nice surprise.
 
 
-{% include image.html src="https://4.bp.blogspot.com/-1ZImUEYTwak/VHq-aRrst7I/AAAAAAAFTpM/BbH2GijSiZAOetU1mqE_DyUXD_e756SDg/s640/2014-07-09%2B07.11.40.jpg" caption="Good spring at mile 1261.30" %}
+{% include image.html src="https://4.bp.blogspot.com/-1ZImUEYTwak/VHq-aRrst7I/AAAAAAAFTpM/BbH2GijSiZAOetU1mqE_DyUXD_e756SDg/s1600/2014-07-09%2B07.11.40.jpg" caption="Good spring at mile 1261.30" %}
 
  While filling out our water, Big Boots caught up to us. Apparently he was half a day behind us since Sierra City.
  But we were going into Quincy, and zeroing tomorrow, while he was heading on. So he will be ahead now. Until next
  time our paths cross.
 
 
-{% include image.html src="https://3.bp.blogspot.com/-YdkFkfsPkLI/VHq-qQjSmpI/AAAAAAAFTpc/98LxU_qQ3jcEU3tpmrzgQYC6Fg5IXmRHw/s640/2014-07-09%2B07.35.57.jpg" caption="Getting closer to Buck's Summit road" %}
+{% include image.html src="https://3.bp.blogspot.com/-YdkFkfsPkLI/VHq-qQjSmpI/AAAAAAAFTpc/98LxU_qQ3jcEU3tpmrzgQYC6Fg5IXmRHw/s1600/2014-07-09%2B07.35.57.jpg" caption="Getting closer to Buck's Summit road" %}
 
  We made a quick stop at a water source 2 miles before the end of our day, and then headed out to finish it off. I
  passed a couple of south bound hikers, and the woman told me we have some "neat trail magic" waiting for us up
@@ -53,7 +53,7 @@ Later we got a ride from the owner to the Safeway's. We got our resupplies, and
  suddenly his wife came over and picked us up anyway. They are very nice, indeed.
 
 
-{% include image.html src="https://2.bp.blogspot.com/-kVQ6n3QhWUQ/VHq-96CJTyI/AAAAAAAFTp0/n6Kziuxph2YxFASs_5XZCfhxmryqUpHig/s640/2014-07-09%2B20.30.13.jpg" caption="My hummus plate. The Thai wrap wasn't as photogenic." %}
+{% include image.html src="https://2.bp.blogspot.com/-kVQ6n3QhWUQ/VHq-96CJTyI/AAAAAAAFTp0/n6Kziuxph2YxFASs_5XZCfhxmryqUpHig/s1600/2014-07-09%2B20.30.13.jpg" caption="My hummus plate. The Thai wrap wasn't as photogenic." %}
 
  Later, we went out for dinner at Pangaea. I had hummus for a starter, which came with artichoke and balsamic oil,
  and some Thai wrap for entree. That was really filling. Idan really enjoyed his burger, even though they didn't have

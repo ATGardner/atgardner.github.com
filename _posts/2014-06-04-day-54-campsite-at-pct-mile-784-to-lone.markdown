@@ -12,7 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-85230826611132368
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-54-campsite-at-pct-mile-784-to-lone.html
 ---
 
-{% include image.html src="http://2.bp.blogspot.com/-zj0jnRWEuAY/Vb3hV5jNn4I/AAAAAAAFiqQ/nGNSMlb24NU/s640/2014-06-04%2B06.34.40.jpg" caption="Our camp spot from last night" %}
+{% include image.html src="http://2.bp.blogspot.com/-zj0jnRWEuAY/Vb3hV5jNn4I/AAAAAAAFiqQ/nGNSMlb24NU/s1600/2014-06-04%2B06.34.40.jpg" caption="Our camp spot from last night" %}
 
 Today was surprisingly easy.
 
@@ -20,15 +20,15 @@ After another record breaking cold night (don't worry, I do get some sleep at th
 
 We had a short hike to the trail junction, where we were planning to hike away from the pct, and over Kearsarge Pass, out to resupply.
 
-{% include image.html src="http://3.bp.blogspot.com/-rC44mmFAdQU/Vb3hVucAOZI/AAAAAAAFiqM/RxPyl87YM0Y/s640/2014-06-04%2B11.44.21.jpg" caption="View towards Kearsarge Pinnacles, from the way up to the pass" %}
+{% include image.html src="http://3.bp.blogspot.com/-rC44mmFAdQU/Vb3hVucAOZI/AAAAAAAFiqM/RxPyl87YM0Y/s1600/2014-06-04%2B11.44.21.jpg" caption="View towards Kearsarge Pinnacles, from the way up to the pass" %}
 
 After an easy 2.5 miles, we stopped for a short break, before starting our climb up. From the trail junction the climb became easy again, as we hiked along the Bullfrog trail and lakes. The views were very nice, and it was interesting to see how the southern cliffs of the valley were all covered in snow, while the northern ones were already clear. I was also happy to see that the climb up to the pass was on the northern cliffs. After the trail joined the higher Kearsarge trail, the switchbacks began. Luckily, we only had 400 feet of climbing left, so it ended quite quickly. Two day hikers passed me while I was climbing up, and later Yair told me he softened the ground to ask them for a ride out of the campground, if we get stuck in there for too long.
 
-{% include image.html src="http://1.bp.blogspot.com/-CgCzA3ZZEtM/Vb3hV50DRFI/AAAAAAAFiqU/Pi3PPhPERAk/s640/2014-06-04%2B12.24.51.jpg" caption="Another view, from Kearsarge Pass" %}
+{% include image.html src="http://1.bp.blogspot.com/-CgCzA3ZZEtM/Vb3hV50DRFI/AAAAAAAFiqU/Pi3PPhPERAk/s1600/2014-06-04%2B12.24.51.jpg" caption="Another view, from Kearsarge Pass" %}
 
 At the top we've met Papa Bear and his two sons, out hiking a big section of the pct, from what I understood. They were just back from their resupply, and into the trail.
 
-{% include image.html src="http://4.bp.blogspot.com/-h6FSJgvelas/Vb3hY-1lZMI/AAAAAAAFiqs/Mj0a17Jl1xQ/s640/2014-06-04%2B13.48.40.jpg" caption="Gilbert Lake, from the way down towards Onion Valley" %}
+{% include image.html src="http://4.bp.blogspot.com/-h6FSJgvelas/Vb3hY-1lZMI/AAAAAAAFiqs/Mj0a17Jl1xQ/s1600/2014-06-04%2B13.48.40.jpg" caption="Gilbert Lake, from the way down towards Onion Valley" %}
 
 Idan just went for it, heading down the long hike to the campground, and a hitch out, before Yair got to the top. He had a package waiting in Independence he had to pick, before going to Lone Pine. I waited for Yair at the top, and we both hiker togethed the 5.5 remaining miles down, fantasizing about town food and showers.
 
@@ -38,4 +38,4 @@ The ride was scary, especially the way down from the campground, where he barely
 
 In town, we went to eat Mexican (a huge portion, we barely moved afterwards), and Idan did the laundry (he ate earlier). In the evening we went for pizza at the Pizza Factory. It was way too cheesy. I wouldn't recommend it.
 
-{% include image.html src="http://3.bp.blogspot.com/-itEcesvquHI/Vb3hYfAYThI/AAAAAAAFiqk/7uXedppJN7w/s640/2014-06-04%2B21.11.50.jpg" caption="Yair and Idan partying in our room" %}
+{% include image.html src="http://3.bp.blogspot.com/-itEcesvquHI/Vb3hYfAYThI/AAAAAAAFiqk/7uXedppJN7w/s1600/2014-06-04%2B21.11.50.jpg" caption="Yair and Idan partying in our room" %}

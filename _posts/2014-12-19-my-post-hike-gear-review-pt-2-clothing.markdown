@@ -51,7 +51,7 @@ The material is very light and feels nice against my skin, and it dries quickly.
 <h4>_Hat - [Columbia Bora Bora hat](http://www.columbia.com/bora-bora-ii-booney-CU9107.html)
  _</h4>
 
-{% include image.html src="http://4.bp.blogspot.com/-N458-0fRlcE/VJQ5ZyGQa2I/AAAAAAAFPYQ/eqx5-FJnV-k/s640/2014-04-21%2B14.07.45.jpg" caption="And here's the hat." %}
+{% include image.html src="http://4.bp.blogspot.com/-N458-0fRlcE/VJQ5ZyGQa2I/AAAAAAAFPYQ/eqx5-FJnV-k/s1600/2014-04-21%2B14.07.45.jpg" caption="And here's the hat." %}
 
  A very nice and comfortable hat. I think I can count on one hand the amount of days I didn't wear it (some rainy
  days up in Washington). Even in the blistering heat, I was never always comfortable with it over my head, with the
@@ -66,7 +66,7 @@ It took me well over 2 months to figure out I don't need the
  for all the nights on the trail, and I also hiked with it a couple of times. Great value.
 
 
-{% include image.html src="http://2.bp.blogspot.com/-bvJ6qKnw0VQ/VJQ5Var8zbI/AAAAAAAFPYI/JZpnaovVuw0/s640/2014-04-14%2B13.23.34.jpg" caption="The Ghost Whisperer Anorak" %}
+{% include image.html src="http://2.bp.blogspot.com/-bvJ6qKnw0VQ/VJQ5Var8zbI/AAAAAAAFPYI/JZpnaovVuw0/s1600/2014-04-14%2B13.23.34.jpg" caption="The Ghost Whisperer Anorak" %}
 
  <h4>_Wind Shirt - [Mountain Hardwear Ghost Whisperer Anorak](http://www.mountainhardwear.com/mens-ghost-whisperer-hooded-jacket-OM5271.html) _</h4>The link above is to
  the hooded jacket, but I had an older version, with no hood, and only half zip in the front.

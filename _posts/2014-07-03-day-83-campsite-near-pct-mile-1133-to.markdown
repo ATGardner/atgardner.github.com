@@ -16,7 +16,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-83-campsite-near-pct-mil
  was going to meet his wife and head off trail for a few days, when he gets down to Donner Pass. Lucky him.
 
 
-{% include image.html src="https://2.bp.blogspot.com/-Kcppal6emnM/VHw6-i15kvI/AAAAAAAFajQ/_yaW5o0kxv4/s640/2014-07-03%2B07.21.39.jpg" caption="Walking below the ridge, under Ward Peak" %}
+{% include image.html src="https://2.bp.blogspot.com/-Kcppal6emnM/VHw6-i15kvI/AAAAAAAFajQ/_yaW5o0kxv4/s1600/2014-07-03%2B07.21.39.jpg" caption="Walking below the ridge, under Ward Peak" %}
 
  From there, we started our climb up to near some ski lift, and then down again to the next water sources. From the
  last water source we had about 13 miles until the road, so we filled up again, and left for the final section of the
@@ -26,7 +26,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-83-campsite-near-pct-mil
  coming up from the highway parking area.
 
 
-{% include image.html src="https://3.bp.blogspot.com/-v6cPCJyYZ9g/VHw--XQjDEI/AAAAAAAFqYI/qwiV6xa3DIg/s640/2014-07-03%2B13.25.12-PANO.jpg" caption="View from Tinker Knob" %}
+{% include image.html src="https://3.bp.blogspot.com/-v6cPCJyYZ9g/VHw--XQjDEI/AAAAAAAFqYI/qwiV6xa3DIg/s1600/2014-07-03%2B13.25.12-PANO.jpg" caption="View from Tinker Knob" %}
 
  The hike down to the road was steep and rocky, but we could smell town, so we just went down without pausing.
 
@@ -44,7 +44,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-83-campsite-near-pct-mil
  the same model as the old pair, only a bit wider. I hope I won't get any blisters.
 
 
-{% include image.html src="https://1.bp.blogspot.com/-W-wt7UgbkOY/VrkYovltFaI/AAAAAAAFqZM/-kZoiplcr-k/s640/2014-07-03%2B21-10-00.jpg" caption="<span>The old pair of shoes vs the new one</span>" %}
+{% include image.html src="https://1.bp.blogspot.com/-W-wt7UgbkOY/VrkYovltFaI/AAAAAAAFqZM/-kZoiplcr-k/s1600/2014-07-03%2B21-10-00.jpg" caption="<span>The old pair of shoes vs the new one</span>" %}
 
  After getting here, I got settled in one of Greg and Janet's boys' room, and Idan got a futon at the ground floor.
  We got showered and did our laundry, and then headed out to the Village Pizza, to meet Janet and Ann, the third half
@@ -57,7 +57,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-83-campsite-near-pct-mil
  a great time.
 
 
-{% include image.html src="https://3.bp.blogspot.com/-rsP30Xp9dDA/VrkYoqHiZ7I/AAAAAAAFqZM/vTCy_WnLPUI/s640/2014-07-03%2B20-57-13.jpg" caption="<span>Greg, Janet, Ann, Idan and I</span>" %}
+{% include image.html src="https://3.bp.blogspot.com/-rsP30Xp9dDA/VrkYoqHiZ7I/AAAAAAAFqZM/vTCy_WnLPUI/s1600/2014-07-03%2B20-57-13.jpg" caption="<span>Greg, Janet, Ann, Idan and I</span>" %}
 
  Coming back to the house, Janet told me about all the stuff she had learned in order to be a Search &amp; Rescue
  volunteer. It's all very impressive. I wish I could learn half of that stuff, and put it to good use.

@@ -13,23 +13,16 @@ blogger_orig_url: http://pct14.blogspot.com/2014/06/day-72-mccabe-creek-to-ranch
 ---
 
 What a day!
-We planned to do about 22 miles today, which isn't that much. But today it contained about 5,500
- feet climb AND 5,500 feet descent. I am not sure, but I think this makes it the hardest day so far, as far as
- vertical gain and loss go.
 
+We planned to do about 22 miles today, which isn't that much. But today it contained about 5,500 feet climb AND 5,500 feet descent. I am not sure, but I think this makes it the hardest day so far, as far as vertical gain and loss go.
 
 {% include image.html src="http://1.bp.blogspot.com/--EwSjleW7xg/Vjm7VaHiP_I/AAAAAAAFolg/txZ-0GwGsRo/s640/2014-06-22%2B13.04.14.jpg" caption="Right at Benson Pass" %}
 
- During the first half of the day we mostly climbed towards Benson Pass. Even though it didn't have any snow, it was
- quite a climb. I knew I was in for as long day, so I was listening to my audio book during most of the climb, just
- to make the time pass a bit faster.
-
+During the first half of the day we mostly climbed towards Benson Pass. Even though it didn't have any snow, it was quite a climb. I knew I was in for as long day, so I was listening to my audio book during most of the climb, just to make the time pass a bit faster.
 
 {% include image.html src="http://2.bp.blogspot.com/-xNDYeFP2keI/Vjm7StuRe0I/AAAAAAAFolU/_Mf4ZipW3Qo/s640/2014-06-22%2B13.04.51.jpg" caption="Just some contrails in the blue-blue sky" %}
 
- From the top, we still had another 2000 feet climb to look forward to. After getting down to near Benson Lake, the
- climb up to Seavey Pass began, for our amusement. We were not amused.
-
+From the top, we still had another 2000 feet climb to look forward to. After getting down to near Benson Lake, the climb up to Seavey Pass began, for our amusement. We were not amused.
 
 {% include image.html src="http://3.bp.blogspot.com/--Hth4_w4Un4/Vjm7VTTPv2I/AAAAAAAFolc/5hiKr3MP0qY/s640/2014-06-22%2B13.40.56.jpg" caption="Volunteer Peak, from near Smedberg Lake" %}
 

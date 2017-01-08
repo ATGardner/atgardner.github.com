@@ -17,7 +17,7 @@ Today was a very successful zero day. We mostly did nothing. I got up late, at a
  my new battery.
 
 
-{% include image.html src="https://4.bp.blogspot.com/-VL5_G9hShBQ/VHq_Febui0I/AAAAAAAFTqE/RoVH5HTQMN4bqM0HyVN4PfZtftpYoFz1A/s640/2014-07-10%2B19.50.39.jpg" caption="It's going to get stormy" %}
+{% include image.html src="https://4.bp.blogspot.com/-VL5_G9hShBQ/VHq_Febui0I/AAAAAAAFTqE/RoVH5HTQMN4bqM0HyVN4PfZtftpYoFz1A/s1600/2014-07-10%2B19.50.39.jpg" caption="It's going to get stormy" %}
 
  The battery arrived, and it was rather easy replacing it myself. One of the screwdrivers that were shipped with it
  didn't match the screws in my phone, but I improvised with the tip of my swiss army knife. So far the new battery

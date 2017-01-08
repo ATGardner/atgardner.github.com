@@ -30,7 +30,7 @@ Yair and I walked most of the day together. I put on some music on my phone's sp
 
 The trail was almost all down hill and easy. We got some nice views to the valley on our left, but near the end of the day there was a big section full of dead and broken trees.
 
-{% include image.html src="http://2.bp.blogspot.com/-76g1VMvB4Rg/Vh-gm3PBanI/AAAAAAAFoD0/9PfG67x8z4M/s640/2014-06-14%2B14.42.44.jpg" caption="This is what a burnt and broken forest look like" %}
+{% include image.html src="http://2.bp.blogspot.com/-76g1VMvB4Rg/Vh-gm3PBanI/AAAAAAAFoD0/9PfG67x8z4M/s1600/2014-06-14%2B14.42.44.jpg" caption="This is what a burnt and broken forest look like" %}
 
 We stopped on the way several times, finishing up all our snacks just because we had them. Some hikers passed us during the day, including Mozi and Emu, Twice and Handbrake. We met them all down at the store.
 

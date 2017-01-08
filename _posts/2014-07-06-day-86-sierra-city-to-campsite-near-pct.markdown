@@ -18,7 +18,7 @@ I worried all through the night about the climb out of Sierra City. In the morni
  and two toasts to appear...
 
 
-{% include image.html src="https://2.bp.blogspot.com/-uKu-MCTwCww/VHq9AvsM_hI/AAAAAAAFqe4/w9Xt5Ssu5u4/s640/2014-07-06%2B16.51.14.jpg" caption="View from the climb up from Sierra City" %}
+{% include image.html src="https://2.bp.blogspot.com/-uKu-MCTwCww/VHq9AvsM_hI/AAAAAAAFqe4/w9Xt5Ssu5u4/s1600/2014-07-06%2B16.51.14.jpg" caption="View from the climb up from Sierra City" %}
 
  In the mean time, we met Big Boots, who have just come into town. He planned to spend a few hours there, and head
  out today. Maybe he will catch us some day soon. We also saw Zen Dawg, just when we started trying to hitch back to
@@ -33,7 +33,7 @@ We saw some day hikers and bikers at around Packer Lake Saddle, but nobody offer
  We pushed through anyway.
 
 
-{% include image.html src="https://3.bp.blogspot.com/-KMSmORFiNgw/VHq9So0mLYI/AAAAAAAFqe8/KCoptssg0YY/s640/2014-07-06%2B17.36.20.jpg" caption="A big deer on the trail, right by where we camped for the night" %}
+{% include image.html src="https://3.bp.blogspot.com/-KMSmORFiNgw/VHq9So0mLYI/AAAAAAAFqe8/KCoptssg0YY/s1600/2014-07-06%2B17.36.20.jpg" caption="A big deer on the trail, right by where we camped for the night" %}
 
  At the end of the day, I reached the sign to the water source, and couldn't see Idan. I went ahead a bit, and tried
  calling him. Then I remembered he was low on water, so he was probably over at the spring. Coming back, I was

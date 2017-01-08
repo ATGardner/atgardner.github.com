@@ -35,7 +35,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/into-manning-park-and-beyond
  Canadians got it all wrong.
 
 
-{% include image.html src="http://lh3.googleusercontent.com/-e-bsGV16jhw/VCuAhF-TBTI/AAAAAAADVg8/DcuQvdxwz2o/s640/2014-09-14%252006.04.21.jpg" caption="The Canadians got it backwards" %}
+{% include image.html src="http://lh3.googleusercontent.com/-e-bsGV16jhw/VCuAhF-TBTI/AAAAAAADVg8/DcuQvdxwz2o/s1600/2014-09-14%252006.04.21.jpg" caption="The Canadians got it backwards" %}
 
  The trail climbed up for a few miles, to the next campsite, and finally reached a dirt road and started the long
  descent down to the park. It was mostly an easy walk, and I got to the final section, of the paved road, just as Red
@@ -65,7 +65,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/into-manning-park-and-beyond
  Slaughterhouse and Dewey from Hart’s Pass. We even had a short sailing in Elliot Bay.
 
 
-{% include image.html src="http://lh6.googleusercontent.com/-Z6u2P4E0gI0/VCuBJBPqbxI/AAAAAAADVfQ/mnrhJkAkZ7o/s640/2014-09-17%252014.53.25.jpg" caption="Sailing in Elliot Bay" %}
+{% include image.html src="http://lh6.googleusercontent.com/-Z6u2P4E0gI0/VCuBJBPqbxI/AAAAAAADVfQ/mnrhJkAkZ7o/s1600/2014-09-17%252014.53.25.jpg" caption="Sailing in Elliot Bay" %}
 
  All in all I think I had plenty of relaxing time in Seattle to ease me back into society. I also had another week
  back home before getting back to work, so I currently don’t feel too weird or out of place back in the big city. In
@@ -73,5 +73,5 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/into-manning-park-and-beyond
 
 
 
-{% include image.html src="http://lh4.googleusercontent.com/-v1kqf21nGOo/VCuBG4TNp6I/AAAAAAADVfI/Or-QXzhuXUY/s640/P1000812.JPG" caption="Back home after a very long trip" %}
+{% include image.html src="http://lh4.googleusercontent.com/-v1kqf21nGOo/VCuBG4TNp6I/AAAAAAADVfI/Or-QXzhuXUY/s1600/P1000812.JPG" caption="Back home after a very long trip" %}
 

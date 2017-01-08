@@ -27,5 +27,5 @@ After dinner I tasted some strengthen wine, I
  time for my hike onwards.
 
 
-{% include image.html src="http://1.bp.blogspot.com/-eEkDu0XHXtc/VZTsn-9qNfI/AAAAAAAFhZg/Dyfefpd51x8/s640/2014-09-02%2B17.23.40.jpg" caption="Onyx. Such a cute cat" %}
+{% include image.html src="http://1.bp.blogspot.com/-eEkDu0XHXtc/VZTsn-9qNfI/AAAAAAAFhZg/Dyfefpd51x8/s1600/2014-09-02%2B17.23.40.jpg" caption="Onyx. Such a cute cat" %}
 

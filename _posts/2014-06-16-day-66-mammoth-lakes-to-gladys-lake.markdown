@@ -19,12 +19,12 @@ We checked out of the motel at the last minute, at 12:00, and started our way ba
 
 We filled our water up near the store, and headed out to the trail. After half a mile we got on the Devil's Postpile alternate to see this National Monument. It was rather cool, setting all of these chilled magma hexagons. It was also half a mile shorter.
 
-{% include image.html src="http://3.bp.blogspot.com/-YEFCGUkdvRw/Vh-k5d7IL5I/AAAAAAAFoEY/DiEGPnjDDJ8/s640/2014-06-16%2B15.09.43.jpg" caption="The Devil's Post Pile" %}
+{% include image.html src="http://3.bp.blogspot.com/-YEFCGUkdvRw/Vh-k5d7IL5I/AAAAAAAFoEY/DiEGPnjDDJ8/s1600/2014-06-16%2B15.09.43.jpg" caption="The Devil's Post Pile" %}
 
 When we got back to the trail, it was just at another junction, where the PCT and the JMT split for 14 miles. We took the JMT route, which has a bit more ups and downs, and goes along many small lakes.
 
-{% include image.html src="http://1.bp.blogspot.com/-BNrFgDMrUvI/Vh-k5WtpAuI/AAAAAAAFoEc/KC3drj1Zm90/s640/2014-06-16%2B15.16.05.jpg" caption="A nice meadow from a bridge of the Middle Fork San Joaquin River" %}
+{% include image.html src="http://1.bp.blogspot.com/-BNrFgDMrUvI/Vh-k5WtpAuI/AAAAAAAFoEc/KC3drj1Zm90/s1600/2014-06-16%2B15.16.05.jpg" caption="A nice meadow from a bridge of the Middle Fork San Joaquin River" %}
 
-{% include image.html src="http://4.bp.blogspot.com/-hgnftUTzGJk/Vh-k5GDpFxI/AAAAAAAFoEU/82PRHoH7K1M/s640/2014-06-16%2B15.33.33.jpg" caption="PCT and JMT split. We chose the JMT for a while" %}
+{% include image.html src="http://4.bp.blogspot.com/-hgnftUTzGJk/Vh-k5GDpFxI/AAAAAAAFoEU/82PRHoH7K1M/s1600/2014-06-16%2B15.33.33.jpg" caption="PCT and JMT split. We chose the JMT for a while" %}
 
 Hiking mostly up for about 5 more miles, we finally reached Gladys Lake and made camp at about 18:30.

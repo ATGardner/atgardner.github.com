@@ -19,7 +19,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-85-meadow-lake-road-to-s
  morning, we finally headed out to our long day.
 
 
-{% include image.html src="https://4.bp.blogspot.com/-xnxEMkego3E/VCk3r7x7FTI/AAAAAAAFhgY/lo7DolrUsWg/s640/P1040740-PANO.jpg" caption="View towards Meadow Lake" %}
+{% include image.html src="https://4.bp.blogspot.com/-xnxEMkego3E/VCk3r7x7FTI/AAAAAAAFhgY/lo7DolrUsWg/s1600/P1040740-PANO.jpg" caption="View towards Meadow Lake" %}
 
  We managed to do the first 10 miles or so before it was too hot, which was nice. It included some more ridge
  walking, on the shady side of the mountain.
@@ -30,7 +30,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-85-meadow-lake-road-to-s
  Creek. From there, we had about 5 more miles to go until highway 49, which leads to Sierra City.
 
 
-{% include image.html src="https://1.bp.blogspot.com/-k-vOknQ5vD4/VHq8nq6em1I/AAAAAAAFqek/HeShkrzgWlo/s640/2014-07-05%2B20.26.48.jpg" caption="<span>Sierra City general store</span>" %}
+{% include image.html src="https://1.bp.blogspot.com/-k-vOknQ5vD4/VHq8nq6em1I/AAAAAAAFqek/HeShkrzgWlo/s1600/2014-07-05%2B20.26.48.jpg" caption="<span>Sierra City general store</span>" %}
 
  I headed out and walked this last bit with no breaks. Just before the highway, I passed two southbound hikers that
  started at Crater Lake, some 600 miles to the north. We might bump into Tree Hugger and Petunia again in Oregon or

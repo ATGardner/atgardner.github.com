@@ -25,7 +25,7 @@ Down at the
  dipping holes. We both took a much needed shower in the stream, and cleaned up a bit.
 
 
-{% include image.html src="https://3.bp.blogspot.com/-nINshCdMaZM/VHq9wZaW-oI/AAAAAAAFqfQ/HDO07pAbMu0PShlTeKngX9qvyETgIJcng/s640/2014-07-08%2B12.33.19.jpg" caption="The bridge over Middle Fork Feather River" %}
+{% include image.html src="https://3.bp.blogspot.com/-nINshCdMaZM/VHq9wZaW-oI/AAAAAAAFqfQ/HDO07pAbMu0PShlTeKngX9qvyETgIJcng/s1600/2014-07-08%2B12.33.19.jpg" caption="The bridge over Middle Fork Feather River" %}
 
  From there, we had to climb up everything we had just climbed down, and more. Luckily, there was plenty of water
  along the way, so we didn't carry too much on us.
@@ -34,7 +34,7 @@ Our aim was to get to the water at wa1259, fill up there, and
  was trying to hike it fast. It was hard. I kept hoping the water is around the corner, and it wasn't.
 
 
-{% include image.html src="https://4.bp.blogspot.com/-xlSf0OEvTTk/VHq-I1xI2wI/AAAAAAAFTo8/TveKRoeu0AItma5WsdX9vXVNxARSx76tQ/s640/2014-07-08%2B14.08.38.jpg" caption="Pea Sea Tea. Artist unknown. Neat the Best Creek bridge." %}
+{% include image.html src="https://4.bp.blogspot.com/-xlSf0OEvTTk/VHq-I1xI2wI/AAAAAAAFTo8/TveKRoeu0AItma5WsdX9vXVNxARSx76tQ/s1600/2014-07-08%2B14.08.38.jpg" caption="Pea Sea Tea. Artist unknown. Neat the Best Creek bridge." %}
 
  The rain finally started just as I caught on to Idan. We hiked just a bit more, and found some trickle by the trail.
  We weren't sure if this is our water source or not, but we filled up some anyway. It was a really slow source, but

@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-45687588053912418
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-55-zero-day-at-lone-pine.html
 ---
 
-{% include image.html src="http://1.bp.blogspot.com/-uLUdeme3c_o/U5FKZz8aTeI/AAAAAAADNsc/bUpURS7xNLQ/s640/IMG_20140605_145547-794215.jpg" caption="" %}
+{% include image.html src="http://1.bp.blogspot.com/-uLUdeme3c_o/U5FKZz8aTeI/AAAAAAADNsc/bUpURS7xNLQ/s1600/IMG_20140605_145547-794215.jpg" caption="" %}
 
 Today wasn't as relaxing as I was hoping.
 

@@ -23,11 +23,11 @@ On the way there I've met several hikers who just came out of VVR. Penguin and S
 
 After waiting for the boat to arrive (and for Signal, Harmonic-Wave and Jordi to catch up), we all got on it, and headed to the other side of the lake. Once there, we got a ride from the shore, up to the resort (which is situated on the original shore line). It was quite strange - on the ride there I could see the path boats are supposed to take when approaching the resort, between what once were underwater rocks. Now it's all on sand.
 
-{% include image.html src="http://1.bp.blogspot.com/-AEhk4MF9iX8/Vfw_hp7RuQI/AAAAAAAFj70/krCi7aGQAgU/s640/2014-06-12%25281%2529.jpg" caption="Harmonic-Wave and Signal on the ferry to VVR" %}
+{% include image.html src="http://1.bp.blogspot.com/-AEhk4MF9iX8/Vfw_hp7RuQI/AAAAAAAFj70/krCi7aGQAgU/s1600/2014-06-12%25281%2529.jpg" caption="Harmonic-Wave and Signal on the ferry to VVR" %}
 
 At the resort we got our first drink free, and were told we can tent behind the store. We quickly opted for a room for the night, and got a very nice 3 bed room, with a shower. What a treat!
 
-{% include image.html src="http://1.bp.blogspot.com/-zY9YnSRI9LA/Vfw_flLTC_I/AAAAAAAFj7s/me8LeB4rWjY/s640/2014-06-12.jpg" caption="And that's me" %}
+{% include image.html src="http://1.bp.blogspot.com/-zY9YnSRI9LA/Vfw_flLTC_I/AAAAAAAFj7s/me8LeB4rWjY/s1600/2014-06-12.jpg" caption="And that's me" %}
 
 After a nice shower (and after me nagging the manager about lack of hot water, and finally finding out I had to turn the knob the other way) we went for lunch. Yair and I both had a very good black beans veggie burger. The make it right there at the restaurant. Very impressive.
 

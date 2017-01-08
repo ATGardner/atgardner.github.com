@@ -16,7 +16,7 @@ blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-78982908234982754
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-41-campsite-at-pct-mile-625-to.html
 ---
 
-{% include image.html src="http://1.bp.blogspot.com/-9quJCRtvVtY/VYCJ5f93-PI/AAAAAAAFgzw/fINkBduqEII/s640/2014-05-22%2B09.58.23.jpg" caption="It's seems to be the only photo I've got from that day, after I lost some I took with my phone. Damn." %}
+{% include image.html src="http://1.bp.blogspot.com/-9quJCRtvVtY/VYCJ5f93-PI/AAAAAAAFgzw/fINkBduqEII/s1600/2014-05-22%2B09.58.23.jpg" caption="It's seems to be the only photo I've got from that day, after I lost some I took with my phone. Damn." %}
 
 Another long day.
 

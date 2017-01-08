@@ -16,11 +16,11 @@ Today we had quite a day. It was exceptionally hot, and we had a lot of climbing
 
 The first one was in the morning. We managed to do most of it still in the shade, before the sun came over the mountain range to our east.
 
-{% include image.html src="http://1.bp.blogspot.com/-mhBfYlTNIk4/VYVo82vNRxI/AAAAAAAFg9w/DKwcDib-UXg/s640/2014-05-26%2B07.11.48.jpg" caption="Crossing the ¼ trail mile mark" %}
+{% include image.html src="http://1.bp.blogspot.com/-mhBfYlTNIk4/VYVo82vNRxI/AAAAAAAFg9w/DKwcDib-UXg/s1600/2014-05-26%2B07.11.48.jpg" caption="Crossing the ¼ trail mile mark" %}
 
 From there we went down, and found an unexpected water source just half a mile before the expected one. It was a pretty nice looking creek, and we got good water from it. We also had a nice breakfast there. And then - another major climb. This one was even longer, and after a lunch break at the "top", we climb a bit more.
 
-{% include image.html src="http://1.bp.blogspot.com/-1BgulxvfRTc/VYVo87whjmI/AAAAAAAFg90/aaz3AQNRx5s/s640/2014-05-26%2B12.31.13.jpg" caption="Purple flowers in bloom" %}
+{% include image.html src="http://1.bp.blogspot.com/-1BgulxvfRTc/VYVo87whjmI/AAAAAAAFg90/aaz3AQNRx5s/s1600/2014-05-26%2B12.31.13.jpg" caption="Purple flowers in bloom" %}
 
 The day was getting very hot, so at the saddle before the big descent we made another long stop, about 7 miles from the end. But we couldn't bring ourselves to wait out the heat, and headed into the 5 miles hike down at 14:00. When I got near the Chimney Creek, and the road, at the bottom of the valley, I ran into Bambi. She immediately said "follow me for some trail magic". I literally ran after her to the road, where she gave me two bottles of Gatorade, two cookies, and two tangerines. She also offered a full subway sandwich to split with Idan, but it wasn't vegetarian, and contained ham, so we both didn't take it.
 

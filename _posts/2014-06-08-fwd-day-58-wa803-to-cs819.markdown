@@ -18,7 +18,7 @@ We got up a bit earlier today, and hit the trail at 6:30. That doesn't happen a 
 
 The way down on the north side was easy as well. I don't recall anything special about the climb down, so I guess it wasn't special.
 
-{% include image.html src="http://2.bp.blogspot.com/-6n9sxodgx_w/U5kiI3T3__I/AAAAAAADNz0/DDQeumMigQc/s640/IMG_20140608_092219-773491.jpg" caption="View from Pinchot Pass" %}
+{% include image.html src="http://2.bp.blogspot.com/-6n9sxodgx_w/U5kiI3T3__I/AAAAAAADNz0/DDQeumMigQc/s1600/IMG_20140608_092219-773491.jpg" caption="View from Pinchot Pass" %}
 
 {% include iframe.html src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2s!4v1483825471028!6m8!1m7!1sF%3A-GG86wCQx-Xk%2FVCl4ereWynI%2FAAAAAAADYwk%2F1L4tZCk3ImATrsKIsRjvs7s2OzSshaPAACJkC!2m2!1d36.93651320000001!2d-118.4127971!3f187!4f0!5f0.7820865974627469" %}
 

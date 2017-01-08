@@ -21,6 +21,6 @@ About a month ago I noticed that Mountain Hardwear have finally renewed their of
 
 After many evenings trying to decide which jacket I should purchase, and how should I get it over here, I finally decided on a synthetic one. I know down is lighter and compresses better, but I figured that since I got the down quilt, I can spare some poor geese their feathers, and manage with a heavier option after all. I did buy a rather light [Thermostatic Hooded Jacket](http://www.mountainhardwear.com/mens-thermostatic-hooded-jacket-OM5667.html?colorID=372) from Mountain Hardwear, so I'm not complaining much. The weight difference is 306g (on my home scales) to 212g (the Hooded Ghost Whisperer, according to their site's specs), so it's about 100g difference. And it's also about $70 cheaper, which is another little perk.
 
-{% include image.html src='http://3.bp.blogspot.com/-mEBAKadc7gk/UnFK-yd6zXI/AAAAAAADBa8/bGUEyUGuS2c/s640/P1030265.JPG' %}
+{% include image.html src='http://3.bp.blogspot.com/-mEBAKadc7gk/UnFK-yd6zXI/AAAAAAADBa8/bGUEyUGuS2c/s1600/P1030265.JPG' %}
 
 About the shipping, I made the mistake of using the delivery company, hoping the light weight jacket will be only $30, but at the end the bulk of the package caused it to be $50, and then I had to pay another $50 for the VAT in Israel. So next time I'll just order directly from Backcountry Gear. Lesson learned.

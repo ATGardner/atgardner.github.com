@@ -19,25 +19,25 @@ Ok, I survived the not-so-short hike.
 
 Our hike started after a long train ride to Be'er-Sheva, and a bus ride to Tzihur Junction (on the bus to Eilat) - a total of about 4 hours on the road. We started our actual walking at 10:15. A bit on the late side. We tried convincing the bus driver to drop us off near the trailhead, but he didn't like the idea, and dropped at at the junction, so add about 2Km of road walk to our first day.
 
-{% include image.html src="http://2.bp.blogspot.com/-t81L6QOJBKg/VYEEWsgUiTI/AAAAAAAFg1Y/xrtc53k6F9s/s640/P1030276.JPG" caption="An impressive tree, near the start of our hike" %}
+{% include image.html src="http://2.bp.blogspot.com/-t81L6QOJBKg/VYEEWsgUiTI/AAAAAAAFg1Y/xrtc53k6F9s/s1600/P1030276.JPG" caption="An impressive tree, near the start of our hike" %}
 
 After finally reaching the trailhead we started hiking northbound on the Israel National Trail. About 3 hours of 4x4 road walking later, we finally reached the Vardit Canyon, and had a blast - At the first water hole we met a small group of 4 who got there by jeep, and they enjoyed watching us trying to get across the water in one piece.
 
 It was possible to cross over the left canyon wall, and avoid getting wet. But we heard from a southbound hiker we've met several minutes before, that there is one water hole that required proper swimming, so we figured there's no point in trying to remain dry. I just waded in carefully, trying to walk along the outskirts of the hole, and keeping my backpack above water. Yair inflated his Neo-Air mattress, and waded across with his backpack floating on top of it. A very good idea indeed.
 
-{% include image.html src="http://1.bp.blogspot.com/-LLTyIf1LmHI/VYEEWusNXMI/AAAAAAAFg1c/nTFmsh3TG1g/s640/P1030298.JPG" caption="Yair using his mattress to keep his backpack (mostly) dry" %}
+{% include image.html src="http://1.bp.blogspot.com/-LLTyIf1LmHI/VYEEWusNXMI/AAAAAAAFg1c/nTFmsh3TG1g/s1600/P1030298.JPG" caption="Yair using his mattress to keep his backpack (mostly) dry" %}
 
 We were aiming at Mount Kipah camping area, but I guess it was too far away, especially after starting as late as we did, so after thinking we were further along than we actually were, and finding out we still have about 8 more Km until we get there, and 30 minutes of sunlight, we just gave up and decided to find a place to stealth camp. Luckily, we did find a very nice spot for our tents, and went to sleep early. I think we were both out by 19:00.
 
-{% include image.html src="http://3.bp.blogspot.com/-Ro3O8j1gFh4/VYEEomOLA6I/AAAAAAAFg14/7JufL9gV_Js/s640/P1030352.JPG" caption="My gear at camp - TarpTent Rainbow, Neo-Air, ZPacks quilt and Arc-Blast" %}
+{% include image.html src="http://3.bp.blogspot.com/-Ro3O8j1gFh4/VYEEomOLA6I/AAAAAAAFg14/7JufL9gV_Js/s1600/P1030352.JPG" caption="My gear at camp - TarpTent Rainbow, Neo-Air, ZPacks quilt and Arc-Blast" %}
 
 The second day started with a short hike to Barak Canyon, this time climbing down. The trail first turned north, headed down the eastern slopes of the canyon, and reached its bottom. From there it followed it down along 3 more ladders, several sections of metal rings, and a short section of sliding along a smooth rock surface (with foot grooves) while holding a rope. It was very adventurous.
 
 Sadly, the bit after the canyon was not as exciting. It was a long ~30Km 4x4 road walk, mostly north towards Tzofar. No major climbs up nor down. The view was pretty nice most of the time, but after several Km of walking in the sun it wasn't as exciting anymore. We bumped into several groups going south - some also doing the INT in sections, and one really large group (over 50 hikers, for sure), that passed us by when we were struggling to fit under a small rock outcrop for shade, and have lunch.
 
-{% include image.html src="http://3.bp.blogspot.com/-ITx47dtj3FA/VYEEoo85M4I/AAAAAAAFg10/phDCXQQ00bs/s640/P1030379.JPG" caption="Climbing down the tallest ladder in Barak Canyon" %}
+{% include image.html src="http://3.bp.blogspot.com/-ITx47dtj3FA/VYEEoo85M4I/AAAAAAAFg10/phDCXQQ00bs/s1600/P1030379.JPG" caption="Climbing down the tallest ladder in Barak Canyon" %}
 
-{% include image.html src="http://4.bp.blogspot.com/-ztDFa5QSnvU/VYEE0b1PQ6I/AAAAAAAFg2E/hstDUmToSc8/s640/P1030403.JPG" caption="Horvat Moaa near the end of our hike" %}
+{% include image.html src="http://4.bp.blogspot.com/-ztDFa5QSnvU/VYEE0b1PQ6I/AAAAAAAFg2E/hstDUmToSc8/s1600/P1030403.JPG" caption="Horvat Moaa near the end of our hike" %}
 
 From there, it was a race against time to get to the road, and from there another 1.5Km to the bus station, by 17:15, to catch our bus back home. We made it by 17:13, and the bus was several minutes late, but it was good.
 

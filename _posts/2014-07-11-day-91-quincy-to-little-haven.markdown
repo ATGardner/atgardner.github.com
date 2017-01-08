@@ -46,33 +46,33 @@ Just before I started hiking, Banana Boat passed by in a car, looking for Trail 
  and told him when I passed him a bit later.
 
 
-{% include image.html src="https://2.bp.blogspot.com/-0tC_g1EN1nc/VHq_eQFxpCI/AAAAAAAFTqc/hAc45TP-fN0KFsp87w4I0IvjEDSvneP-w/s640/2014-07-11%2B13.04.58.jpg" caption="View towards Silver Lake" %}
+{% include image.html src="https://2.bp.blogspot.com/-0tC_g1EN1nc/VHq_eQFxpCI/AAAAAAAFTqc/hAc45TP-fN0KFsp87w4I0IvjEDSvneP-w/s1600/2014-07-11%2B13.04.58.jpg" caption="View towards Silver Lake" %}
 
  The hike was rather easy, most of the day. Some small climbs, and a big big hike down at the end. I passed Lingo,
  Sugar Pine and Ticket Llama, and another hiker I didn't catch his trail name.
 
 
-{% include image.html src="https://2.bp.blogspot.com/-LCAscK1KNp8/VHq_2rqUWbI/AAAAAAAFTq0/YtCaKRNAn6kgVhJS93MwiQtDrlJFCwufA/s640/2014-07-11%2B15.13.09.jpg" caption="A nice day to be outside" %}
+{% include image.html src="https://2.bp.blogspot.com/-LCAscK1KNp8/VHq_2rqUWbI/AAAAAAAFTq0/YtCaKRNAn6kgVhJS93MwiQtDrlJFCwufA/s1600/2014-07-11%2B15.13.09.jpg" caption="A nice day to be outside" %}
 
 
-{% include image.html src="https://1.bp.blogspot.com/-3IpOJ1tVCDA/VHq_uV9wK5I/AAAAAAAFTqs/lXeyVZQihSA08ZhM4QPLA79zoNcx4NhGA/s640/2014-07-11%2B15.06.30.jpg" caption="The big climb we have in store tomorrow" %}
+{% include image.html src="https://1.bp.blogspot.com/-3IpOJ1tVCDA/VHq_uV9wK5I/AAAAAAAFTqs/lXeyVZQihSA08ZhM4QPLA79zoNcx4NhGA/s1600/2014-07-11%2B15.06.30.jpg" caption="The big climb we have in store tomorrow" %}
 
  A bit after passing them, I almost stepped on a rattlesnake. I thought we were over with the snakes a long time ago.
  I took some steps back, and waited for him to stop rattling. The other hikers caught up, and we waited together,
  trying to prod it, to make it go away. At the end it moved, and we sprinted over the spot where he had been.
 
 
-{% include image.html src="https://4.bp.blogspot.com/-z425q41oQ60/VHq__SV2VsI/AAAAAAAFTq8/IdZPPeMyAr03SS2aDcvSv8mfX3uQPNCVA/s640/2014-07-11%2B15.51.37.jpg" caption="The Rattler of north California" %}
+{% include image.html src="https://4.bp.blogspot.com/-z425q41oQ60/VHq__SV2VsI/AAAAAAAFTq8/IdZPPeMyAr03SS2aDcvSv8mfX3uQPNCVA/s1600/2014-07-11%2B15.51.37.jpg" caption="The Rattler of north California" %}
 
  The rest of the climb down was uneventful, and I got to the Belden store and got an ice cream sandwich and a
  Gatorade. Trying to get to the hostel proved hard with no signs or direction, so I got back to the store, and met
  Hop Scotch, who just called the angels, and got us a ride there.
 
 
-{% include image.html src="https://3.bp.blogspot.com/-aty9zhD0vLA/VHrAHxO73EI/AAAAAAAFTrE/om1gIi3rNpIlGioVJRKHwZHooE97RVqEA/s640/2014-07-11%2B16.31.30.jpg" caption="Going down towards Belden and the Feather River" %}
+{% include image.html src="https://3.bp.blogspot.com/-aty9zhD0vLA/VHrAHxO73EI/AAAAAAAFTrE/om1gIi3rNpIlGioVJRKHwZHooE97RVqEA/s1600/2014-07-11%2B16.31.30.jpg" caption="Going down towards Belden and the Feather River" %}
 
 
-{% include image.html src="https://1.bp.blogspot.com/-5BSM3kQ-vEA/VHrAL9bVnUI/AAAAAAAFTrM/cXA6IQHLmxUJ3KPNocpYEE8X4ksMFSquQ/s640/2014-07-11%2B17.20.24.jpg" caption="Just a strange Panda graffiti in Belden" %}
+{% include image.html src="https://1.bp.blogspot.com/-5BSM3kQ-vEA/VHrAL9bVnUI/AAAAAAAFTrM/cXA6IQHLmxUJ3KPNocpYEE8X4ksMFSquQ/s1600/2014-07-11%2B17.20.24.jpg" caption="Just a strange Panda graffiti in Belden" %}
 
  I met Idan over here, and got a room to place my mattress on a nice floor. There is no reception or Wi-Fi here, so
  I'm all disconnected. But at the moment I am playing scrabble with Stumbles and Rocket Llama.
