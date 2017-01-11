@@ -45,8 +45,8 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-127-milk-creek-to-troope
  north.
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-PjXF5aCR2xw/U_ap3okuqyI/AAAAAAADSVE/GpvzA7WUAR8/1408672575854.jpg cursor: pointer;" caption=" Jefferson Park" %}
+{% include image.html src="https://lh3.googleusercontent.com/-PjXF5aCR2xw/U_ap3okuqyI/AAAAAAADSVE/GpvzA7WUAR8/1408672575854.jpg cursor: pointer;" caption="Jefferson Park" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-jDchL-g12Bw/U_aqNhuB3uI/AAAAAAADSVM/qG9msaWHk58/1408672604104.jpg cursor: pointer;" caption=" At Olalie Lake" %}
+{% include image.html src="https://lh6.googleusercontent.com/-jDchL-g12Bw/U_aqNhuB3uI/AAAAAAADSVM/qG9msaWHk58/1408672604104.jpg cursor: pointer;" caption="At Olalie Lake" %}
 

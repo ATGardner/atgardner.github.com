@@ -40,5 +40,5 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-125-unplanned-zero-in-si
  watching TV. Soon I'll have a frozen microwave dinner, and keep on doing nothing.
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-sd2mUT5RRKQ/U-162dVHUgI/AAAAAAADR4k/Dz3iR-AkT4k/1408068770953.jpg cursor: pointer;" caption=" That's one big room..." %}
+{% include image.html src="https://lh6.googleusercontent.com/-sd2mUT5RRKQ/U-162dVHUgI/AAAAAAADR4k/Dz3iR-AkT4k/1408068770953.jpg cursor: pointer;" caption="That's one big room..." %}
 

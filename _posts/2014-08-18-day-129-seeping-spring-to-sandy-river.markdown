@@ -51,11 +51,11 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-129-seeping-spring-to-sa
  hikers around.
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-AJVC_XzlyW8/U_asmq5D2bI/AAAAAAADSV4/BcZkJucF-YM/1408672865950.jpg cursor: pointer;" caption=" A giant road I luckily didn't step on" %}
+{% include image.html src="https://lh4.googleusercontent.com/-AJVC_XzlyW8/U_asmq5D2bI/AAAAAAADSV4/BcZkJucF-YM/1408672865950.jpg cursor: pointer;" caption="A giant road I luckily didn't step on" %}
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-NZDGMOU0Dcg/U_atERa1FkI/AAAAAAADSWA/19_HDtwvs18/1408672903661.jpg cursor: pointer;" caption=" Mt Hood" %}
+{% include image.html src="https://lh5.googleusercontent.com/-NZDGMOU0Dcg/U_atERa1FkI/AAAAAAADSWA/19_HDtwvs18/1408672903661.jpg cursor: pointer;" caption="Mt Hood" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-q4cFWDjTo6o/U_atq4vuE9I/AAAAAAADSWI/Y9hUDhU68Ec/1408672920054.jpg cursor: pointer;" caption=" Timberline Lodge" %}
+{% include image.html src="https://lh4.googleusercontent.com/-q4cFWDjTo6o/U_atq4vuE9I/AAAAAAADSWI/Y9hUDhU68Ec/1408672920054.jpg cursor: pointer;" caption="Timberline Lodge" %}
 

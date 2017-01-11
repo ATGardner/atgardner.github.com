@@ -54,14 +54,14 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-123-mesa-creek-to-bend-m
  catching a bus back to the motel, but u think it was too late already, so I walked the whole way back as well.
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-GueDXXKQ260/U-zVfiC4J2I/AAAAAAADRzk/LmtxcaUCzBw/1408029916840.jpg cursor: pointer;" caption=" North sister" %}
+{% include image.html src="https://lh3.googleusercontent.com/-GueDXXKQ260/U-zVfiC4J2I/AAAAAAADRzk/LmtxcaUCzBw/1408029916840.jpg cursor: pointer;" caption="North sister" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-l8WwZLY97QA/U-zVqr3P7GI/AAAAAAADRzs/TjdBGTmsc2I/1408029939452.jpg cursor: pointer;" caption=" Colorful flowers" %}
+{% include image.html src="https://lh6.googleusercontent.com/-l8WwZLY97QA/U-zVqr3P7GI/AAAAAAADRzs/TjdBGTmsc2I/1408029939452.jpg cursor: pointer;" caption="Colorful flowers" %}
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-viO_I3MNbc0/U-zV1EPS4VI/AAAAAAADRz0/-pL9uxB_K58/1408029965947.jpg cursor: pointer;" caption=" View down the small &quot;pass&quot;" %}
+{% include image.html src="https://lh3.googleusercontent.com/-viO_I3MNbc0/U-zV1EPS4VI/AAAAAAADRz0/-pL9uxB_K58/1408029965947.jpg cursor: pointer;" caption="View down the small &quot;pass&quot;" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-SSx5AOFxiQU/U-zV8fsOqQI/AAAAAAADRz8/tD8Dx27TWm4/1408030007733.jpg cursor: pointer;" caption=" Dee Wright Observatory (in bad light)" %}
+{% include image.html src="https://lh4.googleusercontent.com/-SSx5AOFxiQU/U-zV8fsOqQI/AAAAAAADRz8/tD8Dx27TWm4/1408030007733.jpg cursor: pointer;" caption="Dee Wright Observatory (in bad light)" %}
 

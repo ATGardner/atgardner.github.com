@@ -47,20 +47,20 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-131-indian-spring-campgr
  to buy new poles, but the phone is more important.
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-XBCMmF7_XUQ/U_avOo9VbzI/AAAAAAADSWY/eKtRM95G8Ug/1408673117052.jpg cursor: pointer;" caption=" Just a waterfall" %}
+{% include image.html src="https://lh6.googleusercontent.com/-XBCMmF7_XUQ/U_avOo9VbzI/AAAAAAADSWY/eKtRM95G8Ug/1408673117052.jpg cursor: pointer;" caption="Just a waterfall" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-AQ40KAneOA4/U_avqhSP-2I/AAAAAAADSWg/VyGyurfKGqE/1408673157591.jpg cursor: pointer;" caption=" And another one" %}
+{% include image.html src="https://lh4.googleusercontent.com/-AQ40KAneOA4/U_avqhSP-2I/AAAAAAADSWg/VyGyurfKGqE/1408673157591.jpg cursor: pointer;" caption="And another one" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-rPs717vBBO0/U_awKNrtQCI/AAAAAAADSWo/ahiVEuDshag/1408673202202.jpg cursor: pointer;" caption=" And here's the Tunnel Waterfall" %}
+{% include image.html src="https://lh4.googleusercontent.com/-rPs717vBBO0/U_awKNrtQCI/AAAAAAADSWo/ahiVEuDshag/1408673202202.jpg cursor: pointer;" caption="And here's the Tunnel Waterfall" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-hXFTcK2XXxc/U_awl5MmQ6I/AAAAAAADSWw/7YGObfPtKX0/1408673229467.jpg cursor: pointer;" caption=" View down from the high bridge" %}
+{% include image.html src="https://lh4.googleusercontent.com/-hXFTcK2XXxc/U_awl5MmQ6I/AAAAAAADSWw/7YGObfPtKX0/1408673229467.jpg cursor: pointer;" caption="View down from the high bridge" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-cvrxR095oM0/U_aw8esywzI/AAAAAAADSW4/0OC_VnhZKlo/1408673254634.jpg cursor: pointer;" caption=" First view of The Bridge Of The Gods" %}
+{% include image.html src="https://lh6.googleusercontent.com/-cvrxR095oM0/U_aw8esywzI/AAAAAAADSW4/0OC_VnhZKlo/1408673254634.jpg cursor: pointer;" caption="First view of The Bridge Of The Gods" %}
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-x5_Qmm2YTK0/U_axFtc-AjI/AAAAAAADSXA/do3prA3E-QQ/1408673306313.jpg cursor: pointer;" caption=" Hikers at the Cascade Locks brewery" %}
+{% include image.html src="https://lh3.googleusercontent.com/-x5_Qmm2YTK0/U_axFtc-AjI/AAAAAAADSXA/do3prA3E-QQ/1408673306313.jpg cursor: pointer;" caption="Hikers at the Cascade Locks brewery" %}
 

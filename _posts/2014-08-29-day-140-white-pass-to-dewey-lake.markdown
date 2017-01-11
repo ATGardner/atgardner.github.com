@@ -34,11 +34,11 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-140-white-pass-to-dewey-
  will be getting to Snoqualamie Pass on the same day, so I'll probably see more of him in the next few days.
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-ElT-3JoPsOg/VAX5DeJ0-RI/AAAAAAADTPE/OgGyqRNpoOA/1000476.jpg cursor: pointer;" caption=" A big mushroom" %}
+{% include image.html src="https://lh3.googleusercontent.com/-ElT-3JoPsOg/VAX5DeJ0-RI/AAAAAAADTPE/OgGyqRNpoOA/1000476.jpg cursor: pointer;" caption="A big mushroom" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-rtg0f1OfSqs/VAX5ov-EpgI/AAAAAAADTPY/_olBrYK909M/1000477.jpg cursor: pointer;" caption=" Pipe Lake" %}
+{% include image.html src="https://lh4.googleusercontent.com/-rtg0f1OfSqs/VAX5ov-EpgI/AAAAAAADTPY/_olBrYK909M/1000477.jpg cursor: pointer;" caption="Pipe Lake" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-GkDDcDxXbAo/VAX6MWl_t0I/AAAAAAADTP0/gU2qCwIN9DI/1000486.jpg cursor: pointer;" caption=" Dewey Lake" %}
+{% include image.html src="https://lh6.googleusercontent.com/-GkDDcDxXbAo/VAX6MWl_t0I/AAAAAAADTP0/gU2qCwIN9DI/1000486.jpg cursor: pointer;" caption="Dewey Lake" %}
 

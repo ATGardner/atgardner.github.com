@@ -61,17 +61,17 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-152-campsite-near-pct-mi
  the visitor center, and only us two are at the normal site.
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-sMP01fYmMdA/VBmrR1q5a5I/AAAAAAADUoI/n2c8uMnqzyc/1410966970755.jpg cursor: pointer;" caption=" The sea plane taking of Chelan Lake" %}
+{% include image.html src="https://lh6.googleusercontent.com/-sMP01fYmMdA/VBmrR1q5a5I/AAAAAAADUoI/n2c8uMnqzyc/1410966970755.jpg cursor: pointer;" caption="The sea plane taking of Chelan Lake" %}
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-5AzgSJWKS6Q/VBmrTZMKnuI/AAAAAAADUoQ/TSRJ7n9v1Fw/1410967004803.jpg cursor: pointer;" caption=" Justin, Sizzler and Ball Buster" %}
+{% include image.html src="https://lh5.googleusercontent.com/-5AzgSJWKS6Q/VBmrTZMKnuI/AAAAAAADUoQ/TSRJ7n9v1Fw/1410967004803.jpg cursor: pointer;" caption="Justin, Sizzler and Ball Buster" %}
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-2v2xEMkeOWg/VBmrVR8aSMI/AAAAAAADUoY/JTe8w0m5fMw/1410967028361.jpg cursor: pointer;" caption=" Tick Tock, Lighthouse, Banjo, Luke and Dewey" %}
+{% include image.html src="https://lh5.googleusercontent.com/-2v2xEMkeOWg/VBmrVR8aSMI/AAAAAAADUoY/JTe8w0m5fMw/1410967028361.jpg cursor: pointer;" caption="Tick Tock, Lighthouse, Banjo, Luke and Dewey" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-CAmRyClMp4s/VBmrX9KxFKI/AAAAAAADUog/iZjWQ4Zb8cA/IMG_20140909_152616.jpg cursor: pointer;" caption=" Lighthouse playing with the auto blur feature on his camera phone" %}
+{% include image.html src="https://lh6.googleusercontent.com/-CAmRyClMp4s/VBmrX9KxFKI/AAAAAAADUog/iZjWQ4Zb8cA/IMG_20140909_152616.jpg cursor: pointer;" caption="Lighthouse playing with the auto blur feature on his camera phone" %}
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-zbKuagnuOmk/VBmrY1IuY3I/AAAAAAADUoo/-sXfV2mCIT8/1410968373708.jpg cursor: pointer;" caption=" Lighthouse and Banjo. And 3 liters of wine." %}
+{% include image.html src="https://lh3.googleusercontent.com/-zbKuagnuOmk/VBmrY1IuY3I/AAAAAAADUoo/-sXfV2mCIT8/1410968373708.jpg cursor: pointer;" caption="Lighthouse and Banjo. And 3 liters of wine." %}
 

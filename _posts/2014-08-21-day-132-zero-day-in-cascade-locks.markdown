@@ -29,8 +29,8 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-132-zero-day-in-cascade-
  packages. A pain indeed.
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-eXtAs7gHMFs/U_djBkj742I/AAAAAAADScU/CnHA795CCQ0/1408719492538.jpg cursor: pointer;" caption=" Thanks to Rock Ocean I got the phone" %}
+{% include image.html src="https://lh5.googleusercontent.com/-eXtAs7gHMFs/U_djBkj742I/AAAAAAADScU/CnHA795CCQ0/1408719492538.jpg cursor: pointer;" caption="Thanks to Rock Ocean I got the phone" %}
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-Qa-kPXJy8wU/U_dkZB03AQI/AAAAAAADScw/EgRVrJuTdMQ/1408719521862.jpg cursor: pointer;" caption=" My resupply for the whole of Washington." %}
+{% include image.html src="https://lh3.googleusercontent.com/-Qa-kPXJy8wU/U_dkZB03AQI/AAAAAAADScw/EgRVrJuTdMQ/1408719521862.jpg cursor: pointer;" caption="My resupply for the whole of Washington." %}
 

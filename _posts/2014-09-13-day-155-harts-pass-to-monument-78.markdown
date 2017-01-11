@@ -40,17 +40,17 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-155-harts-pass-to-monume
  I'll have to get up even earlier than today, in order to do 8.6 miles before 10:10, when the bus leaves Manning
  Park. I hope I'll make or, but if not, no worries. I'll just spend the night there and do nothing.<br>
 
-{% include image.html src="https://lh5.googleusercontent.com/-9bKNPksAdis/VBmqiHHvwYI/AAAAAAADUng/Yu9moHOD4IE/1410967816804.jpg cursor: pointer;" caption=" The sun rises right on the top of that mountain" %}
+{% include image.html src="https://lh5.googleusercontent.com/-9bKNPksAdis/VBmqiHHvwYI/AAAAAAADUng/Yu9moHOD4IE/1410967816804.jpg cursor: pointer;" caption="The sun rises right on the top of that mountain" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-mO3wRFIX9HE/VBmqj6cVLFI/AAAAAAADUno/ld8NyE4uxe8/1410967862391.jpg cursor: pointer;" caption=" Just a little panorama" %}
+{% include image.html src="https://lh6.googleusercontent.com/-mO3wRFIX9HE/VBmqj6cVLFI/AAAAAAADUno/ld8NyE4uxe8/1410967862391.jpg cursor: pointer;" caption="Just a little panorama" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-f1wWC3nCE7w/VBmqmXDFRyI/AAAAAAADUnw/-2kdFA6zEbs/1410967994311.jpg cursor: pointer;" caption=" A view back to Holman Pass" %}
+{% include image.html src="https://lh4.googleusercontent.com/-f1wWC3nCE7w/VBmqmXDFRyI/AAAAAAADUnw/-2kdFA6zEbs/1410967994311.jpg cursor: pointer;" caption="A view back to Holman Pass" %}
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-xe-26RO-gx8/VBmqpAWJ2EI/AAAAAAADUn4/PJ7ytDhTBCc/1410968118805.jpg cursor: pointer;" caption=" Hopkins Lake" %}
+{% include image.html src="https://lh3.googleusercontent.com/-xe-26RO-gx8/VBmqpAWJ2EI/AAAAAAADUn4/PJ7ytDhTBCc/1410968118805.jpg cursor: pointer;" caption="Hopkins Lake" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-dDS3uE0HETM/VBmqtYaR9oI/AAAAAAADUoA/TE6GL2TKB5Y/1000730.jpg cursor: pointer;" caption=" And... Almost done" %}
+{% include image.html src="https://lh4.googleusercontent.com/-dDS3uE0HETM/VBmqtYaR9oI/AAAAAAADUoA/TE6GL2TKB5Y/1000730.jpg cursor: pointer;" caption="And... Almost done" %}
 

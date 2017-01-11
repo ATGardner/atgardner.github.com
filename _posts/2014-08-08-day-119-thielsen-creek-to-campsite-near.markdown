@@ -33,11 +33,11 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-119-thielsen-creek-to-ca
  again, and was worried that the trail will be on a narrow ridge line with no available campsites anywhere soon. I
  went back to the nice campsite by the trail, and made an early camp.
 
-{% include image.html src="https://lh4.googleusercontent.com/-_lsCeEwR5bA/U-wyr0EAm4I/AAAAAAADRuk/mnZeMlNFiNM/1407988258893.jpg cursor: pointer;" caption=" A message board on the PCT. Near first road 60" %}
+{% include image.html src="https://lh4.googleusercontent.com/-_lsCeEwR5bA/U-wyr0EAm4I/AAAAAAADRuk/mnZeMlNFiNM/1407988258893.jpg cursor: pointer;" caption="A message board on the PCT. Near first road 60" %}
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-mLpc-N2BvSk/U-wy_DwwPuI/AAAAAAADRu4/kM2Ey3swJLg/1407988311423.jpg cursor: pointer;" caption=" Water cache near forest road 60" %}
+{% include image.html src="https://lh5.googleusercontent.com/-mLpc-N2BvSk/U-wy_DwwPuI/AAAAAAADRu4/kM2Ey3swJLg/1407988311423.jpg cursor: pointer;" caption="Water cache near forest road 60" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-BebwUfE-UPg/U-wzLEPxn-I/AAAAAAADRvA/PbHeMGh1hIE/1407988347398.jpg cursor: pointer;" caption=" My campsite for the night" %}
+{% include image.html src="https://lh6.googleusercontent.com/-BebwUfE-UPg/U-wzLEPxn-I/AAAAAAADRvA/PbHeMGh1hIE/1407988347398.jpg cursor: pointer;" caption="My campsite for the night" %}
 

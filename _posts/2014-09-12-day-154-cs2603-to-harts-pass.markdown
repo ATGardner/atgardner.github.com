@@ -29,14 +29,14 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-154-cs2603-to-harts-pass
  shot as well.
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-zINLuMTBPfk/VBmo84X_KQI/AAAAAAADUm4/ly0_km4WD_M/1410967596117.jpg cursor: pointer;" caption=" A wide valley" %}
+{% include image.html src="https://lh4.googleusercontent.com/-zINLuMTBPfk/VBmo84X_KQI/AAAAAAADUm4/ly0_km4WD_M/1410967596117.jpg cursor: pointer;" caption="A wide valley" %}
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-OF9pK3Df_1M/VBmpAKDJSwI/AAAAAAADUnA/Rj5cv4RhfN0/1410967634703.jpg cursor: pointer;" caption=" Definitely getting closer (eh)" %}
+{% include image.html src="https://lh3.googleusercontent.com/-OF9pK3Df_1M/VBmpAKDJSwI/AAAAAAADUnA/Rj5cv4RhfN0/1410967634703.jpg cursor: pointer;" caption="Definitely getting closer (eh)" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-8oyauRSkblg/VBmpCJTIRFI/AAAAAAADUnI/02Q8Xqlrhx4/1410967677077.jpg cursor: pointer;" caption=" The sun was setting right behind that tree" %}
+{% include image.html src="https://lh6.googleusercontent.com/-8oyauRSkblg/VBmpCJTIRFI/AAAAAAADUnI/02Q8Xqlrhx4/1410967677077.jpg cursor: pointer;" caption="The sun was setting right behind that tree" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-BV9oleH6jRE/VBmpEallHNI/AAAAAAADUnQ/GCaXGN6iwNw/1410967722132.jpg cursor: pointer;" caption=" Almost at Hart's Pass" %}
+{% include image.html src="https://lh4.googleusercontent.com/-BV9oleH6jRE/VBmpEallHNI/AAAAAAADUnQ/GCaXGN6iwNw/1410967722132.jpg cursor: pointer;" caption="Almost at Hart's Pass" %}
 

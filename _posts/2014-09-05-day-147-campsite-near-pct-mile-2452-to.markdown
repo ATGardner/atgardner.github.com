@@ -30,14 +30,14 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-147-campsite-near-pct-mi
  which I probably last seen in Idlewild. Lighthouse is here - he managed to get his sleeping mat, luckily.
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-_cPS4GrwRfM/VBZvCG-a-6I/AAAAAAADT4k/j8Jf8YPiUEY/1000577.jpg cursor: pointer;" caption=" Is that Glacier Peak?" %}
+{% include image.html src="https://lh5.googleusercontent.com/-_cPS4GrwRfM/VBZvCG-a-6I/AAAAAAADT4k/j8Jf8YPiUEY/1000577.jpg cursor: pointer;" caption="Is that Glacier Peak?" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-yynpN0gGfIs/VBZvRY4C1LI/AAAAAAADT4s/0E-7qacDNGc/1410753489423.jpg cursor: pointer;" caption=" Trying to hitch down from Stevens Pass, with Banjo and Slacker" %}
+{% include image.html src="https://lh6.googleusercontent.com/-yynpN0gGfIs/VBZvRY4C1LI/AAAAAAADT4s/0E-7qacDNGc/1410753489423.jpg cursor: pointer;" caption="Trying to hitch down from Stevens Pass, with Banjo and Slacker" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-iQG-6z7DRO4/VBZxr_mO4II/AAAAAAADT5A/G4QMP1hzDqc/1410753632661.jpg cursor: pointer;" caption=" A healthy dinner at the Cascadia Inn" %}
+{% include image.html src="https://lh4.googleusercontent.com/-iQG-6z7DRO4/VBZxr_mO4II/AAAAAAADT5A/G4QMP1hzDqc/1410753632661.jpg cursor: pointer;" caption="A healthy dinner at the Cascadia Inn" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-YeDuUTRhaXc/VBZx4ew4GNI/AAAAAAADT5I/04oJv8WGi1E/1410753753658.jpg cursor: pointer;" caption=" Don't get too excited. I'm just wearing loaner clothes while doing laundry." %}
+{% include image.html src="https://lh4.googleusercontent.com/-YeDuUTRhaXc/VBZx4ew4GNI/AAAAAAADT5I/04oJv8WGi1E/1410753753658.jpg cursor: pointer;" caption="Don't get too excited. I'm just wearing loaner clothes while doing laundry." %}
 
