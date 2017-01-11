@@ -30,7 +30,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/into-manning-park-and-beyond
  first, while I was hiking in the darkness with my headlamp. I held my hiking poles under my arm and put my hands in
  my pockets. That helped, though it slowed me down. Eventually it got a bit warmer, so I started hiking normally.
 
- I found it strange that the signs still called this trail the pct. Right at the campsite where I slept, there
+ I found it strange that the signs still called this trail the PCT. Right at the campsite where I slept, there
  was a sign with an arrow pointing south, to "Monument 78", and another arrow pointing north to the "PCT". The
  Canadians got it all wrong.
 

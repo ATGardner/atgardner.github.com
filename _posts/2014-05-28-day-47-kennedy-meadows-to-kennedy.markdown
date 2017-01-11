@@ -30,4 +30,4 @@ At about 18:00 we left the general store, and headed out. We stopped to weigh ou
 
 {% include image.html src="http://4.bp.blogspot.com/-gH5P_7k70kE/VZJ4XdsZVNI/AAAAAAAFhVg/nax5UrdEDTo/s1600/2014-05-28%2B18.39.08.jpg" caption="Entering Bear country" %}
 
-The trail to the campground was easy, and Yair got his first taste of the pct. Once there, we found a nice spot not far from the water spigot, set up camp and made dinner. A short while later Big Boots, Sock Pot and Twice came by, and made a camp fire in their campsite. We joined in for a while, and it was very nice. Penguin also showed up and camped nearby. All in all, a very relaxing and easy day.
+The trail to the campground was easy, and Yair got his first taste of the PCT. Once there, we found a nice spot not far from the water spigot, set up camp and made dinner. A short while later Big Boots, Sock Pot and Twice came by, and made a camp fire in their campsite. We joined in for a while, and it was very nice. Penguin also showed up and camped nearby. All in all, a very relaxing and easy day.

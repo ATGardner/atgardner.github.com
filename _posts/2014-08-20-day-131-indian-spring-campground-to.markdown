@@ -12,7 +12,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-131-indian-spring-campgr
  I noticed some rain drops falling on my tent during the night, but I wasn't ready to get outside early in the
  morning and be inside a cloud.
  I saw Rimshot just before I left the campsite, and headed down the Indian Creek
- trail. It was quite a steep trail. Definitely not the pct. After 2 miles I got to the Eagle Creek trail, which was
+ trail. It was quite a steep trail. Definitely not the PCT. After 2 miles I got to the Eagle Creek trail, which was
  much less steep.
  Sadly, just at the junction between those two trails, I slipped down on my ass, and snapped my
  pole again. This time, I don't have any pole sections to get another pole. So no poles for the day.

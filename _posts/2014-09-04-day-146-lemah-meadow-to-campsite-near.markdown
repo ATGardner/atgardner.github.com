@@ -39,7 +39,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-146-lemah-meadow-to-camp
  After we both finished dinner, other hikers started
  appearing. We were very surprised, since we have hiked almost 30 miles to get here, but Dewey, Tick Tock and Ball
  Buster came from the alternate, which means they did a bit less than us. What really surprised us was that
- Seamstress did _hike_ the official pct, and did about 35 miles today. Crazy.
+ Seamstress did _hike_ the official PCT, and did about 35 miles today. Crazy.
 
 
 {% include image.html src="https://lh3.googleusercontent.com/-kVHurvwaobQ/VBZeqWuvRnI/AAAAAAADT2k/M5c0tJHFqqc/1000567.jpg cursor: pointer;" caption="Cathedral Rock" %}

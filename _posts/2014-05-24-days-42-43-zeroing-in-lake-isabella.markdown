@@ -21,7 +21,7 @@ After the great trail magic dinner up at Walker Pass campground, we also had pan
 
 There was another hiker that came in last night, after doing a 40 mile day. And two more that strolled in this morning after doing over 30 yesterday. They were all heading out, and not going into town.
 
-We went out to the highway, and got a hitch in about 10 minutes. The lady who picked us up, Helen, said she just started noticing hikers on this road this year. She leaves in Ridgecrest, and drives over to Lake Isabella every Friday. Two weeks ago she picked up a thru-Hiker from Scotland, and first learned on the whole pct. She was very interested in our hike, and asked a lot of questions about it.
+We went out to the highway, and got a hitch in about 10 minutes. The lady who picked us up, Helen, said she just started noticing hikers on this road this year. She leaves in Ridgecrest, and drives over to Lake Isabella every Friday. Two weeks ago she picked up a thru-Hiker from Scotland, and first learned on the whole PCT. She was very interested in our hike, and asked a lot of questions about it.
 
 When we got down to Lake Isabella, she said she'd like to take us over to the next town of Kernville, to show us the nice Park over there. So she drove 10 extra miles over there, and we saw the nice Park and the Kern river over there. Afterwards she got us back to the Lake Isabella motel, and we waited for Big Boots, Rudolph and Bambi. We all shared a two queen size bed room, and Big Boots got to sleep on the floor (and pay less). We did our laundry while waiting for the room to be ready, and later had a shower. It feels so much nicer to be clean in towns.
 

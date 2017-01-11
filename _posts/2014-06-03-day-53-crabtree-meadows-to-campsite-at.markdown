@@ -27,7 +27,7 @@ After finally reaching the icy chute at the top of the pass, we were relieved to
 
 {% include image.html src="http://4.bp.blogspot.com/-l1JKBuATIFg/Vbdn0NNreKI/AAAAAAAFijs/nYO6Xb_FI-8/s1600/2014-06-03%2B16.20.35.jpg" caption="The highest point on the PCT. It was a tough climb." %}
 
-We got to the pass late, at 16:20. But we've made it. The view from the top was amazing, and the North side was unsurprisingly full of snow. At 13,200 feet, this is the highest point on the pct. High indeed. After a brief photo session, we started our hike down.
+We got to the pass late, at 16:20. But we've made it. The view from the top was amazing, and the North side was unsurprisingly full of snow. At 13,200 feet, this is the highest point on the PCT. High indeed. After a brief photo session, we started our hike down.
 
 {% include image.html src="http://3.bp.blogspot.com/-SpxdzmddBVc/Vbdn1NrMGaI/AAAAAAAFijw/5U9y_0zO-Do/s1600/2014-06-03%2B17.32.12.jpg" caption="Harmonic Wave climbing back up to retrieve his water bottle." %}
 

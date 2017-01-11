@@ -22,7 +22,7 @@ I used his rain jacket at night, to put it _over_ the gap, and I think it did he
 
 {% include image.html src="http://3.bp.blogspot.com/-bnZU2uOD2zk/VautldK2VdI/AAAAAAAFh08/Gda2M7_OsVE/s1600/2014-06-01%2B11.40.39.jpg" caption="Idan and Yair crossing Rock Creek" %}
 
-Today was an easy day. It felt like it was mostly down, even though it was about as much uphill. There were many water sources, and we stopped to rest at two of them. We also got a good look towards Forrester Pass, the highest point on the pct, which we will cross in two days.
+Today was an easy day. It felt like it was mostly down, even though it was about as much uphill. There were many water sources, and we stopped to rest at two of them. We also got a good look towards Forrester Pass, the highest point on the PCT, which we will cross in two days.
 
 {% include image.html src="http://2.bp.blogspot.com/-Dpj21Gh7fYA/VautlRgktwI/AAAAAAAFh1A/iePW7yPBffw/s1600/2014-06-01%2B15.59.31.jpg" caption="Crossing Whitney Creek, right before taking the side trail up to Whiteney" %}
 

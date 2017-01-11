@@ -18,7 +18,7 @@ Today was surprisingly easy.
 
 After another record breaking cold night (don't worry, I do get some sleep at those nights), we got up and took our time again, waiting for the sun to warm us a bit. My shoes were frozen. Not figuratively. But literally rock solid, cold as ice, frozen. That's what you get when you put wet shoes outside, in freezing temperatures. I postponed putting them on until the last minute, and even then, it was a pain. Yair had to wrestle with his, in order to get his foot inside. I recalled how it took me hours to thaw my shoes back on the AT, and wasn't looking forward to the cold feet day. What I didn't take into account was how warm it is now, compared to the cold days I had back then on the AT. My shoes thawed within an hour, and I was happy again.
 
-We had a short hike to the trail junction, where we were planning to hike away from the pct, and over Kearsarge Pass, out to resupply.
+We had a short hike to the trail junction, where we were planning to hike away from the PCT, and over Kearsarge Pass, out to resupply.
 
 {% include image.html src="http://3.bp.blogspot.com/-rC44mmFAdQU/Vb3hVucAOZI/AAAAAAAFiqM/RxPyl87YM0Y/s1600/2014-06-04%2B11.44.21.jpg" caption="View towards Kearsarge Pinnacles, from the way up to the pass" %}
 
@@ -26,7 +26,7 @@ After an easy 2.5 miles, we stopped for a short break, before starting our climb
 
 {% include image.html src="http://1.bp.blogspot.com/-CgCzA3ZZEtM/Vb3hV50DRFI/AAAAAAAFiqU/Pi3PPhPERAk/s1600/2014-06-04%2B12.24.51.jpg" caption="Another view, from Kearsarge Pass" %}
 
-At the top we've met Papa Bear and his two sons, out hiking a big section of the pct, from what I understood. They were just back from their resupply, and into the trail.
+At the top we've met Papa Bear and his two sons, out hiking a big section of the PCT, from what I understood. They were just back from their resupply, and into the trail.
 
 {% include image.html src="http://4.bp.blogspot.com/-h6FSJgvelas/Vb3hY-1lZMI/AAAAAAAFiqs/Mj0a17Jl1xQ/s1600/2014-06-04%2B13.48.40.jpg" caption="Gilbert Lake, from the way down towards Onion Valley" %}
 

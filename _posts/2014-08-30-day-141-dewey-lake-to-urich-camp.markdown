@@ -26,7 +26,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-141-dewey-lake-to-urich-
  Finally, we stopped for s short lunch at 15:00 with 10 miles to go. It seemed as though the rain had
  stopped for the day, so I took off my rain jacket. Putting on some music afterwards, I hiked faster in order to
  finish up the day.
- Sizzler and I were aiming at a nice shelter, one of the few on the pct. Buck-30 preferred to
+ Sizzler and I were aiming at a nice shelter, one of the few on the PCT. Buck-30 preferred to
  camp a few miles before, because he was worried the shelter would be full of weekend hikers from Seattle.
  Just
  after passing Sizzler, the rain started again. I had about 5 more miles to go, so I just put back my jacket, and

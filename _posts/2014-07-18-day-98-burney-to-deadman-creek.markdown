@@ -16,13 +16,13 @@ Back in the room, we discovered the gas canister Big Boots bought for us yesterd
 The lady at the front desk or the motel said there is a local trail angel who drives hikers up to the trail. She gave her a call, and Mary came a few minutes later to pick us up. I think we were the first hikers to go up to the trail today.
 
 We got a ride back to where I got off yesterday, and headed out into the Burney Falls State Park. It was a bit off tail, but we wanted to see the falls.
- We stopped at the general store for ice cream, and met Smuggles, Chop Chop, Prospector, Luna and Crackpot. After finishing the ice cream, we went and did the falls loop trail, on the way back to the pct.
+ We stopped at the general store for ice cream, and met Smuggles, Chop Chop, Prospector, Luna and Crackpot. After finishing the ice cream, we went and did the falls loop trail, on the way back to the PCT.
 
 Apparently, the snow melt from Mt Burney, 15 miles away, gets here in a mostly underground stream. We even crossed a wooden bridge over a dry river bed just before getting to the park. But about 0.25 miles before the falls, the stream comes out gushing, and the falls themselves are very very impressive.
 
 Back on the trail, we thought we have a few more miles to hike, until we reach a dam with a water spigot. The dam was there, no spigot was found. We still had enough water to get us to Rock Creek. So no worries.
 
-On a short break, just after the dam, String Beans passed us. At first we thought he was just trail running a bit around, but he told us he is doing the entire pct, and is currently on schedule to set a new supported record of 57 days. He started on June 18th, one month ago. Very impressive.
+On a short break, just after the dam, String Beans passed us. At first we thought he was just trail running a bit around, but he told us he is doing the entire PCT, and is currently on schedule to set a new supported record of 57 days. He started on June 18th, one month ago. Very impressive.
 
 Continuing on, the heat of the day made it hard to hike. We were happy to get to Rock Creek, where Yogi's guide started there are some great dipping holes. We went under the bridge, and I got in for a good dip. It felt really good, in this heat.
 

@@ -36,7 +36,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-123-mesa-creek-to-bend-m
  was training to some hardcore bike trip, by riding from Eugene to Sisters - about 100 miles, and then tomorrow even
  further on. Well, from here or was mostly down for him for the rest of the day. But riding up here must be very hard
  indeed.
- We talked about hiking and biking and the pct, on the long way down to Sisters. She finally dropped me
+ We talked about hiking and biking and the PCT, on the long way down to Sisters. She finally dropped me
  off near the main street is Sisters, so I can hitch over to Bend. She gave me her number, in case I will get stuck
  tomorrow morning in Bend, and need a ride back up somehow, on her way back to Eugene.
  I walked across Sisters,

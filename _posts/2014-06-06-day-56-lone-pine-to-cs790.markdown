@@ -24,7 +24,7 @@ At about 10:00 we finally got a break, when someone came along, and said he'd ta
 
 We all loaded in the back of the car, which had no chair, and is probably used to transport animals. Idan won the front seat, and had to listen to conspiracy theories about Obama and weed and I don't know what else, for the whole trip. He definitely took one for the team.
 
-We got up to the campground and filled up some water at the spigot there, getting ready to start our hike all the way back up to Kearsarge Pass, and back to the pct. We left by about 11:00, and I found the climb to be much easier than I had feared. It only took us about 2:30 hours to finish it. A bit less than hiking down it two days ago. We met many thru hikers coming down into town, including Sunbeam and Arctic. They were going in for a zero, but I'm sure they'll catch us soon enough.
+We got up to the campground and filled up some water at the spigot there, getting ready to start our hike all the way back up to Kearsarge Pass, and back to the PCT. We left by about 11:00, and I found the climb to be much easier than I had feared. It only took us about 2:30 hours to finish it. A bit less than hiking down it two days ago. We met many thru hikers coming down into town, including Sunbeam and Arctic. They were going in for a zero, but I'm sure they'll catch us soon enough.
 
 At the top of the pass we met two park rangers who were starting their first party patrol for this season. They were very nice. We were also debating if we should push on to do Glen Pass this afternoon, which might be a bit tricky because of the snow melt from the day's sun, our stop before it (and have a really short day) and do the pass tomorrow, which might be a bit tricky because of snow freeze from the night's cold.
 

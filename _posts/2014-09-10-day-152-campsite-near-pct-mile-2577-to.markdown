@@ -51,7 +51,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-152-campsite-near-pct-mi
  the store I finally saw bears! I saw a big one, probably a momma bear, carrying a fish between her teeth right next
  to a house on the lake's beach, and two bear cubs taking her. They went behind the house and crossed the road ahead
  of me, and then climbed up through the forest on the other side. The people in the house also saw them. It was
- awesome. I'm so happy I finally saw bears on the pct.
+ awesome. I'm so happy I finally saw bears on the PCT.
  Lighthouse and I almost missed our bus to the dinner at
  the ranch, but the bus driver came over and called us. Dinner was tasty enough, and I was full afterwards. But
  apparently the price didn't include the ride back, so we had to pay for that also on the bill, which was annoying.

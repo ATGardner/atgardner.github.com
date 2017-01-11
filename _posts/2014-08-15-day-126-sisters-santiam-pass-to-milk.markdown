@@ -42,7 +42,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-126-sisters-santiam-pass
  Just before making dinner, I heard
  some voices from the creek. I headed down there and saw three section hikers. I told them there is some room next to
  me, but they were going on anyway. They came here to climb up the mountain above the creek, and not hike along the
- pct. They had some serious climbing gear.
+ PCT. They had some serious climbing gear.
  A bit later 4 northbounders passed me. I never met them before, but
  one of them was called Whistles. I told them that the campsite right next to me is one option, or they might camp at
  a flat spot next to the stream itself. Going back to the stream later, I saw two of them stayed there. I guess the
