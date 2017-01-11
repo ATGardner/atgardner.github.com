@@ -13,7 +13,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-140-white-pass-to-dewey-
  trail magic by the trail head, but everyone there were still asleep when I passed by.
  The trail was nice and
  easy, and I quickly met some hikers going south. Papi skipped from Cascade Locks up to the Canadian border, to
- finish the trail going southbound. He'll be done in about a week, just in time to get there for pct days
+ finish the trail going southbound. He'll be done in about a week, just in time to get there for PCT days
  celebration. Sounds nice.
  The trail throughout the day was pretty nice, even though I didn't get any
  spectacular views like yesterday. There were some climbs, but nothing exceptionally hard.

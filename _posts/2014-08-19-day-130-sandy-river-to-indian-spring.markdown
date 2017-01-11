@@ -23,7 +23,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-130-sandy-river-to-india
  Georgia, only much smaller.
  I met a hiker that plans on doing the Timberline Trail, 40 miles around Mt Hood, in
  2 days. He started yesterday with 10 miles to Sandy River, and he plans on running the remaining 30 today. When he
- left Ramona Falls, he got in the old pct going up, instead of the trail that goes down towards the new pct. I had to
+ left Ramona Falls, he got in the old PCT going up, instead of the trail that goes down towards the new pct. I had to
  run after him and call out for him, while he was running up and listening to music, to let him know he is on the
  wrong trail. Later, after crossing the Muddy Ford, he again took off to the right, instead of following the correct
  trail to the left. He figured that one out on his own, several minutes later.

@@ -23,7 +23,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-124-bend-mckenzie-pass-t
  ice cream shops, called Goody's, and was driving over to their Eugene store to deliver since I've cream.
  We
  talked about the PCT and about Israel, and hiking. He has hiked around here, and plans to hike note sections odd the
- pct soon. He pointed at the mountains around, and told me their names. After a while, he decided he'd use the old
+ PCT soon. He pointed at the mountains around, and told me their names. After a while, he decided he'd use the old
  highway, and take me all the way to McKenzie Pass. I don't know how much time it added to his drive to Eugene.
 
  Before I got off at the observatory, Dane told me I can come over to one of his stores this evening, and get a free

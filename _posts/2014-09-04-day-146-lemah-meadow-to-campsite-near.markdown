@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 146 - Lemah Meadow to campsite near pct mile 2452
+title: Day 146 - Lemah Meadow to campsite near PCT mile 2452
 date: '2014-09-04T20:26:00.000-07:00'
 author: Noam Gal
 tags:

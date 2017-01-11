@@ -17,6 +17,6 @@ We met up Roi and Sara over there. They did a short day to get there, and wait f
 
 We went to the warm water swimming pool, took a very good shower, and went inside. That was a very nice way to end the day's hike. Later, we got the hiker's menu at the restaurant, together with Hop Scotch, Double Tap, Forty Five, Whiskey and Beer. I got a nice vegetarian dish, with polenta and lots of vegetables.
 
-We were approached by a guest of the ranch, who told us that they come over for a vacation every year (her mom first came here in 1941! And she is here now!), and they always give pct hikers a bottle of wine, as a tradition. So she gave us a bottle. That was very nice indeed.
+We were approached by a guest of the ranch, who told us that they come over for a vacation every year (her mom first came here in 1941! And she is here now!), and they always give PCT hikers a bottle of wine, as a tradition. So she gave us a bottle. That was very nice indeed.
 
 After dinner, we got back down the road to the campsite, and set up for a late camp. All in all, stopping here in Drakesbad was worth it.

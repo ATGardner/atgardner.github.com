@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 21 - pct mile 240 to Big Bear
+title: Day 21 - PCT mile 240 to Big Bear
 date: '2014-05-02T14:23:00.000-07:00'
 author: Noam Gal
 tags:

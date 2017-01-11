@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 51 - pct mile 753 to Crabtree Meadows
+title: Day 51 - PCT mile 753 to Crabtree Meadows
 date: '2014-06-01T17:03:00.000-07:00'
 author: Noam Gal
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 23 - campsite at pct mile 285 to someplace at 305
+title: Day 23 - campsite at PCT mile 285 to someplace at 305
 date: '2014-05-04T14:56:00.000-07:00'
 author: Noam Gal
 tags:

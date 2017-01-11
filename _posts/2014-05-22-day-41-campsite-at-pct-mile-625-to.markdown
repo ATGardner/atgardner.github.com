@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 41 - campsite at pct mile 625 to Walker Pass campground
+title: Day 41 - campsite at PCT mile 625 to Walker Pass campground
 date: '2014-05-22T11:42:00.000-07:00'
 author: Noam Gal
 tags:

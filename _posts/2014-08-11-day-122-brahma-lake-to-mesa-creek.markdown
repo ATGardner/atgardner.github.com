@@ -32,7 +32,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-122-brahma-lake-to-mesa-
  PCT. They were also planning to get to Horse Lake, but they went up the wrong trail for a while before realizing
  their mistake and coming back down to the resort.
  Then came a couple of hikers. They were planning on camping
- near Horse Lake, and also took the pct instead. They hiked a total of 3 extra miles. I shower then where we were on
+ near Horse Lake, and also took the PCT instead. They hiked a total of 3 extra miles. I shower then where we were on
  the map, and directed them to the right trail as well.
  I finally left the trail junction at around 15:20 with 9
  miles to go. After a short while I stumbled upon the reason the trail had so much horse poop all over it - two

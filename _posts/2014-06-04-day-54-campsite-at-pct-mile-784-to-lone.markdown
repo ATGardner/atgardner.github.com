@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 54 - campsite at pct mile 784 to Lone Pine
+title: Day 54 - campsite at PCT mile 784 to Lone Pine
 date: '2014-06-04T20:13:00.000-07:00'
 author: Noam Gal
 tags:

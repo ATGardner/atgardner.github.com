@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 9 - Trail Angel Mike's to campsite at pct mile 144
+title: Day 9 - Trail Angel Mike's to campsite at PCT mile 144
 date: '2014-04-20T18:00:00.000-07:00'
 author: Noam Gal
 tags:
@@ -24,7 +24,7 @@ Today was the hardest day yet, mostly because of our inability to take a break a
 
 At least we finally saw a big snake just at that junction to the spring. That was a first for me.
 
-We also had a short stop at the water cistern at pct mile 139.5, but we should have just waited there two more hours. Instead, we headed out for the final stretch. That was the final nail. We were limping towards the water cache, and then from there, the final mile to our campsite. We got here early, but beat. Next time we will plan our day better.
+We also had a short stop at the water cistern at PCT mile 139.5, but we should have just waited there two more hours. Instead, we headed out for the final stretch. That was the final nail. We were limping towards the water cache, and then from there, the final mile to our campsite. We got here early, but beat. Next time we will plan our day better.
 
 {% include image.html src="http://2.bp.blogspot.com/-2agBemhRftg/VJmB1qDSwoI/AAAAAAAFRXg/N9tEbpuuboY/s1600/2014-04-20%2B14.39.45.jpg" caption="I guess that's some kind of cactus with a nice flower" %}
 

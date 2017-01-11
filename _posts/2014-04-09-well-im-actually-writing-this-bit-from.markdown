@@ -16,7 +16,7 @@ The past few days were strange but nice. I started my leave of absence from work
 
 I did some trail related chores, like replacing the battery of my phone, activating my t-mobile sim card (it wasn't easy) and packing about two days in advance.
 
-I also had a very nice picnic with my friends, to say goodbye to everyone before I take off. My gf surprised me by getting an edible pct logo and putting it over the cake she made me, which was awesome. And we had some great humus (from Abu-Hassan in Jaffa), so that was really good.
+I also had a very nice picnic with my friends, to say goodbye to everyone before I take off. My gf surprised me by getting an edible PCT logo and putting it over the cake she made me, which was awesome. And we had some great humus (from Abu-Hassan in Jaffa), so that was really good.
 
 {% include image.html src="http://1.bp.blogspot.com/-CMyeKrQHVf0/U0Y5I2iCcDI/AAAAAAADKls/dZMRWTY745o/s1600/IMG_20140404_144300.jpg" caption="It was also very tasty!" %}
 

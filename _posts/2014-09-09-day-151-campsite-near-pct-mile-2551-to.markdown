@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 151 - Campsite near pct mile 2551 to campsite near pct mile 2577
+title: Day 151 - Campsite near PCT mile 2551 to campsite near PCT mile 2577
 date: '2014-09-09T18:02:00.000-07:00'
 author: Noam Gal
 tags:

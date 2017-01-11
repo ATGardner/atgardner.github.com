@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 101 - campsite near pct mile 1501 To Mt Shasta
+title: Day 101 - campsite near PCT mile 1501 To Mt Shasta
 date: '2014-07-21T18:19:00.000-07:00'
 author: Noam Gal
 tags:

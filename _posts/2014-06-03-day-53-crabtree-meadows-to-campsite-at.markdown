@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 53 - Crabtree Meadows to campsite at pct mile 784
+title: Day 53 - Crabtree Meadows to campsite at PCT mile 784
 date: '2014-06-03T19:37:00.000-07:00'
 author: Noam Gal
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 24 - campsite at pct mile 305 to Cleghorn Picnic Area
+title: Day 24 - campsite at PCT mile 305 to Cleghorn Picnic Area
 date: '2014-05-05T16:23:00.000-07:00'
 author: Noam Gal
 tags:

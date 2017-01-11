@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 152 - Campsite near pct mile 2577 to Stehekin
+title: Day 152 - Campsite near PCT mile 2577 to Stehekin
 date: '2014-09-10T21:09:00.000-07:00'
 author: Noam Gal
 tags:

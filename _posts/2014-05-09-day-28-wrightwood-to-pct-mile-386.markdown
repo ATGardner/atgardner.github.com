@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 28 - Wrightwood to pct mile 386
+title: Day 28 - Wrightwood to PCT mile 386
 date: '2014-05-09T11:19:00.000-07:00'
 author: Noam Gal
 tags:

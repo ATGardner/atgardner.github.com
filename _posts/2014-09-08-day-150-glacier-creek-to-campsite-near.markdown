@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 150 - Glacier Creek to campsite near pct mile 2551
+title: Day 150 - Glacier Creek to campsite near PCT mile 2551
 date: '2014-09-08T18:01:00.000-07:00'
 author: Noam Gal
 tags:

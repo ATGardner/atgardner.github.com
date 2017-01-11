@@ -16,7 +16,7 @@ That was one cold night up there on the mountain. I had all my clothes on, which
 
 {% include image.html src="http://1.bp.blogspot.com/-3tND9n88w4U/VJ-7wwQIZeI/AAAAAAAFSGE/Hh1fNtQlBFo/s1600/2014-04-28%2B15.48.41.jpg" caption="The Snow Canyon Road faucet, after 16 waterless miles. Oh, and that was all the shade we've had." %}
 
-We headed out at just before 15:45, and it took us about 2 hours to finally reach Ziggy and The Bear. This is an awesome place - the house was bought to serve as a pct hostel. They give you an Epsom salt foot bath before you can use the solar shower (by the time I got there it was icy cold), and they accept hiker packages, and also sell many hiker oriented supplies. They also served ice cream. I got vanilla.
+We headed out at just before 15:45, and it took us about 2 hours to finally reach Ziggy and The Bear. This is an awesome place - the house was bought to serve as a PCT hostel. They give you an Epsom salt foot bath before you can use the solar shower (by the time I got there it was icy cold), and they accept hiker packages, and also sell many hiker oriented supplies. They also served ice cream. I got vanilla.
 
 {% include image.html src="http://2.bp.blogspot.com/-2irdiYA9FtY/VJ-7xLL__7I/AAAAAAAFSGI/N4Dj-Tt5qaE/s1600/2014-04-28%2B16.00.21.jpg" caption="A view back towards snowy San Jacinto from the valley floor" %}
 

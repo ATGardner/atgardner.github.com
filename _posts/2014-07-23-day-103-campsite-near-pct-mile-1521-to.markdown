@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 103 - campsite near pct mile 1521 to Chilcoot Creek
+title: Day 103 - campsite near PCT mile 1521 to Chilcoot Creek
 date: '2014-07-23T18:21:00.000-07:00'
 author: Noam Gal
 tags:

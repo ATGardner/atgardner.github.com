@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 134 - Campsite near pct mile 2178 to Crest Horse Camp
+title: Day 134 - Campsite near PCT mile 2178 to Crest Horse Camp
 date: '2014-08-23T19:50:00.000-07:00'
 author: Noam Gal
 tags:

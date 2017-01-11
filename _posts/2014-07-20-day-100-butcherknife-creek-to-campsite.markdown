@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 100 - Butcherknife Creek to campsite near pct mile 1501.6
+title: Day 100 - Butcherknife Creek to campsite near PCT mile 1501.6
 date: '2014-07-20T11:15:00.000-07:00'
 author: Noam Gal
 tags:

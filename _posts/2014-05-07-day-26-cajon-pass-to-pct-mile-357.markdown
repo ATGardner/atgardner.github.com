@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 26 - Cajon Pass to pct mile 357
+title: Day 26 - Cajon Pass to PCT mile 357
 date: '2014-05-07T18:50:00.001-07:00'
 author: Noam Gal
 tags:

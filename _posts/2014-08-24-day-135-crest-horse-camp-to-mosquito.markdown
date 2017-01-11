@@ -21,7 +21,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-135-crest-horse-camp-to-
  the top. I caught up to the section hikers, Jerry  Matt, Ford, Justin and Brian, at the first water source, in
  Green Lake.
  I hiked rather slowly for a while, reaching my next planned snack stop a bit later than I
- anticipated. But a bit later I passed two day hikers that told me they left a cooler for pct hikers in the back of
+ anticipated. But a bit later I passed two day hikers that told me they left a cooler for PCT hikers in the back of
  their truck on the next road crossing, so my pace naturally increased.
  I reached the parking area, and caught
  up to Slaughterhouse and Justin. Slaughterhouse was just leaving, trying to bit the storm that was coming near us. I

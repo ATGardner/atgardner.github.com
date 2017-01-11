@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 133 - Cascade Locks to campsite near pct mile 2178
+title: Day 133 - Cascade Locks to campsite near PCT mile 2178
 date: '2014-08-22T20:23:00.000-07:00'
 author: Noam Gal
 tags:

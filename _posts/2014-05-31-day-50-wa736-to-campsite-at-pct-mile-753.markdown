@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 50 - wa736 to campsite at pct mile 753
+title: Day 50 - wa736 to campsite at PCT mile 753
 date: '2014-05-31T19:25:00.000-07:00'
 author: Noam Gal
 tags:

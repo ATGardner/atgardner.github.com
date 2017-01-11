@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 27 - campsite at pct mile 357 to Wrightwood
+title: Day 27 - campsite at PCT mile 357 to Wrightwood
 date: '2014-05-08T20:57:00.001-07:00'
 author: Noam Gal
 tags:

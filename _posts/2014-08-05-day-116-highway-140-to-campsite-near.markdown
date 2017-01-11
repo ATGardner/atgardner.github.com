@@ -15,7 +15,7 @@ In the morning I left just after Frank. I caught up to him several miles later, 
 
 Further on during the day, I started passing most of the hikers that went ahead yesterday and camped further than me. Just a bit after passing Rimshot and Kit, I made another stumble and managed to snap my pole again! I quickly looked back, to make sure nobody saw me almost fall. But snapping the pole was way more annoying. At least I snapped the lower section now, so I still have a good top and a good bottom sections. But I won't buy a new Gossamar Gear pole. I might just buy a cheap one in rei in Bend.
 
-The trail kept doing short ups and downs. All very easy and nice. I was hiking through the 18 miles that the pcta web site recommend to skip because of smoke from nearby fires. It was all clear and well. Didn't even smell anything.
+The trail kept doing short ups and downs. All very easy and nice. I was hiking through the 18 miles that the PCTA web site recommend to skip because of smoke from nearby fires. It was all clear and well. Didn't even smell anything.
 
 I passed some other hikers in the afternoon. Almost everyone is heading into Mazama Village tomorrow. At the end of the day there was one climb which was a bit harder than the other climbs so far. But it was also over quite quickly. From the top, it was all down hill through three water sources. The last of them is the last good water before the highway exit to Mazama Village, 20 miles later. That's where I planned on camping.
 

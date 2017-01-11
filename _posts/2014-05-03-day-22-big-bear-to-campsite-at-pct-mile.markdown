@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 22 - Big Bear to campsite at pct mile 285
+title: Day 22 - Big Bear to campsite at PCT mile 285
 date: '2014-05-03T14:51:00.000-07:00'
 author: Noam Gal
 tags:
@@ -18,7 +18,7 @@ In the morning I got out of the motel, and hitch hiked back from Big Bear City t
 
 {% include image.html src="http://4.bp.blogspot.com/-ECFrv5QSRl4/VNcFNG10lQI/AAAAAAAFZsE/3EqFsnazxH0/s1600/2014-05-03%2B15.27.36.jpg" caption="Nice Tree/s" %}
 
-I was rather bummed at first, thinking and re-thinking and over-thinking my hike, figuring out I'm not really having fun, and maybe I should stop. Then deciding I should give it some more days. Then deciding otherwise. I was a mess. I had a chat with Idan, and somehow afterwards things seemed clearer, and I even managed to enjoy the rest of the day. So I'm still here! I got my first taste of a tortilla with peanut butter and cheese. This is not going down easily. I need to get something else for my lunches. We said goodbye to Monty, who was still sitting there by the water, and headed out to our second half of the day. In about 3 miles we got to a trail Junction where the pct takes a sharp right and many people miss it. We were ready for it. We also finally got to see some very nice postcard views of the lake, which were very nice.
+I was rather bummed at first, thinking and re-thinking and over-thinking my hike, figuring out I'm not really having fun, and maybe I should stop. Then deciding I should give it some more days. Then deciding otherwise. I was a mess. I had a chat with Idan, and somehow afterwards things seemed clearer, and I even managed to enjoy the rest of the day. So I'm still here! I got my first taste of a tortilla with peanut butter and cheese. This is not going down easily. I need to get something else for my lunches. We said goodbye to Monty, who was still sitting there by the water, and headed out to our second half of the day. In about 3 miles we got to a trail Junction where the PCT takes a sharp right and many people miss it. We were ready for it. We also finally got to see some very nice postcard views of the lake, which were very nice.
 
 {% include image.html src="http://4.bp.blogspot.com/-4FS1c6r_ceY/VNcFMkj3ePI/AAAAAAAFZsA/O3W09rVnX2g/s1600/2014-05-03%2B15.45.10.jpg" caption="View over Big Bear Lake, towards Snow Summit" %}
 

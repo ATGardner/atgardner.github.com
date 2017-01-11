@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 40 - Robin Bird spring to road crossing on pct mile 625
+title: Day 40 - Robin Bird spring to road crossing on PCT mile 625
 date: '2014-05-21T10:41:00.000-07:00'
 author: Noam Gal
 tags:

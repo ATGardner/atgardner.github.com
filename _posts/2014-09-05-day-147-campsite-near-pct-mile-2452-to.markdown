@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 147 - Campsite near pct mile 2452 to Stevens Pass
+title: Day 147 - Campsite near PCT mile 2452 to Stevens Pass
 date: '2014-09-05T21:37:00.000-07:00'
 author: Noam Gal
 tags:

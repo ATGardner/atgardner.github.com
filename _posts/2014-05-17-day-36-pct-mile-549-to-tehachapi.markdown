@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 36 - pct mile 549 to Tehachapi
+title: Day 36 - PCT mile 549 to Tehachapi
 date: '2014-05-17T16:57:00.000-07:00'
 author: Noam Gal
 tags:
@@ -21,6 +21,6 @@ The third car passed us, and then came back. The driver, from across the road, a
 
 We were hoping to find a list of trail angels that allow hikers to sleep in their homes, but I assume that unless you run a huge operation like Hiker Heaven, or Casa de Luna, you can't handle the crowds anyway. So the trail angels of this town mainly offer rides around town, and to and from the trail. Fair enough. We started checking out the local motels. The two Best Western are expensive ($90), so we headed down to the cheaper Santa Fe motel ($70), and crashed here.
 
-After a shower, we got our laundry done, and wanted to head out to the supermarket, mostly to buy food for the day. Idan was just negotiating a ride there, when suddenly I saw Kay calling me from across the street. Kay was our ride to the KO back from Idyllwild, and she lives in Tehachapi. She plans on hiking the pct next year, so she picks up hikers around town to build up her karma. I think her karma must be huge by now. We told her we were coming in today, but hadn't phoned her for a ride yet.
+After a shower, we got our laundry done, and wanted to head out to the supermarket, mostly to buy food for the day. Idan was just negotiating a ride there, when suddenly I saw Kay calling me from across the street. Kay was our ride to the KO back from Idyllwild, and she lives in Tehachapi. She plans on hiking the PCT next year, so she picks up hikers around town to build up her karma. I think her karma must be huge by now. We told her we were coming in today, but hadn't phoned her for a ride yet.
 
 Well, now we gladly jumped in her car, which already contained Pedi, and she drove us to the Albertsons. Idan was intent on eating at the McDonald's. So I had a small salad and fries. Yay. And we bought some stuff to keep us through the day (fresh guacamole and not-fresh hummus!), and then headed back into our tiny room (thanks again, Kay!) We spent the rest of the day just sitting in his room. I took a 2 hour nap. And we tried to get our Sierra strategy working. Apparently we are getting way too early to Lake Isabella, so we'd have to meet up with Yair further north, in Kennedy Meadows. And even then - we might be getting into the Sierras too early. A report from the 16 said there is still plenty of snow over 10,000 feet, and the forecast is for some new snow coming this week. So we might get stuck there for a while. Together with all the other crazy hikers that pass us and run along north.

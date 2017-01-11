@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 29 - pct mile 384 to fire station at mile 419
+title: Day 29 - PCT mile 384 to fire station at mile 419
 date: '2014-05-10T11:12:00.000-07:00'
 author: Noam Gal
 tags:
