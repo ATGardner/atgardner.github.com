@@ -20,7 +20,7 @@ I
  here with his wife 5 years ago. He goes out hiking around the local trails at least once a week. Sounds like a good
  life to me.
 Up at the trail head I saw Coppertone and Rock Ocean, before I headed back into the woods, at around
- 10:00. They told me that Mrs McGiver &amp; Veggie Gourmet were up around. I thought they were 2 hours ahead of me,
+ 10:00. They told me that Mrs McGiver  Veggie Gourmet were up around. I thought they were 2 hours ahead of me,
  but I probably got it wrong, since I passed them 15 minutes later.
 I haven't seen any other northbound hikers
  the whole day. I stopped at a very nice spring that gushed near the trail, with a tin bucket on a rope, to haul

@@ -23,7 +23,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-140-white-pass-to-dewey-
  About 7 miles before the end I got a good view
  towards Mt Rainier. Couldn't see most of the actual mountain because of the clouds. But I bet it was a good spot to
  look upon it in clear weather.
- I passed Landslide &amp; Handbrake a bit later, and then I bumped into Twice. I
+ I passed Landslide  Handbrake a bit later, and then I bumped into Twice. I
  last saw him in Mammoth Lakes, some 1400 miles ago. He got up almost to the half point of the trail, and then flip
  flopped up to the border and started heading south, to avoid the hot northern Californian summer. It was nice seeing
  him again.

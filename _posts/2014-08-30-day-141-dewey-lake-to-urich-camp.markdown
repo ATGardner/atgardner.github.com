@@ -17,7 +17,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-141-dewey-lake-to-urich-
  just a bit further than us last night. I was just raising their expectations about getting Copper Tone's trail magic
  down at the road, when we passed a couple of hikers going south, and they were telling us he is there.
  We got
- to the road, and to his trailer, and met Landslide &amp; Handbrake. Nobody got any ice cream, because of the
+ to the road, and to his trailer, and met Landslide  Handbrake. Nobody got any ice cream, because of the
  miserable weather and constant drizzle. But we got bananas and hot tea.
  Hiking on, we were walking together and
  chatting. It felt really nice. We had no views through most of the day, because if the fog all around. For some

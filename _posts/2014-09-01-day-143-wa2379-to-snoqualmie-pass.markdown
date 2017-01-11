@@ -50,7 +50,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-143-wa2379-to-snoqualmie
  me by surprise. I thought that I'd get to the pass at around 16:00 (which was, indeed, the time), and then I'll call
  Yulia, and her husband, Dima, would drive up here and pick me up in the evening. I didn't think he'd be waiting for
  me here. Good thing I arrived just on time.<br> We drove over to the Chevron, to pick up my package, and I said
- hello to all the hikers hanging around - Juneau, Rimshot &amp; Kit, Luna, Slaughterhouse, Sizzler, Banjo, and
+ hello to all the hikers hanging around - Juneau, Rimshot  Kit, Luna, Slaughterhouse, Sizzler, Banjo, and
  probably some more I didn't notice, and then started the drive down to Bellvue.<br> It wasn't a short drive, and it
  was at the end of Labor Day Weekend, but luckily, the bad weather had probably scared away many of the weekend
  hikers, so the roads were all clear on the way down. We stopped at a park in Bellvue, and picked up Yulia and Nick.

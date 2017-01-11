@@ -31,7 +31,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-120-campsite-near-wa1886
  was there. He is doing the whole of Oregon on ten days, averaging 40 miles per day. Yesterday he did 50. He said he
  plans on slowing down considerably in Washington.
  I also met Coyote, whom I didn't see since the day I hiked
- out of Big Bear. And Acorn &amp; Estero were there. I just met them in the kick off, after following Acorn's blog
+ out of Big Bear. And Acorn  Estero were there. I just met them in the kick off, after following Acorn's blog
  about her AT thru hike last year. They were all hiking out later today, and not staying at the campground.
  I
  met Forest, who started hiking in Ashland 10 days ago, and later Smiley came around, along with his hiking
@@ -43,7 +43,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-120-campsite-near-wa1886
  and Mr JT's adventures along the trail.
  For dinner, I had an over priced frozen pizza, done in the toaster
  oven. There was nothing else for dinner in the store.
- I was glad to see Moonshine &amp; Sideways and Thor &amp;
+ I was glad to see Moonshine  Sideways and Thor 
  Fern Toe also made it here tonight.
  [
  <img src="https://lh3.googleusercontent.com/-E6nxnw8aRXQ/U-w3LOEKs8I/AAAAAAADRvw/rMlGVk9nQ2M/1407988457365.jpg cursor: pointer;"
@@ -58,5 +58,5 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-120-campsite-near-wa1886
 {% include image.html src="https://lh3.googleusercontent.com/-WvZYGPqQEPQ/U-w3buKYRvI/AAAAAAADRwU/Zj0fxSbVebE/1407989421588.jpg cursor: pointer;" caption=" Lighthouse, Ready to hear out for a few more miles" %}
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-RlT-t1M1Z7c/U-w3hhcaJzI/AAAAAAADRwc/Fyq87ulyGGA/1407989485603.jpg cursor: pointer;" caption=" Thor, Moonshine &amp; Sideways and Forest" %}
+{% include image.html src="https://lh5.googleusercontent.com/-RlT-t1M1Z7c/U-w3hhcaJzI/AAAAAAADRwc/Fyq87ulyGGA/1407989485603.jpg cursor: pointer;" caption=" Thor, Moonshine  Sideways and Forest" %}
 

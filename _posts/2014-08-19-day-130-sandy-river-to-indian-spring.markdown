@@ -28,7 +28,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-130-sandy-river-to-india
  wrong trail. Later, after crossing the Muddy Ford, he again took off to the right, instead of following the correct
  trail to the left. He figured that one out on his own, several minutes later.
  After passing Lolo Pass road, I
- had some cell reception and called home. Oregon hasn't been THAT bad with at&amp;t reception. I hope Washington will
+ had some cell reception and called home. Oregon hasn't been THAT bad with att reception. I hope Washington will
  be the same.
  I saw some day hikers going south, and had some short conversations with them. I passed a couple
  of northbound section hikers that told me Idan was just a bit ahead, and that he plans on getting to the same

@@ -12,7 +12,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-126-sisters-santiam-pass
  OK, I'm finally back on trail. Even though the mess yesterday cost me some time, I'll still get to Cascade Locks
  on the 20th.
  I got a ride up to the trail this morning with Blanche. She picked up two hikers from the Best
- Western as well, and they turned out to be Fire Cracker &amp; Tidy Camper. They were heading up to McKenzie Pass, to
+ Western as well, and they turned out to be Fire Cracker  Tidy Camper. They were heading up to McKenzie Pass, to
  do what I did two days ago - hike up to Sentiam, and hitch back down to town.
  On the way up, Blanche told us
  she is going to southbound Oregon next week, all the way from Cascade Locks to Ashland. What's more impressive is

@@ -33,12 +33,12 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-139-campsite-near-pct-mi
  I had a veggie burrito made by chef, then headed down to the White Pass Inn to get my
  package and a room for the night. Everyone else were heading out on the trail.
  At the store I met Landslide
- &amp; Handbrake, who just did laundry and were heading out, and Sizzler.
+  Handbrake, who just did laundry and were heading out, and Sizzler.
  I first met Sizzler at the kick off,
  on his first day. I also saw him for a second in Tahoe. He wanted to but a small bottle of whiskey, and the lady at
  the store called her son to bring some over from town. He then brought over a big glass bottle of Black Velvet. He
  ended up getting a small 10oz plastic bottle with whiskey, and bringing me the rest. I think I'll just drop it off
- at Chef &amp; Ghost at breakfast tomorrow.
+ at Chef  Ghost at breakfast tomorrow.
 
 
 {% include image.html src="https://lh3.googleusercontent.com/-SiEZUA5kVl4/VAXk1B-NsaI/AAAAAAADTEk/kP9qac9uj1M/1409672177306.jpg cursor: pointer;" caption=" Mt St Helen's" %}

@@ -12,13 +12,13 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-135-crest-horse-camp-to-
  After getting up and getting my gear in the morning, I went over for breakfast. I can get used to it. Besides the
  bacon, there were packages, eggs, and later hashbrowns. I was full after the eggs bit.
  Tick Tock and Luna cake
- in right in the middle of breakfast, and later Rimshot &amp; Kit and Juneau joined us as well. Only Slaughterhouse
+ in right in the middle of breakfast, and later Rimshot  Kit and Juneau joined us as well. Only Slaughterhouse
  and the section hikers were leaving early, and we were all sitting around the fire, enjoying our time.
  I
  finally got up and left at 9:00, knowing I have a short day of 20 easy miles. But I'd better start hiking it
  sometime.
  The start of the hike has some climbing, but nothing serious. At least I got good cell signal from
- the top. I caught up to the section hikers, Jerry &amp; Matt, Ford, Justin and Brian, at the first water source, in
+ the top. I caught up to the section hikers, Jerry  Matt, Ford, Justin and Brian, at the first water source, in
  Green Lake.
  I hiked rather slowly for a while, reaching my next planned snack stop a bit later than I
  anticipated. But a bit later I passed two day hikers that told me they left a cooler for pct hikers in the back of
@@ -27,7 +27,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-135-crest-horse-camp-to-
  up to Slaughterhouse and Justin. Slaughterhouse was just leaving, trying to bit the storm that was coming near us. I
  had my trail magic beer with Justin, and let with him to hike the remaining 4 miles into camp.
  We quickly
- caught up with Jerry &amp; Matt and Ford and hiked with them for a short while, between thunders. When the drops
+ caught up with Jerry  Matt and Ford and hiked with them for a short while, between thunders. When the drops
  started falling, I put on my rain jacket, and then passed them as they were putting theirs. I caught up to Justin,
  and together we passed both Slaughterhouse and Buck-30, right before we got to camp.
  As we were setting up our

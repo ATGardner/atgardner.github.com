@@ -33,7 +33,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-109-seiad-valley-to-tin-
  Our next so
  was at Kangaroo Spring. We filled our water just before the actual spring, at a good spot, and had some snacks.
 
- From there it was an easy trail to our daily destination. We got to Cook &amp; Green Pass Spring and found a bunch
+ From there it was an easy trail to our daily destination. We got to Cook  Green Pass Spring and found a bunch
  of hikers resting the heat out in the shade. We met Thor The Hiking Viking and Fern Toe. We haven't seen them since
  before Lake Isabella
  We went to refill our bottles at the trickle, and decided to push on for 6 more miles,

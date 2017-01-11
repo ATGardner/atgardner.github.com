@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-63995085275947877
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-136-mosquito-creek-to-trout-lake.html
 ---
 
- Yesterday evening Rimshot &amp; Kit, Juneau and Luna joined us at camp at around 20:00. This morning everyone was
+ Yesterday evening Rimshot  Kit, Juneau and Luna joined us at camp at around 20:00. This morning everyone was
  heading out to Trout Lake.
  It was only 10 miles of easy hiking, and I only made one short stop in the middle. I
  finally got to Road 23 before 11:00, meeting both Copper Tone and Rock Ocean. They have been following the hiker
@@ -34,7 +34,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-136-mosquito-creek-to-tr
  and another with three single beds. But nobody around knew which hikers are staying in the rooms tonight - everyone
  was heading out.
  I finally just went and washed. There is no shower, only a bath. It was strange, but it
- worked. When I got out I found my room mates - two southbounders - Roller Girl &amp; Pilgrim. They were fine with me
+ worked. When I got out I found my room mates - two southbounders - Roller Girl  Pilgrim. They were fine with me
  crashing with them in the room, but later they moved to the queen bed room, and Justin joined me in the singles
  room.
  I had a nice hummus wrap from the cafe, along with _huckleberry_ milkshake. And then I told everyone

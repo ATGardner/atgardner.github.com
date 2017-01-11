@@ -24,7 +24,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-123-mesa-creek-to-bend-m
  Later, some rain did start, and my jacket was finally effective. It wasn't a hard rain,
  but I hiked with the hood over my head. Because if the constant rain, I didn't take many breaks.
  The trail went
- through not lava fields, with only the occasional forested area. At one point I took out my pretzel bytes and m&amp;ms,
+ through not lava fields, with only the occasional forested area. At one point I took out my pretzel bytes and mms,
  and just ate while walking, wanting to end the hike quickly. That was rather nice, actually.
  After another big
  lava field, with great views both north and south, I finally reached the road. I walked up to Dee Wright

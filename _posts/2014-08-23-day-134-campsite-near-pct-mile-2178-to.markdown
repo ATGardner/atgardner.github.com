@@ -31,7 +31,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-134-campsite-near-pct-mi
  long way down, followed by a stretch of leveled trail all the way to the end.
  I finally reached the campsite,
  and the trail magic, at around 18:00. The place was already full of thru and section hikers. Idan was there, as well
- as Peanut &amp; Dozen, and Buck-30, and some other thru hikers that actually went out later.
+ as Peanut  Dozen, and Buck-30, and some other thru hikers that actually went out later.
  I was immediately
  invited to have dinner by Jon and Rob, which included hot dogs and meat chili. But I got an apple strudel and a
  water melon, and three beers. So I was happy. We set around the fire and had a nice chat until late, around 21:00,

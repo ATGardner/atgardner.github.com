@@ -10,11 +10,11 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-128-trooper-spring-to-se
 ---
 
  Today I had 4 great trail moments.
- The first one was when I got at&amp;t cell reception at mile 2077.5, under
+ The first one was when I got att cell reception at mile 2077.5, under
  the power lines. I called home, and it really made my day.
  The second was when I got to forest road 57, Copper
  Tone was there with his trail magic ice cream floats. There was a bunch of hikers there, including Banjo, Peanut
- &amp; Dozen, Six Pack (whom I just met), Foggy Goggles &amp; Soul Craft and some others.
+  Dozen, Six Pack (whom I just met), Foggy Goggles  Soul Craft and some others.
  I stayed there for
  about half an hour, and then headed out at 14:30 to finish the remaining 9 miles of the day. I only hiked for about
  1.5 miles, when I came to a sign stating there is trail magic at the Timothy Lake campground, only 0.25 miles of
@@ -24,7 +24,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-128-trooper-spring-to-se
  two days. Great timing. Each scout brought something for the hikers - sodas, lemonade, cupcakes, fruits, vegetables,
  they had it all. And the Indian food was the best meal I've had on the trail.
  I was the first hiker to follow
- the sign down to their campsite, and really enjoyed all the magic bestowed on me. Shortly afterwards Peanut &amp;
+ the sign down to their campsite, and really enjoyed all the magic bestowed on me. Shortly afterwards Peanut 
  Dozen joined in, and after a while some other hikers, that just half an hour ago were trapped at Copper Tone's trail
  magic for a while. It made it hard to do the miles this way.
  After finishing my meal and some desserts, and

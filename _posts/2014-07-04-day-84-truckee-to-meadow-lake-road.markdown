@@ -14,7 +14,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-84-truckee-to-meadow-lak
 ---
 
  After a good night's sleep in a real bed, I got up in the morning and arranged my gear. I remembered to take my
- cream cheese from the fridge, but I did not take the Ben &amp; Jerri's I bought yesterday. I hope out will be put to
+ cream cheese from the fridge, but I did not take the Ben  Jerri's I bought yesterday. I hope out will be put to
  good use.
 
 

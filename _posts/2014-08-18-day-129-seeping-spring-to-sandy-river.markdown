@@ -10,7 +10,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-129-seeping-spring-to-sa
 ---
 
  Had a very nice day today.
- I got up and left camp by 7:20. Once again, I was the first. Foggy Goggles &amp;
+ I got up and left camp by 7:20. Once again, I was the first. Foggy Goggles 
  Soul Craft did not show any signs of getting up, and Six Pack was just sitting in his sleeping bag.
  The first
  few miles down to Wapinitia Pass were nice, and I suddenly noticed the big mountain to the left of the trail - Mt
@@ -33,8 +33,8 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-129-seeping-spring-to-sa
  reasons. Seems like I have a trip to The Dalles in the near future. At least there is a bus there from Cascade
  Locks.
  I hung out with some of the other hikers in there. Idan was there since the morning, and finally left in
- the afternoon. Buck-30 also came in early, and plans to hike out only a few miles later. Rimshot &amp; Kit and
- Juneau were also spending a full day there. I also saw Peanut &amp; Dozen, Oklahoma, Whistles, some other hikers I
+ the afternoon. Buck-30 also came in early, and plans to hike out only a few miles later. Rimshot  Kit and
+ Juneau were also spending a full day there. I also saw Peanut  Dozen, Oklahoma, Whistles, some other hikers I
  didn't recognize, and some southbounders. Black Hawk Down came in after lunch buffet was over, but I think he still
  got some food, and was planning to stay for the night.
  I hiked out at 16:30, with 9 more miles left to do. The

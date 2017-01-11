@@ -15,7 +15,7 @@ Last night I overheard Frodo mentioning that Jan is going to maintain her water 
 
 This morning Jan was glad to accept my offer, and she took me, along with her husband Jim, to the cache. On the way there I heard many stories about the trail, and the trouble the PCTA and local maintenrs have with maintaining it, and making sure everything runs smoothly. It's not an easy task, but all those volunteers are doing it anyway, and we shouldn't take it for granted.
 
-Before we got to 3rd Gate Water Cache (near PCT mile 91), we stopped by the Barrel Spring water &amp; campsite (PCT mile 101), and met up with Lawrence. He was just done cleaning the spring, and replaced all the water in the trough. That's where I first met the actual trail. It was a bit exciting, yeah.
+Before we got to 3rd Gate Water Cache (near PCT mile 91), we stopped by the Barrel Spring water  campsite (PCT mile 101), and met up with Lawrence. He was just done cleaning the spring, and replaced all the water in the trough. That's where I first met the actual trail. It was a bit exciting, yeah.
 
 {% include image.html src="http://4.bp.blogspot.com/-2Sp3zMw6-Zg/U0h64Apu-CI/AAAAAAADKm8/SQIVvmqv3Z4/s1600/2014-04-11+09.26.03.jpg" caption="Barrel Spring" %}
 

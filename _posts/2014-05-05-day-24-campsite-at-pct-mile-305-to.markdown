@@ -31,4 +31,4 @@ A short while later we came upon a little water cache, with the remains of sodas
 
 {% include image.html src="http://3.bp.blogspot.com/-V8v3ZKWAmoI/VNoRbBSRBbI/AAAAAAAFakQ/auaM0FO6Nw0/s1600/2014-05-05%2B15.58.06.jpg" caption="View over Silverwood Lake" %}
 
-We got down to the picnic area at about 17:20, which is not bad for a 23 mile day. The picnic area has water, and nice pavilions with picnic tables. The toilets are very nice as well. Will, Fern Toe &amp; Thor joined us for dinner, before we all turned in for the night.
+We got down to the picnic area at about 17:20, which is not bad for a 23 mile day. The picnic area has water, and nice pavilions with picnic tables. The toilets are very nice as well. Will, Fern Toe  Thor joined us for dinner, before we all turned in for the night.

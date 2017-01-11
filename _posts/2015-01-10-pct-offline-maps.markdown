@@ -17,7 +17,7 @@ blogger_orig_url: http://pct14.blogspot.com/2015/01/pct-offline-maps.html
 
 Before hiking the PCT, I got hold of a very nice and comfortable file containing all the maps along the PCT. I got
  it from a friend, and I don't know how he got it, but it was very helpful indeed, especially when I used it along
- with [BackCountry Navigator](https://play.google.com/store/apps/details?id=com.crittermap.backcountrynavigator.license&amp;hl=en) and the GPX files from [Halfmile's
+ with [BackCountry Navigator](https://play.google.com/store/apps/details?id=com.crittermap.backcountrynavigator.licensehl=en) and the GPX files from [Halfmile's
  site](http://www.pctmap.net/gps/).
 The past week, I've been fiddling around with creating a similar file myself, so I can freely post
  it over here, and distribute it to anyone who might want it. This post might get a bit too technical, so if you are

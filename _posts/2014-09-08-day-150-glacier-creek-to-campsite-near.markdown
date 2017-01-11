@@ -31,7 +31,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-150-glacier-creek-to-cam
  on Halfmile's app. It was just a water source - a stream of water flowing down the ridge. We filled up and went
  ahead to try and find a campsite for the night.
  Luckily, after less than 0.5 miles we found a reasonable spot,
- and set camp. Lighthouse have me an extra dinner he had, so I had my usual Knorr meal, and a dinner of Mac &amp;
+ and set camp. Lighthouse have me an extra dinner he had, so I had my usual Knorr meal, and a dinner of Mac 
  Cheese as well. I gave him two extra tortillas I suddenly discovered I had.
  We saw a southbounder just before
  dark. He was flip flopping, not sure from where, and was heading down to the Suiattle River for the night.

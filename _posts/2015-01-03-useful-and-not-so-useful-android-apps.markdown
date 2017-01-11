@@ -92,7 +92,7 @@ I also used DropBox to get an
  place where my photos were kept safe.
 
  <iframe frameborder="0" height="315" marginheight="0" marginwidth="0" scrolling="no"
- src="https://maps.google.com/maps?layer=c&amp;panoid=vE3u1AHEkBYAAAQYRM4CNQ&amp;ie=UTF8&amp;source=embed&amp;output=svembed&amp;cbp=13%2C262.59506977224214%2C%2C0%2C-2.5478883760011115"
+ src="https://maps.google.com/maps?layer=cpanoid=vE3u1AHEkBYAAAQYRM4CNQie=UTF8source=embedoutput=svembedcbp=13%2C262.59506977224214%2C%2C0%2C-2.5478883760011115"
  width="100%"></iframe>
 
 <h4>[Google
@@ -104,7 +104,7 @@ I also used DropBox to get an
 <h4>[Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)</h4>Google Drive, along with its accompanying apps of
  [Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
  and ;[Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets), was helpful to keep the various pdf and documents on my phone, even with no data
- reception at all. In Southern California, I kept the [Water Report](https://docs.google.com/spreadsheet/pub?key=0AnjydhFdh1E2dEtQWEFXOGVHeWtsQVlCSnFXcTh2VXc&amp;gid=0) available for offline view on my device, and only had to occasionally let
+ reception at all. In Southern California, I kept the [Water Report](https://docs.google.com/spreadsheet/pub?key=0AnjydhFdh1E2dEtQWEFXOGVHeWtsQVlCSnFXcTh2VXcgid=0) available for offline view on my device, and only had to occasionally let
  it automatically update itself when in towns. I also had my [PCT Planning
  spreadsheet](http://pct14.blogspot.co.il/2014/03/pct-hike-plan-v2.html) handy, even though I was not following my plans to the letter. It was handy many times.
 <h4>
@@ -126,14 +126,14 @@ Every few weeks,
  heard about, but never actually got to know. It was very nice, having the option to easily get so much content like
  this.
 <h4>[Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice)</h4>Using Google Voice, as someone coming from Israel, it was much
- easier for me to switch between T-Mobile and AT&amp;T, while keeping the same Google Voice number so that people
+ easier for me to switch between T-Mobile and ATT, while keeping the same Google Voice number so that people
  could reach me. It took me some time to figure out how to do that, but it is a nice trick.
 I also used it
  extensively to call to Israel, while paying for a non-international plan on StraightTalk. With the introduction of
  the Hangouts Dialer, every Wi-Fi access point becomes a way to call the outside world (you'd be surprised how many
- places have Wi-Fi but no decent AT&amp;T cell service), and currently, Voice calls to many US phones is also free.
+ places have Wi-Fi but no decent ATT cell service), and currently, Voice calls to many US phones is also free.
  So it's worth it.
-<h4>[GPS Status &amp; Toolbox](https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2)</h4>This app is a nice one to have when
+<h4>[GPS Status  Toolbox](https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2)</h4>This app is a nice one to have when
  trying to get a GPS fix, as it tells you how many sattelites are currently visible to your phone, and you can get
  mad and annoyed at your phone, staring at the screen, and waiting for it to finally get a fix. It is also very
  useful in that it can automatically download AGPS data (Assisted GPS data), when you have cell service and a data
@@ -149,7 +149,7 @@ I also used it
  sections. An amazing app, and I'm sure the 2015 edition will be even better and more accurate, after Halfmile
  himself logged the entire PCT this year. Thanks again to Halfmile and White Jeep for their hard work on making this
  app available.
-<h4>[Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk) &amp; [Hangouts
+<h4>[Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk)  [Hangouts
  Dialer](https://play.google.com/store/apps/details?id=com.google.android.apps.hangoutsdialer)</h4>I mostly just used Hangouts to keep in touch with my family back home. I like it better than [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp), but I guess
  they both work similarly. It's just a simple and easy way to keep up with people. The Dialer add on though, is quite
  awesome. It only came out when I finished the trail, but it was very handy on the bus ride from Manning Park to

@@ -26,7 +26,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-127-milk-creek-to-troope
  a southbounder who seemed like he might have been Scott Williamson. He just greeted me and kept on hiking. Asking
  later, turns out it was him. He is doing another southbound hike.
  There were many hikers around, including
- Rimshot &amp; Kit, Juno, Angelina, Peanut &amp; Dozen, and some others. I also met Still Floating, and she told he
+ Rimshot  Kit, Juno, Angelina, Peanut  Dozen, and some others. I also met Still Floating, and she told he
  Halfmile would get there tomorrow.
  I overheard a camper at the site, telling the owner how they had an Israeli
  hiker as a guest last night, at Brettenbush Campground. I guessed it was Idan, which indeed it was. Sounds like he
@@ -38,7 +38,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-127-milk-creek-to-troope
  today. They were easy miles, and I passed several of the hikers that left the store before me. I just passed Black
  Hawk Down right before reaching the campsite by the Trooper Spring. He also got in to stay for the night.
  A bit
- later, Rimshot &amp; Kit, Juno and Banjo came as well. Banjo headed out, but the rest stayed, and we had a very nice
+ later, Rimshot  Kit, Juno and Banjo came as well. Banjo headed out, but the rest stayed, and we had a very nice
  conversation and dinner. It turns out Black Hawk Down got his name from the helicopter that carried him out after he
  first started to hike southbound. He slid down a snowy edge in Washington, and smashed on some trees. He had a head
  injury and broke some ribs. After a month at home, he got back to the trail in Ashland, and started going

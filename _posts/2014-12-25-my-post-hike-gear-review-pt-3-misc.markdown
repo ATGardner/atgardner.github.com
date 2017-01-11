@@ -212,7 +212,7 @@ I also really liked the X20 zoom I had, which allowed me to take nice photos of 
  the different camera options, just shooting on "auto" all the time.
 The camera got a bit wet right after the
  half way point near Chester, and stopped working. I sent it to some lab from Mt. Shasta, but they sent me a repair
- quote of ~$160, so I told them to just send the camera to my home base, and later just bought a newer camera from B&amp;H,
+ quote of ~$160, so I told them to just send the camera to my home base, and later just bought a newer camera from BH,
  to Ashland. One side effect is that I don't have many good photos of Northern California. Oh well.
 The new
  camera was just a more updated model. Same GPS functionality, but this one also has Wi-Fi. The Wi-Fi option is a bit
@@ -224,11 +224,11 @@ But the camera itself does feel a bit better than the previous model. Now with X
  even a bit more zoom to play with. I still shoot on "auto", and I am happy with the results.
 <h4>_Smartphone -
  [Google Nexus
- 4](https://play.google.com/store/devices/details/Nexus_4_16GB?id=nexus_4_16gb&amp;hl=en) _</h4>I took my phone from Israel with me for the hike. Being a GSM phone I knew it would work well
- with AT&amp;T and T-Mobile networks in the USA. I managed to get an unactivated T-Mobile sim card beforehand, and
+ 4](https://play.google.com/store/devices/details/Nexus_4_16GB?id=nexus_4_16gbhl=en) _</h4>I took my phone from Israel with me for the hike. Being a GSM phone I knew it would work well
+ with ATT and T-Mobile networks in the USA. I managed to get an unactivated T-Mobile sim card beforehand, and
  when I landed I activated it on a pre-paid plan for $30/month for calls+data.
 Pretty soon I discovered that I
- didn't have a lot of reception on the trail, especially compared to AT&amp;T reception. I decided to switch to [Straight Talk](http://www.straighttalk.com/wps/portal/home), an MVO that operates over AT&amp;T
+ didn't have a lot of reception on the trail, especially compared to ATT reception. I decided to switch to [Straight Talk](http://www.straighttalk.com/wps/portal/home), an MVO that operates over ATT
  network and offers a prepaid monthly option as well. for $45 I Got unlimited national minutes, and 3GB of data. I
  also used Google Voice to call home (international), so having national only minutes didn't bother me. The reception
  was all right throught most of the first half of the trail. Up in Oregon I had a bit less, and almost no reception
