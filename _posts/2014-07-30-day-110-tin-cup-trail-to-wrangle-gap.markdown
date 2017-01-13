@@ -39,6 +39,6 @@ After a while, we got Idan's tent up as well, and it got fairly dry. Most of our
 
 Right now I am laying in my hot tent, under direct sunlight. But we still hear thunders all the time, and there are plenty of rain clouds in the sky. I wouldn't be surprised if it rains some more during the night. But inside our tents we will remain dry.
 
-{% include image.html src="https://lh6.googleusercontent.com/-Y9cv6BHKwjc/U91sYgM2z-I/AAAAAAADQ8E/3mC1Ay23NxM/1407020034973.jpg cursor: pointer;" caption="Some rusty colored flowers" %}
+{% include image.html src="https://lh6.googleusercontent.com/-Y9cv6BHKwjc/U91sYgM2z-I/AAAAAAADQ8E/3mC1Ay23NxM/1407020034973.jpg" caption="Some rusty colored flowers" %}
 
-{% include image.html src="https://lh3.googleusercontent.com/-eFoTGtbWXVs/U91saYiUT1I/AAAAAAADQ8M/1EZb3ReRXTE/1407020053982.jpg cursor: pointer;" caption="Finally reaching the Oregon/California state line" %}
+{% include image.html src="https://lh3.googleusercontent.com/-eFoTGtbWXVs/U91saYiUT1I/AAAAAAADQ8M/1EZb3ReRXTE/1407020053982.jpg" caption="Finally reaching the Oregon/California state line" %}

@@ -37,14 +37,14 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-150-glacier-creek-to-cam
  dark. He was flip flopping, not sure from where, and was heading down to the Suiattle River for the night.
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-mzPubQMZvQo/VBdY8OQ_MCI/AAAAAAADUhQ/ymp_ShjTFYM/1410815982448.jpg cursor: pointer;" caption="Mica Lake" %}
+{% include image.html src="https://lh3.googleusercontent.com/-mzPubQMZvQo/VBdY8OQ_MCI/AAAAAAADUhQ/ymp_ShjTFYM/1410815982448.jpg" caption="Mica Lake" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-W3_AGfcHDY0/VBdZAMtwjNI/AAAAAAADUhY/y0rm2FozmOg/1410816043225.jpg cursor: pointer;" caption="I don't know what it means" %}
+{% include image.html src="https://lh4.googleusercontent.com/-W3_AGfcHDY0/VBdZAMtwjNI/AAAAAAADUhY/y0rm2FozmOg/1410816043225.jpg" caption="I don't know what it means" %}
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-Lzt-kcnl1Pw/VBdZCaKgENI/AAAAAAADUhg/Qti7TUG-uvg/1410816121379.jpg cursor: pointer;" caption="That was a big tree stump" %}
+{% include image.html src="https://lh5.googleusercontent.com/-Lzt-kcnl1Pw/VBdZCaKgENI/AAAAAAADUhg/Qti7TUG-uvg/1410816121379.jpg" caption="That was a big tree stump" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-Im87EjO2j7I/VBdZEyFP-OI/AAAAAAADUho/HcLEb1R_dNc/1410816169999.jpg cursor: pointer;" caption="True bridge over the Suiattle River" %}
+{% include image.html src="https://lh6.googleusercontent.com/-Im87EjO2j7I/VBdZEyFP-OI/AAAAAAADUho/HcLEb1R_dNc/1410816169999.jpg" caption="True bridge over the Suiattle River" %}
 

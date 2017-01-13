@@ -33,8 +33,8 @@ I didn't do much for the rest of the day. Shower, laundry. Idan was running arou
 
 In the evening, we talked with Roi and Sarah about meeting them for dinner. The laundry wasn't ready early enough, so we left late, and missed the bus down town. After talking with Lighthouse, we almost gave up on getting to town, but at the end he drove into town with a friend of his, and they have us a ride there and back. So that turned out nicely. We had a bit of trouble finding where they were waiting for us. But we got there at the end, and I are another veggie burger. It was home made, but small and pricey. It was a very nice evening.
 
-{% include image.html src="https://lh5.googleusercontent.com/-5XP6Xvo0Ds0/U91tbr159QI/AAAAAAADQ8U/-ROGXED6Lkk/1407020131648.jpg cursor: pointer;" caption="Forest fire from yesterday's storm" %}
+{% include image.html src="https://lh5.googleusercontent.com/-5XP6Xvo0Ds0/U91tbr159QI/AAAAAAADQ8U/-ROGXED6Lkk/1407020131648.jpg" caption="Forest fire from yesterday's storm" %}
 
-{% include image.html src="https://lh5.googleusercontent.com/-KtIBRF7KoHw/U91td0eEZZI/AAAAAAADQ8c/OdYKGdnSrGM/1407020142321.jpg cursor: pointer;" caption="Just a typical trail in the woods" %}
+{% include image.html src="https://lh5.googleusercontent.com/-KtIBRF7KoHw/U91td0eEZZI/AAAAAAADQ8c/OdYKGdnSrGM/1407020142321.jpg" caption="Just a typical trail in the woods" %}
 
-{% include image.html src="https://lh4.googleusercontent.com/-Ubcy5aGY6gQ/U91tgMPKXjI/AAAAAAADQ8k/QrevUXBWt2k/1407020163136.jpg cursor: pointer;" caption="Great trail magic just before Ashland" %}
+{% include image.html src="https://lh4.googleusercontent.com/-Ubcy5aGY6gQ/U91tgMPKXjI/AAAAAAADQ8k/QrevUXBWt2k/1407020163136.jpg" caption="Great trail magic just before Ashland" %}

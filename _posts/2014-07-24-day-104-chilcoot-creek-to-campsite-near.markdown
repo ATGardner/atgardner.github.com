@@ -23,4 +23,4 @@ From the road, we hiked the remaining 10 miles up the ridge, and along some very
 
 When we arrived at the seasonal stream we were aiming at, the water were not too good. We managed to get a bit for now, but we hope the close by stream we'll pass tomorrow morning will have a better flow.
 
-{% include image.html src="https://lh4.googleusercontent.com/-1c1z2ZihjFo/U90MixiLkCI/AAAAAAADQ6U/5CCV8M7a_Zo/1406995467151.jpg cursor: pointer;" caption="Nice views" %}
+{% include image.html src="https://lh4.googleusercontent.com/-1c1z2ZihjFo/U90MixiLkCI/AAAAAAADQ6U/5CCV8M7a_Zo/1406995467151.jpg" caption="Nice views" %}

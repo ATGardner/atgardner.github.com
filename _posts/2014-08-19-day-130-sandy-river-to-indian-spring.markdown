@@ -50,11 +50,11 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-130-sandy-river-to-india
  and town food.
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-XDMtGLSmTbI/U_ank29a_GI/AAAAAAADSUU/bC4EFUxeszQ/1408672971216.jpg cursor: pointer;" caption="Ramona Falls" %}
+{% include image.html src="https://lh4.googleusercontent.com/-XDMtGLSmTbI/U_ank29a_GI/AAAAAAADSUU/bC4EFUxeszQ/1408672971216.jpg" caption="Ramona Falls" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-Cg8wbD2asVY/U_an-NXBHiI/AAAAAAADSUc/y6ZKZpvab6k/1408673012300.jpg cursor: pointer;" caption="Crossing the Muddy Fork" %}
+{% include image.html src="https://lh4.googleusercontent.com/-Cg8wbD2asVY/U_an-NXBHiI/AAAAAAADSUc/y6ZKZpvab6k/1408673012300.jpg" caption="Crossing the Muddy Fork" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-35O3xUpZ4AQ/U_aoR84krJI/AAAAAAADSUk/eOumpSEm6A8/1408673051289.jpg cursor: pointer;" caption="Mt Hood, again" %}
+{% include image.html src="https://lh6.googleusercontent.com/-35O3xUpZ4AQ/U_aoR84krJI/AAAAAAADSUk/eOumpSEm6A8/1408673051289.jpg" caption="Mt Hood, again" %}
 

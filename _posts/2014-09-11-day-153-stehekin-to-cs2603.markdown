@@ -31,11 +31,11 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-153-stehekin-to-cs2603.h
  of socks and my puffy jacket to bed tonight. I hope the wine doesn't freeze on me.
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-_noh13yoa8M/VBmn8RfTI3I/AAAAAAADUmU/qXG0B6FCJDI/1410967375940.jpg cursor: pointer;" caption="A mushroom that resembles a golf ball" %}
+{% include image.html src="https://lh6.googleusercontent.com/-_noh13yoa8M/VBmn8RfTI3I/AAAAAAADUmU/qXG0B6FCJDI/1410967375940.jpg" caption="A mushroom that resembles a golf ball" %}
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-tZefsE0wFnI/VBmn-bH-dXI/AAAAAAADUmc/zWfnTibd9Gw/1410967397027.jpg cursor: pointer;" caption="Another broken bridge over Bridge Creek" %}
+{% include image.html src="https://lh5.googleusercontent.com/-tZefsE0wFnI/VBmn-bH-dXI/AAAAAAADUmc/zWfnTibd9Gw/1410967397027.jpg" caption="Another broken bridge over Bridge Creek" %}
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-C9aCB6HH36A/VBmoAqJLbMI/AAAAAAADUmk/z1MU01nQ1wo/1410967419346.jpg cursor: pointer;" caption="Passing through Rainy Pass" %}
+{% include image.html src="https://lh3.googleusercontent.com/-C9aCB6HH36A/VBmoAqJLbMI/AAAAAAADUmk/z1MU01nQ1wo/1410967419346.jpg" caption="Passing through Rainy Pass" %}
 

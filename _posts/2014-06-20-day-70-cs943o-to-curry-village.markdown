@@ -60,7 +60,7 @@ We had to hike back about half a mile back to my tent, to get our gear, eat lunc
 
 Along the way we passed Nevada Falls, which were very high and gushing. More and more day hikers were hiking around us, on short hikes up from the valley. From Vernan Falls bridge it was more like walking along a promenade of some tourist town.
 
-{% include image.html src="http://2.bp.blogspot.com/-SgvIkbcTs7o/VjXX7QyiA6I/AAAAAAAFohw/6JLi6LVNA6w/s1600/2014-06-20%2B16.15.57.jpg" caption="Just &nbsp;acute squirrel trying to get some free food" %}
+{% include image.html src="http://2.bp.blogspot.com/-SgvIkbcTs7o/VjXX7QyiA6I/AAAAAAAFohw/6JLi6LVNA6w/s1600/2014-06-20%2B16.15.57.jpg" caption="Just acute squirrel trying to get some free food" %}
 
 Right at the end of the JMT, where Yair officially finished his thru hike, I got approached by a couple as I was waiting for Yair to catch up. The woman asked me if I was hiking the JMT or PCT. I told her I'm doing the PCT, and my friend will just be finishing his JMT. We talked a bit, and she mentioned she hiked the PCT last year. She asked my for my trail name, and then I asked her for her. "Anish". Saying she "hiked the PCT" is an understatement. She smashed the PCT unsupported speed record, and set it at 60 days (or so). That is amazing! She plans on hiking the JMT next week "as fast as I can". I'm going to follow her fb page to see how fast she makes it (the current record is about 3 days and 10 hours).
 

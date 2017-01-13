@@ -32,7 +32,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/07/day-84-truckee-to-meadow-lak
  I finally got in eBay and bought a new battery for my cell
  phone, along with the tools to open it and replace the current battery. I will get it in Quincy, in about 5 more
  days.
- Heading on, we climbed over Castle Pass, and then down to Peter Grubb Hut. I was expecting an&nbsp;
+ Heading on, we climbed over Castle Pass, and then down to Peter Grubb Hut. I was expecting an
  Appalachian Trail like shelter, but it was a big, enclosed, hut, with two floors. It seemed like a very nice place
  to stop.
 

@@ -54,14 +54,14 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-142-urich-camp-to-wa2379
  I'll see them both tomorrow at Snoqualamie Pass.
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-eLY04idbzfY/VAXxHHDjweI/AAAAAAADTKU/iGcOg1Pc78M/1000494.jpg cursor: pointer;" caption="Urich hut, with Sizzler and Slaughterhouse" %}
+{% include image.html src="https://lh5.googleusercontent.com/-eLY04idbzfY/VAXxHHDjweI/AAAAAAADTKU/iGcOg1Pc78M/1000494.jpg" caption="Urich hut, with Sizzler and Slaughterhouse" %}
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-Q2DOrf3bjP8/VAX_7Eb1CLI/AAAAAAADTSw/8u7LWTpYDec/1000500.jpg cursor: pointer;" caption="Before" %}
+{% include image.html src="https://lh3.googleusercontent.com/-Q2DOrf3bjP8/VAX_7Eb1CLI/AAAAAAADTSw/8u7LWTpYDec/1000500.jpg" caption="Before" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-9Biz4xf38ls/VAYDtMCdIlI/AAAAAAADTVE/G5X77-SRYQc/1000501.jpg cursor: pointer;" caption="After" %}
+{% include image.html src="https://lh4.googleusercontent.com/-9Biz4xf38ls/VAYDtMCdIlI/AAAAAAADTVE/G5X77-SRYQc/1000501.jpg" caption="After" %}
 
 
-{% include image.html src="https://lh5.googleusercontent.com/-UTxAyW_HcIM/VAYD8TQNipI/AAAAAAADTVM/oZ3V2NL83BQ/1000512.jpg cursor: pointer;" caption="Eating a big load of huckleberries" %}
+{% include image.html src="https://lh5.googleusercontent.com/-UTxAyW_HcIM/VAYD8TQNipI/AAAAAAADTVM/oZ3V2NL83BQ/1000512.jpg" caption="Eating a big load of huckleberries" %}
 

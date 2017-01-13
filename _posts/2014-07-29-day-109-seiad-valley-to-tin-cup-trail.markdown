@@ -29,6 +29,6 @@ We figured most hikers getting out of that shady spot will try to reach the same
 
 Frank ended up staying here, and we've had a very nice conversation during dinner. I still wasn't sure how things will be between Idan and me now, but I'm happy they seem quite normal. We still joke the same way during stops, and have had some normal conversations while hiking.
 
-{% include image.html src="https://lh3.googleusercontent.com/-lqjfPZvLcTY/U91r57QmqzI/AAAAAAADQ70/epj30CiH1Bs/1407019899620.jpg cursor: pointer;" caption="The famous pancake challenge is being made. 3 are ready, 2 more are being made." %}
+{% include image.html src="https://lh3.googleusercontent.com/-lqjfPZvLcTY/U91r57QmqzI/AAAAAAADQ70/epj30CiH1Bs/1407019899620.jpg" caption="The famous pancake challenge is being made. 3 are ready, 2 more are being made." %}
 
-{% include image.html src="https://lh6.googleusercontent.com/-GN5V3Dz3_Cc/U91r7l5ex_I/AAAAAAADQ78/OwJI7yJ8a7w/1407019931143.jpg cursor: pointer;" caption="View back on Seiad Valley" %}
+{% include image.html src="https://lh6.googleusercontent.com/-GN5V3Dz3_Cc/U91r7l5ex_I/AAAAAAADQ78/OwJI7yJ8a7w/1407019931143.jpg" caption="View back on Seiad Valley" %}

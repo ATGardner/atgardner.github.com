@@ -41,10 +41,10 @@ At the creek, we were worried there are no campsites nearby, but a minute furthe
 
 I practiced a parallel camp mode. Setting up the tent, then filling the water WHILE arranging my stuff in the tent. Then letting the boiling water cook the dinner WHILE I went to wash my feet and clean my socks (the water was freezing!). When I got back, all I had to do was eat and go to bed. Which I did.
 
-{% include image.html src="https://lh3.googleusercontent.com/-wlhvdL7OZKY/U-wx3eGhHgI/AAAAAAADRt8/stsplwmu_mw/1407987823594.jpg cursor: pointer;" caption="Crater Lake" %}
+{% include image.html src="https://lh3.googleusercontent.com/-wlhvdL7OZKY/U-wx3eGhHgI/AAAAAAADRt8/stsplwmu_mw/1407987823594.jpg" caption="Crater Lake" %}
 
-{% include image.html src="https://lh3.googleusercontent.com/-CluPEn1qrUo/U-wx8UDxymI/AAAAAAADRuM/PRF0hkkcTBc/1407987939444.jpg cursor: pointer;" caption="Just a cool tree stump" %}
+{% include image.html src="https://lh3.googleusercontent.com/-CluPEn1qrUo/U-wx8UDxymI/AAAAAAADRuM/PRF0hkkcTBc/1407987939444.jpg" caption="Just a cool tree stump" %}
 
-{% include image.html src="https://lh4.googleusercontent.com/-rkBg8qhW_6s/U-wyDbmCjXI/AAAAAAADRuU/-E2QISitp7s/1407988020954.jpg cursor: pointer;" caption="Water cache near hottest 138" %}
+{% include image.html src="https://lh4.googleusercontent.com/-rkBg8qhW_6s/U-wyDbmCjXI/AAAAAAADRuU/-E2QISitp7s/1407988020954.jpg" caption="Water cache near hottest 138" %}
 
-{% include image.html src="https://lh6.googleusercontent.com/-hEd4QD42uLM/U-wyIsQDqJI/AAAAAAADRuc/rYcHuK0sm_0/1407988149099.jpg cursor: pointer;" caption="Mt Thielsen" %}
+{% include image.html src="https://lh6.googleusercontent.com/-hEd4QD42uLM/U-wyIsQDqJI/AAAAAAADRuc/rYcHuK0sm_0/1407988149099.jpg" caption="Mt Thielsen" %}

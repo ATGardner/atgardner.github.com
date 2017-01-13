@@ -19,7 +19,7 @@ I also connected my camera to Idan's phone, to copy all my photos to my own phon
 
 We went to a local restaurant and got some nice dish of vegetarian chili, even though it was a small dish. Yair and I later shared a pasta dish just to stop feeling hungry.
 
-Afterwards, I went over to a local seamstress, Leslie, who got back to me after I sent her an SMS earlier (on a Sunday)&nbsp;regarding my tent's zippers and Idan's silk liner. At her house, she fixed the zippers and sewed the liner, while I had a great time with her super cute little dog, Hot Rod, and later also connected with her friendly cat, Ace. They both really fought for my attention and petting. I just had a wild time finally petting a cat on the trail. I miss Cupcake, my kitten, so much. A huge thanks to Leslie for her help with her gear, and for letting me play with her pets.
+Afterwards, I went over to a local seamstress, Leslie, who got back to me after I sent her an SMS earlier (on a Sunday)regarding my tent's zippers and Idan's silk liner. At her house, she fixed the zippers and sewed the liner, while I had a great time with her super cute little dog, Hot Rod, and later also connected with her friendly cat, Ace. They both really fought for my attention and petting. I just had a wild time finally petting a cat on the trail. I miss Cupcake, my kitten, so much. A huge thanks to Leslie for her help with her gear, and for letting me play with her pets.
 
 {% include image.html src="http://3.bp.blogspot.com/-0FSErwV2Sy0/Vh-iUkYNegI/AAAAAAAFoEE/aD3J9CgOZnc/s1600/2014-06-15%2B16.15.14.jpg" caption="Tad Pole and Ace" %}
 

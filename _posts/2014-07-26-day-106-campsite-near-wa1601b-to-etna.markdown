@@ -21,5 +21,5 @@ For breakfast we had a breakfast croissant at the cafe. For lunch we had a pizza
 
 During dinner, a 2013 thru hiker came and talked to us. I don't remember his name. He now lives in Mt Shasta, and he came over to hike for several days with Papa Bear, who apparently also did the trail last year. There are a ton of hikers on town, some zeroing here from yesterday, more coming in after we did. Many stay here on the lawn, and many others stay in the local park. The Warrior Hike hikers _are_ in town, currently having some special dinner at the brewery pub, but we are too tired and hot to go down there. I think that at 19:00, it's way past my bed time.
 
-{% include image.html src="https://lh4.googleusercontent.com/-2LHc4HdWIYg/U91oV08Xa5I/AAAAAAADQ64/zVKAJpYA0dM/1407019032575.jpg cursor: pointer;" caption="Cheesy, the sweet and relaxed cat of the Hiker's Hut" %}
+{% include image.html src="https://lh4.googleusercontent.com/-2LHc4HdWIYg/U91oV08Xa5I/AAAAAAADQ64/zVKAJpYA0dM/1407019032575.jpg" caption="Cheesy, the sweet and relaxed cat of the Hiker's Hut" %}
 

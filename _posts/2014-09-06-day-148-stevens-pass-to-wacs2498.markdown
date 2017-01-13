@@ -33,8 +33,8 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-148-stevens-pass-to-wacs
  to us. We got here together. It's s very nice, clear grassy spot, next to a flowing stream.
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-WSOIz04i4M4/VBdSAgG89dI/AAAAAAADUfc/yF25Mk96AcA/1410812889932.jpg cursor: pointer;" caption="Glacier Peak" %}
+{% include image.html src="https://lh6.googleusercontent.com/-WSOIz04i4M4/VBdSAgG89dI/AAAAAAADUfc/yF25Mk96AcA/1410812889932.jpg" caption="Glacier Peak" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-tFIBIiQiXOM/VBdSDBOenDI/AAAAAAADUfk/0qK77Bf7GrY/1410814439188.jpg cursor: pointer;" caption="Just a bit of trail" %}
+{% include image.html src="https://lh6.googleusercontent.com/-tFIBIiQiXOM/VBdSDBOenDI/AAAAAAADUfk/0qK77Bf7GrY/1410814439188.jpg" caption="Just a bit of trail" %}
 

@@ -40,7 +40,7 @@ At Ziggy and The Bear it might be a bit harder to bu food, though it is possible
  stuff from them (if available), or try to hitch out to a supermarket if all else fails. Still, a package there was
  very helpful.
 
-<h4>[Agua Dulce](http://pct14.blogspot.com/2014/05/day-31-acton-koa-to-hiker-heaven.html)&nbsp;(mile 454.5)</h4>At Agua Dulce's Hiker Heaven
+<h4>[Agua Dulce](http://pct14.blogspot.com/2014/05/day-31-acton-koa-to-hiker-heaven.html)(mile 454.5)</h4>At Agua Dulce's Hiker Heaven
  (which seems to be closed next year. UPDATE: re-opened for 2016), I joined the shuttle heading out to REI and
  WalMart, and bought supplies for the Sierras. I sent out a package to [Kennedy
  Meadows](http://pct14.blogspot.com/2014/05/day-46-fox-mill-spring-to-kennedy.html) (mile 702.2), [Vermillion Valley Resort](http://pct14.blogspot.com/2014/06/day-62-wacs873-to-vvr.html) (mile 878.8) and [Toulumne

@@ -27,8 +27,8 @@ Going back to the water for a foot bath and sock laundry, I saw Halfmile, Thor a
 
 After dinner, everyone moved on top make a shorter day of tomorrow. I remained alone in my camp site for the night.
 
-{% include image.html src="https://lh6.googleusercontent.com/-Iaj9QMu2V_k/U-wuXn3LmPI/AAAAAAADRtM/cUda-3Jbeno/1407986703702.jpg cursor: pointer;" caption="" %}
+{% include image.html src="https://lh6.googleusercontent.com/-Iaj9QMu2V_k/U-wuXn3LmPI/AAAAAAADRtM/cUda-3Jbeno/1407986703702.jpg" caption="" %}
 
-{% include image.html src="https://lh5.googleusercontent.com/-3wn_vCGVOn8/U-wun69R_MI/AAAAAAADRtU/h6n0V5t0uBs/1407987025084.jpg cursor: pointer;" caption="" %}
+{% include image.html src="https://lh5.googleusercontent.com/-3wn_vCGVOn8/U-wun69R_MI/AAAAAAADRtU/h6n0V5t0uBs/1407987025084.jpg" caption="" %}
 
-{% include image.html src="https://lh3.googleusercontent.com/-BxlID1U9GiY/U-wuxdYl-OI/AAAAAAADRts/UUPpeGhCBls/1407987093661.jpg cursor: pointer;" caption="" %}
+{% include image.html src="https://lh3.googleusercontent.com/-BxlID1U9GiY/U-wuxdYl-OI/AAAAAAADRts/UUPpeGhCBls/1407987093661.jpg" caption="" %}

@@ -29,6 +29,6 @@ In the evening, we went to the Black Bear again, with Beer. For dinner I had ano
 
 Nothing special also.
 
-{% include image.html src="https://lh5.googleusercontent.com/-XpwtFwLEAXk/U90LY91s2WI/AAAAAAADQ54/ycilHokGADw/1406995221501.jpg cursor: pointer;" caption="Atara's store and &quot;Israeli Center&quot;" %}
+{% include image.html src="https://lh5.googleusercontent.com/-XpwtFwLEAXk/U90LY91s2WI/AAAAAAADQ54/ycilHokGADw/1406995221501.jpg" caption="Atara's store and &quot;Israeli Center&quot;" %}
 
-{% include image.html src="https://lh3.googleusercontent.com/-IgFP7qVatDw/U90LcnX3TtI/AAAAAAADQ6A/pwGRTxN36YA/1406995232489.jpg cursor: pointer;" caption="Happy Trails indeed" %}
+{% include image.html src="https://lh3.googleusercontent.com/-IgFP7qVatDw/U90LcnX3TtI/AAAAAAADQ6A/pwGRTxN36YA/1406995232489.jpg" caption="Happy Trails indeed" %}

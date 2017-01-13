@@ -27,10 +27,10 @@ At the store, I felt hungry and bought a can of refried beans. I looked to see i
 
 Most hikers are cowboy camping on the lawn here, but we tent, as always. There are plenty of mosquitoes around. Besides, we don't plan on leaving too early tomorrow, so we can take our time in the morning to take the tents down.
 
-{% include image.html src="https://lh6.googleusercontent.com/-lVq9FNQQNvc/U91rZppSSgI/AAAAAAADQ7U/gp5FZoG-Kw0/1407019619304.jpg cursor: pointer;" caption="Seiad Valley. That's low." %}
+{% include image.html src="https://lh6.googleusercontent.com/-lVq9FNQQNvc/U91rZppSSgI/AAAAAAADQ7U/gp5FZoG-Kw0/1407019619304.jpg" caption="Seiad Valley. That's low." %}
 
-{% include image.html src="https://lh5.googleusercontent.com/-dg5HcP-gcxQ/U91rbeLqqjI/AAAAAAADQ7c/RD0uhbVIg38/1407019632305.jpg cursor: pointer;" caption="Even on a federal building - &quot;The State of Jefferson&quot;" %}
+{% include image.html src="https://lh5.googleusercontent.com/-dg5HcP-gcxQ/U91rbeLqqjI/AAAAAAADQ7c/RD0uhbVIg38/1407019632305.jpg" caption="Even on a federal building - &quot;The State of Jefferson&quot;" %}
 
-{% include image.html src="https://lh4.googleusercontent.com/-N0LLv1VzfU4/U91rc_CDVJI/AAAAAAADQ7k/N9bH38aFn8U/1407019646941.jpg cursor: pointer;" caption="Dusk from my tent" %}
+{% include image.html src="https://lh4.googleusercontent.com/-N0LLv1VzfU4/U91rc_CDVJI/AAAAAAADQ7k/N9bH38aFn8U/1407019646941.jpg" caption="Dusk from my tent" %}
 
-{% include image.html src="https://lh6.googleusercontent.com/-kfSZj_zbXwM/U91rfkoSNgI/AAAAAAADQ7s/UZCPiezv-Eg/1407019661061.jpg cursor: pointer;" caption="Hiker trash on the RV park lawn" %}
+{% include image.html src="https://lh6.googleusercontent.com/-kfSZj_zbXwM/U91rfkoSNgI/AAAAAAADQ7s/UZCPiezv-Eg/1407019661061.jpg" caption="Hiker trash on the RV park lawn" %}

@@ -25,16 +25,16 @@ Later, I passed two day hikers, and another unknown hiker that was on a break. H
 
 I made a short break about 4.5 miles in, and then another one 4.5 miles later, at a nice spring. Just as I was planning to leave, Idan came over, filled his water, and went ahead. I waited for a few more minutes, just so I won't keep on hiking on his heels. After about 6 more miles, I crossed the famous highway 66. It was not exciting at all. I saw Idan going on from there, just as I got to the road. I made another stop shortly after.
 
-From there, the pct went on a little loop, with an old pct alternate option to cut the loop. I went the long way. Didn't get to see any views, because of the haze in the air, from all the forest fires. Coming to the next spring, I didn't see any water. But I had enough on me to last until the end of the day. It was only 3 more easy miles.
+From there, the PCT went on a little loop, with an old PCT alternate option to cut the loop. I went the long way. Didn't get to see any views, because of the haze in the air, from all the forest fires. Coming to the next spring, I didn't see any water. But I had enough on me to last until the end of the day. It was only 3 more easy miles.
 
-I wasn't sure if I want to enter the campground, 0.3 miles off trail, or keep on going to the nearby water source, and camp there. When I got to the road, I saw the campground was very organized, so I decided to check it out. Apparently, they have a special pct hikers' campsite, so I headed here. It's right by the showers and toilets, which also have electrical outlets. I washed up a bit, but skipped shower. I had one yesterday.
+I wasn't sure if I want to enter the campground, 0.3 miles off trail, or keep on going to the nearby water source, and camp there. When I got to the road, I saw the campground was very organized, so I decided to check it out. Apparently, they have a special PCT hikers' campsite, so I headed here. It's right by the showers and toilets, which also have electrical outlets. I washed up a bit, but skipped shower. I had one yesterday.
 
 Coming back to the campsite, after I filled up my water, I saw Wolf, Puss In Boots and Grock. They went over to the resort, about 1.4 miles down the road, to have dinner at the restaurant. Sadly, it closes at 16:00. So they walked back hungry. But they are staying here tonight. Puss In Boots just joined Wolf for three weeks, to hike Oregon with him. He is living in Portland.
 
-I wanted to leave my phone charging at the toilets for the night, but I have to keep it around, because it's my alarm clock now. Damn it. I will set the alarm for 6:00. I am going to hike 30 miles tomorrow, to get to the Fish Lake resort, and ask about that fire closure the pcta are warning people about.
+I wanted to leave my phone charging at the toilets for the night, but I have to keep it around, because it's my alarm clock now. Damn it. I will set the alarm for 6:00. I am going to hike 30 miles tomorrow, to get to the Fish Lake resort, and ask about that fire closure the PCTA are warning people about.
 
-{% include image.html src="https://lh5.googleusercontent.com/-vQ7DL3rZvmA/U-LK0bY1_II/AAAAAAADQ-M/QfPDeWh_EUk/1407371217964.jpg cursor: pointer;" caption="Heading out, solo" %}
+{% include image.html src="https://lh5.googleusercontent.com/-vQ7DL3rZvmA/U-LK0bY1_II/AAAAAAADQ-M/QfPDeWh_EUk/1407371217964.jpg" caption="Heading out, solo" %}
 
-{% include image.html src="https://lh5.googleusercontent.com/-ldMkea3q6b4/U-LLKGESw3I/AAAAAAADQ-g/ZkQ4GMWzUGU/1407371239567.jpg cursor: pointer;" caption="Pilot rock, I think" %}
+{% include image.html src="https://lh5.googleusercontent.com/-ldMkea3q6b4/U-LLKGESw3I/AAAAAAADQ-g/ZkQ4GMWzUGU/1407371239567.jpg" caption="Pilot rock, I think" %}
 
-{% include image.html src="https://lh6.googleusercontent.com/-9kYifTNjnuk/U-LMr51k8oI/AAAAAAADQ-0/Pzdp4gUVnBs/1407371268375.jpg cursor: pointer;" caption="A dam" %}
+{% include image.html src="https://lh6.googleusercontent.com/-9kYifTNjnuk/U-LMr51k8oI/AAAAAAADQ-0/Pzdp4gUVnBs/1407371268375.jpg" caption="A dam" %}

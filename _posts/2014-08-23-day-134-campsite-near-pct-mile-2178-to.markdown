@@ -11,10 +11,10 @@ blogger_orig_url: http://pct14.blogspot.com/2014/08/day-134-campsite-near-pct-mi
 
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-hs34x1TAKX0/U_v1rS_x5sI/AAAAAAADSog/1rXXGuertMo/1409006250685.jpg cursor: pointer;" caption="Joe heating up the chili" %}
+{% include image.html src="https://lh6.googleusercontent.com/-hs34x1TAKX0/U_v1rS_x5sI/AAAAAAADSog/1rXXGuertMo/1409006250685.jpg" caption="Joe heating up the chili" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-xLISUw_1BLU/U_v1Oj_O3yI/AAAAAAADSoY/5a8hjnOiUeQ/1409006229195.jpg cursor: pointer;" caption="Trail magic indeed" %}
+{% include image.html src="https://lh4.googleusercontent.com/-xLISUw_1BLU/U_v1Oj_O3yI/AAAAAAADSoY/5a8hjnOiUeQ/1409006229195.jpg" caption="Trail magic indeed" %}
 
  After making 1 more mile last night, I decided I'll make 2 more today, just to make tomorrow easier. Those last
  miles at the end of the day seem pretty easy anyway.

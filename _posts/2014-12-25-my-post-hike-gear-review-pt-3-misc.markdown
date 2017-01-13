@@ -77,7 +77,7 @@ But, my plans had
  trail. There were some people claiming that alcohol stove is still legal, but I figured I'll give gas stoves a
  try.
 I found the LiteMax at a sale in [Sierra Trading
- Post](http://www.sierratradingpost.com/)&nbsp;for ~$37, so I grabbed it. Idan had an identical stove, and pretty quickly we figured out we can
+ Post](http://www.sierratradingpost.com/)for ~$37, so I grabbed it. Idan had an identical stove, and pretty quickly we figured out we can
  boil enough water for both of us on a single stove every evening, so we just carried one of them until we split up.
  The stove worked very well, and got the water to a boil fast enough for me. Though seeing other people using [JetBoil](http://www.jetboil.com/) I admit they were much faster. As I said - it was
  never an issue for me.
@@ -92,7 +92,7 @@ At the end,
  problem. In retrospect, I think the 0.6l one would have been enough as well.
 
 
-{% include image.html src="http://3.bp.blogspot.com/-Z5jZU1eQg6k/VJRFHu0aMII/AAAAAAAFPl0/Fd-s8DMTS4Y/s1600/2014-08-06%2B18.43.35.jpg" caption="Stove&nbsp;+ Pot&nbsp;+ broken GG poles. The best method to get the tips off." %}
+{% include image.html src="http://3.bp.blogspot.com/-Z5jZU1eQg6k/VJRFHu0aMII/AAAAAAAFPl0/Fd-s8DMTS4Y/s1600/2014-08-06%2B18.43.35.jpg" caption="Stove+ Pot+ broken GG poles. The best method to get the tips off." %}
 
  The pot can easily fit a small gas canister, including my LiteMax stove and a small lighter. It held enough water
  for me to boil for lunch. I guess that's all I need in a pot. I never cooked in it (Except for instant mashed
@@ -148,7 +148,7 @@ As the hike went on, and I got complacent, I slowly started skipping the
  probably the most stupid path to chose. But it worked for me.
 <h4>_Gloves - some unknown brand/[Sea to Summit
  Eclipse Paddling Gloves](http://www.seatosummit.com/product/?item=Solution+Eclipse+Paddle+Gloves) _</h4>On my third day out, I bought a pair of sun gloves at Dave Super's gear
- store&nbsp;in Mt. Laguna. I just bought the cheaper brand gloves over there, but I really liked them. They were
+ storein Mt. Laguna. I just bought the cheaper brand gloves over there, but I really liked them. They were
  light and airy, with an actual hole at the palm of my hand, and cut-off fingers. They were very comfortable, and
  lasted almost half way up to South Lake Tahoe (mile 1093).
 

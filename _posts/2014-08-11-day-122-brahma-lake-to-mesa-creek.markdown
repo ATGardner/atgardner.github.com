@@ -35,10 +35,10 @@ I joined Zisou and Oklahoma, and enjoyed dinner with them, while getting about 5
 
 Slacker came by, and headed on. I didn't see anybody from camp last night pass by yet. I hope they are in camp by now, at 20:30. The big rains haven't started yet, but they might still come soon.
 
-{% include image.html src="https://lh6.googleusercontent.com/-fr8V46taMDY/U-zP3imDheI/AAAAAAADRyo/RlkTE-sI9D8/1408028128364.jpg cursor: pointer;" caption="Brahma Lake" %}
+{% include image.html src="https://lh6.googleusercontent.com/-fr8V46taMDY/U-zP3imDheI/AAAAAAADRyo/RlkTE-sI9D8/1408028128364.jpg" caption="Brahma Lake" %}
 
-{% include image.html src="https://lh6.googleusercontent.com/-HaOJwhEToxQ/U-zQOVHUevI/AAAAAAADRzA/74IZteix-XA/1408028153943.jpg cursor: pointer;" caption="Butter Fingers taking a break near Desane Lake" %}
+{% include image.html src="https://lh6.googleusercontent.com/-HaOJwhEToxQ/U-zQOVHUevI/AAAAAAADRzA/74IZteix-XA/1408028153943.jpg" caption="Butter Fingers taking a break near Desane Lake" %}
 
-{% include image.html src="https://lh6.googleusercontent.com/-twW81aHYjEI/U-zQjOmB7PI/AAAAAAADRzM/LUe-pq9VwsM/1408028243430.jpg cursor: pointer;" caption="Circle taking a relaxing day after his spider bite, near Horseshoe Lake" %}
+{% include image.html src="https://lh6.googleusercontent.com/-twW81aHYjEI/U-zQjOmB7PI/AAAAAAADRzM/LUe-pq9VwsM/1408028243430.jpg" caption="Circle taking a relaxing day after his spider bite, near Horseshoe Lake" %}
 
-{% include image.html src="https://lh4.googleusercontent.com/-Oy07BRWTDVg/U-zQw3H4h8I/AAAAAAADRzY/KZDqlYHnFH8/1408028377411.jpg cursor: pointer;" caption="South sister" %}
+{% include image.html src="https://lh4.googleusercontent.com/-Oy07BRWTDVg/U-zQw3H4h8I/AAAAAAADRzY/KZDqlYHnFH8/1408028377411.jpg" caption="South sister" %}

@@ -28,17 +28,17 @@ blogger_orig_url: http://pct14.blogspot.com/2014/09/day-149-wacs2498-to-glacier-
  have to sleep here for one night, so I don't care.
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-fFKMTaqE4BM/VBdXl8y1ZlI/AAAAAAADUgc/uSsFHNJ6tB0/1410814495317.jpg cursor: pointer;" caption="2500 miles down" %}
+{% include image.html src="https://lh4.googleusercontent.com/-fFKMTaqE4BM/VBdXl8y1ZlI/AAAAAAADUgc/uSsFHNJ6tB0/1410814495317.jpg" caption="2500 miles down" %}
 
 
-{% include image.html src="https://lh4.googleusercontent.com/-wILAZopqAzg/VBdXnuUaXCI/AAAAAAADUgo/-Jtcsq9Eg5o/1410814533404.jpg cursor: pointer;" caption="Itsy bitsy spider" %}
+{% include image.html src="https://lh4.googleusercontent.com/-wILAZopqAzg/VBdXnuUaXCI/AAAAAAADUgo/-Jtcsq9Eg5o/1410814533404.jpg" caption="Itsy bitsy spider" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-zEWJDgMJG3o/VBdXpVV5HfI/AAAAAAADUgw/YFOdOEevIHY/1410814557279.jpg cursor: pointer;" caption="And a marmot stalking us" %}
+{% include image.html src="https://lh6.googleusercontent.com/-zEWJDgMJG3o/VBdXpVV5HfI/AAAAAAADUgw/YFOdOEevIHY/1410814557279.jpg" caption="And a marmot stalking us" %}
 
 
-{% include image.html src="https://lh3.googleusercontent.com/-9pY_bhtFihg/VBdXrof5kyI/AAAAAAADUg4/-EWpfmyUrac/1410815771702.jpg cursor: pointer;" caption="Lighthouse stretching" %}
+{% include image.html src="https://lh3.googleusercontent.com/-9pY_bhtFihg/VBdXrof5kyI/AAAAAAADUg4/-EWpfmyUrac/1410815771702.jpg" caption="Lighthouse stretching" %}
 
 
-{% include image.html src="https://lh6.googleusercontent.com/-qoJyLWkT3KM/VBdXuBE-Q5I/AAAAAAADUhA/exm9zDyC4jo/1410815837792.jpg cursor: pointer;" caption="The broken bridge" %}
+{% include image.html src="https://lh6.googleusercontent.com/-qoJyLWkT3KM/VBdXuBE-Q5I/AAAAAAADUhA/exm9zDyC4jo/1410815837792.jpg" caption="The broken bridge" %}
 
