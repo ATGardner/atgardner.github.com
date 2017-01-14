@@ -13,7 +13,7 @@ We had some rain during the night. I like it when I hear rain drops on my tent, 
 
 In the morning I left just after Frank. I caught up to him several miles later, where some strange trail signs made or clear we had no idea which way was the PCT. We gave a good guess, and were right.
 
-Further on during the day, I started passing most of the hikers that went ahead yesterday and camped further than me. Just a bit after passing Rimshot and Kit, I made another stumble and managed to snap my pole again! I quickly looked back, to make sure nobody saw me almost fall. But snapping the pole was way more annoying. At least I snapped the lower section now, so I still have a good top and a good bottom sections. But I won't buy a new Gossamar Gear pole. I might just buy a cheap one in rei in Bend.
+Further on during the day, I started passing most of the hikers that went ahead yesterday and camped further than me. Just a bit after passing Rimshot and Kit, I made another stumble and managed to snap my pole again! I quickly looked back, to make sure nobody saw me almost fall. But snapping the pole was way more annoying. At least I snapped the lower section now, so I still have a good top and a good bottom sections. But I won't buy a new Gossamar Gear pole. I might just buy a cheap one in REI in Bend.
 
 The trail kept doing short ups and downs. All very easy and nice. I was hiking through the 18 miles that the PCTA web site recommend to skip because of smoke from nearby fires. It was all clear and well. Didn't even smell anything.
 
