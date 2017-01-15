@@ -13,14 +13,19 @@ modified_time: '2015-06-19T09:59:58.939-07:00'
 thumbnail: http://3.bp.blogspot.com/-yRQjo0FzpE4/VLGYLwfJTmI/AAAAAAAFXTY/6cytZzlpRsw/s72-c/2015-01-10%2B21.17.33.png
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8831418205025570707
 blogger_orig_url: http://pct14.blogspot.com/2015/01/pct-offline-maps.html
+excerpt_separator: <!--more-->
 ---
 
 Before hiking the PCT, I got hold of a very nice and comfortable file containing all the maps along the PCT. I got it from a friend, and I don't know how he got it, but it was very helpful indeed, especially when I used it along with [BackCountry Navigator](https://play.google.com/store/apps/details?id=com.crittermap.backcountrynavigator.licensehl=en) and the GPX files from [Halfmile's site](http://www.pctmap.net/gps/).
+asdda
+<!--more-->
 
 The past week, I've been fiddling around with creating a similar file myself, so I can freely post it over here, and distribute it to anyone who might want it. This post might get a bit too technical, so if you are here is just for the file,
 
-##[It's in here](http://goo.gl/Riers6) (637Mb)
-(Download on your home computer, or via Wi-Fi) Here's how to use the file as a map source in BackCountry Navigator:
+## [It's in here](http://goo.gl/Riers6) (637Mb)
+(Download on your home computer, or via Wi-Fi)
+
+### Here's how to use the file as a map source in BackCountry Navigator:
 
 1. Copy it into your Android phone, under the bcnav\atlases folder .
 
@@ -40,7 +45,7 @@ The past week, I've been fiddling around with creating a similar file myself, so
 
 You will now have good quality topographical maps all along the trail, from Mexico to Canada. All you have to do now, is import the GPX files from Halfmile's site, and see the trail, side trails and waypoints, directly on the map.
 
-###And now, to the technical bits -
+### And now, to the technical bits -
 At first, I looked around the internet for the source of the file I originally had. I quickly found [OpenStreetMap](https://www.openstreetmap.org/) and [OpenCycleMap](http://opencyclemap.org/) as available map tile resources (though they do not freely allow bulk download of tiles). The OpenCycleMap project does show elevation lines, and would be appropriate for navigation while hiking.
 
 I needed to go over the whole trail (a collection of lat/long coordinates), and for each such coordinate, download the appropriate map tiles, on different zoom levels (zoom level 0 is the entire world. zoom level 15 is a very well detailed map of about 4.7 meters per pixel, or 5.2 yards per pixel). Since the trail is continuous, many coordinates will appear on the same tile, so I'll only have to download tiles I haven't downloaded before.
