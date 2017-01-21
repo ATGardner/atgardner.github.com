@@ -20,19 +20,25 @@ At first, I vaguely hoped to try it after I graduate from university, but then i
 
 So here is a quick run down of stuff I have done so far in preparation to my coming hike:
 
-* Ordered a [ZPacks](http://zpacks.com/) Arc Blast backpack and Sleeping bag - still waiting for them to ship it over here. I expect I'll have to pay a ton to release it from customs.
-* Bought and already gotten a [Sawyer](http://www.sawyer.com/) Mini Filter.
-* Bought and gotten [Mountain Hardwear](http://www.mountainhardwear.com/) Men Thrmostatic Hooded Jacket
+* Ordered a [ZPacks] Arc Blast backpack and Sleeping bag - still waiting for them to ship it over here. I expect I'll have to pay a ton to release it from customs.
+* Bought and already gotten a [Sawyer] Mini Filter.
+* Bought and gotten [Mountain Hardwear] Men Thrmostatic Hooded Jacket
 * Got in touch with 4 other Israelis who plan on starting the PCT in April 2014. One couple and two other guys. I hope to get over to Campo, CA with at least one other hiking partner, at least for the first few days.
 * Borrowed Yogi's PCT Handbook from one of those Israeli hikers, and have finished reading the pre-hike section of the book. Got some interesting insights about preparations I still need to do
 
 I still need to finish up those next several chores:
 
 * Decide which cellular provider I'm going to use, and get a SIM card with a suitable plan for the hike.
-* Buy a Personal Locator Beacon (Probably [ACR ResQlink 406](http://www.outdoorgearlab.com/Personal-Locator-Beacon-Reviews/ACR-ResQlink-406-Personal-Locator-Beacon))
+* Buy a Personal Locator Beacon (Probably [ACR ResQlink 406])
 * Print out the maps for the trail, divide into sections.
-* Buy a new pair of hiking poles (My old pair is a bit bent, and really heavy)
-* Use the [PCT Planner](http://www.pctplanner.com/) web site to plan my hike at least until Kennedy Meadows
+* Buy a new pair of hiking poles 
+* Use the [PCT Planner] web site to plan my hike at least until Kennedy Meadows
 * Get some sort of travel insurance
 
 I will try and write short posts about my latest decisions and dilemmas, before I actually take off to start my hike.
+
+[ZPacks]: http://zpacks.com/
+[Sawyer]: http://www.sawyer.com/
+[Mountain Hardwear]: http://www.mountainhardwear.com/
+[ACR ResQlink 406]: http://www.outdoorgearlab.com/Personal-Locator-Beacon-Reviews/ACR-ResQlink-406-Personal-Locator-Beacon
+[PCT Planner]: http://www.pctplanner.com/

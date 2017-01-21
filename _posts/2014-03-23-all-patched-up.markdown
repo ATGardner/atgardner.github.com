@@ -20,4 +20,6 @@ I immediately ordered a new set of patches from the ATC, put them in a ziplock, 
 
 {% include image.html src="http://4.bp.blogspot.com/-WsbidhOum5s/Uy6jzDqNm9I/AAAAAAADKXQ/Ygj5mmdUEJo/s1600/2014-03-22+13.06.35.jpg" caption="All sewn up and ready to go" %}
 
-Well, last weekend I gave my pack to a seamster I know (Thanks, [Amnon](https://www.facebook.com/pages/pashut/110824178940183)), and he did the delicate job of hand sewing it to the mesh. So now I'm all happy and excited.
+Well, last weekend I gave my pack to a seamster I know (Thanks, [Amnon]), and he did the delicate job of hand sewing it to the mesh. So now I'm all happy and excited.
+
+[Amnon]: https://www.facebook.com/pages/pashut/110824178940183

@@ -15,7 +15,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/01/solar-panel-part-2.html
 
 During my short trip in the Carmel recently, I tried testing my improvised solar panel to see if it can charge my phone. It did not perform as expected. In retrospect I can say it was probably because we were mostly under trees, and in the shade. Not the optimal conditions to test a solar charger. But when I got back home that day, I felt as though it's not going to work between us.
 
-After reading many favorable reviews on the [Suntactics sCharger 5](http://www.suntactics.com/product/scharger-5-emergency-kit/), I decided to buy a kit, along with an external 6000mA battery. The kit also comes along with a 10 LED usb powered light, which I'm going to leave at home. I really don't see any use for it on the trail.
+After reading many favorable reviews on the [Suntactics sCharger 5], I decided to buy a kit, along with an external 6000mA battery. The kit also comes along with a 10 LED usb powered light, which I'm going to leave at home. I really don't see any use for it on the trail.
 
 The price was not so bad, with a sale price of $152.95, and a work colleague of mine was just taking of for 4 days in Seattle, so I took the opportunity and asked him to bring it over for me, after I order it to his hotel. Luckily, this crazy plan worked, and I am now the proud owner of the sCharger 5. Yay for me.
 
@@ -26,3 +26,5 @@ The panel does look much better than my improvised one. Sturdy and simple, just 
 I just need to figure out how I can secure the panel to my backpack, so it will be out and open to the sunlight while I hike.
 
 As a side note - after ordering the sCharger, I took my improvised panel for another spin. This time I just put it outside of the window, in direct sunlight, and it charged two phones easily. I guess I was too quick on the gun with the decision to buy a charger. But the sCharger does come with the battery, which is a bonus, and it does seem better than mine anyway. So it was not all a waste of good money...
+
+[Suntactics sCharger 5]: http://www.suntactics.com/product/scharger-5-emergency-kit/

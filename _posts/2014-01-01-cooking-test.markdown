@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-82112301421466919
 blogger_orig_url: http://pct14.blogspot.com/2014/01/cooking-test.html
 ---
 
-Several days ago I had a chance to try out cooking my meal "trail style", using my [Caldera Keg-F Stove System](http://www.traildesigns.com/stoves/caldera-keg-f-stove-system) and a Knorr dinner bag. I know it's not exactly like cooking on the trail, but I want to feel confident I use the proper amount of alcohol and water, and get a satisfying meal at the end.
+Several days ago I had a chance to try out cooking my meal "trail style", using my [Caldera Keg-F Stove System] and a Knorr dinner bag. I know it's not exactly like cooking on the trail, but I want to feel confident I use the proper amount of alcohol and water, and get a satisfying meal at the end.
 
 {% include image.html src="http://3.bp.blogspot.com/-kYNKEn6kSzY/Ur092zhPbRI/AAAAAAADHMM/EO0YB_tVkGI/s1600/2013-12-26+19.50.24.jpg" caption="Caldera Keg (with a spare keg), fuel bottle, spork and lighter, and the meal I&apos;m going to eat" %}
 
@@ -32,3 +32,5 @@ I think the 10 minute mark for cooking the rice in the bag is good. The rice was
 I already imagine myself wolfing down one of those inside my tent, sitting under my quilt.
 
 Oh - and a happy new year to you all. The year of my Pacific Crest Trail Hike.
+
+[Caldera Keg-F Stove System]: http://www.traildesigns.com/stoves/caldera-keg-f-stove-system

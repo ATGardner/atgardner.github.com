@@ -27,8 +27,10 @@ When we got down to Lake Isabella, she said she'd like to take us over to the ne
 
 Idan and I went over to eat something for lunch. I had a burrito. It was all right, but wasn't made of the freshest ingredients. Then we went to Vons and got supplies for the next, 2.5 days, section to Kennedy Meadows. We also got some town food for tomorrow breakfast and lunch.
 
-Many other hikers arrived during the day, filling up the motel. At the evening Writer came in with a new shipment of hikers, including Penguin. Writer has started a thru-hike on April, and wanted to write about the trail and the hikers. She switched to section hiking, to concentrate more on her writing. She posts her articles on [http://howdoyouhikethepct.com](http://howdoyouhikethepct.com/)
+Many other hikers arrived during the day, filling up the motel. At the evening Writer came in with a new shipment of hikers, including Penguin. Writer has started a thru-hike on April, and wanted to write about the trail and the hikers. She switched to section hiking, to concentrate more on her writing. She posts her articles on [http://howdoyouhikethepct.com] (Which is now a broken link).
 
 I went for dinner with Big Boots, Sock Pot, Young Oak and Writer, at a nearby Mexican place (a real restaurant, not the fast food from lunch). Writer kept asking us about what motivates us, and what makes us hike the trail. It was an interesting conversation. She got our contact details so she will be able to ask more questions later, for her project.
 
 On our second zero we pretty much did nothing except move three rooms down. And a sand twister took Idan's hat flying across the road, when we went out for lunch.
+
+[http://howdoyouhikethepct.com]: http://howdoyouhikethepct.com/

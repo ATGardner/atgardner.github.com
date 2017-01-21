@@ -27,5 +27,7 @@ Right now I'm just about off to sleep at Frodo & Scout's house in San Diego. The
 {% include image.html src="http://3.bp.blogspot.com/-J8rgaRnaxn4/U0Y5LNntWiI/AAAAAAADKl4/XcsuKdkuiyo/s1600/IMG_20140409_215200.jpg" caption="Exciting new gear" %}
 
 I got most of the gear I sent here, except the pot I got is 0.6 liters, while I ordered the 0.75 one. Bummer. I'll send it back tomorrow, and probably end up buying a different one at REI.
-In two days, probably, I am going to start my hike, together with [Idan](http://idanpct14.blogspot.com/) and [Roi and Sarit](http://our-pct-2014.blogspot.com/). Wish us luck.
+In two days, probably, I am going to start my hike, together with [Idan] and [Roi and Sarit]. Wish us luck.
 
+[Idan]: http://idanpct14.blogspot.com/
+[Roi and Sarit]: http://our-pct-2014.blogspot.com/

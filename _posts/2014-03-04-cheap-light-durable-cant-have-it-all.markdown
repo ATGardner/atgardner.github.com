@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-59439083525735320
 blogger_orig_url: http://pct14.blogspot.com/2014/03/cheap-light-durable-cant-have-it-all.html
 ---
 
-I got my ["Strange pair of shades"](http://pct14.blogspot.com/2014/02/a-strange-pair-of-shades.html) about two weeks ago, and haven't really used them anywhere. They didn't look so good, so I figured I'll save them for the trail. Once I'm all stinky and dirty, I don't think anyone would mind them.
+I got my ["Strange pair of shades"] about two weeks ago, and haven't really used them anywhere. They didn't look so good, so I figured I'll save them for the trail. Once I'm all stinky and dirty, I don't think anyone would mind them.
 
 Well, I took them out of their little container last night, put them on for several minutes (while at home), and left them on the kitchen table. This morning I decided to fold them back into the container, and they just snapped.
 
@@ -21,3 +21,5 @@ I thought I Got a cheap, light and durable item for my hike, but I guess there a
 
 UPDATE:
 I got a reply from SportEyz, and they have already refunded my purchase, including the shipment. I can't complain about their customer service.
+
+["Strange pair of shades"]: http://pct14.blogspot.com/2014/02/a-strange-pair-of-shades.html
