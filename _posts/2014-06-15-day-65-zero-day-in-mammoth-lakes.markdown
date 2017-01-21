@@ -10,7 +10,6 @@ thumbnail: http://4.bp.blogspot.com/-Ajic3-AxKfE/Vh-iUTeJlqI/AAAAAAAFoEA/dsW23yh
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4939261807054234257
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-65-zero-day-in-mammoth-lakes.html
 ---
-
 After a long morning of not doing much, we finally did laundry and then headed for Von's to buy supplies for the next section.
 
 {% include image.html src="http://4.bp.blogspot.com/-Ajic3-AxKfE/Vh-iUTeJlqI/AAAAAAAFoEA/dsW23yh4k7w/s1600/2014-06-15%2B13.58.52.jpg" caption="Chilling by the Von's" %}

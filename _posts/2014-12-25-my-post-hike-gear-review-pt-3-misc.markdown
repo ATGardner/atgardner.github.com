@@ -26,7 +26,6 @@ thumbnail: http://1.bp.blogspot.com/-f57IbxcwxIs/VJQ97ZpEj1I/AAAAAAAFPdo/ylZurHf
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6968193946654327946
 blogger_orig_url: http://pct14.blogspot.com/2014/12/my-post-hike-gear-review-pt-3-misc.html
 ---
-
 [My complete gear list]
 
 ####Trekking Poles - [Gossamer Gear LT4s]/[Leki Quantum]

@@ -13,7 +13,6 @@ thumbnail: http://2.bp.blogspot.com/-zbEcJNrvHkA/VokoBaeUA3I/AAAAAAAFp2Y/LNphajm
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1294754824091050618
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-78-campsite-near-blue-lakes-road-to.html
 ---
-
 The day was a bit longer than our usual day. But it was mostly easy short ups and downs.
 
 We started by going over to Carson Pass, which was 10 miles away. After the last climb before reaching it, we meet a million day hikers coming up from them pass. Some of them were quite impressed that we came all the way from Mexico.

@@ -13,7 +13,6 @@ thumbnail: http://2.bp.blogspot.com/-6YZ2NVdrkzQ/UrXL7Ux32AI/AAAAAAADHH4/OzaWmHf
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2382584206237204821
 blogger_orig_url: http://pct14.blogspot.com/2013/12/solar-power.html
 ---
-
 I have started looking into solar panels back around 2007, while following [Craig Stanton's blog] of hiking the PCT. I really liked the fact he was using a GPS to log the trail while he was hiking it, mostly because I am really into mapping. He was using an OHararp LLC GPSlogger (An older version of [this]) that came along with a [solar panel] to keep it running during the long hike.
 
 {% include image.html src="http://2.bp.blogspot.com/-6YZ2NVdrkzQ/UrXL7Ux32AI/AAAAAAADHH4/OzaWmHfP33Q/s1600/2013-12-20+18.23.07.jpg" caption="My Geo Logger in its OtterBox case." %}

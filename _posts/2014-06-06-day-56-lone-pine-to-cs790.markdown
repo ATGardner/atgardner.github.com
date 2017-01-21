@@ -10,7 +10,6 @@ thumbnail: http://2.bp.blogspot.com/-bOUO3WdjJSA/Vb3-tRk7YZI/AAAAAAAFir4/TxOPFvr
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6921977184988226688
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-56-lone-pine-to-cs790.html
 ---
-
 We started the day with arranging our gear in the hostel room, and munching on some banana and yogurt for breakfast. We got out of there at around 8:00, and headed over to the bus station by the McDonald's. The bus to Independence came exactly at 8:30, and we took it and got to the junction heading towards Onion Valley Campground. Next came the hard bit of hitching up the road to the campground, on a road with almost no traffic.
 
 {% include image.html src="http://2.bp.blogspot.com/-bOUO3WdjJSA/Vb3-tRk7YZI/AAAAAAAFir4/TxOPFvr-FPo/s1600/2014-06-06.jpg" caption="View back towards the Sierras, from the bus ride to Independence" %}

@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:21:55.182-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6582087199009082542
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-143-wa2379-to-snoqualmie-pass.html
 ---
-
 {% include image.html src="https://lh4.googleusercontent.com/-yFgeCQtirVo/VAYeVwJCwdI/AAAAAAADTXM/4tCR0nhQJj8/1409686829643.jpg" caption="Dew on some mushrooms" %}
 
 {% include image.html src="https://lh5.googleusercontent.com/-SzTeRmjS8As/VAYeGuKEVJI/AAAAAAADTW8/-0P1_kU3-BA/1409686906903.jpg" caption="Lizard Lake" %}

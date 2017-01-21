@@ -12,7 +12,6 @@ modified_time: '2015-06-18T13:33:00.325-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5507849351728079761
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-36-pct-mile-549-to-tehachapi.html
 ---
-
 Last night was very windy in the campsite. Shortly after I fell asleep I woke up when I heard both of my tent stakes being torn off the ground. It was still early as I got up to stake them back in, and Snail Trainer was just setting up his tent, next to Tim. I put in the stakes in the ground, and moved some heavy logs over them, to keep them in place. My front stake still managed to get dislodged twice more during the night, until I finally secured it properly. Apart from the wind, the night was rather warm.
 
 In the morning we headed out to finish this little section and get into Tehachapi. It was only about 10 miles away, which were mostly downhill. Easy. We only made one short pause on the way, and just after passing a water source (which we did not need) we started seeing the highway from above. This is the most frustrating bit - you see exactly where you need to go, and the trail keeps going in switchbacks, and along ridges, instead of just getting there! My feet were hurting (not much more than usual, but still), and I just kept going on and on towards the road. Finally, we got there just as Snail Trainer did, and started to hitch towards town.

@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:24:36.578-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-281962009851920651
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-106-campsite-near-wa1601b-to-etna.html
 ---
-
 Yes, a short day indeed. We woke up and powered onto the road, getting there by 8:30.
 
 We met Rimshot and Kit there, trying to hitch for an hour already. Only one car passed by, while Bob, Chop Chop and Prospector, James and finally Neon came by. We were hoping for a miracle.

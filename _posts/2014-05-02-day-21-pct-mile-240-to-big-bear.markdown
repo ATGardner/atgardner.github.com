@@ -13,7 +13,6 @@ thumbnail: http://2.bp.blogspot.com/-25tDrA6PEBM/VL5F-bdJQwI/AAAAAAAFYRg/pXaXK5L
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-500896309615982217
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-21-pct-mile-240-to-big-bear.html
 ---
-
 After a cold but bearable night, I went out to do a rather long day of relatively easy 18 miles, that will get me closer to Big Bear, for an easy 8 mile into town tomorrow. That was the plan.
 
 After the first 6 miles I got cell reception, so I talked to Idan, who was currently taking a zero day in Big Bear. If I'd arrive in town tomorrow, I will still be a day behind him. He suggested I get off the trail at Onyx Peak, mile 252, to get into town today, and not tomorrow. I set out undecided, figuring I'll see how the day goes along. At one point, the trail went by "animal cages", according to halfmile's app. Yeah - it was like a caged zoo, but I didn't want to have a good look. I set close by, and could hear a bear moaning and growling quite loudly. Poor thing. The trail kept dragging me. Hiking alone is much harder for me, and I am left alone with thoughts of home. It was the third day now, and I was feeling lower than ever.

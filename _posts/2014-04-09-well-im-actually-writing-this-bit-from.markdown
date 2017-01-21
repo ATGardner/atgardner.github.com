@@ -9,7 +9,6 @@ thumbnail: http://1.bp.blogspot.com/-CMyeKrQHVf0/U0Y5I2iCcDI/AAAAAAADKls/dZMRWTY
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2864267056391808629
 blogger_orig_url: http://pct14.blogspot.com/2014/04/well-im-actually-writing-this-bit-from.html
 ---
-
 Well, I'm actually writing this bit from somewhere above the Atlantic Ocean, south of Greenland. But I guess it will be posted once I get to San Diego...
 
 The past few days were strange but nice. I started my leave of absence from work last weekend, so I had five days of staying at home, getting ready for the trail, and having some good time with my gf and cat. It was very nice.

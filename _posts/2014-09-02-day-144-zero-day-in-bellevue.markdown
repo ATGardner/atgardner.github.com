@@ -9,7 +9,6 @@ thumbnail: http://1.bp.blogspot.com/-eEkDu0XHXtc/VZTsn-9qNfI/AAAAAAAFhZg/Dyfefpd
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3220641475415586061
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-144-zero-day-in-bellevue.html
 ---
-
 Today I had a long day of rest and relaxation. Just what I needed before I head out to the cold. The plan was to get a ride back up to Snoqualamie Pass tonight, but my generous hosts, Yulia and Dima, offered to take me up there tomorrow morning. So it was a full zero down in Bellevue.
 
 During the day I mostly just used Yulia's computer to update my blog, downloaded new music to my phone, copied "Three Men In A Boat" audio book and a lecture series titled "How to Listen and Understand Great Music, 3rd Edition". I always wanted that elusive 3rd edition...

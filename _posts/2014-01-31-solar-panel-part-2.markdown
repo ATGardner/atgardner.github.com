@@ -12,7 +12,6 @@ thumbnail: http://1.bp.blogspot.com/-OJcw101eiqU/UuUDnxkN2KI/AAAAAAADJWE/rfYcZ2h
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5729338787190497291
 blogger_orig_url: http://pct14.blogspot.com/2014/01/solar-panel-part-2.html
 ---
-
 During my short trip in the Carmel recently, I tried testing my improvised solar panel to see if it can charge my phone. It did not perform as expected. In retrospect I can say it was probably because we were mostly under trees, and in the shade. Not the optimal conditions to test a solar charger. But when I got back home that day, I felt as though it's not going to work between us.
 
 After reading many favorable reviews on the [Suntactics sCharger 5], I decided to buy a kit, along with an external 6000mA battery. The kit also comes along with a 10 LED usb powered light, which I'm going to leave at home. I really don't see any use for it on the trail.

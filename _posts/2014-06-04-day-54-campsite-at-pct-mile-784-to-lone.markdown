@@ -11,7 +11,6 @@ thumbnail: http://2.bp.blogspot.com/-zj0jnRWEuAY/Vb3hV5jNn4I/AAAAAAAFiqQ/nGNSMlb
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8523082661113236875
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-54-campsite-at-pct-mile-784-to-lone.html
 ---
-
 {% include image.html src="http://2.bp.blogspot.com/-zj0jnRWEuAY/Vb3hV5jNn4I/AAAAAAAFiqQ/nGNSMlb24NU/s1600/2014-06-04%2B06.34.40.jpg" caption="Our camp spot from last night" %}
 
 Today was surprisingly easy.

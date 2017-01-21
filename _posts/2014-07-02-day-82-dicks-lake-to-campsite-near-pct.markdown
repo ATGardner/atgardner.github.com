@@ -10,7 +10,6 @@ thumbnail: https://3.bp.blogspot.com/-P4MphzkS6zE/VHw6T_oFuII/AAAAAAAFajQ/gbTNlm
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4768545905052702376
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-82-dicks-lake-to-campsite-near-pct.html
 ---
-
 It was a longer day than we first thought.
 
 {% include image.html src="https://3.bp.blogspot.com/-P4MphzkS6zE/VHw6T_oFuII/AAAAAAAFajQ/gbTNlmvJgTE/s1600/2014-07-02%2B07.57.05.jpg" caption="Passing by Middle Velma Lake" %}

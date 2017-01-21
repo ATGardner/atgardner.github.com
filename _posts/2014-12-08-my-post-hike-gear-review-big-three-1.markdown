@@ -20,7 +20,6 @@ thumbnail: http://3.bp.blogspot.com/-Z1keH0IyGxE/VIaYIqgycnI/AAAAAAAE8JI/ghEejgO
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6169661002266872370
 blogger_orig_url: http://pct14.blogspot.com/2014/12/my-post-hike-gear-review-big-three-1.html
 ---
-
 [My complete gear list]
 
 I think it's about time I'd post some of my thoughts about the gear I used on the trail. I am quite happy about my initial gear selection. Most of my gear held on for my entire trip, with a few exceptions. I also ditched a few items I decided were not worth the weight.

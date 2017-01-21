@@ -15,7 +15,6 @@ thumbnail: https://4.bp.blogspot.com/-1ZImUEYTwak/VHq-aRrst7I/AAAAAAAFTpM/BbH2Gi
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-507502920280308443
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-89-campsite-near-pct-mile-12605-to.html
 ---
-
 Today we had a short day into town. Shortly after heading out we crossed a nice spring at mile 1261.30. It wasn't
  in Halfmile's app, so that was a nice surprise.
 

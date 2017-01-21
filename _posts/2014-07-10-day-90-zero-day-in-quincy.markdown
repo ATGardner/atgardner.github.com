@@ -11,7 +11,6 @@ thumbnail: https://4.bp.blogspot.com/-VL5_G9hShBQ/VHq_Febui0I/AAAAAAAFTqE/RoVH5H
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6037019292572059678
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-90-zero-day-in-quincy.html
 ---
-
 Today was a very successful zero day. We mostly did nothing. I got up late, at about 8:00, and just ate some breakfast I bought at the supermarket yesterday. I passed the time until going to the post office to finally pick up my new battery.
 
 {% include image.html src="https://4.bp.blogspot.com/-VL5_G9hShBQ/VHq_Febui0I/AAAAAAAFTqE/RoVH5HTQMN4bqM0HyVN4PfZtftpYoFz1A/s1600/2014-07-10%2B19.50.39.jpg" caption="It's going to get stormy" %}

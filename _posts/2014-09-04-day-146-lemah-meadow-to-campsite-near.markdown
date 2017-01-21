@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:23:24.407-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8328441544881800436
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-146-lemah-meadow-to-campsite-near.html
 ---
-
 I don't really know why I did such a long day. I had my plan all laid out to finish my hike at the 15th, and that plan included an easy day today, a bit harder tomorrow, and then only 5 miles into highway 20 and a day of resting at the Dinsmores. Instead, I did a really long day today, just so I can get to the highway tomorrow after noon, sleep at the Dinsmores and head out on the next day. So I'll be done one day earlier, I guess.
 
 The morning was really cold, and my tent was damp inside. I dried as much as I could with the towel, and started hiking with Lighthouse at 7:30. We had a climb ahead of us first thing in the morning, and our feet and hands were frozen. But after some hiking we warmed up. The skies were finally clear, and on top of the ridge we got some sun. We had a nice breakfast break, and Lighthouse dried his stuff in the sunlight. I was too lazy to spread my tent.

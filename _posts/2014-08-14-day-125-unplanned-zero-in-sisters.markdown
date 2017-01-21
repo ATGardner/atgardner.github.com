@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:56:58.631-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5194398220879470101
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-125-unplanned-zero-in-sisters.html
 ---
-
 What a long and useless day...
 
 After having a breakfast and heading out of the motel in the morning, I bought some supplies at the Albertsons, and started to try to hitch back to the trail rather late, at about 10:00.

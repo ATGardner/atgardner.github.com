@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:29:38.031-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2965699018761699926
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-154-cs2603-to-harts-pass.html
 ---
-
 Wow, last night was cold! I ended up sleeping with two pairs of socks, and my hiking pants over my long johns. And my tent's inside was all covered in frost in the morning.
 
 For the second time on the trail, I made hot oatmeal for breakfast, and we took our time packing up. My fingers and feet were still numb when we headed out, and only after about 20 minutes they felt good again. After we got to the sunny side of the ridge, it was all very nice and pleasant. Most of today's trail wasn't too hard, except for one tough climb with many switchbacks in the middle of the day. From there it was easier ridge walking all the way into Hart's Pass.

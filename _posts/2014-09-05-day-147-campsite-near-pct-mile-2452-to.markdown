@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:23:53.967-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-525498649578679127
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-147-campsite-near-pct-mile-2452-to.html
 ---
-
 I got up at 6:30, and already almost everyone else was gone. Banjo was still inside his hammock when I left an hour later.
 
 The trail had nice ups and downs today. Some of the ups had a bit of steep switchbacks, bit most of the times they ended quickly. The weather was great, and the views were very nice. We got a glimpse of Glacier Peak, which we'd see more on the coming days.

@@ -11,7 +11,6 @@ modified_time: '2015-06-17T13:42:27.186-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1174326813697728519
 blogger_orig_url: http://pct14.blogspot.com/2014/03/pct-hike-plan-v2.html
 ---
-
 I have finally finished updating my planning spreadsheet, and it's ready to be released upon the world. I know most thru-hikers already have their plan laid out for them (the ones that plan ahead, anyway), but I still think this is a nice and flexible tool to use before and during your hike, to try and estimate how many days of food are needed between resupplies, and difficulties along the trail.
 
 For starters, I updated all the distances and elevation gains to use [Halfmile's] 2014 data. I would like to thank both Lon Cooper and David Lippke for sharing their data with me so generously, and answering my constant nagging regarding the best way to calculate different values for my tables. I also blatantly copied some data from their trail notes, with their permission.

@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:20:18.949-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2332742084711051101
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-97-crystal-lake-fish-hatchery-to.html
 ---
-
 What an awful night. The worst on the trail so far. My tent's netting zipper failed on me again, and I couldn't get it closed during the night. And there were plenty of mosquitoes at the fish hatchery. The night was also very warm, so I slept only in my silk liner through most of it. Which probably helped the mosquitoes to bite me. I awoke many times during the night, and on several occasions turned on my headlamp and hunted at least 5 mosquitoes inside my tent, every time. When the morning came, I welcomed it.
 
 The day's hike was rather easy, with only 11 miles for me to do, until I reach highway 89, and hitch into town. I passed Thru Fisher, and later Zen Dawg, just before the first highway crossing. I wanted to stop for a quick breakfast, but discovered i am almost at the first road crossing, so i decided to push to there instead.

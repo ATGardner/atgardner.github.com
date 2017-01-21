@@ -17,7 +17,6 @@ thumbnail: http://1.bp.blogspot.com/-dVnqG5e4RHY/VYB8d0JmCdI/AAAAAAAFgy8/wFKwTNJ
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-356763986831724636
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-38-tehachapi-to-golden-oaks-spring.html
 ---
-
 Well, we managed to understand how to catch the Kern bus from Tehachapi back to the trail. We did skip 8 miles of trail, since we got off at Willow Spring Road (mile 258), and got back on at highway 158 (mile 266). Oh well.
 Just as we were starting our hike, a trail Angel came along and dropped Happy Feet, Glitter and Path Finder there as well.
 

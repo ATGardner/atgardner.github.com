@@ -17,7 +17,6 @@ thumbnail: http://1.bp.blogspot.com/-Y8FHjTkqjy0/VUKI0LIoglI/AAAAAAAFdRk/WGkJgH1
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5696346491603754254
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-29-pct-mile-284-to-fire-station-at.html
 ---
-
 So, after a nice warm night at the parking area, we were planning on hitching on the mostly deserted highway in order to get around some closure, and skip the ultra long (19 miles) official alternative and somewhat shorter old alternative.
 
 {% include image.html src="http://1.bp.blogspot.com/-Y8FHjTkqjy0/VUKI0LIoglI/AAAAAAAFdRk/WGkJgH1oxsc/s1600/CAM00826.jpg" caption="4 happy hikers, after a wonderful ride down the trail. Thanks, Barbra." %}

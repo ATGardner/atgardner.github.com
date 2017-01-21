@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:23:40.929-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7893628197405712780
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-104-chilcoot-creek-to-campsite-near.html
 ---
-
 After a surprisingly chilly night (I slept in my base layer and wore my fleece hat), I woke up late at 6:50. That was fun.
 
 Our tents were wet on the inside, because of the humidity in the air, and in our breath. I carefully took out everything from my tent, careful not to touch the walls, and proceeded to wipe them dry with my camp towel. It's the only use I've found for it so far.

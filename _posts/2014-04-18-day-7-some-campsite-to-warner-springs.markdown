@@ -13,7 +13,6 @@ thumbnail: http://3.bp.blogspot.com/-ytmLL5sadE8/VJl3IXAJOZI/AAAAAAAFRWI/PbtGwtO
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1113012560125503737
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-7-some-campsite-to-warner-springs.html
 ---
-
 We woke up in the morning to the sounds of rain drops on our tents. That was a nice change. It only lasted for a few minutes, and dried out by the time we got outside. But there is rain in the desert! By the time we left the campsite everyone else were already gone. We had a nice breakfast (especially after last night rice fiasco) and packed up our stuff.
 
 {% include image.html src="http://3.bp.blogspot.com/-ytmLL5sadE8/VJl3IXAJOZI/AAAAAAAFRWI/PbtGwtOy4oA/s1600/2014-04-18%2B08.48.55.jpg" caption="Crossing the 100 mile marker" %}

@@ -16,7 +16,6 @@ modified_time: '2015-08-02T02:33:42.220-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6669507562729155565
 blogger_orig_url: http://pct14.blogspot.com/2014/05/days-42-43-zeroing-in-lake-isabella.html
 ---
-
 After the great trail magic dinner up at Walker Pass campground, we also had pancake breakfast for dinner. I failed miserably, and only had one. What can I say? I'm not a breakfast person.
 
 There was another hiker that came in last night, after doing a 40 mile day. And two more that strolled in this morning after doing over 30 yesterday. They were all heading out, and not going into town.

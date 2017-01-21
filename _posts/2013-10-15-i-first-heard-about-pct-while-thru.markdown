@@ -11,7 +11,6 @@ modified_time: '2015-06-16T22:06:54.595-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7672092480727207221
 blogger_orig_url: http://pct14.blogspot.com/2013/10/i-first-heard-about-pct-while-thru.html
 ---
-
 I first heard about the PCT while thru-hiking the Appalachian Trail in 2002. I recall being in the 501 shelter, meeting up with Bag of Tricks and (I think) Woody Woodpecker while cooking myself some dinner on my cat stove. Woody was telling me about his PCT hike in the previous year - how you have to watch out for Grizzly bears, cook away from your sleeping location, cross snow covered mountain passes. I liked the stories, but I haven't thought much about the PCT back then. I was still a long way off from Katahdin, the northern end of the AT.
 
 I don't think I really "decided" to hike the PCT for a long long time after that. I just kept telling myself that it might be an interesting adventure to have one day. Over the years, I kept recalling my time on the AT, having dreams about finally getting back out there, and generally hoping to hike another long trail again.

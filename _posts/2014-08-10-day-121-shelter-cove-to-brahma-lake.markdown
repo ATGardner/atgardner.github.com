@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:53:18.131-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-9184162551481824668
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-121-shelter-cove-to-brahma-lake.html
 ---
-
 Another long day up ahead. 27 trail miles, along with 2+ just to get from Shelter Cove back to the trail.
 
 I got up at 6:00, packing up and going back to the store. Even though there is no cell reception here, the Wi-Fi is pretty good, so I did some chores, like ordering a new external battery that will wait for me in Bend, instead of the one from Lepow, which doesn't work well at all.

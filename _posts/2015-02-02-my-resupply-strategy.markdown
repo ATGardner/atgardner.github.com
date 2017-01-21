@@ -11,7 +11,6 @@ thumbnail: https://1.bp.blogspot.com/-j-tA_dMTTJs/VM9nytSNUcI/AAAAAAAFYyo/_2GLgh
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8596918182696135879
 blogger_orig_url: http://pct14.blogspot.com/2015/02/my-resupply-strategy.html
 ---
-
 I started writing a full account of my resupply stops along the trail, with comments about the selection and variety different places had. The list grew longer, and I think that most of this information can be found on Yogi's excellent book. It was also not very interesting.
 
 Instead, I'll just post about the different locations I mailed myself packages, which will make it all shorter and to the point.

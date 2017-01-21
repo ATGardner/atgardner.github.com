@@ -13,7 +13,6 @@ modified_time: '2015-06-16T22:15:39.402-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1838293214722393381
 blogger_orig_url: http://pct14.blogspot.com/2013/10/hiking-poles.html
 ---
-
 On my AT thru hike I got persuaded by the REI sales-person to buy the most expensive Leki poles in the store. I remember vaguely she did offer several alternative models, all from Leki, but I decided I'd pay a bit extra, and go for the best. (I think that is my general mind set, and it probably cost me a lot of money during my recent gear frenzy as well.)
 
 After deciding I want the Super Makalu model, apparently the didn't have a pair in stock, but the other store near Union Square had one, so I had to go over there on the following morning, and finally bought the pair. I remember I walked back up manhattan with the poles in my hand, wondering if I'd even know how to use them properly.

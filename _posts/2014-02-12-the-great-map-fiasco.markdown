@@ -14,7 +14,6 @@ thumbnail: http://3.bp.blogspot.com/-ZeHvZbGP5yk/Uvs_pUQQIKI/AAAAAAADJd8/WkpvT1R
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8808245371203716118
 blogger_orig_url: http://pct14.blogspot.com/2014/02/the-great-map-fiasco.html
 ---
-
 There are currently three available options for getting good maps for the trail (that I considered/know of) - [Halfmile's], [Postholer's] and [Eric the Black's]. I guess all three of them would "work", in that I will probably not get totally lost, but I really liked the "open source" feel of the Halfmile project, and I decided that I will use his maps and notes for my hike. I know that having a free digital copy of the maps is only half the work, since printing them all (~450 color pages) would still cost money. But it seems like a simpler and nicer option than ordering a map book from one of the other publishers.
 
 My plan was to wait for 2014 edition of Halfmile's maps, and print them at some local print shop in Tel Aviv, so I can drool over them at home, and also maybe try and arrange them into manageable chinks, ready for future mail drops (Though currently it seems as though I will just have one big chunk inside my bounce box).

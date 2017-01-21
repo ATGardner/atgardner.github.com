@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:11:54.319-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6279816807494789312
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-140-white-pass-to-dewey-lake.html
 ---
-
 After a nice night at the inn, I headed out and hit the trail at 8:15. I was hoping to get some breakfast at the trail magic by the trail head, but everyone there were still asleep when I passed by.
 
 The trail was nice and easy, and I quickly met some hikers going south. Papi skipped from Cascade Locks up to the Canadian border, to finish the trail going southbound. He'll be done in about a week, just in time to get there for PCT days celebration. Sounds nice.

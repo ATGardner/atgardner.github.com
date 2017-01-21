@@ -13,7 +13,6 @@ thumbnail: http://3.bp.blogspot.com/-EVNSouEIvwY/VautldG7fWI/AAAAAAAFh04/1QQHO2y
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6692641408050967002
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-51-pct-mile-753-to-crabtree-meadows.html
 ---
-
 Last night, Yair analyzed my cold nights problem, suggesting that maybe it's because I have a short sleeping pad, and a quilt. The bit where my quilt gets off the pad is open underneath, and the heat escapes from inside.
 
 {% include image.html src="http://3.bp.blogspot.com/-EVNSouEIvwY/VautldG7fWI/AAAAAAAFh04/1QQHO2ybFMw/s1600/2014-06-01%2B07.51.40.jpg" caption="View towards Mt. Guyot and Siberian Pass Creek" %}

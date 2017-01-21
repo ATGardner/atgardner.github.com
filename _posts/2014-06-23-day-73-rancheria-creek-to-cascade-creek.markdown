@@ -14,7 +14,6 @@ thumbnail: http://3.bp.blogspot.com/-UEDwAyNXgPo/Vj82LsZ_7kI/AAAAAAAFomU/r9TMLat
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-560562073594363765
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-73-rancheria-creek-to-cascade-creek.html
 ---
-
 Finally the night wasn't too cold. I slept well with only my base layer. It felt nice. Getting up in the morning was easier too, and the sun shone on us quite early. A short walk from our camp we had our first Ford of the day. Surprisingly, we managed to get across with some rock hopping. A while later, we had to ford across the Stubblefield, that was a bit harder, and I got one foot wet.
 
 {% include image.html src="http://3.bp.blogspot.com/-UEDwAyNXgPo/Vj82LsZ_7kI/AAAAAAAFomU/r9TMLatfG8M/s1600/2014-06-23%2B11.36.01.jpg" caption="I think that's Bailey Ridge" %}

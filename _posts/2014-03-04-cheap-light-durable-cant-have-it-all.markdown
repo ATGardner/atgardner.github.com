@@ -10,7 +10,6 @@ thumbnail: http://2.bp.blogspot.com/-OdTaT-KmSE8/UyAbs1Tra6I/AAAAAAADJ6Y/pkgGP4-
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5943908352573532056
 blogger_orig_url: http://pct14.blogspot.com/2014/03/cheap-light-durable-cant-have-it-all.html
 ---
-
 I got my ["Strange pair of shades"] about two weeks ago, and haven't really used them anywhere. They didn't look so good, so I figured I'll save them for the trail. Once I'm all stinky and dirty, I don't think anyone would mind them.
 
 Well, I took them out of their little container last night, put them on for several minutes (while at home), and left them on the kitchen table. This morning I decided to fold them back into the container, and they just snapped.

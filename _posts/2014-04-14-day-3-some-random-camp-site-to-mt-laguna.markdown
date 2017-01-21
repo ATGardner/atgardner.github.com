@@ -9,7 +9,6 @@ thumbnail: http://3.bp.blogspot.com/-FwfaTLpePDw/VIvoWlufoYI/AAAAAAAFCdw/BqOjSLc
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2972918194405328480
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-3-some-random-camp-site-to-mt-laguna.html
 ---
-
 {% include image.html src="http://3.bp.blogspot.com/-FwfaTLpePDw/VIvoWlufoYI/AAAAAAAFCdw/BqOjSLccnKI/s1600/2014-04-14%2B13.23.34.jpg" caption="Chilling in front of the Mt. Laguna store" %}
 
 Today we had a nice and easy stroll into town. We only had about 6 miles to go from our camp site, and most of it was fairly easy.

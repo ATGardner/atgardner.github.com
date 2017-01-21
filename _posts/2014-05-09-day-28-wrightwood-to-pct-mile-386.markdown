@@ -13,7 +13,6 @@ thumbnail: http://3.bp.blogspot.com/--w_6wNHVEko/VUKF4vWZrYI/AAAAAAAFdRY/kzAejgr
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5439842760847277297
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-28-wrightwood-to-pct-mile-386.html
 ---
-
 That was a rather hard day.
 
 It started easy enough, after we abated to get our lazy asses out of the hotel at 9:30. We managed to hitch a ride back to the trail along with Sochi. The first few miles were easy and nice. We passed about three school groups who seemed to be very impressed to see "real" thru-hikers. We were happy to play the part. Once we reached the second crossing of the highway we knew it's going to be all up from here. It was a 4 mile climb up Baden-Powell, and a climb of about 2800 feet. I counted 40 switch back all the way up. I did fill up 1 liter of water at the spring on the way, which came in handy later, when I added Gatorade powder to it and drink it. Up at the top (at 9400 feet) it was surprisingly not too windy and cold, so we had a quick lunch. The cream cheese bagel worked well today as well. From there we had mostly downwards trail, until we reached Little Jimmy spring. Idan went down the side trail to get each of us 2 liters of water.

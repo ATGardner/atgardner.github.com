@@ -16,7 +16,6 @@ thumbnail: http://2.bp.blogspot.com/-GTx6J2w0GT4/VYHaTC3TnAI/AAAAAAAFg28/4m2NIGH
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4009079629573607742
 blogger_orig_url: http://pct14.blogspot.com/2014/02/shopping-spree-wont-somebody-please.html
 ---
-
 OK. I've done it again. And again. (And again).
 
 {% include image.html src="http://2.bp.blogspot.com/-GTx6J2w0GT4/VYHaTC3TnAI/AAAAAAAFg28/4m2NIGHl2Ls/s320/ghost_whisperer_anorak.jpg" caption="Mountain Hardwear Ghost Whisperer Anorak" %}

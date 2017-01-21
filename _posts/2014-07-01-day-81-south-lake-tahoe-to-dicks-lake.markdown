@@ -11,7 +11,6 @@ modified_time: '2016-02-08T13:41:35.402-08:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-379900353615659975
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-81-south-lake-tahoe-to-dicks-lake.html
 ---
-
 After a show morning in our hotel room, we finally headed out to send the rest of our packages from the post office. We had some problems sending the one to Old Station, because it contained a gas canister. At first, the clerk said there's no way to send it on the mail. But after checking their books, he said we can send it ground only. That will work. We then went to the outfitter, to wait for our ride there. We met Bliss Hap, and she joined our ride up to the trail with trail Angel Mel. I also bought a new pair of sun gloves, but they are much heavier and sturdier than my old pair. I don't really like them as much.
 
 {% include image.html src="https://3.bp.blogspot.com/-59oX4z_Rmhw/VHw5xz6jWCI/AAAAAAAFajU/PBdx38ragzY/s1600/2014-07-01%2B10.55.49.jpg" caption="Old vs New" %}

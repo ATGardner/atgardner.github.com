@@ -8,7 +8,6 @@ modified_time: '2015-06-19T08:02:16.449-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7726951929047263901
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-133-cascade-locks-to-campsite-near.html
 ---
-
 After 23 miles, and about 6600 feet of climbing, I can safely say from experience that Washington is a piece of cake. Famous last words.
 
 But today wasn't too hard, I was happy to discover. Yes, there were plenty of climbs. But I don't recall anything specifically tough.

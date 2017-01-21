@@ -19,7 +19,6 @@ thumbnail: http://1.bp.blogspot.com/-_nOOwVFXsSw/VJQ4tuuieII/AAAAAAAFPYA/ACUqT8O
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2608528247805634414
 blogger_orig_url: http://pct14.blogspot.com/2014/12/my-post-hike-gear-review-pt-2-clothing.html
 ---
-
 [My complete gear list]
 
 ####Hiking Shirt - [Columbia Silver Ridge Long Sleeve Shirt]

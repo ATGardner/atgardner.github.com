@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:32:59.955-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7267071863065270459
 blogger_orig_url: http://pct14.blogspot.com/2014/09/into-manning-park-and-beyond.html
 ---
-
 It was cold at night. Not the coldest it has ever been so far, but cold enough. My sleep was as usual - not sound - but I'm used to it by now. When the alarm went off at 5:00 I was relieved to finally start my final day of hiking.
 
 Last night I learned that the bus to Vancouver doesn't go through Making Park at 11:15, but instead goes by there at 10:10. So I needed an early start to get there even earlier than I thought.

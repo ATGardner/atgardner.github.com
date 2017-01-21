@@ -14,7 +14,6 @@ thumbnail: https://2.bp.blogspot.com/-Y24IqHHaiOc/Vzc9JhCTYiI/AAAAAAAF0kc/6UdcSY
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2707038442989582344
 blogger_orig_url: http://pct14.blogspot.com/2016/05/israel-national-trail-offline-maps.html
 ---
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.18.2/ol.js" type="text/javascript"></script>
 <script src="https://unpkg.com/ol-wrapper@0.5.7/dist/ol-wrapper.min.js" type="text/javascript"></script>
 <script src="https://storage.googleapis.com/atgardner-blog/trails.bundle.js" type="text/javascript"></script>

@@ -11,7 +11,6 @@ thumbnail: http://2.bp.blogspot.com/-QUqPRRjd_fA/UzrLYFONIpI/AAAAAAADKcI/giI4Uhn
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1754150676073767163
 blogger_orig_url: http://pct14.blogspot.com/2014/04/the-plb-is-here.html
 ---
-
 Yesterday I got my [Fast Find 220] device, rented from [Small-World]. It seems like a small-enough device, and I hope I will never need it.
 
 {% include image.html src="http://2.bp.blogspot.com/-QUqPRRjd_fA/UzrLYFONIpI/AAAAAAADKcI/giI4UhnFsYg/s1600/2014-04-01+07.06.45.jpg" caption="" %}

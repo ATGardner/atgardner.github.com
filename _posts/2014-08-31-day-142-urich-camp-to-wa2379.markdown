@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:12:43.528-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8744827544228373875
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-142-urich-camp-to-wa2379.html
 ---
-
 Phew, last night was tough. All three of us were tented inside the hut, up in the loft. And it was very hot up there. The trail maintainers kept the stove on, and all the heat came up to make a dry sauna around us.
 
 Sizzler was the first to break. He took off his tent, and set it up outside on the porch. I was already napping, when Slaughterhouse got up and went to the porch as well, without her tent.

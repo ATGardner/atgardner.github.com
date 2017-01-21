@@ -12,7 +12,6 @@ modified_time: '2015-06-17T12:58:12.379-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6751686195897829141
 blogger_orig_url: http://pct14.blogspot.com/2013/12/us-sim-card.html
 ---
-
 I've been trying to figure out what cell company/mobile plan to use while in the US. I don't need a lot of minutes or messages, and only a moderate amount of data. I was thinking about trying to get a data-only plan, because I expect to be using mostly Skype to call back to Israel, but I will be dependant on having 3G reception to use it even just for making local calls, and I guess many backcountry locations will only have 2G reception available for voice calls. Not to mention I'll have to fool the cell company into thinking I have a tablet, and not a phone, which may or may not be according to the contract I'll be signing.
 
 So - I want a simple plan with a minimal amount of minutes, and some 3G data. I asked on the [PCT Class of 2014] fb page about cell coverage, and I understand that Verizon is by far the best cell company (reception-wise) along the trail. Sadly, my Nexus 4 phone is not compatible with their transmission bands, so no use for me there. It's T-Mobile or ATT now.

@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:22:24.078-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6012530197058689190
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-101-campsite-near-pct-mile-1501-to.html
 ---
-
 Short day into town.
 
 As we expected, the 680 feet climb to the interstate was a mistake, and the entire hike was an easy down hill.

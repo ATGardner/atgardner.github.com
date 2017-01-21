@@ -14,7 +14,6 @@ thumbnail: http://2.bp.blogspot.com/-VVwAhhN4fOs/VVufg7hCeyI/AAAAAAAFd0w/4VrmVh-
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7545394327281419380
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-32-zero-day-at-hiker-heaven.html
 ---
-
 This was the first zero day I took just to rest, and not just trying to get better from some injury or illness. It felt good. I didn't sleep in, though. I guess I'm used to wake up with sunrise. Besides, I knew I'd be cooking inside my sleeping bag in 10 minutes, if I'd stay in it.
 
 {% include image.html src="http://2.bp.blogspot.com/-VVwAhhN4fOs/VVufg7hCeyI/AAAAAAAFd0w/4VrmVh-KrmI/s1600/2014-05-13%2B08.17.17.jpg" caption="Having breakfast with Penguin, Cheese and Will at the Sweetwater Cafe" %}

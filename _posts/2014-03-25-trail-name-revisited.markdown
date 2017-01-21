@@ -9,7 +9,6 @@ modified_time: '2015-06-17T21:51:36.973-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7596006904250351321
 blogger_orig_url: http://pct14.blogspot.com/2014/03/trail-name-revisited.html
 ---
-
 I've been contemplating this whole [trail name] thing for a while now, trying to decide between keeping my old name from the AT (Amtrak), or figuring out a new/better name for myself for this round.
 
 So far, on the PCT permit, and various trail registration sites (Yogi's, registering at the Mann's), I used Amtrak, figuring out I'll just go with my default. I'm used to it. I do quite like it. It will feel like I'm back on the AT, continuing my old adventure...

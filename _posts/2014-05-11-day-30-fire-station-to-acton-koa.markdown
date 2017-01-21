@@ -10,7 +10,6 @@ thumbnail: http://2.bp.blogspot.com/-FDCLoBIPbk0/VUiQ899Ng2I/AAAAAAAFdfo/2Gu5tl6
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1269491845598423558
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-30-fire-station-to-acton-koa.html
 ---
-
 Phew. Longest day yet, and it felt like it.
 
 The initial plan was to do two medium days into Agua Dulce. So 17 today, and something similar tomorrow. Last night was very windy, and one of my tent stakes took off before dawn (I found it later), but the tent held, and I slept fine. All through morning the wind continued, and it was rather cold. The trail went up along the ridge, half of it just bush walking, trying to avoid Poodle Dog Bush, and figuring out how to get over blow downs. It was terrible. We managed to miss the first campground, so we just sat on the trail and ate something for late breakfast.

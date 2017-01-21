@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:53:58.879-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3582418871808778788
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-122-brahma-lake-to-mesa-creek.html
 ---
-
 It was fun being warm and dry in my tent last night, while it was rainy outside. But it only rained at the beginning of the night, and by morning my tent was mostly dry.
 
 I was one of the last to leave camp, with only Forest leaving after I did. Quite early, I passed Butter Fingers, who camped a few miles back last night, and Coyote and her partner, who probably did the same.

@@ -11,7 +11,6 @@ thumbnail: http://1.bp.blogspot.com/-OE5Lj81M6jA/VJxN7QrNnhI/AAAAAAAFR50/U2bKfwN
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8173562138079114821
 blogger_orig_url: http://pct14.blogspot.com/2014/12/confessions-of-thru-hiker.html
 ---
-
 I started my hike in an attempt to hike the entire PCT. Being the anal person that I am, I meant to do it all, without skipping a single step. Yes, I am one of those stupid purists who gets a ride into town from one side of the highway, then gets back to that same side on the next day, to hike on from the exact same spot.
 
 However, after a while I gave up. I wasn't enjoying the trail that much, and I had thoughts about quitting. When the opportunity presented itself, I decided I don't care that much for the trail anymore, and I should just do whatever I want to, instead of forcing myself into following stupid rules, for no logical reason at all. So I started skipping.

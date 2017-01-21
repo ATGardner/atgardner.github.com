@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:24:35.252-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8269428083996827150
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-149-wacs2498-to-glacier-creek.html
 ---
-
 This is definitely the hardest section in Washington. The original plan today was to complete the two miles we didn't do yesterday, and then do about 23 more, with a lot of climbing in between.
 
 Most climbs today weren't as steep as yesterday's, but they were still "up". The weather was excellent, and we met many weekend hikers, including two hunters out looking for a bear. I am on the bear's side.

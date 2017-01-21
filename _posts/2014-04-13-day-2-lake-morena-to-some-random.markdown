@@ -9,7 +9,6 @@ thumbnail: http://1.bp.blogspot.com/-42fGa8ekNYE/VIsQSz5chbI/AAAAAAAFB3U/YBGF8Sy
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3976805138073499607
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-2-lake-morena-to-some-random.html
 ---
-
 The night was a bit chilly, and I remembered why I should have bought a beanie hat. I could feel the heart escaping me from my head while I was sleeping in my tent. Well, I'll buy one tomorrow at Mt Laguna. In the morning many other hikers went over to the nearby deli to get some breakfast, but we preferred to eat out of our pack instead. It's always better to lighten your load. We decided we'd rather make an easier day today, and not push all the way to Mt Laguna at 23 miles. We'll get closer, and leave a short section for tomorrow, so we can reach it early on the day, and take our time to do some town chores.
 
 {% include image.html src="http://1.bp.blogspot.com/-42fGa8ekNYE/VIsQSz5chbI/AAAAAAAFB3U/YBGF8SyYGe8/s1600/2014-04-13%2B08.50.44.jpg" caption="View back towards Lake Morena" %}

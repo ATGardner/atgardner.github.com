@@ -8,7 +8,6 @@ modified_time: '2015-06-19T08:06:03.695-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7926872675067803736
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-134-campsite-near-pct-mile-2178-to.html
 ---
-
 {% include image.html src="https://lh6.googleusercontent.com/-hs34x1TAKX0/U_v1rS_x5sI/AAAAAAADSog/1rXXGuertMo/1409006250685.jpg" caption="Joe heating up the chili" %}
 
 {% include image.html src="https://lh4.googleusercontent.com/-xLISUw_1BLU/U_v1Oj_O3yI/AAAAAAADSoY/5a8hjnOiUeQ/1409006229195.jpg" caption="Trail magic indeed" %}

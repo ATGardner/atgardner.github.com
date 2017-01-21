@@ -9,7 +9,6 @@ thumbnail: http://1.bp.blogspot.com/-iQ8dDEcVkEE/VSzXm109PQI/AAAAAAAFc7s/avyapUy
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5733178975207756690
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-26-cajon-pass-to-pct-mile-357.html
 ---
-
 {% include image.html src="http://1.bp.blogspot.com/-iQ8dDEcVkEE/VSzXm109PQI/AAAAAAAFc7s/avyapUyye7k/s1600/2014-05-07%2B11.20.11.jpg" caption="The view when climbing up the trail today." %}
 
 It was hard getting up from that soft motel beds, knowing we have a hard day of climbing ahead of us. But I managed to pull myself up at the end, and start getting ready. The included breakfast was more than enough - they had this waffle batter dispenser, which you then put in the waffle machine, and get waffles 2.5 minutes later. I managed to eat only one. I also had a fresh orange, and a bagel, and was full. So that was a good start. We then just hang out in our room, hoping the cold grey weather over the mountains would lift. We tried leaving as late as possible, but finally we made ourselves go at about 9:30, hitting the trail just after 10:00.

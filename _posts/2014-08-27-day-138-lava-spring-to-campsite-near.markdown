@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:11:16.754-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-321701009677311750
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-138-lava-spring-to-campsite-near.html
 ---
-
 Today I had a good day.
 
 I had my oatmeal breakfast with the section hikers I camped with last night - Ray, Allan, Joanne and Warren - they were surprised I don't drink coffee and eat more on the mornings. Heading out, I met Mrs. McGyver & Veggie Gourmet at the next water source. They camped at the campsite 0.5 a mile before the Lava Spring, but got up early and passed me before I got up.

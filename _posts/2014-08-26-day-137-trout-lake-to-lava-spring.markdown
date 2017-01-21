@@ -10,7 +10,6 @@ cursor: pointer;'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3791696390177838358
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-137-trout-lake-to-lava-spring.html
 ---
-
 I got up tired and drained of energy, like yesterday. I was hoping that it will get better on the trail.
 
 Justin and I had breakfast at the restaurant. I had a big portion of eggs and hash browns. That was nice. I later packed my things and tried calling the numbers posted at the store, of people who will take hikers up to the trail. I finally got hold of Steve, and he came by after 10 minutes to pick me up. He is a retired electrician, that moved here with his wife 5 years ago. He goes out hiking around the local trails at least once a week. Sounds like a good life to me.

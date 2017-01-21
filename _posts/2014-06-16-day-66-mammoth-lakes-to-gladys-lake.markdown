@@ -10,7 +10,6 @@ thumbnail: http://3.bp.blogspot.com/-YEFCGUkdvRw/Vh-k5d7IL5I/AAAAAAAFoEY/DiEGPnj
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3552475851896534741
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-66-mammoth-lakes-to-gladys-lake.html
 ---
-
 This morning I finally managed to wake up late. And by late I mean 8:00. That was nice.
 
 We didn't do much in the morning, until we went to the nearby post office and sent some packages to Tahoe and Bridgeport. I got my Gossamar Gear hiking pole section, so now I can finally hike with two trekking poles again.

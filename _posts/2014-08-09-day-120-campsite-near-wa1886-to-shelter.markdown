@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:52:12.331-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7456438573618324660
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-120-campsite-near-wa1886-to-shelter.html
 ---
-
 A long day ahead of me, I got up at 6:00. It seems that it always takes me 52 minutes to get ready in the morning.
 
 The trail went up on the ridge, and I had some great views on Summit Lake and Diamond Peak above it. I was planning to get water at the creek pouring into Summit Lake, but getting there I discovered it was all dry. The Summit Lake Campground was 1 mile further up the trail, and according to the app it also has water. Getting to the campground I came upon a big family camping there, and no water except from the lake itself. Luckily, the campers offered to give me some of their water, and I happily filled up 1 liter for the rest of the way.

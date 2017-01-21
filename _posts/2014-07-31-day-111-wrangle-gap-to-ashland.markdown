@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:26:39.492-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8347951766306801404
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-111-wrangle-gap-to-ashland.html
 ---
-
 After finishing our hike early yesterday, we wanted to get to Ashland as soon as we can. So we got up at 5:00. It was still a bit dark, and chilly. But it wasn't that bad.
 
 We still had about 23 miles to do today, but we decided we will hike fast until we are done, so we didn't make any long stops. We passed some of the people that passed us by last night. Our first short break was at a small spring, right by where Lighthouse and Mung were camping last night. They were just heading out for their day.

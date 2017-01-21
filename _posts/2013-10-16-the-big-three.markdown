@@ -21,7 +21,6 @@ thumbnail: http://2.bp.blogspot.com/-DBrz7JZJOcI/UqlypLoGGYI/AAAAAAADG8Q/wKGX3QM
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2619702122822600029
 blogger_orig_url: http://pct14.blogspot.com/2013/10/the-big-three.html
 ---
-
 It wasn't easy deciding which backpack/sleeping bag/shelter I'd like to carry on my hike. I made many comparisons between different manufacturers and tried to pick out the best gear I can afford.
 
 Backpack:

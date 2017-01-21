@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:30:54.388-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8384043183203043993
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-116-highway-140-to-campsite-near.html
 ---
-
 We had some rain during the night. I like it when I hear rain drops on my tent, and everything is dry and safe.
 
 In the morning I left just after Frank. I caught up to him several miles later, where some strange trail signs made or clear we had no idea which way was the PCT. We gave a good guess, and were right.

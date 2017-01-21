@@ -10,7 +10,6 @@ thumbnail: http://4.bp.blogspot.com/-1brluFaFcdE/VauoVOXYG9I/AAAAAAAFh0Y/ENFAh5S
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-945474979371077942
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-50-wa736-to-campsite-at-pct-mile-753.html
 ---
-
 After another chilly night (hang on tight, it's going to be that way for several weeks now) we got up and started packing our stuff. Happy Pants was already gone. After worrying about water so much last evening, Yair and Idan decided they had enough water on them, and didn't go down to find the stream and get more water. I had plenty on me anyway.
 
 The walk towards the next water source, Diaz Creek, was easy and pleasant. We got there into hours, and filled up our water for the next section. From there, we had an easy climb up through some passes, until we reached a beautiful snow water stream for our next refill. The views towards Horseshoe Meadows were very nice.

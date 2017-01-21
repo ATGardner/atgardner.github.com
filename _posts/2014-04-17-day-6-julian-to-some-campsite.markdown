@@ -11,7 +11,6 @@ thumbnail: http://1.bp.blogspot.com/-2gtwOaYdETQ/VIv6nmKrHuI/AAAAAAAFCoU/Ot3ucjM
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1183930373514589372
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-6-julian-to-some-campsite.html
 ---
-
 {% include image.html src="http://1.bp.blogspot.com/-2gtwOaYdETQ/VIv6nmKrHuI/AAAAAAAFCoU/Ot3ucjMtoXk/s1600/2014-04-17%2B10.27.16.jpg" caption="A view back towards Scissors Crossing." %}
 
 Phew, today was a long day.

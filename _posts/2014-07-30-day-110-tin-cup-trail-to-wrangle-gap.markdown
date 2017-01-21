@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:26:01.801-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1920057723541452187
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-110-tin-cup-trail-to-wrangle-gap.html
 ---
-
 I think last night was the first time I slept with the tent's vestibule cover open, at least up in the mountains.
 
 It was fun waking up during the night, and see the stars. In the morning, we got up just as Frank was leaving.

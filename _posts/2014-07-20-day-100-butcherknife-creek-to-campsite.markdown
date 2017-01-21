@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:21:01.583-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3795693151971435960
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-100-butcherknife-creek-to-campsite.html
 ---
-
 I was hoping to do a shorter day today, finish early, and leave an easy 11 miles into Mt Shasta for tomorrow. Idan had other plans.
 
 The main problem with my plan was that it required dry camping in the middle of a 10 miles waterless stretch. But I figured we'd just carry enough from the Squaw Valley Creek for our camp.

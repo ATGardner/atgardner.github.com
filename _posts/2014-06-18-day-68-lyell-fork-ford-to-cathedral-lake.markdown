@@ -15,7 +15,6 @@ thumbnail: http://1.bp.blogspot.com/-haoIxXGELko/Vh-xMvYXW-I/AAAAAAAFoGQ/4EOcdRc
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2089375200818110584
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-68-lyell-fork-ford-to-cathedral-lake.html
 ---
-
 A somewhat different day for us on the PCT.
 
 The night was chilly, and in the morning we had a bit of frost on our bear canisters. The tents and the rest of our great were not affected. We waited a bit for the sun to reach us, and then started our hike down towards Tuolumne campground.

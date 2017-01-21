@@ -9,7 +9,6 @@ modified_time: '2015-06-17T13:10:23.836-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2575880598211175426
 blogger_orig_url: http://pct14.blogspot.com/2014/01/tickets-to-usa.html
 ---
-
 I have been looking on flights to the US for a while now, trying to figure out when I should start my hike, and what airlines to pick/airports to go through.
 
 At first, I checked out flying to San Diego in April, and come back home from Seattle. I was checking out two websites - [Matrix] and [hipmunk], and was surprised that they did not show the same flights and prices. I found some really cheap flights through Istanbul, but I couldn't book anything through the Matrix site, and when I tried looking for those same flights on other sites (Expedia, for example), they were much more expensive.

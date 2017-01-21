@@ -10,7 +10,6 @@ thumbnail: https://1.bp.blogspot.com/-88JTMlwXMKk/VHq9jLkVchI/AAAAAAAFqfE/sG14Qt
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4171344588896352992
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-87-campsite-near-pct-mile-1216-to.html
 ---
-
 The day started nicely with some overcast clouds, which made all the difference. It was even chilly for a short while! We hiked out to the A Tree spring and junction, and got some fresh cool water over there.
 
 From there, the climbs started. It was similar to yesterday, though we had less ridge walks, and more walks in dense forest. We stopped at the next water source, which was a not before the campsite, while the one at the nearer to the campsite was dry. Halfmile's app did not mention the one before. It also didn't mention the two Beartrap streams we passed, which were flowing well.

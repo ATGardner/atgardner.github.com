@@ -12,7 +12,6 @@ modified_time: '2016-03-02T04:36:35.784-08:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-908557223586920425
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-84-truckee-to-meadow-lake-road.html
 ---
-
  After a good night's sleep in a real bed, I got up in the morning and arranged my gear. I remembered to take my
  cream cheese from the fridge, but I did not take the Ben  Jerri's I bought yesterday. I hope out will be put to
  good use.

@@ -8,7 +8,6 @@ modified_time: '2015-06-19T08:00:35.693-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8821482236911815167
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-128-trooper-spring-to-seeping-spring.html
 ---
-
 Today I had 4 great trail moments.
 
 The first one was when I got att cell reception at mile 2077.5, under the power lines. I called home, and it really made my day.

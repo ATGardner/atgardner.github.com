@@ -10,7 +10,6 @@ thumbnail: http://2.bp.blogspot.com/-rzVt9voDB44/VNcHwc-XBiI/AAAAAAAFZug/MSDjHHR
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7896835739165817673
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-23-campsite-at-pct-mile-285-to.html
 ---
-
 As usual we woke up after many other hikers have left. I got to use the campsite's privy, which was a nice change from digging cat holes.
 
 {% include image.html src="http://2.bp.blogspot.com/-rzVt9voDB44/VNcHwc-XBiI/AAAAAAAFZug/MSDjHHRcPd8/s1600/2014-05-04%2B11.45.37.jpg" caption="" %}

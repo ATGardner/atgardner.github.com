@@ -12,7 +12,6 @@ thumbnail: http://4.bp.blogspot.com/-yP10zAlD92k/VJ2gOEeZ7EI/AAAAAAAFR9U/A0YMuw2
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1237062250333379587
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-16-idyllwild-to-campsite-191.html
 ---
-
 {% include image.html src="http://4.bp.blogspot.com/-yP10zAlD92k/VJ2gOEeZ7EI/AAAAAAAFR9U/A0YMuw2bYss/s1600/2014-04-27%2B12.54.38.jpg" caption="View towards San Jacinto from Tahquitz peak" %}
 
 This was a very long day.

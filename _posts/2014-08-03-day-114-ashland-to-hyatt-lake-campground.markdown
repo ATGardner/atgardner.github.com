@@ -10,7 +10,6 @@ cursor: pointer;'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5990526035363874579
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-114-ashland-to-hyatt-lake-campground.html
 ---
-
 It seems like Idan and I are hiking solo. We got up separately, and went for breakfast at different times. I packed my gear, and was ready to leave before 9:00. We said our goodbyes, and I headed out to get a hitch back to the trail.
 
 I tried hitching on the ramp down to the interstate, heading north. Not many cars passed by, but after about 15 minutes somebody from the nearby gas station asked me if I needed a ride. I replied I need to get to the Mt Ashland exit, and he said he can take me there. I got into a packed van. There were two kids at the back, and another passenger up front. I had to sit on the floor during the short ride. But I got to the interstate exit in one piece.

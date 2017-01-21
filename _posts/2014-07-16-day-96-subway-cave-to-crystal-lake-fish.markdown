@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:18:10.511-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1938147149634144474
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-96-subway-cave-to-crystal-lake-fish.html
 ---
-
 What a long long and hot day.
 
 We left camp at 6:30, and did the short climb up to Hat Creek Rim. From there, the trail was pretty much level for most of the day. We were entering a long, 30 miles stretch of no natural water sources. We knew there is a maintained cache in the middle ("cache 22" on forest road 22), but because if the heat, I carried 4 liters of water on me from Subway Cave in the morning.

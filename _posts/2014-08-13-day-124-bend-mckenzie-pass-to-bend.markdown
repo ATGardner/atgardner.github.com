@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:56:38.540-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3638079750211998253
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-124-bend-mckenzie-pass-to-bend.html
 ---
-
 I had a small breakfast at the motel, and headed out to get supplies for the day at Safeway's. I finally signed up to get a Safeway card. It took 2 minutes. I also sent my bounce box to Cascade Locks - last bounce for the trip! The plan today was to hike only 18 miles to the next road crossing, and then get back into Bend for the night. I booked a room for at the Dunes motel, which is cheaper, and does have a laundry room.
 
 I made a small "McKenzie Pass" sign, and walked with it along the main street, towards the exit from the city. Many cars passed by me, totally ignoring me. I was just beginning to think it won't be the end of the world to stay in town today. I do have a room for the night. Just then, a car pulled over.

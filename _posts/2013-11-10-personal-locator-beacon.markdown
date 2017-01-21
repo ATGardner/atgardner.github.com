@@ -14,7 +14,6 @@ modified_time: '2015-06-16T22:16:08.681-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2112894000723921837
 blogger_orig_url: http://pct14.blogspot.com/2013/11/personal-locator-beacon.html
 ---
-
 I have never travelled with a Personal Locator Beacon (PLB), but I decided I'd carry one for the PCT. PLBs have two main function on such a trail. They have an SOS button which immediately informs the local Search and Rescue teams of your location and need of assistance, and most also have some other, non-emergency, contact options.
 
 Before doing my little research on the matter, I only knew about the Spot devices, and also heard that DeLorme have their own offering on the matter. Most devices are not very cheap, and they also require some monthly subscription for their services, priced at different tiers for different available options.

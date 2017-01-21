@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:24:51.579-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8540811191458924295
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-107-etna-to-marble-valley-cabin.html
 ---
-
 After a hot night on the Hiker's Hut lawn, I finally woke up at around 7:30. It was fun.
 
 Talking with James, I found out that he got back last night after being to the brewery/pub, then going to the rodeo, and then to another pub. He got to sleep at 1:00. Others - even later. I was just happy I didn't go out at all.

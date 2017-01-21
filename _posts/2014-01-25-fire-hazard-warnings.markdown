@@ -18,7 +18,6 @@ thumbnail: http://3.bp.blogspot.com/-gmJB5ypCW6g/UuNjYfuO1hI/AAAAAAADJAY/vnfI7KS
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8071682411836965177
 blogger_orig_url: http://pct14.blogspot.com/2014/01/fire-hazard-warnings.html
 ---
-
 I was a bit worried about the snow sections of the PCT, having no real snow experience except for the recent trip around the Mont Blanc. So I'm a little bit relieved so far, with the current snow levels so low it appears I won't have a hard time crossing the Sierras even when starting a bit early.
 
 Sadly, this drought also causes severe fire warnings in California, as a recent [PCTA blog post] announced. It seems open fire cooking stoves will not be allowed in most places along the PCT. So there goes my plan to use the lightweight [Caldera Keg System] to cook my dinners.

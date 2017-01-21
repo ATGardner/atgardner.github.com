@@ -14,7 +14,6 @@ modified_time: '2016-03-02T04:48:20.780-08:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6944693899603357251
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-85-meadow-lake-road-to-sierra-city.html
 ---
-
 After waking up too early in the morning, because the hikers nearby were not very quiet when they got up in the morning, we finally headed out to our long day.
 
 {% include image.html src="https://4.bp.blogspot.com/-xnxEMkego3E/VCk3r7x7FTI/AAAAAAAFhgY/lo7DolrUsWg/s1600/P1040740-PANO.jpg" caption="View towards Meadow Lake" %}

@@ -19,7 +19,6 @@ thumbnail: http://4.bp.blogspot.com/-kVCSDitiAAM/VYBul7opP_I/AAAAAAAFgxI/9RK5ap1
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7235820957838165143
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-34-oasis-cache-to-middle-of-mojave.html
 ---
-
 A very very long, and different, day.
 
 It all started with a nice walk down towards the Green Valley Road, where Casa de Luna is. The trail was easy, and I especially enjoyed watching the trail climb up the mountain on the other side of the road, knowing that it was inside a fire closure, and I won't have to climb it. We got to the road at about 10:00, and Cheese came in just after. Terry Anderson, the owner of Casa de Luna, just passed by with her car, and picked us up to the famous hostel.

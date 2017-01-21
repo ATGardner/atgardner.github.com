@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:28:57.388-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4519319821409372108
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-152-campsite-near-pct-mile-2577-to.html
 ---
-
 It is always nice to hear the rain drops on my tent, while I am cozy and warm inside. It wasn't even much of a rain, and there were no winds where we were.
 
 We got up at 6:00, and the rain has stopped. By the time we finished eating and packing, the skies were blue and clear of all rain clouds. It was going to be a very nice day. We hiked the easy hour we had left, to High Bridge Ranger Station, and got there easily at 8:00. Sitting in the sun, we waited for the 9:00 shuttle down into Stehekin.

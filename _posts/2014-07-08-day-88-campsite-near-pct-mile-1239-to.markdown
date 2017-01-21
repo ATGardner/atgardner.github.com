@@ -9,7 +9,6 @@ thumbnail: https://3.bp.blogspot.com/-nINshCdMaZM/VHq9wZaW-oI/AAAAAAAFqfQ/HDO07p
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7472426343403836059
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-88-campsite-near-pct-mile-1239-to.html
 ---
-
 During the night we had some rain drops, and we woke up to a cloudy day. This time the clouds remained all through the day.
 
 After two small climbs, we stopped just before the big decent into Middle Fork Feather River. Forty Five and another hiker passed us, and right behind them Young Oak and his girlfriend. She came from Paris to hike with him, and in two days she will finish her hike.

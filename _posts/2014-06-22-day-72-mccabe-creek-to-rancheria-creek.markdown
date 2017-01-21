@@ -11,7 +11,6 @@ thumbnail: http://1.bp.blogspot.com/--EwSjleW7xg/Vjm7VaHiP_I/AAAAAAAFolg/txZ-0Gw
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6231054341865442894
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-72-mccabe-creek-to-rancheria-creek.html
 ---
-
 What a day!
 
 We planned to do about 22 miles today, which isn't that much. But today it contained about 5,500 feet climb AND 5,500 feet descent. I am not sure, but I think this makes it the hardest day so far, as far as vertical gain and loss go.

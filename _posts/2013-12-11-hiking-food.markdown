@@ -10,7 +10,6 @@ modified_time: '2015-06-17T12:58:49.856-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7138741344223611648
 blogger_orig_url: http://pct14.blogspot.com/2013/12/hiking-food.html
 ---
-
 Well, I haven't set foot on the PCT, so I can't really tell you what I will eat over there, and what "Works for me" or not, but I thought I'd share my plans, based on the experience I do have from the AT, and some other self-supported hikes I've had. In total, I guess my food choices were pretty boring on the AT. I didn't mind eating the same kinds of stuff day after day, and I just stuck to whatever kept me full at night.
 
 For breakfast I usually had two packets of Quaker Oatmeal. The kind with powdered milk or the apple-cinnamon flavor. Being the lazy git that I am, I would never bother with boiling water for breakfast, and just pour a bit straight of cold water into the paper packet, mix it with my spork, and eat it out. You gotta be careful to get all the powder from the bottom corners, otherwise it'll stick in there until the end, and you will be left with a salty spoon of powder to finish it off. On some town stops I bought Pop Tarts instead, the frosted kinds preferably, which I had for breakfast. They don't keep to well on the trail, but I didn't mind eating the crumbles. It tastes the same.

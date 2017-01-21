@@ -11,7 +11,6 @@ thumbnail: http://1.bp.blogspot.com/-Xx_AscOyipA/VL30Z9xqLNI/AAAAAAAFYQg/G47_B6B
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-9092255402690156420
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-19-ziggy-and-bear-to-226.html
 ---
-
 Going to sleep last night I kept getting dizzy when I turned around, and I felt hot and cold, like I was having a fever (I checked yesterday morning, and I had none. But maybe I got some later). But during the night it got better, and I think I got a pretty good night's rest.
 
 {% include image.html src="http://1.bp.blogspot.com/-Xx_AscOyipA/VL30Z9xqLNI/AAAAAAAFYQg/G47_B6BAkBM/s1600/2014-04-30%2B09.39.33.jpg" caption="Another view back to snowy San Jacinto" %}

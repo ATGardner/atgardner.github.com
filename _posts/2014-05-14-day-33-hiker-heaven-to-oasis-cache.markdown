@@ -16,7 +16,6 @@ thumbnail: http://1.bp.blogspot.com/-Kd9i9YWRtsM/VVxk4OLE9hI/AAAAAAAFd1Q/Y7D_W6U
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-764779439284851258
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-33-hiker-heaven-to-oasis-cache.html
 ---
-
 I managed to postpone our exit from Hiker Heaven until around 9.
 
 At one point a group of hikers was digging a 6" deep trench for a pipe for the gray shower water to go to other side of the yard, instead of into the troublesome septic tank. I lent a hand.

@@ -10,7 +10,6 @@ thumbnail: http://1.bp.blogspot.com/-HJOMtz-y8sU/VbDEwByAijI/AAAAAAAFiEM/gvVm6uZ
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3888893304281854677
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-52-crabtree-meadows-to-whitney-and.html
 ---
-
 A day that started great, and ended not so good.
 
 For the first time in our hike, we got up at 5:00. There was already plenty of light outside, but it was really cold. We packed our stuff, putting everything we don't need on the summit in the bear boxes at the campground. We planned to pick it up later, when we got down from the mountain. The pack felt much better this way. I only carried a bit of water, snacks for the day, and my synthetic and rain jackets.

@@ -19,7 +19,6 @@ thumbnail: http://4.bp.blogspot.com/-hhA6y3XqrU4/VYBzj2ZsKjI/AAAAAAAFgxs/Mvlsq0L
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3835833340861785034
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-35-pct-mile-529-to-mile-549.html
 ---
-
 After a short, warm, night at the spot we crashed in last night, we finally got up and got moving just around 7:00. We were still last to move from the campsite. And also had some hikers pass us, who, we assume, started before sunrise from Hiker Town.
 
 {% include image.html src="http://4.bp.blogspot.com/-hhA6y3XqrU4/VYBzj2ZsKjI/AAAAAAAFgxs/Mvlsq0Lnr78/s1600/2014-05-16%2B07.57.51.jpg" caption="Will trucking past me, in between the wind turbines" %}

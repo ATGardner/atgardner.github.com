@@ -10,7 +10,6 @@ thumbnail: http://1.bp.blogspot.com/-x2BKZNkh71Y/Vbdnzw4vOFI/AAAAAAAFijk/YTJmRZ2
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4564074225545228664
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-53-crabtree-meadows-to-campsite-at.html
 ---
-
 We woke up at around 6:00, and already every one else were gone. Almost every body on the camp ground were heading up to mount Whitney, and they wanted an early start. Because of the cold, we had a bit if a late start ourselves, since we waited for the sun to rise over the enclosing cliffs, and warm us a bit. Idan's foot was hurting, but he was hiking like a pro, and leaving us both behind on the climbs. It was really impressive.
 
 {% include image.html src="http://1.bp.blogspot.com/-x2BKZNkh71Y/Vbdnzw4vOFI/AAAAAAAFijk/YTJmRZ27rRg/s1600/2014-06-03%2B11.25.03.jpg" caption="This is *not* Forester Pass. It took us about an hour to realize we are not heading towards it." %}

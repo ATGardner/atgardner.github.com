@@ -17,7 +17,6 @@ thumbnail: http://4.bp.blogspot.com/-shevgPCbito/Vkmk6HyKNGI/AAAAAAAFovQ/w4O1m9a
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6646244996978669501
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-75-bridgeport-to-wacs1028.html
 ---
-
 We did the unbelievable, and left a trail town on the afternoon, despite being tempted to lay around in an over priced motel room for another day.
 
 {% include image.html src="http://4.bp.blogspot.com/-shevgPCbito/Vkmk6HyKNGI/AAAAAAAFovQ/w4O1m9aJCco/s1600/2014-06-25%2B14.47.30.jpg" caption="Our hotel room in Bridgeport" %}

@@ -9,7 +9,6 @@ thumbnail: http://1.bp.blogspot.com/-gQDUTbZWUvY/VJz-3G4bhiI/AAAAAAAFR74/ZyvqydL
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6269512580271877436
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-10-campsite-at-144-to-campsite-at.html
 ---
-
 It's fun to be at the end of a long, successful, day.
 
 The day started with a hike out to Highway 79, which has a trail famous Cafe 1 mile off trail. Everyone was talking about getting a burger or a breakfast there. Just about 2 miles after we started our hike, we found the best kind of trail magic - unexpected, and just at the right time. Most people were heading to town from the cafe, but I was going to hike 2.5 more days until I reach Idyllwild, so after drinking a soda, and sending a postcard home (I hope they will send internationally) I also took two breakfasts and one Ramen noodles dinner, and ditched my Outdoor Herbivore breakfasts and one dinner over there. Much better now. The rest if the morning was uneventful, and after about 2 more hours we got to the cafe, to find all the early starters already sitting there.

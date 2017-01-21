@@ -9,7 +9,6 @@ thumbnail: http://3.bp.blogspot.com/-h6r4oUvYODE/VYVm4HUazsI/AAAAAAAFg9U/Hv3DrnR
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3445031330273649045
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-44-lake-isabella-to-joshua-tree.html
 ---
-
 The plan was to do a longer day, of about 19 miles, but we had a hard time hitching on the freeway ramp. We moved to the main street, near the McDonald's (and I got a vanilla shake) and it didn't work much better, until a pickup stopped, and the driver said he'd be right back and take us up to Walker Pass. It turns out he is the guy taking down the trash from Yogi's cook out up at the campground, and he also just dropped some other hikers at the motel. Anyway, he got us back up just before noon. A late start on a hot and hard day.
 
 {% include image.html src="http://3.bp.blogspot.com/-h6r4oUvYODE/VYVm4HUazsI/AAAAAAAFg9U/Hv3DrnRF4wM/s1600/2014-05-25%2B13.47.21.jpg" caption="Yogi's Trail Magic at Walker Pass" %}

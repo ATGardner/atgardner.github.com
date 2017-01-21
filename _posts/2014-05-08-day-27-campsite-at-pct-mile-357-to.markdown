@@ -10,7 +10,6 @@ thumbnail: http://2.bp.blogspot.com/-rLCXZg3rDtA/VSzbuQFL2hI/AAAAAAAFc8U/MCmjOtk
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3979640515043808683
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-27-campsite-at-pct-mile-357-to.html
 ---
-
 Ah. Easy days into towns are nice.
 
 {% include image.html src="http://2.bp.blogspot.com/-rLCXZg3rDtA/VSzbuQFL2hI/AAAAAAAFc8U/MCmjOtkQzh0/s1600/2014-05-08%2B07.35.46.jpg" caption="I think Cajon Pass is hiding under all those clouds" %}

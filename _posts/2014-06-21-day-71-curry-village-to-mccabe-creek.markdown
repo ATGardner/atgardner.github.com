@@ -20,7 +20,6 @@ thumbnail: http://3.bp.blogspot.com/-o119QVZv9Ys/VjdpXzlMd0I/AAAAAAAFojE/Z1vmQoz
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6083794100182912333
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-71-curry-village-to-mccabe-creek.html
 ---
-
 Today we said our farewells from Yair. It was hard for me to think about him flying back home, with me having 2.5 more months. But I had a great time with him on the trail, and I hope he enjoyed it as well. He gave us both a good photo of the three of us, and wrote something nice on the back of it. He also gave me a letter I'm not supposed to read until he takes off, so I didn't open it yet. We got on the hiker bus down at Yosemite Valley, meeting Big Boots and Ido and Maya at the station. The ride took about 2.5 hours, with the driver talking all the time, and telling stories about Yosemite and it's history. Some of it was interesting, but it was a bit too much.
 
 {% include image.html src="http://3.bp.blogspot.com/-o119QVZv9Ys/VjdpXzlMd0I/AAAAAAAFojE/Z1vmQozEhg4/s1600/2014-06-21%2B11.20.48.jpg" caption="Tuolumne Meadows store, this bird was eyeing our food" %}

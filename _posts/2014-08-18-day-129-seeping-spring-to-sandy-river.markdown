@@ -8,7 +8,6 @@ modified_time: '2015-06-19T08:00:56.809-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8658505023541176255
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-129-seeping-spring-to-sandy-river.html
 ---
-
 Had a very nice day today.
 
 I got up and left camp by 7:20. Once again, I was the first one up. Foggy Goggles & Soul Craft did not show any signs of getting up, and Six Pack was just sitting in his sleeping bag.

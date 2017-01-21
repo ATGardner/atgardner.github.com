@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:10:40.240-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4521604254630391598
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-92-little-haven-to-cold-springs.html
 ---
-
 After a nice night on the floor of the Little Haven, I got up for some fresh cut watermelon that Andrea has cut for us. A short while later Stumbles took the initiative, and started making pancakes for everyone, using a pancake mix that was in the hiker's kitchen. Everyone were thankful and well fed.
 
 Andrea started shuttling hikers to the trail as soon as the trunk of her car was full. We got out to the trail at 8:00, and headed out. It took us about half an hour, and probably over a 1000 feet climb, to realize we were not on the PCT. My bad. I told Idan we should follow some trail from the parking area, but there was no PCT marking, and I didn't check the map. After another half hour, we finally got back down to start again, this time getting on the right trail.

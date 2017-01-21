@@ -11,7 +11,6 @@ thumbnail: http://3.bp.blogspot.com/-TBR_VB7XnJc/Vi9vwGVGz1I/AAAAAAAFoX0/JH655pR
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5721165242100206018
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-69-cathedral-lake-to-cs943o.html
 ---
-
 The day started with a short climb over Cathedral Pass. From there we had a nice hike down the valley towards Sunrise Campsite.
 
 {% include image.html src="http://3.bp.blogspot.com/-TBR_VB7XnJc/Vi9vwGVGz1I/AAAAAAAFoX0/JH655pRuFYs/s1600/2014-06-19%2B07.57.15.jpg" caption="Cathedral Peak, from Cathedral Pass" %}

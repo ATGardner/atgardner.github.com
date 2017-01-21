@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:20:49.697-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4984737652089119458
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-99-deadman-creek-to-butcherknife.html
 ---
-
 Another long day with big waterless stretches. We started our hike with just about a liter of water each. The next source according to Halfmile's app was about 7 miles north, but Yogi's book had some info on a good spring in the next road crossing. We were glad to see that it was right.
 
 The temperature at the morning was very nice, even a bit chilly while we were on the shaded, western slopes. But later in the day we suffered the terrible heat again, and just sweated our way down the trail.

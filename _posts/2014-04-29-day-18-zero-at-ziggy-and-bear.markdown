@@ -10,7 +10,6 @@ modified_time: '2015-01-19T22:21:15.175-08:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5392376901348112137
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-18-zero-at-ziggy-and-bear.html
 ---
-
 I woke up with a splitting headache and feeling dizzy. A bad start for a bad day.
 
 I was hoping it will get better soon, but the dizziness was here to stay. Finally, Idan left at about 9 to head towards Big Bear. He is planning to do it in 3.5 days, and then take a zero over there. So I'll have time to catch up to him.

@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:51:09.032-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1183262054001894801
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-118-mazama-village-to-thielsen-creek.html
 ---
-
 One of the longest days I've had on the trail.
 
 The problem with the trail today was that there is a 27+ miles long waterless stretch, starting from the Rim Village, 4 miles into the day. I did the whole 32 miles today.

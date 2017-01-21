@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:12:24.405-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6352038166180633190
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-141-dewey-lake-to-urich-camp.html
 ---
-
 Another really fun day today.
 
 I got up with 6:30, after snoozing the alarm at 6:00. We were still under the same cloud that rolled in last night, and it was chilly outside.

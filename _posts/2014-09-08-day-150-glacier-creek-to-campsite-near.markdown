@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:24:54.510-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3687201250993979596
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-150-glacier-creek-to-campsite-near.html
 ---
-
 Wow. The third hard day in a row. Today we've hiked almost as much as yesterday, with almost as much climbing, and much more down hill. It was tiring.
 
 In the beginning of the day we had a climb up to Fire Creek Pass, and then started hiking down, stopping for a nice break at Mica Lake. The trail went further down, all the way to Milk Creek before starting a brutal climb of 2500 feet.

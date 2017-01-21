@@ -8,7 +8,6 @@ modified_time: '2015-06-19T08:00:12.143-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6864613866848212412
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-127-milk-creek-to-trooper-spring.html
 ---
-
 After a good night's sleep, I packed up and headed out at 7:20. The group if four thru hikers that camped near the creek was still there when I started hiking.
 
 I had another nice glacial creek about 4 miles up the trail, so I headed there for my first break. Just as I got there I met Angelina and Brook, two northbounders that started three days after I did. They must have been behind me all along. I also met a southbounder along the way, who did the whole trail back in '77. Impressive. He told me that Copper Tone is parked at Timothy Lake. I hope he is still there tomorrow.

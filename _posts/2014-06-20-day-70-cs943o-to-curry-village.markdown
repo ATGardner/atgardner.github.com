@@ -13,7 +13,6 @@ thumbnail: http://1.bp.blogspot.com/-oy02apj8ORo/VjXX3JFAlmI/AAAAAAAFogs/VvyAuq-
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-878759293441317869
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-70-cs943o-to-curry-village.html
 ---
-
 Last night Idan decided he wouldn't climb up Half Dome. We tried convincing him to come along, but he was set in his mind that it wasn't worth it, especially after seeing the views from the summit of Cloud Rest.
 
 In the morning Yair and I put most of our great inside my tent, and went out to climb up Half Dome. It was only about 2.5 miles with 1800 feet of climbing.

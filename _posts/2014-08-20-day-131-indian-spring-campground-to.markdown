@@ -8,7 +8,6 @@ modified_time: '2015-06-19T08:01:33.400-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4739544177035976554
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-131-indian-spring-campground-to.html
 ---
-
 I noticed some rain drops falling on my tent during the night, but I wasn't ready to get outside early in the morning and be inside a cloud.
 
 I saw Rimshot just before I left the campsite, and headed down the Indian Creek trail. It was quite a steep trail. Definitely not the PCT. After 2 miles I got to the Eagle Creek trail, which was much less steep.

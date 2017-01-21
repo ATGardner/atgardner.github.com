@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:28:34.440-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6405989349573569544
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-151-campsite-near-pct-mile-2551-to.html
 ---
-
 After a surprisingly warm night, we started to pack out when Banjo passed us. He was trying to go all the way to High Bridge, 28 miles further. If he'd get there by 18:00, he will be able to get the shuttle into Stehekin. If not, he'd camp there until tomorrow morning.
 
 We left camp at 7:20, and immediately saw a much better campsite less than a mile away. Oh well. The trail started with a climb of about 2000 feet, and later another shorter climb.

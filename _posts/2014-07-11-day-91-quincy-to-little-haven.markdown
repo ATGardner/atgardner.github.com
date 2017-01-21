@@ -20,7 +20,6 @@ thumbnail: https://2.bp.blogspot.com/-0tC_g1EN1nc/VHq_eQFxpCI/AAAAAAAFTqc/hAc45T
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4135853021722941534
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-91-quincy-to-little-haven.html
 ---
-
 Getting out of towns is always hard. Even getting up in the morning, from that comfortable bed, is hard. But I managed to drag myself up, eat some yogurt and a banana, and get my gear in my backpack.
 
 Hitching out of Quincy wasn't easy as well. After a while, a car pulled over and took me only about a mile, to the hospital. Over there I tried hitching for a long while. The caretaker of the campground up near Bucks Summit (my hitching destination) pulled over and said he'd be back in about an hour, and pick me up if I'm still around. Luckily, I managed to get a ride before that.

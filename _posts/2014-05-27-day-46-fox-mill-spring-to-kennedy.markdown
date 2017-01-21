@@ -10,7 +10,6 @@ thumbnail: http://4.bp.blogspot.com/-TEM1PJlCA9A/VZJz7Ivzy0I/AAAAAAAFhU0/PBstY4u
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-715684780098175289
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-46-fox-mill-spring-to-kennedy.html
 ---
-
 Today was a good day.
 
 I slept well during the night, and we managed to pack up quickly and head out early at 7:15. We had a long climb to start our day, but we were done with it fast enough, and started the long long

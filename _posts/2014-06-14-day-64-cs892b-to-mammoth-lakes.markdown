@@ -17,7 +17,6 @@ thumbnail: http://2.bp.blogspot.com/-76g1VMvB4Rg/Vh-gm3PBanI/AAAAAAAFoD0/9PfG67x
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3522906336986235972
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-64-cs892b-to-mammoth-lakes.html
 ---
-
 I think we had the coldest night yet. With my new sleeping pad, I didn't suffer that much under my quilt, but my face were exposed and cold during the night. I kept turning to sleep on my side, so I'd have a bit more quilt to cover my head as well. It was cold, but we survived.
 
 In the morning it was still cold, and we had some water bottles and bags freeze on us. I had some extra oatmeal packets with me, so we've made hot oatmeal from all the oatmeal and shared it. That was very nice.

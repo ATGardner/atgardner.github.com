@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:20:39.641-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5331538844900843966
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-98-burney-to-deadman-creek.html
 ---
-
 Getting up in the morning, we went to the motel's continental breakfast. It wasn't much, but I had some cornflakes, a danish and drank orange juice and got chocolate.
 
 Back in the room, we discovered the gas canister Big Boots bought for us yesterday was way too big and heavy for our needs. We tried looking around for smaller ones, maybe in the hiker box in the post office, or one canister we got from Hop Scotch, who was just sending his side home, but at the end we just took the big canister with us.

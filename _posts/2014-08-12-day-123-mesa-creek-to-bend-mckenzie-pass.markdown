@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:54:27.776-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3086819439912405848
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-123-mesa-creek-to-bend-mckenzie-pass.html
 ---
-
 Going into town day. I was still not motivated to get to too early, and only left camp by 7:20. I had 20 miles to hike out to the highway.
 
 The weather was chilly and damp the whole day. I stopped for a short break after about 3 miles, at Separation Creek, when Zisou passed me. I passed him and Bunyan at lunch, 5 miles later at Obsidian Creek.

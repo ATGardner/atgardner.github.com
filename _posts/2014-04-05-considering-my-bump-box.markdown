@@ -9,7 +9,6 @@ modified_time: '2015-06-17T21:58:46.579-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1432999783649350090
 blogger_orig_url: http://pct14.blogspot.com/2014/04/considering-my-bump-box.html
 ---
-
 Having no logistical base in the US, I will not be relying on food packages during most of my hike. Since several resupply locations along the trail do not have any actual resupply options in them (No store, basically), I will send myself some packages from other towns, 2-3 weeks before arriving at those locations.
 But first, I want to try and arrange my bump box for my hike.
 

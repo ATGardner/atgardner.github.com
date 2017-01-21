@@ -10,7 +10,6 @@ thumbnail: http://4.bp.blogspot.com/-KOtWqg38nlY/UyAb-b5UQqI/AAAAAAADJ6g/BU9lzYr
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-13869314352986564
 blogger_orig_url: http://pct14.blogspot.com/2014/03/and-now-with-pcta-permits-as-well.html
 ---
-
 {% include image.html src="http://4.bp.blogspot.com/-KOtWqg38nlY/UyAb-b5UQqI/AAAAAAADJ6g/BU9lzYrmFp8/s1600/2014-03-03+22.44.17.jpg" caption="" %}
 
 I got back home this evening, and the [PCTA Long Distance Hiking Permit] was waiting for me in the mail. So that's it - I'm all set to go.

@@ -13,7 +13,6 @@ thumbnail: http://1.bp.blogspot.com/-2w-8pSZBmNM/VlcB4Axqf-I/AAAAAAAFo38/rvXK8ce
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6345409331919052071
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-76-wacs1028-to-markleeville.html
 ---
-
 What a surprising day. We got rained on during half of it.
 
 It all started in the night. It's fun to wake up in the tent and hear rain drops on the tent walls. But in the morning we got up to some drizzle and fog.

@@ -14,7 +14,6 @@ thumbnail: http://2.bp.blogspot.com/-t81L6QOJBKg/VYEEWsgUiTI/AAAAAAAFg1Y/xrtc53k
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-905800511037450905
 blogger_orig_url: http://pct14.blogspot.com/2013/11/desert-trip-conclusion.html
 ---
-
 Ok, I survived the not-so-short hike.
 
 Our hike started after a long train ride to Be'er-Sheva, and a bus ride to Tzihur Junction (on the bus to Eilat) - a total of about 4 hours on the road. We started our actual walking at 10:15. A bit on the late side. We tried convincing the bus driver to drop us off near the trailhead, but he didn't like the idea, and dropped at at the junction, so add about 2Km of road walk to our first day.

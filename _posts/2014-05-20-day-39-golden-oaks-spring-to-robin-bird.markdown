@@ -10,7 +10,6 @@ modified_time: '2015-06-18T13:34:10.975-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8799140139148324119
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-39-golden-oaks-spring-to-robin-bird.html
 ---
-
 Last night wasn't too cold, and I slept with just my base layer. There was no wind, which was also nice.
 
 {% include image.html src="http://2.bp.blogspot.com/-COBfkfj8zbk/VYCCvKLI16I/AAAAAAAFgzM/fRI5253z3qU/s1600/2014-05-20%2B08.20.05.jpg" caption="Crossing another burnt forest" %}

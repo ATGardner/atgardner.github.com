@@ -9,7 +9,6 @@ thumbnail: http://4.bp.blogspot.com/-dkXn13zKM9M/VZKC3O0GmqI/AAAAAAAFhV4/Jnhypq2
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1441077268836727948
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-48-kennedy-meadows-campground-to.html
 ---
-
 Phew. Another one of those "hardest on the trail" days.
 
 It started nice enough with some walking up along the Kern river, and then up some smaller stream. Long climbs, but nothing exceptionally hard. We made decent time, and figured out we'd reach our destination early, at around 16:00. So we planned to push a bit further. After another little climb in a beautiful meadow, we filled up some water at a very nice spring on a short side trail. Later we had another break under a tree overlooking the Kern river again. The trail went down to it and crossed it on a nice bridge.

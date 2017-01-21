@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:25:20.452-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7311699354792883031
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-108-marble-valley-cabin-to-seiad.html
 ---
-
 We got up early to hike the long miles to Seiad Valley and get there before the store closes.
 
 We thought we'd have a 30 miles day, but after checking again we were surprised to discover it'll be 32 miles almost. With a 6 mile road walk at the end. At least it will be an easy walk.

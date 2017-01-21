@@ -19,7 +19,6 @@ thumbnail: http://4.bp.blogspot.com/-CmvxjCZ9Rbw/Vj_IsSjUrXI/AAAAAAAFonE/U5FWte1
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3080431174920418299
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-74-cascade-creek-to-bridgeport.html
 ---
-
 {% include image.html src="http://4.bp.blogspot.com/-CmvxjCZ9Rbw/Vj_IsSjUrXI/AAAAAAAFonE/U5FWte1CYlQ/s1600/2014-06-24%2B07.18.58.jpg" caption="We spent last night 2 minutes away from the 1,000 miles marker" %}
 
 Sonora Pass caught us with our pants down.

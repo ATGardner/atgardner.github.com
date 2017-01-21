@@ -11,7 +11,6 @@ thumbnail: http://4.bp.blogspot.com/-WsbidhOum5s/Uy6jzDqNm9I/AAAAAAADKXQ/Ygj5mmd
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4558331672774933433
 blogger_orig_url: http://pct14.blogspot.com/2014/03/all-patched-up.html
 ---
-
 It only took about 11+ years, but I have finally got my AT patches sewn to my backpack.
 
 Actually, I remember I sewed similar patches to the backpack I carried with me on the Appalachian Trail. I was chasing TNF for some minor warranty repairs (I wasn't expecting much, just some minor fixes on the hip belt), but when I finally sent it over (for the third time) for repairs, I ended up getting a new (identical) pack, without my prized patches.

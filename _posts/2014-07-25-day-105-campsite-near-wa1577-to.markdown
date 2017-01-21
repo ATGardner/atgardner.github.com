@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:23:56.778-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1085065532921354308
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-105-campsite-near-wa1577-to.html
 ---
-
 This night was a bit chilly again, but nothing too bad. At least we didn't wake up in tents covered in condensation.
 
 The trail kept going up and down ridge lines, and we got some more views of Mt Shasta again. We passed some good water sources with cool tasty water. After crossing highway 93 we stated our climbing section of the day. But at least there were even more water sources in this section.

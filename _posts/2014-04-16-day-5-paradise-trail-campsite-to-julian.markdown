@@ -13,7 +13,6 @@ thumbnail: http://4.bp.blogspot.com/-aemfKdvKdMk/VIvrt3AJ0sI/AAAAAAAFCjk/JtrP_2o
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6192955617658409181
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-5-paradise-trail-campsite-to-julian.html
 ---
-
 {% include image.html src="http://4.bp.blogspot.com/-aemfKdvKdMk/VIvrt3AJ0sI/AAAAAAAFCjk/JtrP_2ov-uE/s1600/2014-04-16%2B10.19.28.jpg" caption="The trail down towards Scissors Crossing." %}
 
 Last nice we just met a nice Canadian hiker named Micah, who came in just as we were finished eating and getting ready to crash for the day. We talked about splitting a room in Julian the following day. We also met a couple of hikers named Purple and Carnivore, and only now I figured out that Roni, a friend of mine and Mega-Hiker (I just write that to do see he reacts to it) knows them as well. So next time I see them I will tell them we have a mutual acquaintance. In the morning we saw no sign of Micah, so we just packed up and started our hike.The day was another hot-yet-easy downhill, only this time the views were not as nice as yesterday. After the first 9 miles we reached this water tank where we filled up some extra water, and from there it was just cruising all along the crest down towards the valley, in scorching heat and no shady spots.

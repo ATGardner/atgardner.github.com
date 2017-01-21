@@ -27,7 +27,6 @@ modified_time: '2015-06-19T09:47:30.157-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2898613429758850166
 blogger_orig_url: http://pct14.blogspot.com/2015/01/useful-and-not-so-useful-android-apps.html
 ---
-
 A long time before I started my hike, I decided I'll carry my Nexus 4 phone with me on the trail. I knew it will come in handy both as a phone, to keep in touch with my family, and as a way to access the internet.
 
 While my specific phone is not the most recommended model for the task (It's battery is really not up for the challenge), I did enjoy it for many different uses and scenarios. Here is a list of the apps I used on the trail, along with a few that were disappointing or just weren't used that much.

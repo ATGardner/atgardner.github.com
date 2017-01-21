@@ -11,7 +11,6 @@ thumbnail: http://4.bp.blogspot.com/-ECFrv5QSRl4/VNcFNG10lQI/AAAAAAAFZsE/3EqFsna
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1927881494831225960
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-22-big-bear-to-campsite-at-pct-mile.html
 ---
-
 Yeah, I ended up skipping a trail section. I do feel a bit sorry about it, but that's all I'm going to do with it at the moment.
 
 In the morning I got out of the motel, and hitch hiked back from Big Bear City to Big Bear Lake. This time a hairdresser picked me up. She continued the trend of apologizing about Obama when she heard I am from Israel. At least she didn't call him a communist, Muslim and heathen, as the motel owner did last night. Oh well. At the hostel I waited along with Idan, Pfifer and Monty for our ride up the trail. Pfifer did the trail at '11, so he gave us some good advice on the Sierras. Monty did it back in '77 and is now just sectioning for the weekend. We started the trail at about 10:15, and headed out towards the first water source at 10 miles. We made some short snack stops on the way, but got there at around 14:00 or so for our lunch.

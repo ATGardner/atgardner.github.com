@@ -8,7 +8,6 @@ modified_time: '2015-06-19T08:01:14.989-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1789911469464267923
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-130-sandy-river-to-indian-spring.html
 ---
-
 Today I made a short day, leaving 16 miles for tomorrow's hike into Cascade Locks.
 
 After getting up a bit later than usual, at 7:00, I hoped the Sandy River crossing will be easier this morning. It wasn't. I went up stream for quite a distance, looking for a good place to ford the rushing waters. I couldn't find any. After a while I finally decided I'd just wade through, as another hiker I have just seen advised me. I found a spot where the river was a bit calmer, took off my shoes, socks and pants, and crossed. It wasn't a wide river, only 2-3 steps. And the water only reached my ankles. But it was really cold. I set a while on the other side, waiting for my feet to dry, before putting everything back on, and heading out.

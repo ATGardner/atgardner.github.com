@@ -14,7 +14,6 @@ thumbnail: http://1.bp.blogspot.com/-_6IVswrHRJY/VYCEEk58p4I/AAAAAAAFgzc/LiJ7DfD
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-407709010667554162
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-40-robin-bird-spring-to-road.html
 ---
-
 Last night was even colder than the night before, but I still managed to sleep OK. But this morning was really cold outside. We took our time, as usual, and left camp last. I hiked most of the day with my wind shirt on, putting on my jacket as soon as we made a stop to eat something. It seemed like it will start raining almost all day long, except that it didn't really, for must of it.
 
 {% include image.html src="http://1.bp.blogspot.com/-_6IVswrHRJY/VYCEEk58p4I/AAAAAAAFgzc/LiJ7DfDGE9k/s1600/2014-05-21%2B11.32.51.jpg" caption="Add caption" %}

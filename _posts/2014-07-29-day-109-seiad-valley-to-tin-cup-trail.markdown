@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:25:41.076-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3034400247979020190
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-109-seiad-valley-to-tin-cup-trail.html
 ---
-
 People started getting up and moving out at 3:30. I know it's a long climb, and a hot day, but I still don't get it. We slept in until just before 7:00. It felt good.
 
 We started our laundry (last night we were too tired to do it), packed our gear, and went over to the cafe for breakfast. Luckily, the cafe was next door, because we needed to keep checking back on the laundry, and later put in a quarter in the drier, and wait until it has finished the cycle, before putting in another one. It was a pain. It took a while until we got our breakfast, but once we did, it was very filling. I didn't finish my plate of veggie omelet.

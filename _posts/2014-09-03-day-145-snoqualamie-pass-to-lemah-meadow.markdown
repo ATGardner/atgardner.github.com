@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:22:32.370-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5067683346289589918
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-145-snoqualamie-pass-to-lemah-meadow.html
 ---
-
 After a very good night's sleep, I got up at 6:00 and packed my stuff. Dima was up as well, and was ready to get me back up to the trail by 7:00.
 
 I said goodbye to Yulia and Nick, and we started our drive to the pass. The weather was grim and cold outside, and as we neared the pass it was also raining a bit. We got to the pass at 8:00, and it was not raining there, but seemed like it might at any moment. I said goodbye to Dima and thanked him. I am sure getting up at 6:00 and driving for two hours in the morning was not his favorite pass time, so thanks again for the going out of your way to help me.

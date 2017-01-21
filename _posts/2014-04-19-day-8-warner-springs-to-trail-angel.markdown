@@ -13,7 +13,6 @@ thumbnail: http://2.bp.blogspot.com/-_5xXQkudIpg/VJmAffCytkI/AAAAAAAFRW8/ooIKcI5
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6140491164781573414
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-8-warner-springs-to-trail-angel.html
 ---
-
 Monty made a huge breakfast for everyone, including omelets with spinach, cheese and tomatoes, hash browns and toasts. It was almost too much. We got a ride back to the community center, and met all the hikers from last night, who were just getting breakfast themselves. Idan found out he forgot his hat at Monty's, so I hang around until he made another round trip to his house. It wasn't there, and was later found at the community center, having spent the night on the table there. We finally headed out at 9:20, and started to cross the valley. After the 2nd road crossing we started zip zagging up along the Agua Cliente stream, crossing it several times, and climbing up. The original plan was to hike 14 miles, to a dry campsite, so we had to fill up our water at some off trail spring. But when we got to its trail head we decided we'd just push to 17 miles and reach Trail Angel Mike' place.
 
 {% include image.html src="http://2.bp.blogspot.com/-_5xXQkudIpg/VJmAffCytkI/AAAAAAAFRW8/ooIKcI5ng_0/s1600/2014-04-19%2B15.39.42-PANO.jpg" caption="Nice view, right before Trail Angel Mike's" %}

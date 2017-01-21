@@ -11,7 +11,6 @@ thumbnail: http://1.bp.blogspot.com/-mhBfYlTNIk4/VYVo82vNRxI/AAAAAAAFg9w/DKwcDib
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2365171377285340558
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-45-joshua-spring-to-fox-mill-spring.html
 ---
-
 Today we had quite a day. It was exceptionally hot, and we had a lot of climbing to do.
 
 The first one was in the morning. We managed to do most of it still in the shade, before the sun came over the mountain range to our east.

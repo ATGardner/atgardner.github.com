@@ -16,7 +16,6 @@ thumbnail: http://2.bp.blogspot.com/-8Oxg6KanfU8/VYB2-guxWwI/AAAAAAAFgyI/kZYLLlh
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2206771349583374311
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-37-zero-day-at-tehachapi.html
 ---
-
 {% include image.html src="http://2.bp.blogspot.com/-8Oxg6KanfU8/VYB2-guxWwI/AAAAAAAFgyI/kZYLLlhANY0/s1600/2014-05-18%2B08.26.45.jpg" caption="Breakfast at Kelcy's Restaurant" %}
 
 Well, for breakfast I went over to the nearby Kelcy's, which is a local establishment. I got eggs with onions, mushrooms and tomatoes, home fries and biscuits with gravy. It was very good, but I couldn't even finish it all. Idan wanted a change of scenery, so we checked out of the Santa Fe, and headed over to the cheaper Ranch Motel. It's a bit off the main road, but the room was much better, so it turned out well.

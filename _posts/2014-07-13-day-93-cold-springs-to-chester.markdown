@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:11:10.665-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1546661978600832945
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-93-cold-springs-to-chester.html
 ---
-
 We've finally reached the halfway point. It seems a bit disheartening, to figure or we only did half of the trail. On the other hand, we've already did half of the trail! And the second half should go by much faster!
 
 In contrast to the previous several days, the terrain today was not too difficult. We only had a moderate climb, and a long descent down to the highway at the end. But it was spread out on about 27 miles, which made it the biggest day for us so far.

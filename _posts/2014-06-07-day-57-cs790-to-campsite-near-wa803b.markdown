@@ -10,7 +10,6 @@ thumbnail: http://2.bp.blogspot.com/-g8I8BPok6n8/U5kgGCIf0HI/AAAAAAADNzU/DGFuzIr
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7302735547009279788
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-57-cs790-to-campsite-near-wa803b.html
 ---
-
 {% include image.html src="http://2.bp.blogspot.com/-g8I8BPok6n8/U5kgGCIf0HI/AAAAAAADNzU/DGFuzIrKoPU/s1600/IMG_20140607_084453-752421.jpg" caption="Glenn Pass" %}
 
 In the morning, while we were packing up our stuff, at least 3 hikers passed by our campsite, on their way up to Glen Pass. The climb up to the pass wasn't too hard. It took us a while, with several more hikers passing us. And when we got to the pass everyone else were already half way down the other side. The other side, as we've heard before, was a steep snow covered slope. We could see the trail marks made by other hikers on the snow, and we picked the one that seemed most traveled by. A southbounder came onto the pass just as we were leaving it, and he gave us some tips on the way ahead. He said that if we are "moving it" we can get over Pinchot Pass as well today. We never "move it"...

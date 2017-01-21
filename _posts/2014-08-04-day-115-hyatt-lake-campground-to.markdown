@@ -24,7 +24,6 @@ thumbnail: http://3.bp.blogspot.com/-uNpPwEEF-s4/VT8zD5EnFNI/AAAAAAAFdNo/_TstZt3
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-680093523395797452
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-115-hyatt-lake-campground-to.html
 ---
-
 I woke up early, at 6:00. I had to use my phone as an alarm clock, which menu I couldn't leave it to charge over night in the toilets. Bummer. I packed up quickly, and was out before 7:00. First time I was leaving camp first, before anyone else. Wolf, Puss in Boots and Grock were still asleep.
 
 {% include image.html src="http://3.bp.blogspot.com/-uNpPwEEF-s4/VT8zD5EnFNI/AAAAAAAFdNo/_TstZt39KsY/s1600/2014-08-04%2B09.20.29.jpg" caption="Canal near Grizzly Creek" %}

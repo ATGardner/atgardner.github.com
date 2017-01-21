@@ -11,7 +11,6 @@ thumbnail: http://1.bp.blogspot.com/-ozmFlLpQi6Q/UyAbSena2fI/AAAAAAADJ6M/xY_h29r
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5442464501853484310
 blogger_orig_url: http://pct14.blogspot.com/2014/03/seam-sealing-my-tent.html
 ---
-
 After putting it off for too long, I decided yesterday it's time for me to seam seal my [Tarptent Rainbow]. I did it once, several years ago, but I figured it's safer to give it another go before I go out on the PCT.
 
 I found an old tube of [Seam Grip] in my hiking gear closet, and I took some turpentine and went to my in-laws house to set up the tent on their lawn.

@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:30:13.339-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3170090939740714889
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-155-harts-pass-to-monument-78.html
 ---
-
 What a long day it was.
 
 We woke up at 5:30, and from then I tried not looking at the time. It was cold, but not nearly as cold as yesterday's morning had been.

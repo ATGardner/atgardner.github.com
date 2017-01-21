@@ -10,7 +10,6 @@ thumbnail: http://4.bp.blogspot.com/-2Sp3zMw6-Zg/U0h64Apu-CI/AAAAAAADKm8/SQIVvmq
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8266208777613503339
 blogger_orig_url: http://pct14.blogspot.com/2014/04/making-myself-useful.html
 ---
-
 Last night I overheard Frodo mentioning that Jan is going to maintain her water cache, and I offered my help in carrying those water bottles to the cache. I figured I might as well do something useful while I'm here, since I only start my actual hike tomorrow morning.
 
 This morning Jan was glad to accept my offer, and she took me, along with her husband Jim, to the cache. On the way there I heard many stories about the trail, and the trouble the PCTA and local maintenrs have with maintaining it, and making sure everything runs smoothly. It's not an easy task, but all those volunteers are doing it anyway, and we shouldn't take it for granted.

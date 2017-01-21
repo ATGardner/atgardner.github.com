@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:13:02.548-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3911065028254838893
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-94-chester-to-drakesbad-guest-ranch.html
 ---
-
  We went to the supermarket in the morning, and got some supplies and stuff for breakfast. Shortly after, we headed out to hitch back up to the trail.
  
 It didn't take that long, and we got a ride together with Double Tap. We got to the trail at about 10:00, and started our day. The trail was rather easy. There were also enough water sources during the day. We leap frogged with Beer and Allen for a while, until we finally reached the dirt road leading to Drakesbad.

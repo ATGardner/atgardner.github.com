@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:23:12.320-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-125587557702519104
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-102-mt-shasta-to-campsite-near-pct.html
 ---
-
 The plan was to leave town late. Idan ordered some socks yesterday, with 1 day shipping, so we took our time until they arrived.
 
 We mailed some stuff to Ashland, and I also mailed my broken camera to a lab to get fixed. I hope it won't take too long. It's been broken since leaving Chester. For lunch, I had some fries, a salad and a smoothie in Burger King. It was all right. I went over to Atara's store, to ask if I can print out the form I needed to send along with my camera, to the lab. Atara was glad to help me with the printing. I asked where would be the best place to hitch back to the trail from, and Laurie, who was just at Atara's store, immediately offered to take us back to the trail herself. We still has some town chores to do, so I got her number, and told her we'd give her a call in about two hours.

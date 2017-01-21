@@ -8,7 +8,6 @@ modified_time: '2015-06-19T08:06:25.431-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1749990166074381937
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-135-crest-horse-camp-to-mosquito.html
 ---
-
 After getting up and getting my gear in the morning, I went over for breakfast. I can get used to it. Besides the bacon, there were pancakes, eggs, and later hash browns. I was full after the eggs bit.
 
 Tick Tock and Luna came in right in the middle of breakfast, and later Rimshot & Kit and Juneau joined us as well. Only Slaughterhouse and the section hikers were leaving early, and we were all sitting around the fire, enjoying our time.

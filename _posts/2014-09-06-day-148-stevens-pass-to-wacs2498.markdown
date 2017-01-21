@@ -8,7 +8,6 @@ modified_time: '2015-06-19T09:24:11.935-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2772938922452489946
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-148-stevens-pass-to-wacs2498.html
 ---
-
 That was a long and hard day.
 
 After getting up and getting my stuff packed at the Dinsmores, I went to the restaurant across the tracks with everyone else. I got the breakfast burrito, like Copper Tone recommend yesterday. It took a long time for the food to finally get to the table, though, and by the time we got back to the hostel it was already 10:00.

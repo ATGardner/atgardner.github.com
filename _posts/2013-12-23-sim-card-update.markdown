@@ -13,7 +13,6 @@ thumbnail: http://2.bp.blogspot.com/-GCKIcL0qh0A/Urhyz2gOvpI/AAAAAAADHIQ/j-CAtXU
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3076921997157601150
 blogger_orig_url: http://pct14.blogspot.com/2013/12/sim-card-update.html
 ---
-
 {% include image.html src="http://2.bp.blogspot.com/-GCKIcL0qh0A/Urhyz2gOvpI/AAAAAAADHIQ/j-CAtXUXxjg/s1600/IMG_20131223_185203.jpg" caption="" %}
 
 Just a quick update - I have just received the two free SIM cards I ordered from T-Mobile. I have no idea if I'll be able to activate then in April, but I'll give it a shot.

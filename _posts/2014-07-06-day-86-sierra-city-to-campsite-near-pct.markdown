@@ -11,7 +11,6 @@ thumbnail: https://2.bp.blogspot.com/-uKu-MCTwCww/VHq9AvsM_hI/AAAAAAAFqe4/w9Xt5S
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1674462435634668432
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-86-sierra-city-to-campsite-near-pct.html
 ---
-
 I worried all through the night about the climb out of Sierra City. In the morning, we got our stuff together, and went to get breakfast at the Red Moose Cafe, behind which we have tented last night. Almost everyone inside was a hiker, and we got a table, and both had the eggs breakfast with no meat. It took a long time for the scrambled eggs and two toasts to appear...
 
 {% include image.html src="https://2.bp.blogspot.com/-uKu-MCTwCww/VHq9AvsM_hI/AAAAAAAFqe4/w9Xt5Ssu5u4/s1600/2014-07-06%2B16.51.14.jpg" caption="View from the climb up from Sierra City" %}

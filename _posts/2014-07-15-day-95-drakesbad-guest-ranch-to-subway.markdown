@@ -8,7 +8,6 @@ modified_time: '2015-06-19T07:16:09.888-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6019934799344445882
 blogger_orig_url: http://pct14.blogspot.com/2014/07/day-95-drakesbad-guest-ranch-to-subway.html
 ---
-
 Today we've hiked a long day. Luckily, it was mostly overcast, so even though it was hot, it could have been much worse.
 
 The hike itself was easy enough, with almost no climbing for the entire day. We had a long section with no water sources listed in Halfmile's app, but there was a spring in the middle (around mile 1367.7), which was just a bit off trail. That was helpful. There was also a side trail to water at around mile 1369.5, and another at 1372.5. But we didn't check out those.
