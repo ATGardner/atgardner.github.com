@@ -4,7 +4,8 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post-header">
         <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-        <p class="post-meta">
+
+        <div class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
                 {{ page.date | date: "%b %-d, %Y" }}
             </time>
@@ -14,7 +15,10 @@ layout: default
                 <span itemprop="name">{{ page.author }}</span>
             </span>
             {% endif %}
-        </p>
+            {% if page.start and page.end %}
+            {% include trailData.html start=page.start end=page.end %}
+            {% endif %}
+        </div>
     </header>
 
     <div class="post-content" itemprop="articleBody">

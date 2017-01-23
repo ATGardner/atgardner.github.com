@@ -8,6 +8,8 @@ modified_time: '2015-06-17T22:09:48.858-07:00'
 thumbnail: http://1.bp.blogspot.com/-sFjMyqVMw3U/VIsL0xiIoSI/AAAAAAAFBuA/gAUpBogVNQg/s72-c/2014-04-12%2B06.55.31.jpg
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4034077069525640752
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-1-campo-to-lake-morena.html
+start: 0
+end: 20
 ---
 {% include image.html src="http://1.bp.blogspot.com/-sFjMyqVMw3U/VIsL0xiIoSI/AAAAAAAFBuA/gAUpBogVNQg/s1600/2014-04-12%2B06.55.31.jpg" caption="0mi - The Pacific Crest Trail southern terminus" %}
 

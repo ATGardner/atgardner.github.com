@@ -16,15 +16,18 @@ So far, on the PCT permit, and various trail registration sites (Yogi's, registe
 However - a recent development in the field of optional trail names has led me to think again about adopting a new one. I present to you, the new contender - Mango.
 
 And here are the pros, in no specific order:
-# I love Mango. Mostly because it is the best fruit ever. It also makes a mean [Lassi].
-# It's an anagram of my name (well, of "Noam G" - but I can try and go with "la Mango" as my "full trail name").
-# I can also say it derives from Man-(on-the)-Go, which is very far fetched and was completely by accident. But it does give it some extra points.
+
+* I love Mango. Mostly because it is the best fruit ever. It also makes a mean [Lassi].
+
+* It's an anagram of my name (well, of "Noam G" - but I can try and go with "la Mango" as my "full trail name").
+
+* I can also say it derives from Man-(on-the)-Go, which is very far fetched and was completely by accident. But it does give it some extra points.
 
 So, back at square one. I suspect I won't declare a final winner until I actually land in San Diego. Maybe even only after I finish my hike (wherever that will be).
 
 _Update:_
 Another great reason:
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/LTiGC7WPacw?list=PLcwsDEfiUSgvDXIxFVxYSIWhcy6tTOR55#t=498" width="560"></iframe>
+{% include youtubePlayer.html id="LTiGC7WPacw" params="start=498" %}
 
 [trail name]: http://pct14.blogspot.com/2014/01/trail-name-cunundrum.html
 [Lassi]: http://en.wikipedia.org/wiki/Lassi

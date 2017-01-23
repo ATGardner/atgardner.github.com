@@ -15,12 +15,8 @@ modified_time: '2016-10-09T22:38:41.467-07:00'
 thumbnail: https://4.bp.blogspot.com/-FK7dlDg9rEI/Vt1HFBMSY0I/AAAAAAAFq3w/vt8f-u89Vug/s72-c/cdt.png
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6796803695697531225
 blogger_orig_url: http://pct14.blogspot.com/2016/03/continental-divide-trail-maps-and-data.html
+mapName: cdt
 ---
-<script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.18.2/ol-debug.js" type="text/javascript"></script>
-<script src="https://unpkg.com/ol-wrapper@0.5.7/dist/ol-wrapper.min.js" type="text/javascript"></script>
-<script src="https://storage.googleapis.com/atgardner-blog/trails.bundle.js" type="text/javascript"></script>
-<script> trails.loadMap('cdt', 'map-cdt') </script>
-
 I have been playing around with CDT data over the weekend, and figured out I'd share what I made so that other people can use and enjoy it.
 
 {% include image.html src="https://4.bp.blogspot.com/-FK7dlDg9rEI/Vt1HFBMSY0I/AAAAAAAFq3w/vt8f-u89Vug/s1600/cdt.png" %}

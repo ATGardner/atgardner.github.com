@@ -13,12 +13,8 @@ modified_time: '2016-10-09T22:04:54.123-07:00'
 thumbnail: https://2.bp.blogspot.com/-Y24IqHHaiOc/Vzc9JhCTYiI/AAAAAAAF0kc/6UdcSYDpE046D40HiTCICUT1Kt0A8l6dQCLcB/s72-c/int.png
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2707038442989582344
 blogger_orig_url: http://pct14.blogspot.com/2016/05/israel-national-trail-offline-maps.html
+mapName: int
 ---
-<script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.18.2/ol.js" type="text/javascript"></script>
-<script src="https://unpkg.com/ol-wrapper@0.5.7/dist/ol-wrapper.min.js" type="text/javascript"></script>
-<script src="https://storage.googleapis.com/atgardner-blog/trails.bundle.js" type="text/javascript"></script>
-<script> trails.loadMap('int', 'map-int') </script>
-
 Lets get it straight - I have never thru-hiked the entire Israel National Trail (INT). I started it in September 2008, and did almost half of it (The northern half. The easy half), before quitting. I still hope on finishing my hike someday, either by hiking from Eilat to Arad (should take ~3 weeks), or by doing the whole thing from the beginning again.
 
 {% include image.html src="https://2.bp.blogspot.com/-Y24IqHHaiOc/Vzc9JhCTYiI/AAAAAAAF0kc/6UdcSYDpE046D40HiTCICUT1Kt0A8l6dQCLcB/s1600/int.png" %}

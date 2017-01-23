@@ -14,6 +14,7 @@ tags:
 modified_time: '2016-10-09T22:39:11.609-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8407925655741856168
 blogger_orig_url: http://pct14.blogspot.com/2015/10/te-araroa-offline-map-files.html
+mapName: ta
 ---
 <style>
 .linz {
@@ -24,10 +25,6 @@ blogger_orig_url: http://pct14.blogspot.com/2015/10/te-araroa-offline-map-files.
     background-color: #83A7B8;
 }
 </style>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.18.2/ol-debug.js" type="text/javascript"></script>
-<script src="https://unpkg.com/ol-wrapper@0.5.7/dist/ol-wrapper.min.js" type="text/javascript"></script>
-<script src="https://storage.googleapis.com/atgardner-blog/trails.bundle.js" type="text/javascript"></script>
-<script> trails.loadMap('ta', 'map-ta') </script>
 
 A while ago a friend of mine asked for some help in getting maps for his upcoming [Te Araroa] hike, on his smart phone. I decided to create an offline map file for his use, and I am now sharing it with anyone else who might be interested.
 
