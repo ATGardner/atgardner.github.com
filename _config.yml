@@ -24,6 +24,7 @@ twitter_username: ATGardner
 # repository: ATGardner/amtrak
 
 # Build settings
+source: jekyll
 markdown: kramdown
 theme: minima
 paginate: 5
