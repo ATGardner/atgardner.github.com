@@ -1,8 +1,18 @@
 module.exports = {
-    entry: './app/index.js',
+    entry: {
+        trails: './app/trails.js'
+    },
     output: {
         path: './jekyll/assets',
-        filename: 'bundle.js'
+        filename: '[name].bundle.js',
+        library: 'trails'
+    },
+    devtool: 'source-map',
+    target: 'web',
+    bail: true,
+    watch: false,
+    externals: {
+        'openlayers': 'ol'
     },
     module: {
         rules: [
