@@ -1,9 +1,11 @@
+
+
 module.exports = {
     entry: {
         trails: './app/trails.js'
     },
     output: {
-        path: './jekyll/assets',
+        path: './jekyll/assets/trails',
         filename: '[name].bundle.js',
         library: 'trails'
     },
@@ -12,8 +14,7 @@ module.exports = {
     bail: true,
     watch: true,
     externals: {
-        openlayers: 'ol',
-        'trails.json': 'trails.json'
+        openlayers: 'ol'
     },
     module: {
         rules: [

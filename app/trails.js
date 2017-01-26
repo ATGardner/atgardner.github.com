@@ -1,8 +1,5 @@
 import {createOlObject} from 'ol-wrapper'
 
-//const trails =require('./trails.json')
-import * as trails from './trails.json'
-
 const MAP_DEFAULTS = {
     controls: [
         {
@@ -37,7 +34,13 @@ const SOURCE_DEFAULTS = {
     maxZoom: 15
 }
 
+async function getTrailData() {
+    trails = await fetch('/assets/trails/data.json')
+    return await trails.json();
+}
+
 async function getTrailConfig(trailName) {
+    const trails = await getTrailData()
     const {trails: {[trailName]: trail}, layers} = trails
     trail.layers = trail.layers.map(l => {
         const layer = Object.assign({}, layers[l], LAYER_DEFAULTS)

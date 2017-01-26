@@ -3,7 +3,7 @@ module.exports = {
         trails: './app/trails.js'
     },
     output: {
-        path: './jekyll/assets',
+        path: './jekyll/assets/trails',
         filename: '[name].bundle.js',
         library: 'trails'
     },
@@ -12,7 +12,7 @@ module.exports = {
     bail: true,
     watch: false,
     externals: {
-        'openlayers': 'ol'
+        openlayers: 'ol'
     },
     module: {
         rules: [
