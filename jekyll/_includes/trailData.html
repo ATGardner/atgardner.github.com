@@ -1,0 +1,5 @@
+<div class="trail-data" itemprop="trail-data">
+    <span itemprop="start" value={{ include.start }}>{{ include.start | round: 1 }}</span> ➞
+    <span itemprop="end" value={{ include.end }}>{{ include.end | round: 1 }}</span>
+    ({{ include.end | minus: include.start | round: 1 }} miles)
+</div>

@@ -24,15 +24,14 @@ twitter_username: ATGardner
 # repository: ATGardner/amtrak
 
 # Build settings
+source: jekyll
 markdown: kramdown
 theme: minima
+paginate: 5
+excerpt_separator: "\r\n\r\n"
 gems:
   - jekyll-feed
-  - jekyll-github-metadata
-  - jekyll-mentions
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jemoji
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
