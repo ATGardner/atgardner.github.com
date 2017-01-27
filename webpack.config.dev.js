@@ -1,8 +1,6 @@
-
-
 module.exports = {
     entry: {
-        trails: './app/trails.js'
+        trails: './src/trails.js'
     },
     output: {
         path: './jekyll/assets/trails',
