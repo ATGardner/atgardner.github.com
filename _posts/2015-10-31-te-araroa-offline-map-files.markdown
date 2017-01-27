@@ -16,16 +16,6 @@ blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-84079256557418561
 blogger_orig_url: http://pct14.blogspot.com/2015/10/te-araroa-offline-map-files.html
 mapName: ta
 ---
-<style>
-.linz {
-    background-color: #D1E7F5;
-}
-
-.landcare {
-    background-color: #83A7B8;
-}
-</style>
-
 A while ago a friend of mine asked for some help in getting maps for his upcoming [Te Araroa] hike, on his smart phone. I decided to create an offline map file for his use, and I am now sharing it with anyone else who might be interested.
 
 {% include image.html src="https://3.bp.blogspot.com/-MLETxPNRjS8/VvTE5LSoJxI/AAAAAAAFrNA/myZYYDnFkN822_JZmSvedv6CtmbsHyEjA/s1600/TA.png" %}
