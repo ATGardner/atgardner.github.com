@@ -68,7 +68,7 @@ This is a quick rundown of all the places I had the box shipped to, in case anyb
 
 San Diego → Idyllwild → Big Bear City → Hiker Heaven → Kennedy Meadows → Lone Pine → Mammoth Lakes → South Lake Tahoe → Quincy → Mt. Shasta City → Ashland → Bend → Cascade Locks → Seattle
 
-[San Diegp]: {{ site.baseurl }}{% post_url 2014-04-11-making-myself-useful %}
+[San Diego]: {{ site.baseurl }}{% post_url 2014-04-11-making-myself-useful %}
 [Agua Dulce]: {{ site.baseurl }}{% post_url 2014-05-12-day-31-acton-koa-to-hiker-heaven %}
 [Kennedy Meadows]: {{ site.baseurl }}{% post_url 2014-05-27-day-46-fox-mill-spring-to-kennedy %}
 [Vermillion Valley Resort]: {{ site.baseurl }}{% post_url 2014-06-12-day-62-wacs873-to-vvr %}
