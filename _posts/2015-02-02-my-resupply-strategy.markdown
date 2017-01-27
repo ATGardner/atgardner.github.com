@@ -21,15 +21,15 @@ So, here is a list of places I bought food in bulk, and mailed it to myself furt
 
 {% include image.html src="https://1.bp.blogspot.com/-j-tA_dMTTJs/VM9nytSNUcI/AAAAAAAFYyo/_2GLghIUZCA/s1600/2014-04-10%2B15.50.14.jpg" caption="My Bounce Box, and first package to Ziggy and The Bear" %}
 
-#### {San Diego}
+#### [San Diego]
 
-In San Diego I bought some food, and sent it ahead to [Warner Springs]({{ site.baseurl }}{% post_url 2014-04-18-day-7-some-campsite-to-warner-springs %}) (mile 109.5) and [Ziggy and The Bear]({{ site.baseurl }}{% post_url 2014-04-28-day-17-mile-191-to-ziggy-and-bear %}) (mile 210.8). In retrospect, I think there is no need for a package in Warner Springs - the community center had a reasonable selection over there, with the prices being a bit higher than normal stores. I would have definitely managed to buy what I needed, If I didn't have a package waiting for me there.
+In San Diego I bought some food, and sent it ahead to [Warner Springs] (mile 109.5) and [Ziggy and The Bear] (mile 210.8). In retrospect, I think there is no need for a package in Warner Springs - the community center had a reasonable selection over there, with the prices being a bit higher than normal stores. I would have definitely managed to buy what I needed, If I didn't have a package waiting for me there.
 
 At Ziggy and The Bear it might be a bit harder to bu food, though it is possible to get some basic stuff from them (if available), or try to hitch out to a supermarket if all else fails. Still, a package there was very helpful.
 
-#### {[Agua Dulce]({{ site.baseurl }}{% post_url 2014-05-12-day-31-acton-koa-to-hiker-heaven %}) (mile 454.5)}
+#### [Agua Dulce] (mile 454.5)
 
-At Agua Dulce's Hiker Heaven (which seems to be closed next year. UPDATE: re-opened for 2016), I joined the shuttle heading out to REI and WalMart, and bought supplies for the Sierras. I sent out a package to [Kennedy Meadows]({{ site.baseurl }}{% post_url 2014-05-27-day-46-fox-mill-spring-to-kennedy %}) (mile 702.2), [Vermillion Valley Resort]({{ site.baseurl }}{% post_url 2014-06-12-day-62-wacs873-to-vvr %}) (mile 878.8) and [Toulumne Meadows]({{ site.baseurl }}{% post_url 2014-06-18-day-68-lyell-fork-ford-to-cathedral-lake %}) (mile 942.5).
+At Agua Dulce's Hiker Heaven (which seems to be closed next year. UPDATE: re-opened for 2016), I joined the shuttle heading out to REI and WalMart, and bought supplies for the Sierras. I sent out a package to [Kennedy Meadows] (mile 702.2), [Vermillion Valley Resort] (mile 878.8) and [Toulumne Meadows] (mile 942.5).
 
 The package at Kennedy Meadows was helpful (though it costs $5 to get it from the store, if I remember correctly), but the store does have plenty of hiker supply selection. The price is high over there, but I believe it is possible to rely on it, and skip the package.
 
@@ -38,23 +38,23 @@ The VVR package is similar. The store does have some selection, though it seemed
 The Toulumne Meadows package was not there when we got to the store, and was waiting for us down in Yosemite Valley. Luckily, we were going to the valley anyway. The general store had plenty of resupply options, and so did the stores down in Curry Village and the Housekeeping Village. So there's no special need to send a package over there anyway.
 To conclude - All 3 packages from Agua Dulce can be skipped, if you don't mind paying a bit extra for your resupply, and maybe have a smaller selection to choose from.
 
-#### {[South Lake Tahoe]({{ site.baseurl }}{% post_url 2014-06-28-day-78-campsite-near-blue-lakes-road-to %}) (mile 1092.94)}
+#### [South Lake Tahoe] (mile 1092.94)
 
-From Tahoe, we've made packages to [Sierra City]({{ site.baseurl }}{% post_url 2014-07-05-day-85-meadow-lake-road-to-sierra-city %}) (mile 1197.6) and [Old Station](({{ site.baseurl }}{% post_url 2014-07-15-day-95-drakesbad-guest-ranch-to-subway %}) (mile 1377.6).
+From Tahoe, we've made packages to [Sierra City] (mile 1197.6) and [Old Station] (mile 1377.6).
 
 The small store in Sierra City might be enough for resupply, but the selection is not too impressive. Same goes for the store in Old Station. Both places might work out for you, but having the packages was a bit easier for us.
 
-#### {[Ashland]({{ site.baseurl }}{% post_url 2014-07-31-day-111-wrangle-gap-to-ashland %}) (mile 1727)}
+#### [Ashland] (mile 1727)
 
-From Ashland, I bought supplies for most of Oregon, sending my packaged to [Mazama Village]({{ site.baseurl }}{% post_url 2014-08-06-day-117-campsite-near-wa1809b-to-mazama %}) (mile 1829.3), [Shelter Cove]({{ site.baseurl }}{% post_url 2014-08-09-day-120-campsite-near-wa1886-to-shelter %}) (mile 1912.7) and [Timberline Lodge]({{ site.baseurl }}{% post_url 2014-08-18-day-129-seeping-spring-to-sandy-river %}) (mile 2106.3).
+From Ashland, I bought supplies for most of Oregon, sending my packaged to [Mazama Village] (mile 1829.3), [Shelter Cove] (mile 1912.7) and [Timberline Lodge] (mile 2106.3).
 
 In Mazama Village, the store has some options, but I was happy I had my package, since there weren't that many vegetarian meals around. Same goes for Shelter Cove (I had a toaster oven pizza there for dinner). Timberline Lodge didn't have any resupply store around it (Though the AYCE buffet was filling and tasty). So all in all, I was happy I had those packages.
 
-#### {[Cascade Locks]({{ site.baseurl }}{% post_url 2014-08-20-day-131-indian-spring-campground-to %}) (mile 2155)}
+#### [Cascade Locks] (mile 2155)
 
 At my final major stop, I got a (very helpful) ride with <i>Rock Ocean</i>, and bought my Washington supplies at the Walmart and Safeway in Hood River. The Walmart sucked, by the way. Safeway was much much better.
 
-I made packages to [Trout Lake]({{ site.baseurl }}{% post_url 2014-08-25-day-136-mosquito-creek-to-trout-lake %}) (mile 2237.5), [White Pass]({{ site.baseurl }}{% post_url 2014-08-28-day-139-campsite-near-pct-mile-2283-to %}) (mile 2303), [Snoqualamie Pass]({{ site.baseurl }}{% post_url 2014-09-01-day-143-wa2379-to-snoqualmie-pass %}) (mile 2402), [The Dinsmores]({{ site.baseurl }}{% post_url 2014-09-05-day-147-campsite-near-pct-mile-2452-to %}) (mile 2476), and [Stehekin]({{ site.baseurl }}{% post_url 2014-09-10-day-152-campsite-near-pct-mile-2577-to %}) (mile 2580.2). A lot of packages, for a lot of money (~$17 * 5 + 1 bounce box).
+I made packages to [Trout Lake] (mile 2237.5), [White Pass] (mile 2303), [Snoqualamie Pass] (mile 2402), [The Dinsmores] (mile 2476), and [Stehekin] (mile 2580.2). A lot of packages, for a lot of money (~$17 * 5 + 1 bounce box).
 
 The small store in Trout Lake might have been enough for me, and I haven't really checked the offerings at the gas station in Snoqualamie Pass, but having those packages did make everything simpler.
 
@@ -67,3 +67,21 @@ For the box itself, I used a 5 gallon plastic bucket I bought at the Walmart in 
 This is a quick rundown of all the places I had the box shipped to, in case anybody wonders:
 
 San Diego → Idyllwild → Big Bear City → Hiker Heaven → Kennedy Meadows → Lone Pine → Mammoth Lakes → South Lake Tahoe → Quincy → Mt. Shasta City → Ashland → Bend → Cascade Locks → Seattle
+
+[San Diegp]: {{ site.baseurl }}{% post_url 2014-04-11-making-myself-useful %}
+[Agua Dulce]: {{ site.baseurl }}{% post_url 2014-05-12-day-31-acton-koa-to-hiker-heaven %}
+[Kennedy Meadows]: {{ site.baseurl }}{% post_url 2014-05-27-day-46-fox-mill-spring-to-kennedy %}
+[Vermillion Valley Resort]: {{ site.baseurl }}{% post_url 2014-06-12-day-62-wacs873-to-vvr %}
+[Toulumne Meadows]: {{ site.baseurl }}{% post_url 2014-06-18-day-68-lyell-fork-ford-to-cathedral-lake %}
+[South Lake Tahoe]: {{ site.baseurl }}{% post_url 2014-06-28-day-78-campsite-near-blue-lakes-road-to %}
+[Sierra City]: {{ site.baseurl }}{% post_url 2014-07-05-day-85-meadow-lake-road-to-sierra-city %}
+[Old Station]: ({{ site.baseurl }}{% post_url 2014-07-15-day-95-drakesbad-guest-ranch-to-subway %}
+[Ashland]: {{ site.baseurl }}{% post_url 2014-07-31-day-111-wrangle-gap-to-ashland %}
+[Mazama Village]: {{ site.baseurl }}{% post_url 2014-08-06-day-117-campsite-near-wa1809b-to-mazama %}
+[Timberline Lodge]: {{ site.baseurl }}{% post_url 2014-08-18-day-129-seeping-spring-to-sandy-river %}
+[Cascade Locks]: {{ site.baseurl }}{% post_url 2014-08-20-day-131-indian-spring-campground-to %}
+[Trout Lake]: {{ site.baseurl }}{% post_url 2014-08-25-day-136-mosquito-creek-to-trout-lake %}
+[White Pass]: {{ site.baseurl }}{% post_url 2014-08-28-day-139-campsite-near-pct-mile-2283-to %}
+[Snoqualamie Pass]: {{ site.baseurl }}{% post_url 2014-09-01-day-143-wa2379-to-snoqualmie-pass %}
+[The Dinsmores]: {{ site.baseurl }}{% post_url 2014-09-05-day-147-campsite-near-pct-mile-2452-to %}
+[Stehekin]: {{ site.baseurl }}{% post_url 2014-09-10-day-152-campsite-near-pct-mile-2577-to %}
