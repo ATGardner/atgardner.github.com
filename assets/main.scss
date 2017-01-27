@@ -12,3 +12,13 @@ figcaption {
   font-size: 12px;
   font-style: italic;
 }
+
+div {
+  &.linz {
+    background-color: #D1E7F5;
+  }
+
+  &.landcare {
+    background-color: #83A7B8;
+  }
+}
