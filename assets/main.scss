@@ -3,26 +3,30 @@
 
 @import "minima";
 
-.screen-shot {
-  width: 180px;
-}
+body {
+  font-family: 'Noto Sans', sans-serif;
 
-figcaption {
-  text-align: center;
-}
+  div {
+    &.linz {
+      background-color: #D1E7F5;
+    }
 
-.post-meta .trail-data {
-  list-style: none;
-  font-size: 12px;
-  font-style: italic;
-}
-
-div {
-  &.linz {
-    background-color: #D1E7F5;
+    &.landcare {
+      background-color: #83A7B8;
+    }
   }
 
-  &.landcare {
-    background-color: #83A7B8;
+  figcaption {
+    text-align: center;
+  }
+
+  .screen-shot {
+    width: 180px;
+  }
+
+  .post-meta .trail-data {
+    list-style: none;
+    font-size: 12px;
+    font-style: italic;
   }
 }
