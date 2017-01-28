@@ -28,7 +28,7 @@ blogger_orig_url: http://pct14.blogspot.com/2014/12/my-post-hike-gear-review-pt-
 ---
 [My complete gear list]
 
-####Trekking Poles - [Gossamer Gear LT4s]/[Leki Quantum]
+#### Trekking Poles - [Gossamer Gear LT4s]/[Leki Quantum]
 
 I started my hike with a pair of Gossamer Gear LT4s trekking poles. They are made of carbon fiber, and are very light indeed. I was worried that the lack of shock absorbing will bother me, but I quickly got used to them, and they've been very useful on the trail.
 
@@ -48,7 +48,7 @@ I left the one intact pole section I still had at the Cascade Locks Post Office 
 
 Next time I'll just buy a pair of Black Diamond carbon fiber poles, like Idan had. They seemed light enough, but much sturdier than my GG.
 
-####Stove - [SnowPeak Titanium LiteMax]
+#### Stove - [SnowPeak Titanium LiteMax]
 
 A long time ago I bought a Caldera F-Keg system, and used it for short trips in Israel, and for my Israeli National Trail attempt. I really liked it simplicity, and I enjoyed cooking on alcohol. I never cared much for the time it takes to boil water. I don't mind waiting a few more minutes.
 
@@ -62,7 +62,7 @@ I was planning to switch to my alcohol stove when I enter Oregon, but when I got
 
 At the end, several of the tiny screws were a bit loose (one was missing). An email to SnowPeak, and they just sent me a small envelope with brand new little screws. That's all I needed. Good customer service!
 
-####Pot - [Evernew Ultra-Light 0.75Liter]
+#### Pot - [Evernew Ultra-Light 0.75Liter]
 
 Even though I ordered the 0.75l Pasta Pot (or is it 0.7l? I'm not sure) from [Trail Designs], I got the 0.6l Pot instead. I was afraid it won't be enough for me, and Trail Designs replaced it for me without a problem. In retrospect, I think the 0.6l one would have been enough as well.
 
@@ -70,11 +70,11 @@ Even though I ordered the 0.75l Pasta Pot (or is it 0.7l? I'm not sure) from [Tr
 
 The pot can easily fit a small gas canister, including my LiteMax stove and a small lighter. It held enough water for me to boil for lunch. I guess that's all I need in a pot. I never cooked in it (Except for instant mashed potatoes, if you call that cooking, once or twice), so I also never had to clean it. It did the trick.
 
-####Spork - [Sea to Summit Alpha Light long spoon]
+#### Spork - [Sea to Summit Alpha Light long spoon]
 
 I have a couple of [Light My Fire] sporks back home, but the first thing I noticed when I landed in San Diego was that I forgot them behind. So I bought a long spoon at REI. I was very happy with it being a bit extra long than normal sporks/spoons, as it allowed me to easily eat directly out of the Knorr bag I was having for lunch that day. It was also nice having a flat ending, to easily scrape the bottom of the meal. I never felt like I needed a fork or a spork instead.
 
-####Hydration - [Platypus Big Zip 3L]/Smart Water bottles
+#### Hydration - [Platypus Big Zip 3L]/Smart Water bottles
 
 I have the older model of the Big Zip (without that Low Profile thingie), but I really enjoyed it on the trail. I find drinking from a tube much easier than having to pull out a water bottle, and put it back in the side pocket afterwards.
 
@@ -86,7 +86,7 @@ I bought two 1 Liter Smart Water bottles down in San Diego, right before startin
 
 The bottle held out very well, and I actually carried the same one all the way to Canada. I still had a hard time finally throwing it to the bottle recycling bin back home in Tel Aviv, a few weeks after I got back home. But that was just me being overly attached to my gear. While the threads did get a bit dirty, and needed the occasional cleaning in hotel rooms along the way, the rest of the bottle was in perfect shape and didn't leak or burst. I was very happy with it.
 
-####Water Filter - [Sawyer Mini]/[Aqua Mira]
+#### Water Filter - [Sawyer Mini]/[Aqua Mira]
 
 I bought the Sawyer Mini filter right before starting the trail, hearing many good things about it. I really liked its compact design and weight. I never used the little hose, and the packaged 16oz squeeze bag was also very unhelpful. It's almost impossible to fill the bag up from a stream, and I found it much simpler to just fill up one Smart Water bottle and squeeze it into another one.
 
@@ -96,7 +96,7 @@ A bit later, we started using Aqua Mira to clean our waters as an extra step aft
 
 As the hike went on, and I got complacent, I slowly started skipping the purifying bit on more and more water sources, until I also ditched the Aqua Mira drops completely. I just drank all the water directly, and never had any problems. I can not recommend this method at all to anyone else. It is probably the most stupid path to chose. But it worked for me.
 
-####Gloves - some unknown brand/[Sea to Summit Eclipse Paddling Gloves]
+#### Gloves - some unknown brand/[Sea to Summit Eclipse Paddling Gloves]
 
 On my third day out, I bought a pair of sun gloves at Dave Super's gear storein Mt. Laguna. I just bought the cheaper brand gloves over there, but I really liked them. They were light and airy, with an actual hole at the palm of my hand, and cut-off fingers. They were very comfortable, and lasted almost half way up to South Lake Tahoe (mile 1093).
 
@@ -104,29 +104,29 @@ On my third day out, I bought a pair of sun gloves at Dave Super's gear storein 
 
 [In Lake of the Sky Outfitters] I bought a new pair of sun gloves, this time going for the Sea to Summit pair. I didn't like that pair as much, especially the hard fake leather bit on the palm side, which was not comfortable, and a bit too hot sometimes. They were also a bit harder to take off. I recently found out it's made out of fake leather, which is a comfort. They did hold up nicely all the way to the end, and worked well in protecting my hands from the sun.
 
-####Camp Shoes - cheap flip flops
+#### Camp Shoes - cheap flip flops
 
 I just carried a pair of cheap, simple, flip flops I had for hiking for several years. The right flip tore up right after leaving Tahoe, but I managed to carry it all the way, with the help of some duct tape emergency field repair. It worked. I actually carried them back home to Israel, and threw them to the trash bin next to my house.
 
-####Towel - [PackTowl UltraLite]
+#### Towel - [PackTowl UltraLite]
 
 Not very handy at all. I thought I'd carry it in case I want to dry off after a quick shower someplace, but almost every place that had a shower, had a normal towel I can borrow. I think I actually used it to dry myself off less than 5 times. I did use it occasionally to dry the inner walls of my tent in the morning, after a damp night. That was useful, at least.
 
-####Headlamp - [Petzl Zipka 2]
+#### Headlamp - [Petzl Zipka 2]
 
 I have an older model of the Zipka (called Zipka 2, oddly enough), that has a red colored LED in addition to the standard white one. I really liked the red option for rummaging around my tent at night, or a quick excursion to the woods in the dark. The batteries do last a long time, especially since I didn't use the headlamp that much (probably an average of ~1 minute every night). I didn't night hike on the trail. I just made sure to keep it next to me, when I went to sleep each night. In case I'd need it.
 
-####Knife -  [Victorinox Tourist]
+#### Knife -  [Victorinox Tourist]
 
 I think I had this model. At least - I had the same tool set on mine. Anyway, I didn't use it much. The big knife was nice to cut cheese (I learned the hard way that this is a euphemism to farting), and cutting open my care packages. The small scissors were also nice to have occasionally. I could have easily managed with a smaller version (And even considered buying one, but then thought $25 is too much for such a minor weight difference), or even without any knife at all.
 
-####Solar Charger - [sCharger-5]
+#### Solar Charger - [sCharger-5]
 
 I bought the sCharger-5 along with the "Emergency Kit", mostly just for the included external battery. I have the older model of the panel, so I drilled holes in the corners myself, in order to secure it to my backpack while walking. I didn't really use the charger on the trail much, using the external battery (next section) during most sections.
 
 Only in the two long sections of the Sierras (each one was 7 days between towns/electricity) we really had to use the panels. After I realized I am carrying it on my back and never actually using it, I sent it away, and kept on relying on the external battery.
 
-####External Battery - [Lepow Moonstone 6000]/[Anker 2nd Gen Astro]
+#### External Battery - [Lepow Moonstone 6000]/[Anker 2nd Gen Astro]
 
 I started my hike with the Lepow battery I got from Suntactics. It has 4 LEDs that show the current state of the battery. After several weeks on the trail, I noticed that the LEDs go from 4 (full charge), down to 2, and then the battery appears dead.
 
@@ -136,7 +136,7 @@ Sadly, the battery I got in Etna had the exact same problem - LEDs going down 4-
 
 The Anker worked perfectly. Helping me keep my phone with enough power for 4-5 days between towns, and that's on top of an old phone, with crummy battery. So I was happy.
 
-####Camera - Panasonic TZ20/[TZ40]
+#### Camera - Panasonic TZ20/[TZ40]
 
 I started my hike with the TZ20, a bit of an older model from Panasonic. I mostly liked the GPS feature, allowing me to keep track of where I took every picture. It is sometimes annoying, when I pull the camera out and turn it on, and have to wait for the GPS to get a fix. Sometimes I had to wait for several minutes, though most times it would get a fix in less than 20 seconds.
 
@@ -148,14 +148,14 @@ The new camera was just a more updated model. Same GPS functionality, but this o
 
 But the camera itself does feel a bit better than the previous model. Now with X30 zoom, there's even a bit more zoom to play with. I still shoot on "auto", and I am happy with the results.
 
-####Smartphone - [Google Nexus 4]
+#### Smartphone - [Google Nexus 4]
 I took my phone from Israel with me for the hike. Being a GSM phone I knew it would work well with ATT and T-Mobile networks in the USA. I managed to get an unactivated T-Mobile sim card beforehand, and when I landed I activated it on a pre-paid plan for $30/month for calls+data.
 
 Pretty soon I discovered that I didn't have a lot of reception on the trail, especially compared to ATT reception. I decided to switch to [Straight Talk], an MVO that operates over ATT network and offers a prepaid monthly option as well. for $45 I Got unlimited national minutes, and 3GB of data. I also used Google Voice to call home (international), so having national only minutes didn't bother me. The reception was all right throught most of the first half of the trail. Up in Oregon I had a bit less, and almost no reception in Washington. Verizon has much better reception up there, but they are not compatible with my Israeli phone, so they were not an option for me.
 
 I used many different Android apps on the trail, on which I'll elaborate further in a future post. But having a smart phone was definitely a good call for me. It was very handy and useful, and I'd highly recommend it.
 
-[My complete gear list]: http://pct14.blogspot.co.il/p/blog-page.html
+[My complete gear list]: {{ site.baseurl }}{% link pages/gear-list.html %}
 [Gossamer Gear LT4s]: http://gossamergear.com/trekking/lt4-trekking-poles-all.html
 [Leki Quantum]: http://shop.leki.com/en/product.php?product_id=56145
 [SnowPeak Titanium LiteMax]: http://snowpeak.com/products/litemax-titanium-stove-gst-120

@@ -30,11 +30,11 @@ Here is a view on the data I used for my files. You can switch between the two s
 
 In my opinion, the LINZ map looks a bit better than the Landcare one, but If I had to chose, I’d take both of them with me, and alternate according to my needs. Each file is 478MB, so I was able to get a good size for the entire TA. The only thing that is bothering me with those maps, is that in lower zoom levels (check out around 8-11), the trail corridor seems a bit too narrow. I thought about maybe adding the whole of New Zealand at those levels, just to get a better understanding of your whereabouts in comparison to places a bit further away from you. If there is a need for such an improvement, I can give it a shot. Don’t hesitate to ask.
  
-### DISCLAIMER:
+#### DISCLAIMER:
 
 Please double check that the files contain all the mapping data you might need while on the trail. Mistakes might have been made (and probably were made) during the file's creation, so don't rely only on them on your hike. Have backup maps in case your phone's power run out, or the files don't contain a required section. Use your own judgement.
 
-### Here are the files:
+#### Here are the files:
 
 Both versions follow the trail corridor defined by the TeAraroaTrail_asTrack.gpx file from [here]. I am sure you can use the other
  versions on that site, as they should all follow the same route.
@@ -57,4 +57,4 @@ A detailed walk-through on how to use these files with [Backcountry Navigator] o
 [Landcare Research (Orux)]: https://storage.googleapis.com/atgardner/TA%20-%20Land%20Information%20-%200-15%20-%20MBTiles.zip
 [Backcountry Navigator]: http://backcountrynavigator.com/
 [Orux Maps]: http://www.oruxmaps.com/
-[here]: http://pct14.blogspot.co.il/p/offline-maps.html
+[here]: {{ site.baseurl }}{% link pages/offline-maps.markdown %}
