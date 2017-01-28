@@ -20,6 +20,18 @@ body {
     text-align: center;
   }
 
+  .pagination {
+    text-align: center;
+
+    .previous {
+      float: left;
+    }
+
+    .next {
+      float: right;
+    }
+  }
+
   .screen-shot {
     width: 180px;
   }
