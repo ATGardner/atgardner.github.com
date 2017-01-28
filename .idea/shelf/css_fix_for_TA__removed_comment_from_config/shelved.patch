@@ -1,0 +1,62 @@
+Index: _config.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _config.yml	(date 1485534551000)
++++ _config.yml	(revision )
+@@ -27,7 +27,6 @@
+ markdown: kramdown
+ theme: minima
+ paginate: 5
+-# excerpt_separator: "\r\n\r\n"
+ gems:
+   - jekyll-feed
+   - jekyll-paginate
+Index: assets/main.scss
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- assets/main.scss	(date 1485534551000)
++++ assets/main.scss	(revision )
+@@ -11,4 +11,14 @@
+   list-style: none;
+   font-size: 12px;
+   font-style: italic;
++}
++
++div {
++  &.linz {
++    background-color: #D1E7F5;
++  }
++
++  &.landcare {
++    background-color: #83A7B8;
++  }
+ }
+\ No newline at end of file
+Index: _posts/2015-10-31-te-araroa-offline-map-files.markdown
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _posts/2015-10-31-te-araroa-offline-map-files.markdown	(date 1485534551000)
++++ _posts/2015-10-31-te-araroa-offline-map-files.markdown	(revision )
+@@ -16,16 +16,6 @@
+ blogger_orig_url: http://pct14.blogspot.com/2015/10/te-araroa-offline-map-files.html
+ mapName: ta
+ ---
+-<style>
+-.linz {
+-    background-color: #D1E7F5;
+-}
+-
+-.landcare {
+-    background-color: #83A7B8;
+-}
+-</style>
+-
+ A while ago a friend of mine asked for some help in getting maps for his upcoming [Te Araroa] hike, on his smart phone. I decided to create an offline map file for his use, and I am now sharing it with anyone else who might be interested.
+ 
+ {% include image.html src="https://3.bp.blogspot.com/-MLETxPNRjS8/VvTE5LSoJxI/AAAAAAAFrNA/myZYYDnFkN822_JZmSvedv6CtmbsHyEjA/s1600/TA.png" %}
