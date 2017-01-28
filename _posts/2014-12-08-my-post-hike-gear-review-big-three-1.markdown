@@ -86,7 +86,7 @@ Regarding the comfort level of the Neo-Air - it's awesome. I twist and turn thro
 
 Many people complain about the rustling noise these mattresses make. It never bothered me. Not the noise coming out of my own mattress, nor the ones from nearby hikers (And many others do use the Neo-Air).
 
-[My complete gear list]: http://pct14.blogspot.co.il/p/blog-page.html
+[My complete gear list]: {{ site.baseurl }}{% link pages/gear-list.html %}
 [ZPacks Arc Blast 60L]: http://zpacks.com/backpacks/arc_blast.shtml
 [BearVault 500]: http://www.bearvault.com/bearvault_details.php
 [ZPacks]: http://zpacks.com/quilts/sleepingbag.shtml

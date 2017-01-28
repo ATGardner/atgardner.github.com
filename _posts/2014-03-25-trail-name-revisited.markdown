@@ -29,5 +29,5 @@ _Update:_
 Another great reason:
 {% include youtubePlayer.html id="LTiGC7WPacw" params="start=498" %}
 
-[trail name]: http://pct14.blogspot.com/2014/01/trail-name-cunundrum.html
+[trail name]: {{ site.baseurl }}{% post_url 2014-01-18-trail-name-cunundrum %}
 [Lassi]: http://en.wikipedia.org/wiki/Lassi

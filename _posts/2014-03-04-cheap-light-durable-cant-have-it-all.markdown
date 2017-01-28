@@ -21,4 +21,4 @@ I thought I Got a cheap, light and durable item for my hike, but I guess there a
 UPDATE:
 I got a reply from SportEyz, and they have already refunded my purchase, including the shipment. I can't complain about their customer service.
 
-["Strange pair of shades"]: http://pct14.blogspot.com/2014/02/a-strange-pair-of-shades.html
+["Strange pair of shades"]: {{ site.baseurl }}{% post_url 2014-02-19-a-strange-pair-of-shades %}

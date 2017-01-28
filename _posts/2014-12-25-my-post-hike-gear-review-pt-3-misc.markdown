@@ -155,7 +155,7 @@ Pretty soon I discovered that I didn't have a lot of reception on the trail, esp
 
 I used many different Android apps on the trail, on which I'll elaborate further in a future post. But having a smart phone was definitely a good call for me. It was very handy and useful, and I'd highly recommend it.
 
-[My complete gear list]: http://pct14.blogspot.co.il/p/blog-page.html
+[My complete gear list]: {{ site.baseurl }}{% link pages/gear-list.html %}
 [Gossamer Gear LT4s]: http://gossamergear.com/trekking/lt4-trekking-poles-all.html
 [Leki Quantum]: http://shop.leki.com/en/product.php?product_id=56145
 [SnowPeak Titanium LiteMax]: http://snowpeak.com/products/litemax-titanium-stove-gst-120

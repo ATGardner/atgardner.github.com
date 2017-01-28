@@ -97,7 +97,7 @@ I started the trail with a pair of Merrells I used in Israel, and also hiked aro
 
 {% include image.html src="http://4.bp.blogspot.com/-5jFDvFJonyo/VJQ7vSarliI/AAAAAAAFPa8/c3SGHrG72vY/s1600/2014-05-08%2B17.14.04.jpg" caption="New shoes and socks" %}
 
-[My complete gear list]: http://pct14.blogspot.co.il/p/blog-page.html
+[My complete gear list]: {{ site.baseurl }}{% link pages/gear-list.html %}
 [Columbia Silver Ridge Long Sleeve Shirt]: http://www.columbia.com/mens-silver-ridge-long-sleeve-shirt-AM7453.html
 [Columbia Silver Ridge Cargo Pants]: http://www.columbia.com/mens-silver-ridge-cargo-pant-AM8007.html
 [Exofficio Give-N-Go]: http://www.exofficio.com/products/details/mens-give-n-go-boxer
