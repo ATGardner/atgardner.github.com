@@ -15,9 +15,7 @@ thumbnail: http://2.bp.blogspot.com/-QzF5aOyDii4/VZJ4Xfsx00I/AAAAAAAFhVk/7hPZlbh
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-5177800139227314796
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-47-kennedy-meadows-to-kennedy.html
 ---
-Today was almost a zero day.
-
-We woke up to a chilly morning, and Yair took off to Ridgecrest to return his rental car. We were hoping he'd have good luck hitching back.
+Today was almost a zero day - We woke up to a chilly morning, and Yair took off to Ridgecrest to return his rental car. We were hoping he'd have good luck hitching back.
 
 {% include image.html src="http://2.bp.blogspot.com/-QzF5aOyDii4/VZJ4Xfsx00I/AAAAAAAFhVk/7hPZlbhYQPE/s1600/2014-05-28%2B11.21.13.jpg" caption="Bambi and Rudolph relaxing at the &quot;Internet Cafe&quot;" %}
 

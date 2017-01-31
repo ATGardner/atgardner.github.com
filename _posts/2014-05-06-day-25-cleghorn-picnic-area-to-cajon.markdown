@@ -11,10 +11,9 @@ thumbnail: http://2.bp.blogspot.com/-0UHiYzk_nD0/VOnUkKCLKjI/AAAAAAAFbmQ/gIkH0bp
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-561371148723432924
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-25-cleghorn-picnic-area-to-cajon.html
 ---
+We had a nice quick and easy day today. Only 14 miles to get to end of our day. We made it all in just under 5 hours, getting to the promised McDonald's at 13:00. I had my usual big eyes, and got a salad with big fries. I couldn't finish the fries, but Idan helped after finishing his.
 
 {% include image.html src="http://2.bp.blogspot.com/-0UHiYzk_nD0/VOnUkKCLKjI/AAAAAAAFbmQ/gIkH0bp-cXg/s1600/2014-05-06%2B12.43.38.jpg" caption="Getting to Cajon Pass resting area" %}
-
-We had a nice quick and easy day today. Only 14 miles to get to end of our day. We made it all in just under 5 hours, getting to the promised McDonald's at 13:00. I had my usual big eyes, and got a salad with big fries. I couldn't finish the fries, but Idan helped after finishing his.
 
 {% include image.html src="http://2.bp.blogspot.com/-KUe9ykupYGY/VOnUipfRQeI/AAAAAAAFbmI/CGdKz4a_BCw/s1600/2014-05-06%2B12.55.45.jpg" caption="A well earned lunch" %}
 

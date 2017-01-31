@@ -12,9 +12,9 @@ thumbnail: http://2.bp.blogspot.com/-TembiWNjRJQ/VJ2HQn0Ie1I/AAAAAAAFR8s/RlkDE7p
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3474214287459014338
 blogger_orig_url: http://pct14.blogspot.com/2014/04/days-12-15-idyllwild-and-kick-off.html
 ---
-{% include image.html src="http://2.bp.blogspot.com/-TembiWNjRJQ/VJ2HQn0Ie1I/AAAAAAAFR8s/RlkDE7pbqVs/s1600/2014-04-23%2B16.19.09.jpg" caption="Airing sleeping bags outside, at the Idyllwild Inn" %}
-
 Well, these were some very uneventful days.
+
+{% include image.html src="http://2.bp.blogspot.com/-TembiWNjRJQ/VJ2HQn0Ie1I/AAAAAAAFR8s/RlkDE7pbqVs/s1600/2014-04-23%2B16.19.09.jpg" caption="Airing sleeping bags outside, at the Idyllwild Inn" %}
 
 On my first day in Idyllwild I went over to a doctor there, and she told me I should just take 600ml of Advil after every meal, and keep my foot iced. She also charged me $65. For the next two days I spent most of my time sitting in my hotel room, occasionally icing my foot, reading stuff on my phone, and sometimes going out for a pizza or a veggie burger. Idan, on the mean time, watched movies and TV series on his phone.
 

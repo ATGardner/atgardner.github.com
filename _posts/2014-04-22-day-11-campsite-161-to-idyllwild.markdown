@@ -9,9 +9,9 @@ thumbnail: http://4.bp.blogspot.com/-ALbRFY9ebbk/VJ2GgmxEzII/AAAAAAAFR8k/kpycmNA
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8010287442718598062
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-11-campsite-161-to-idyllwild.html
 ---
-{% include image.html src="http://4.bp.blogspot.com/-ALbRFY9ebbk/VJ2GgmxEzII/AAAAAAAFR8k/kpycmNAH9Dc/s1600/2014-04-22%2B08.02.24.jpg" caption="At least I made it to the closure" %}
-
 Last night I camped high up, right before the trail closure. The spot turned our to be excellent - I had no wind during the night, and it was not too cold at night. Oh, and I didn't make that second dinner, after the veggie burger. This morning I hiked an easy short trail to the closure sign. It was all up on ridge, and the winds were blowing hard. When I got to the closure I noticed that the eastern side trail, the one heading down to Ceder Spring, is also closed. Just so you know. I took the western side trail, down from the mountain. I only found out then that the gpx file I had of the detour was for the second day. But I had Halfmile's blog post of that first day with me, including all the twists and turns along the way.
+
+{% include image.html src="http://4.bp.blogspot.com/-ALbRFY9ebbk/VJ2GgmxEzII/AAAAAAAFR8k/kpycmNAH9Dc/s1600/2014-04-22%2B08.02.24.jpg" caption="At least I made it to the closure" %}
 
 The switch backs down were quite easy. I met a guy hiking up with his dog. Looked like they were just having a stroll. The trail down at the valley was also quite easy, and then I reached the paved road. The road was completely deserted, so be careful, but it's no highway. From there, I found the "Fobes Trail" Halfmile mentioned in his post, and continued down on it, until I could see the highway just about 200 yards away.
 

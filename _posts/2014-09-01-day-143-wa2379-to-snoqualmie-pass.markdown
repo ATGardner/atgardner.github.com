@@ -8,13 +8,13 @@ modified_time: '2015-06-19T09:21:55.182-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-6582087199009082542
 blogger_orig_url: http://pct14.blogspot.com/2014/09/day-143-wa2379-to-snoqualmie-pass.html
 ---
+I woke up in the middle night, and heard some noises coming from the direction of the spring. It sounded a bit like an animal barking. Sizzler later told me it might have been coyotes. Maybe. It was strange. I kept trying to figure out if the barks are getting closer to my tent, and getting ready to go outside and make some noise to scare them away. But they remained far off at the spring, and I drowsed back to sleep.
+
 {% include image.html src="https://lh4.googleusercontent.com/-yFgeCQtirVo/VAYeVwJCwdI/AAAAAAADTXM/4tCR0nhQJj8/1409686829643.jpg" caption="Dew on some mushrooms" %}
 
 {% include image.html src="https://lh5.googleusercontent.com/-SzTeRmjS8As/VAYeGuKEVJI/AAAAAAADTW8/-0P1_kU3-BA/1409686906903.jpg" caption="Lizard Lake" %}
 
 {% include image.html src="https://lh6.googleusercontent.com/-JWGjcW4lJOQ/VAYeQP33BhI/AAAAAAADTXE/t5wzfZBWZXQ/1409686968499.jpg" caption="Snoqualamie Pass" %}
-
-I woke up in the middle night, and heard some noises coming from the direction of the spring. It sounded a bit like an animal barking. Sizzler later told me it might have been coyotes. Maybe. It was strange. I kept trying to figure out if the barks are getting closer to my tent, and getting ready to go outside and make some noise to scare them away. But they remained far off at the spring, and I drowsed back to sleep.
 
 In the morning, I yet again snoozed my alarm clock from 6:00 to 6:30. I did notice that my tent was covered in dew, inside and out, so I was dreaming about wiping off the water with my towel, in those last 30 minutes. When I finally got up, I did just that - the best use I have found for my camp towel, no doubt.
 

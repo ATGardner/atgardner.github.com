@@ -9,9 +9,9 @@ thumbnail: http://3.bp.blogspot.com/-FwfaTLpePDw/VIvoWlufoYI/AAAAAAAFCdw/BqOjSLc
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-2972918194405328480
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-3-some-random-camp-site-to-mt-laguna.html
 ---
-{% include image.html src="http://3.bp.blogspot.com/-FwfaTLpePDw/VIvoWlufoYI/AAAAAAAFCdw/BqOjSLccnKI/s1600/2014-04-14%2B13.23.34.jpg" caption="Chilling in front of the Mt. Laguna store" %}
-
 Today we had a nice and easy stroll into town. We only had about 6 miles to go from our camp site, and most of it was fairly easy.
+
+{% include image.html src="http://3.bp.blogspot.com/-FwfaTLpePDw/VIvoWlufoYI/AAAAAAAFCdw/BqOjSLccnKI/s1600/2014-04-14%2B13.23.34.jpg" caption="Chilling in front of the Mt. Laguna store" %}
 
 After about 1 mile or so we crossed a small stream, and I finally got an opportunity to use my filter. It wasn't as exciting as I thought it might be. But the water is good. We made good time, and got into the Mt Laguna lodge at about 11, where we got a room, showered and did some laundry in a bucket. The outfitter here has everything you'd ever need on the trail, and, apparently, he is also a Facebook friend of mine (hello Dave Super!). He took our photo, and I hope to see it on fb soon. The store has plenty of hiking supplies, so we got some good for the next two days, until we'll reach Julian. We were planning on the local restaurant for some burgers for the seder meal, but they only open on weekends, so it's Knorr meal for dinner. I did buy a yogurt and canned fruit salad for dessert, and an apple. So I have something to look forward to.
 

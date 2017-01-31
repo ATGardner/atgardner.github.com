@@ -15,11 +15,9 @@ thumbnail: http://1.bp.blogspot.com/-9quJCRtvVtY/VYCJ5f93-PI/AAAAAAAFgzw/fINkBdu
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7898290823498275421
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-41-campsite-at-pct-mile-625-to.html
 ---
-{% include image.html src="http://1.bp.blogspot.com/-9quJCRtvVtY/VYCJ5f93-PI/AAAAAAAFgzw/fINkBduqEII/s1600/2014-05-22%2B09.58.23.jpg" caption="It's seems to be the only photo I've got from that day, after I lost some I took with my phone. Damn." %}
-
-Another long day.
-
 We woke up to a tent filled with condensation, and had to take our time drying it out in the morning. The first 5 miles of the trail breezed by, until we got to the Bird Spring road cache, which was indeed full. We also had trail magic in the firm of two picnic chairs and a cooler filled with Gatorade. While we were sitting there, a truck came along with Forest, Sasquatch and Sharpa the dog. They work for the PCTA, and came around to survey the trail around the road, 5 miles in each direction. They also gave me a beer.
+
+{% include image.html src="http://1.bp.blogspot.com/-9quJCRtvVtY/VYCJ5f93-PI/AAAAAAAFgzw/fINkBduqEII/s1600/2014-05-22%2B09.58.23.jpg" caption="It's seems to be the only photo I've got from that day, after I lost some I took with my phone. Damn." %}
 
 We went further, over a 1500 feet climb, the big climb of the day. It took a while (I think I counted 12 switchbacks), but we got to the top (and even had some cell signal up there). Just as we were getting our lunch, before Yellow Jacket spring, it started raining a bit. But it ended before Idan managed to set up his poncho-tarp up.
 

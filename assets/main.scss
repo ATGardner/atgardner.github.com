@@ -6,6 +6,23 @@
 body {
   font-family: 'Noto Sans', sans-serif;
 
+  .home {
+    .excerpt {
+      .body {
+        display: flex;
+
+        .thumbnail {
+          margin: 5px;
+          max-width: 72px;
+        }
+
+        .content {
+          flex: 1;
+        }
+      }
+    }
+  }
+
   div {
     &.linz {
       background-color: #D1E7F5;
