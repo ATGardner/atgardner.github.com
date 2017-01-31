@@ -13,9 +13,9 @@ thumbnail: http://1.bp.blogspot.com/-oLDRltwZmtk/VJmB1t6_oyI/AAAAAAAFRXY/_kVSOjd
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-959526318889097720
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-9-trail-angel-mikes-to-campsite-at.html
 ---
-{% include image.html src="http://1.bp.blogspot.com/-oLDRltwZmtk/VJmB1t6_oyI/AAAAAAAFRXY/_kVSOjdmFmM/s1600/2014-04-20%2B07.34.05.jpg" caption="Pancakes for breakfast!" %}
-
 Last night I learned the hard way that I can't cook the Outdoor Herbivore meal in their bags. All I got was some hard wet pasta, and threw it away. This morning I discovered that their cold breakfasts do work in the bag, but are just not tasty. I'll stick with Knorr meals and Quaker Oatmeal breakfasts from now on. #Fail.
+
+{% include image.html src="http://1.bp.blogspot.com/-oLDRltwZmtk/VJmB1t6_oyI/AAAAAAAFRXY/_kVSOjdmFmM/s1600/2014-04-20%2B07.34.05.jpg" caption="Pancakes for breakfast!" %}
 
 Today was the hardest day yet, mostly because of our inability to take a break at noon, _an_d our head strong approach to reach the campsite as soon as possible. Big mistake. The trail was his usual semi-hard self, but the sun was merciless, and we just kept on hiking, and skipped the side trail to what we now discovered was a spring full of shade.
 

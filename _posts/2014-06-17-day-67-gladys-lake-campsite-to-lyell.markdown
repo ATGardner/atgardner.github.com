@@ -10,9 +10,9 @@ thumbnail: http://4.bp.blogspot.com/-Lir9SA8MX6o/Vh-ngs_KEGI/AAAAAAAFoEw/_fKXbw9
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-3554988529938369830
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-67-gladys-lake-campsite-to-lyell.html
 ---
-{% include image.html src="http://4.bp.blogspot.com/-Lir9SA8MX6o/Vh-ngs_KEGI/AAAAAAAFoEw/_fKXbw9P-ng/s1600/2014-06-17%2B07.41.09.jpg" caption="Rosalie Lake, right by our camp site" %}
-
 The original plan was to make a shorter day, and stop a bit before Donahue Pass. But we knew it would be an easy pass to hike, and early on during the day we decided we'd go over it, and camp on the other side.
+
+{% include image.html src="http://4.bp.blogspot.com/-Lir9SA8MX6o/Vh-ngs_KEGI/AAAAAAAFoEw/_fKXbw9P-ng/s1600/2014-06-17%2B07.41.09.jpg" caption="Rosalie Lake, right by our camp site" %}
 
 In the morning we were still hiking on the JMT alternate, passing along several small lakes and seeing many hikers going southbound. During one of our climbs, we came across an older lady, who seemed to be in the verge of panic. She said she hiked ahead of he husband a long while ago, but that he was a much faster hiker, and he hadn't passed her yet. She asked if we saw him ahead of her, which we hadn't. She was really worried about him.
 

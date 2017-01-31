@@ -10,9 +10,9 @@ thumbnail: http://4.bp.blogspot.com/-C40itxTFrLE/U5kiYXK32rI/AAAAAAADN0A/d1u2-jI
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7978313667256039911
 blogger_orig_url: http://pct14.blogspot.com/2014/06/fwd-day-60-wacs835-to-south-fork-san.html
 ---
-{% include image.html src="http://4.bp.blogspot.com/-C40itxTFrLE/U5kiYXK32rI/AAAAAAADN0A/d1u2-jIbUIA/s1600/IMG_20140610_123651-735395.jpg" caption="On the way up to Muir Pass" %}
-
 What a night. I don't know what time it was, but I started feeling a bit chilly around my neck, so I took my headlamp and searched for my neck buff. It wasn't in the tent. In fact, I noticed that neither were my hat and gloves. I usually take all of those items off as soon as I get to camp, so I figured I just left them outside before setting up my tent, and forgot to take them in.
+
+{% include image.html src="http://4.bp.blogspot.com/-C40itxTFrLE/U5kiYXK32rI/AAAAAAADN0A/d1u2-jIbUIA/s1600/IMG_20140610_123651-735395.jpg" caption="On the way up to Muir Pass" %}
 
 I wasn't that cold, so I tried to fall asleep again. But something was nagging me - I usually put down my camera along with my hat as well. And I didn't see it in the tent either, when I was looking around earlier. To make matters worse, I didn't want to get outside in fear that I wouldn't be able to zip my bug net again after unzipping it. I was really in a fix.
 

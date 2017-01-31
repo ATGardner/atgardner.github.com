@@ -8,9 +8,7 @@ modified_time: '2015-06-18T22:26:18.072-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7678430425418172667
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-61-south-fork-san-joaquin-river-to.html
 ---
-The longest day in the Sierras.
-
-In the morning we got up a bit early again, and were on the trail at 6:30. Idan doesn't like it, but we need it if we want to do more miles.
+The longest day in the Sierras. In the morning we got up a bit early again, and were on the trail at 6:30. Idan doesn't like it, but we need it if we want to do more miles.
 
 Yair told me we had one more mile today, because yesterday we thought we were camped one mile ahead of where we actually were. It was a good thing we stopped anyway, because otherwise we would have been hiking in the rain. So we remained dry, but one mile short. More for today.
 

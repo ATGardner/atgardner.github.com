@@ -8,11 +8,11 @@ modified_time: '2015-06-19T08:06:03.695-07:00'
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7926872675067803736
 blogger_orig_url: http://pct14.blogspot.com/2014/08/day-134-campsite-near-pct-mile-2178-to.html
 ---
+After making 1 more mile last night, I decided I'll make 2 more today, just to make tomorrow easier. Those last miles at the end of the day seem pretty easy anyway.
+
 {% include image.html src="https://lh6.googleusercontent.com/-hs34x1TAKX0/U_v1rS_x5sI/AAAAAAADSog/1rXXGuertMo/1409006250685.jpg" caption="Joe heating up the chili" %}
 
 {% include image.html src="https://lh4.googleusercontent.com/-xLISUw_1BLU/U_v1Oj_O3yI/AAAAAAADSoY/5a8hjnOiUeQ/1409006229195.jpg" caption="Trail magic indeed" %}
-
-After making 1 more mile last night, I decided I'll make 2 more today, just to make tomorrow easier. Those last miles at the end of the day seem pretty easy anyway.
 
 At the beginning of the day I had a long hike down towards Trout Creek. I got some water there, and headed on to Wind River, and later to Panther Creek, where the big climb of the day started.
 

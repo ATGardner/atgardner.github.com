@@ -11,9 +11,9 @@ thumbnail: http://4.bp.blogspot.com/-uZ3RDvWW2RI/Vlq7tDTpsjI/AAAAAAAFo5E/4OoiAGk
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8659517758620667419
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-77-markleeville-to-campsite-near.html
 ---
-{% include image.html src="http://4.bp.blogspot.com/-uZ3RDvWW2RI/Vlq7tDTpsjI/AAAAAAAFo5E/4OoiAGksPKY/s1600/2014-06-27%2B08.24.17.jpg" caption="My breakfast burrito" %}
-
 After a long night's sleep, we finally got up and started our day. Neon and I went to the hotel's cafe, and had great breakfast burritos. We also got our laundry back, and I encountered Sandie's cat, Fiddle, as she was stalking the grass. She was very friendly and felt so soft. Second cat on the trail. May there be many more.
+
+{% include image.html src="http://4.bp.blogspot.com/-uZ3RDvWW2RI/Vlq7tDTpsjI/AAAAAAAFo5E/4OoiAGksPKY/s1600/2014-06-27%2B08.24.17.jpg" caption="My breakfast burrito" %}
 
 {% include image.html src="http://4.bp.blogspot.com/-KmtkPbNy8bM/Vlq7tXmBRlI/AAAAAAAFo5I/I_fyc_s6F1c/s1600/2014-06-27%2B09.10.50.jpg" caption="Fiddle, what a cute cat" %}
 
