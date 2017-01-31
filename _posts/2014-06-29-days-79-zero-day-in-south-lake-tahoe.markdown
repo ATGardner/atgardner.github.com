@@ -11,9 +11,9 @@ thumbnail: http://1.bp.blogspot.com/-hxfc2gBJShU/Vqd5zqU4j5I/AAAAAAAFqQI/PM4Nqn5
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-322706315333815323
 blogger_orig_url: http://pct14.blogspot.com/2014/06/days-79-zero-day-in-south-lake-tahoe.html
 ---
-{% include image.html src="http://1.bp.blogspot.com/-hxfc2gBJShU/Vqd5zqU4j5I/AAAAAAAFqQI/PM4Nqn5iyjY/s1600/2014-06-29%2B12.06.33.jpg" caption="Barbra's home made cookies" %}
-
 Idan found a good deal for a different hotel room for tonight, using booking.com. so we checked out of our room, and headed out to the nearby Lake of the Stars outfitters. They have a very nice room for hikers, with snacks and coffee, and they give you sodas, and a lot of information about the town, and a list of local trail angels.
+
+{% include image.html src="http://1.bp.blogspot.com/-hxfc2gBJShU/Vqd5zqU4j5I/AAAAAAAFqQI/PM4Nqn5iyjY/s1600/2014-06-29%2B12.06.33.jpg" caption="Barbra's home made cookies" %}
 
 {% include image.html src="http://3.bp.blogspot.com/-G6xXqk9aMts/Vqd5ztDLiZI/AAAAAAAFqQE/neAXa3hvR4o/s1600/2014-06-29%2B09.52.29.jpg" caption="My birthday cake" %}
 

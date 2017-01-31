@@ -10,13 +10,13 @@ thumbnail: http://2.bp.blogspot.com/-g8I8BPok6n8/U5kgGCIf0HI/AAAAAAADNzU/DGFuzIr
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-7302735547009279788
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-57-cs790-to-campsite-near-wa803b.html
 ---
-{% include image.html src="http://2.bp.blogspot.com/-g8I8BPok6n8/U5kgGCIf0HI/AAAAAAADNzU/DGFuzIrKoPU/s1600/IMG_20140607_084453-752421.jpg" caption="Glenn Pass" %}
-
 In the morning, while we were packing up our stuff, at least 3 hikers passed by our campsite, on their way up to Glen Pass. The climb up to the pass wasn't too hard. It took us a while, with several more hikers passing us. And when we got to the pass everyone else were already half way down the other side. The other side, as we've heard before, was a steep snow covered slope. We could see the trail marks made by other hikers on the snow, and we picked the one that seemed most traveled by. A southbounder came onto the pass just as we were leaving it, and he gave us some tips on the way ahead. He said that if we are "moving it" we can get over Pinchot Pass as well today. We never "move it"...
 
-{% include image.html src="http://4.bp.blogspot.com/-k-VNju_Pyoc/Vb9tGvCVuyI/AAAAAAAFitU/8uBKcJjL5fY/s1600/2014-06-07%2B11.45.51.jpg" caption="View across Rae Lakes" %}
+{% include image.html src="http://2.bp.blogspot.com/-g8I8BPok6n8/U5kgGCIf0HI/AAAAAAADNzU/DGFuzIrKoPU/s1600/IMG_20140607_084453-752421.jpg" caption="Glenn Pass" %}
 
 When we first reached the pass we noticed a purple backpack, belonging to one of the hikers that passed us this morning. But no hiker around. Just as we were leaving she came back. Apparently she climbed up one if the peaks near the pass "just for fun". Needless to say, she passed us on the way down with blazing speed.
+
+{% include image.html src="http://4.bp.blogspot.com/-k-VNju_Pyoc/Vb9tGvCVuyI/AAAAAAAFitU/8uBKcJjL5fY/s1600/2014-06-07%2B11.45.51.jpg" caption="View across Rae Lakes" %}
 
 The way down took quite some time. First getting across the steep snow slope, and then guessing where the switchbacks were on the way down, in between snow patches and boulder hopping. We did glissade twice. Just short distances over snowy sections.
 

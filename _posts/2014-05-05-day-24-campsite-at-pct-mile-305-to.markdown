@@ -12,9 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-l816e4oMlKo/VNoRX9DX5zI/AAAAAAAFakA/8hO3WDz
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-4881999526228986701
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-24-campsite-at-pct-mile-305-to.html
 ---
-That was our longest day yet.
-
-The plan was to try and get a bit further today, so that tomorrow's hike into Cajon Pass will be a bit shorter. We were aiming at a water source 18.5 miles away from our start position, with an option to push a bit further once we get there. The day started easy enough, once we climbed out of our campsite, and back into the trail. After a quick 2 miles we got to the hot springs. Many hikers were aiming here yesterday, with a dip at night as an incentive. We just passed through, and I took a short 10 minutes, dip in one of the hot pools. It was very nice indeed.
+That was our longest day yet - The plan was to try and get a bit further today, so that tomorrow's hike into Cajon Pass will be a bit shorter. We were aiming at a water source 18.5 miles away from our start position, with an option to push a bit further once we get there. The day started easy enough, once we climbed out of our campsite, and back into the trail. After a quick 2 miles we got to the hot springs. Many hikers were aiming here yesterday, with a dip at night as an incentive. We just passed through, and I took a short 10 minutes, dip in one of the hot pools. It was very nice indeed.
 
 {% include image.html src="http://3.bp.blogspot.com/-l816e4oMlKo/VNoRX9DX5zI/AAAAAAAFakA/8hO3WDzt26Y/s1600/2014-05-05%2B08.15.35.jpg" caption="Deep Creek Hot Springs" %}
 

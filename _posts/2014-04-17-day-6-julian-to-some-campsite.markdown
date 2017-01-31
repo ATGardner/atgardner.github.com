@@ -11,9 +11,9 @@ thumbnail: http://1.bp.blogspot.com/-2gtwOaYdETQ/VIv6nmKrHuI/AAAAAAAFCoU/Ot3ucjM
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-1183930373514589372
 blogger_orig_url: http://pct14.blogspot.com/2014/04/day-6-julian-to-some-campsite.html
 ---
-{% include image.html src="http://1.bp.blogspot.com/-2gtwOaYdETQ/VIv6nmKrHuI/AAAAAAAFCoU/Ot3ucjMtoXk/s1600/2014-04-17%2B10.27.16.jpg" caption="A view back towards Scissors Crossing." %}
-
 Phew, today was a long day.
+
+{% include image.html src="http://1.bp.blogspot.com/-2gtwOaYdETQ/VIv6nmKrHuI/AAAAAAAFCoU/Ot3ucjMtoXk/s1600/2014-04-17%2B10.27.16.jpg" caption="A view back towards Scissors Crossing." %}
 
 We started by having the continental breakfast at the lodge. I just had a danish and a slice of orange. Then we went out to Mom's Pies, which offer thru hikers a free lunch. It was a bit early for lunch, but they made us the sandwiches and we got the drinks and the pie. We managed without the soup. We got it all to go. Then was the long ordeal of hitching back to the trail. Took us well over an hour, until a very nice lady picked us up after dropping her son at the school. The live in the small town down by Scissors Crossing (where we had to pick up the trail). She told us that she often picks up hikers, both up to town and back to the trail.
 

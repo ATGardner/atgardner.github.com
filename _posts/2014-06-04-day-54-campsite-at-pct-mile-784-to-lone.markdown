@@ -11,11 +11,9 @@ thumbnail: http://2.bp.blogspot.com/-zj0jnRWEuAY/Vb3hV5jNn4I/AAAAAAAFiqQ/nGNSMlb
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8523082661113236875
 blogger_orig_url: http://pct14.blogspot.com/2014/06/day-54-campsite-at-pct-mile-784-to-lone.html
 ---
+Today was surprisingly easy - After another record breaking cold night (don't worry, I do get some sleep at those nights), we got up and took our time again, waiting for the sun to warm us a bit. My shoes were frozen. Not figuratively. But literally rock solid, cold as ice, frozen. That's what you get when you put wet shoes outside, in freezing temperatures. I postponed putting them on until the last minute, and even then, it was a pain. Yair had to wrestle with his, in order to get his foot inside. I recalled how it took me hours to thaw my shoes back on the AT, and wasn't looking forward to the cold feet day. What I didn't take into account was how warm it is now, compared to the cold days I had back then on the AT. My shoes thawed within an hour, and I was happy again.
+
 {% include image.html src="http://2.bp.blogspot.com/-zj0jnRWEuAY/Vb3hV5jNn4I/AAAAAAAFiqQ/nGNSMlb24NU/s1600/2014-06-04%2B06.34.40.jpg" caption="Our camp spot from last night" %}
-
-Today was surprisingly easy.
-
-After another record breaking cold night (don't worry, I do get some sleep at those nights), we got up and took our time again, waiting for the sun to warm us a bit. My shoes were frozen. Not figuratively. But literally rock solid, cold as ice, frozen. That's what you get when you put wet shoes outside, in freezing temperatures. I postponed putting them on until the last minute, and even then, it was a pain. Yair had to wrestle with his, in order to get his foot inside. I recalled how it took me hours to thaw my shoes back on the AT, and wasn't looking forward to the cold feet day. What I didn't take into account was how warm it is now, compared to the cold days I had back then on the AT. My shoes thawed within an hour, and I was happy again.
 
 We had a short hike to the trail junction, where we were planning to hike away from the PCT, and over Kearsarge Pass, out to resupply.
 

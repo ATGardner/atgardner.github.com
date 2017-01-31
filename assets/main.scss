@@ -3,26 +3,59 @@
 
 @import "minima";
 
-.screen-shot {
-  width: 180px;
-}
+body {
+  font-family: 'Noto Sans', sans-serif;
 
-figcaption {
-  text-align: center;
-}
+  .home {
+    .excerpt {
+      .body {
+        display: flex;
 
-.post-meta .trail-data {
-  list-style: none;
-  font-size: 12px;
-  font-style: italic;
-}
+        .thumbnail {
+          margin: 5px;
+          max-width: 72px;
+        }
 
-div {
-  &.linz {
-    background-color: #D1E7F5;
+        .content {
+          flex: 1;
+        }
+      }
+    }
   }
 
-  &.landcare {
-    background-color: #83A7B8;
+  div {
+    &.linz {
+      background-color: #D1E7F5;
+    }
+
+    &.landcare {
+      background-color: #83A7B8;
+    }
+  }
+
+  figcaption {
+    text-align: center;
+  }
+
+  .pagination {
+    text-align: center;
+
+    .previous {
+      float: left;
+    }
+
+    .next {
+      float: right;
+    }
+  }
+
+  .screen-shot {
+    width: 180px;
+  }
+
+  .post-meta .trail-data {
+    list-style: none;
+    font-size: 12px;
+    font-style: italic;
   }
 }

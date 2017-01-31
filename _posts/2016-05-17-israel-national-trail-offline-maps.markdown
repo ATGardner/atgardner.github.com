@@ -33,29 +33,16 @@ This map sample displays Hebrew labels, and is here to show you the quality of t
 
 You can get an updated gpx file of the entire trail using [this] link. This uses a [simple app] I wrote that exports an OSM relation to a gpx file directly from their servers. That link uses relationId 282071, which is the Id of the INT, but you can substitute it with any other relationId you might be interested in, if you want to download an updated gpx of some other trail.
 
-### Disclaimer
+#### Disclaimer
 
 All the data was used "as-is", and I do not take responsibility for its correctness. Please use your judgment when navigating along the trail (or anywhere else). Any errors or omissions I made in the process of compiling the files are my own.
 
 #### Here are the files:
 
-English
-
- <ul>
- <li>[BCNav] (534MB)
- </li>
- <li>[Orux] (534MB)
- </li>
- </ul>
-
-Hebrew
-
- <ul>
- <li>[BCNav] (533MB)
- </li>
- <li>[Orux] (533MB)
- </li>
- </ul>
+* [BCNav, English](https://storage.googleapis.com/atgardner/INT - Israel Hiking Map, en - 7-15 - BCNav.zip) (534MB)
+* [Orux, English](https://storage.googleapis.com/atgardner/INT - Israel Hiking Map, en - 7-15 - MBTiles.zip) (534MB)
+* [BCNav, Hebrew](https://storage.googleapis.com/atgardner/INT - Israel Hiking Map - 7-15 - BCNav.zip) (533MB)
+* [Orux, Hebrew](https://storage.googleapis.com/atgardner/INT - Israel Hiking Map - 7-15 - MBTiles.zip) (533MB)
 
 A detailed walk-through on how to use these files with [Backcountry Navigator] or [Orux Maps] can be found [here].
 
@@ -69,6 +56,10 @@ Share and enjoy!
 [Israel Hiking Map]: http://israelhiking.osm.org.il/
 [this]: http://osmexport.azurewebsites.net/osm2gpx?relationId=282071
 [simple app]: https://github.com/ATGardner/OSMExport
+[BCNav, English]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20en%20-%207-15%20-%20BCNav.zip
+[Orux, English]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20en%20-%207-15%20-%20MBTiles.zip
+[BCNav, Hebrew]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%20-%207-15%20-%20BCNav.zip
+[Orux, Hebrew]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%20-%207-15%20-%20MBTiles.zip
 [Backcountry Navigator]: http://backcountrynavigator.com/
 [Orux Maps]: http://www.oruxmaps.com/index_en.html
-[here]: http://pct14.blogspot.co.il/p/offline-maps.html
+[here]: {{ site.baseurl }}{% link pages/offline-maps.markdown %}

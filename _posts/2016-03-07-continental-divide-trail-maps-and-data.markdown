@@ -23,14 +23,9 @@ I have been playing around with CDT data over the weekend, and figured out I'd s
 
 I had used several sources for my files -
 
- <ul>
- <li>[Bear Creek Survey] 2016 GPX files
- </li>
- <li>[Jonathan Ley 2014] GPX files
- </li>
- <li>[Continental Divide Trail Coalition Interactive Map] KML file (Which includes water sources and trailheads layers from BCS)
- </li>
- </ul>
+* [Bear Creek Survey] 2016 GPX files
+* [Jonathan Ley 2014] GPX files
+* [Continental Divide Trail Coalition Interactive Map] KML file (Which includes water sources and trailheads layers from BCS)
 
 I have imported all the data into [Google Earth] KML format, cleaned it up (removed Timestamp data, fixed some line styles), and split it all up to separate files for each state/layer/source. I then made some compilation files.
 
@@ -44,11 +39,12 @@ I have also used my [Offline Map File Generator] (OMFG) to generate offline map 
 
 This map shows the trail layer (with alternates), using the same map tile data I used for creating the offline files, so you can zoom in and out, and see what you will get on your Android phone. The main difference is that the offline files contain only the trail corridor, to keep the file size manageable.
 
-### Disclaimer
+#### Disclaimer
 
 All the data was used "as-is", and I do not take responsibility for its correctness. Please use your judgment when navigating along the trail (or anywhere else). Any errors or omissions I made in the process of compiling the files are my own. The "Water Report" layer from the CDTC source is not updated, so do not count on the reports found there while hiking the trail. Visit the [Water Report] page for up-to-date information.
 
-### Here are the files:
+#### Here are the files:
+
 [BCNav] (842MB)
 [Orux] (877MB)
 
@@ -72,4 +68,4 @@ Share and enjoy!
 [Water Report]: http://continentaldividetrail.org/water-report/
 [BCNav]: https://storage.googleapis.com/atgardner/CDT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20BCNav.zip
 [Orux]: https://storage.googleapis.com/atgardner/CDT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20MBTiles.zip
-[here]: http://pct14.blogspot.co.il/p/offline-maps.html
+[here]: {{ site.baseurl }}{% link pages/offline-maps.markdown %}

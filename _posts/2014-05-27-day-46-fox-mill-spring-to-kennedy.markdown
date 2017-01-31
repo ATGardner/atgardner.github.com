@@ -10,10 +10,7 @@ thumbnail: http://4.bp.blogspot.com/-TEM1PJlCA9A/VZJz7Ivzy0I/AAAAAAAFhU0/PBstY4u
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-715684780098175289
 blogger_orig_url: http://pct14.blogspot.com/2014/05/day-46-fox-mill-spring-to-kennedy.html
 ---
-Today was a good day.
-
-I slept well during the night, and we managed to pack up quickly and head out early at 7:15. We had a long climb to start our day, but we were done with it fast enough, and started the long long
- descent to Manter Creek. The trail just went down and down along the ridge, and every time we turned a corner, there was more descending trail ahead of us. It took forever. And the day started getting really hot. Finally, we reached the creek at about 11:00, and ate some snacks. The water didn't seem too good, so I filled up 1 liter, and didn't bother to filter it. I figured I'd carry it just in case I'd run out of water, and only filter it then.
+Today was a good day - I slept well during the night, and we managed to pack up quickly and head out early at 7:15. We had a long climb to start our day, but we were done with it fast enough, and started the long long descent to Manter Creek. The trail just went down and down along the ridge, and every time we turned a corner, there was more descending trail ahead of us. It took forever. And the day started getting really hot. Finally, we reached the creek at about 11:00, and ate some snacks. The water didn't seem too good, so I filled up 1 liter, and didn't bother to filter it. I figured I'd carry it just in case I'd run out of water, and only filter it then.
 
 {% include image.html src="http://4.bp.blogspot.com/-TEM1PJlCA9A/VZJz7Ivzy0I/AAAAAAAFhU0/PBstY4uGfZ0/s1600/2014-05-27%2B12.18.11.jpg" caption="This rattler started rattling away right when Idan passed it, and I was behind. We both jumped instantly." %}
 

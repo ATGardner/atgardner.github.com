@@ -11,11 +11,9 @@ thumbnail: http://4.bp.blogspot.com/-42_BRuHyUXQ/VL3ux8mn2lI/AAAAAAAFYQI/16_nRK4
 blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-8707958323505077847
 blogger_orig_url: http://pct14.blogspot.com/2014/06/days-80-2nd-zero-day-in-south-lake-tahoe.html
 ---
+Today I failed to replace my crappy smartphone battery - I took the bus over to Tech Tahoe. I should have called earlier, but we left our room before they were supposed to open, so I figured I'll just get there and hope for the best. Big mistake. At first, I got off at the wrong station, and had to walk another mile. No biggy. Then, the store was closed. There was a number to reach them, on the door. I called and got to a voice mail. Then my battery died (I Told you it was crappy), and I waited there for another hour before giving up.
+
 {% include image.html src="http://4.bp.blogspot.com/-42_BRuHyUXQ/VL3ux8mn2lI/AAAAAAAFYQI/16_nRK411sk/s1600/2014-06-30%2B16.25.54.jpg" caption="The letters we got from a Helen's class." %}
-
-Today I failed to replace my crappy smartphone battery.
-
-I took the bus over to Tech Tahoe. I should have called earlier, but we left our room before they were supposed to open, so I figured I'll just get there and hope for the best. Big mistake. At first, I got off at the wrong station, and had to walk another mile. No biggy. Then, the store was closed. There was a number to reach them, on the door. I called and got to a voice mail. Then my battery died (I Told you it was crappy), and I waited there for another hour before giving up.
 
 I went over to the Radio Shack, but they didn't know anything about replacing Nexus 4 batteries. I did buy a decent new pair of earphones, and a new charging cable for my phone. So that's good.
 

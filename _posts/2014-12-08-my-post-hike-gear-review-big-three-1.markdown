@@ -26,7 +26,7 @@ I think it's about time I'd post some of my thoughts about the gear I used on th
 
 Without further ado, here is my gear review:
 
-####Backpack - [ZPacks Arc Blast 60L]
+#### Backpack - [ZPacks Arc Blast 60L]
 
 {% include image.html src="http://3.bp.blogspot.com/-Z1keH0IyGxE/VIaYIqgycnI/AAAAAAAE8JI/ghEejgOcynY/s1600/2014-09-03%2B11.24.27.jpg" caption="Enjoying the view towards what should have been Alta Mountain." %}
 
@@ -44,7 +44,7 @@ The medium size belt I got was a bit too big for me, especially after losing 35 
 
 All in all, I am very pleased with the pack. At the end of the trail it still performed well, and showed just minor wear. I have sent it back to ZPacks, and they repaired everything free of charge, and sent it back to me. Great customer service.
 
-####Sleeping Bag - [ZPacks]
+#### Sleeping Bag - [ZPacks]
 
 I bought the 20 degrees quilt option, with only adjustable straps at the bottom (no zippers). I was a bit cold at the beginning of the trail, but it was mostly because of my sleeping mat (more on that later...). I also got the 850 fill water resistant down (I see they offer it in 900 fill now). I am not sure how much it would have helped in a crisis, but I just kept it packed inside its Cuben Fiber stuff sack, and it remained dry during my entire hike.
 
@@ -52,7 +52,7 @@ On the first few days, I could feel the heat escape through my head. I started s
 
 I tried using the straps both directly under me (and over the sleeping mat), and also around the sleeping mat itself. The quilt was way too tight when wrapped around the mat, and it also felt less warm that way. At the end, during the cold nights I had in Washington, I just closed the quilt tightly around me, and it worked out fine and kept me warm.
 
-####Tent - [Tarptent Rainbow]
+#### Tent - [Tarptent Rainbow]
 
 My tent is a bit old (Bought around 2008), so it is a tiny bit different from the newer Rainbow model. But it's basically the same.
 
@@ -72,7 +72,7 @@ Many people worry about condensation inside tents, especially in single-walled t
 
 In conclusion, it was a great tent, and I was very happy with it. I highly recommend it.
 
-####Sleeping Mat - [Therm-a-Rest Neo-Air X-Lite small/reg]
+#### Sleeping Mat - [Therm-a-Rest Neo-Air X-Lite small/reg]
 
 I started my hike with an older Neo-Air, size small. I bought the small one because I used a small inflatable foam mattress back on the AT, and it worked well for me back then. But the Neo-Air was not as good this time.
 
@@ -86,7 +86,7 @@ Regarding the comfort level of the Neo-Air - it's awesome. I twist and turn thro
 
 Many people complain about the rustling noise these mattresses make. It never bothered me. Not the noise coming out of my own mattress, nor the ones from nearby hikers (And many others do use the Neo-Air).
 
-[My complete gear list]: http://pct14.blogspot.co.il/p/blog-page.html
+[My complete gear list]: {{ site.baseurl }}{% link pages/gear-list.html %}
 [ZPacks Arc Blast 60L]: http://zpacks.com/backpacks/arc_blast.shtml
 [BearVault 500]: http://www.bearvault.com/bearvault_details.php
 [ZPacks]: http://zpacks.com/quilts/sleepingbag.shtml
