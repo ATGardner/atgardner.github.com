@@ -88,7 +88,7 @@
         -11759216.929447813,
         6282807.977100443
       ],
-      "path": "/assets/trails/CDT.kml",
+      "path": "/assets/trails_data/CDT.kml",
       "omfg": [
         {
           "type": "BCNav",
@@ -110,7 +110,7 @@
         3951488.6142304717,
         3780040.3597868215
       ],
-      "path": "/assets/trails/INT.gpx",
+      "path": "/assets/trails_data/INT.gpx",
       "omfg": [
         {
           "type": "BCNav",
@@ -140,7 +140,7 @@
         "Zoom",
         "ZoomSlider"
       ],
-      "path": "/assets/trails/TeAraroaTrail_asTrack.gpx",
+      "path": "/assets/trails_data/TeAraroaTrail_asTrack.gpx",
       "omfg": [
         {
           "type": "BCNav",
