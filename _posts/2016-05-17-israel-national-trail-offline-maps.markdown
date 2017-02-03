@@ -29,8 +29,6 @@ I have created an offline map file along the trail, using data from [OpenStreetM
 
 <div id="map-int"></div>
 
-This map sample displays Hebrew labels, and is here to show you the quality of the map before downloading. There is an English version of that map available to download at the end of this post.
-
 You can get an updated gpx file of the entire trail using [this] link. This uses a [simple app] I wrote that exports an OSM relation to a gpx file directly from their servers. That link uses relationId 282071, which is the Id of the INT, but you can substitute it with any other relationId you might be interested in, if you want to download an updated gpx of some other trail.
 
 #### Disclaimer
