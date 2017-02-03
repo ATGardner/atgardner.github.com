@@ -64,7 +64,7 @@ var trails =
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 6);
+/******/ 	return __webpack_require__(__webpack_require__.s = 7);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -17267,146 +17267,147 @@ module.exports = function(module) {
 module.exports = ol;
 
 /***/ }),
-/* 6 */
+/* 6 */,
+/* 7 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
 Object.defineProperty(exports, "__esModule", {
-    value: true
+  value: true
 });
 
 var getTrailData = function () {
-    var _ref = _asyncToGenerator(regeneratorRuntime.mark(function _callee() {
-        return regeneratorRuntime.wrap(function _callee$(_context) {
-            while (1) {
-                switch (_context.prev = _context.next) {
-                    case 0:
-                        _context.next = 2;
-                        return fetch('/assets/trails/data.json');
+  var _ref = _asyncToGenerator(regeneratorRuntime.mark(function _callee() {
+    return regeneratorRuntime.wrap(function _callee$(_context) {
+      while (1) {
+        switch (_context.prev = _context.next) {
+          case 0:
+            _context.next = 2;
+            return fetch('/assets/trails_data/data.json');
 
-                    case 2:
-                        trails = _context.sent;
-                        _context.next = 5;
-                        return trails.json();
+          case 2:
+            trails = _context.sent;
+            _context.next = 5;
+            return trails.json();
 
-                    case 5:
-                        return _context.abrupt('return', _context.sent);
+          case 5:
+            return _context.abrupt('return', _context.sent);
 
-                    case 6:
-                    case 'end':
-                        return _context.stop();
-                }
-            }
-        }, _callee, this);
-    }));
+          case 6:
+          case 'end':
+            return _context.stop();
+        }
+      }
+    }, _callee, this);
+  }));
 
-    return function getTrailData() {
-        return _ref.apply(this, arguments);
-    };
+  return function getTrailData() {
+    return _ref.apply(this, arguments);
+  };
 }();
 
 var getTrailConfig = function () {
-    var _ref2 = _asyncToGenerator(regeneratorRuntime.mark(function _callee2(trailName) {
-        var trails, trail, layers, pathClass, format, pathLayer;
-        return regeneratorRuntime.wrap(function _callee2$(_context2) {
-            while (1) {
-                switch (_context2.prev = _context2.next) {
-                    case 0:
-                        _context2.next = 2;
-                        return getTrailData();
+  var _ref2 = _asyncToGenerator(regeneratorRuntime.mark(function _callee2(trailName) {
+    var trails, trail, layers, pathClass, format, pathLayer;
+    return regeneratorRuntime.wrap(function _callee2$(_context2) {
+      while (1) {
+        switch (_context2.prev = _context2.next) {
+          case 0:
+            _context2.next = 2;
+            return getTrailData();
 
-                    case 2:
-                        trails = _context2.sent;
-                        trail = trails.trails[trailName], layers = trails.layers;
+          case 2:
+            trails = _context2.sent;
+            trail = trails.trails[trailName], layers = trails.layers;
 
-                        trail.layers = trail.layers.map(function (l) {
-                            var layer = Object.assign({}, layers[l], LAYER_DEFAULTS);
-                            layer.source = Object.assign({}, layer.source, SOURCE_DEFAULTS);
-                            return layer;
-                        });
-                        pathClass = trail.path.split('.').pop().toUpperCase();
-                        format = 'format.' + pathClass;
-                        pathLayer = {
-                            olClass: 'layer.Vector',
-                            type: 'overlay',
-                            source: Object.assign({
-                                olClass: 'source.Vector',
-                                url: trail.path,
-                                format: {
-                                    olClass: format
-                                }
-                            }, SOURCE_DEFAULTS)
-                        };
-
-                        if (pathClass === 'GPX') {
-                            pathLayer.style = {
-                                olClass: 'style.Style',
-                                stroke: {
-                                    olClass: 'style.Stroke',
-                                    color: 'red',
-                                    width: 1
-                                }
-                            };
-                        }
-
-                        trail.layers.push(pathLayer);
-                        trail.view = Object.assign({}, trail.view, VIEW_DEFAULTS);
-                        return _context2.abrupt('return', Object.assign({}, trail, MAP_DEFAULTS));
-
-                    case 12:
-                    case 'end':
-                        return _context2.stop();
+            trail.layers = trail.layers.map(function (l) {
+              var layer = Object.assign({}, layers[l], LAYER_DEFAULTS);
+              layer.source = Object.assign({}, layer.source, SOURCE_DEFAULTS);
+              return layer;
+            });
+            pathClass = trail.path.split('.').pop().toUpperCase();
+            format = 'format.' + pathClass;
+            pathLayer = {
+              olClass: 'layer.Vector',
+              type: 'overlay',
+              source: Object.assign({
+                olClass: 'source.Vector',
+                url: trail.path,
+                format: {
+                  olClass: format
                 }
-            }
-        }, _callee2, this);
-    }));
+              }, SOURCE_DEFAULTS)
+            };
 
-    return function getTrailConfig(_x) {
-        return _ref2.apply(this, arguments);
-    };
+            if (pathClass === 'GPX') {
+              pathLayer.style = {
+                olClass: 'style.Style',
+                stroke: {
+                  olClass: 'style.Stroke',
+                  color: 'red',
+                  width: 1
+                }
+              };
+            }
+
+            trail.layers.push(pathLayer);
+            trail.view = Object.assign({}, trail.view, VIEW_DEFAULTS);
+            return _context2.abrupt('return', Object.assign({}, trail, MAP_DEFAULTS));
+
+          case 12:
+          case 'end':
+            return _context2.stop();
+        }
+      }
+    }, _callee2, this);
+  }));
+
+  return function getTrailConfig(_x) {
+    return _ref2.apply(this, arguments);
+  };
 }();
 
 var loadMapAsync = function () {
-    var _ref3 = _asyncToGenerator(regeneratorRuntime.mark(function _callee3(trailName, targetId) {
-        var config, map, view;
-        return regeneratorRuntime.wrap(function _callee3$(_context3) {
-            while (1) {
-                switch (_context3.prev = _context3.next) {
-                    case 0:
-                        _context3.prev = 0;
-                        _context3.next = 3;
-                        return getTrailConfig(trailName);
+  var _ref3 = _asyncToGenerator(regeneratorRuntime.mark(function _callee3(trailName, targetId) {
+    var config, map, view;
+    return regeneratorRuntime.wrap(function _callee3$(_context3) {
+      while (1) {
+        switch (_context3.prev = _context3.next) {
+          case 0:
+            _context3.prev = 0;
+            _context3.next = 3;
+            return getTrailConfig(trailName);
 
-                    case 3:
-                        config = _context3.sent;
+          case 3:
+            config = _context3.sent;
 
-                        config.target = targetId;
-                        map = (0, _olWrapper.createOlObject)(config);
-                        view = map.getView();
+            config.target = targetId;
+            map = (0, _olWrapper.createOlObject)(config);
+            view = map.getView();
 
-                        view.fit(config.fit, map.getSize());
-                        _context3.next = 13;
-                        break;
+            view.fit(config.fit, map.getSize());
+            _context3.next = 13;
+            break;
 
-                    case 10:
-                        _context3.prev = 10;
-                        _context3.t0 = _context3['catch'](0);
+          case 10:
+            _context3.prev = 10;
+            _context3.t0 = _context3['catch'](0);
 
-                        console.error('Failed loading map', _context3.t0);
+            console.error('Failed loading map', _context3.t0);
 
-                    case 13:
-                    case 'end':
-                        return _context3.stop();
-                }
-            }
-        }, _callee3, this, [[0, 10]]);
-    }));
+          case 13:
+          case 'end':
+            return _context3.stop();
+        }
+      }
+    }, _callee3, this, [[0, 10]]);
+  }));
 
-    return function loadMapAsync(_x2, _x3) {
-        return _ref3.apply(this, arguments);
-    };
+  return function loadMapAsync(_x2, _x3) {
+    return _ref3.apply(this, arguments);
+  };
 }();
 
 exports.loadMap = loadMap;
@@ -17416,38 +17417,37 @@ var _olWrapper = __webpack_require__(0);
 function _asyncToGenerator(fn) { return function () { var gen = fn.apply(this, arguments); return new Promise(function (resolve, reject) { function step(key, arg) { try { var info = gen[key](arg); var value = info.value; } catch (error) { reject(error); return; } if (info.done) { resolve(value); } else { return Promise.resolve(value).then(function (value) { step("next", value); }, function (err) { step("throw", err); }); } } return step("next"); }); }; }
 
 var MAP_DEFAULTS = {
-    controls: [{
-        olClass: 'control.Attribution'
-    }, {
-        olClass: 'control.ScaleLine'
-    }, {
-        olClass: 'control.Zoom'
-    }, {
-        olClass: 'control.ZoomSlider'
-    }],
-    loadTilesWhileAnimating: true,
-    loadTilesWhileInteracting: true
+  controls: [{
+    olClass: 'control.Attribution'
+  }, {
+    olClass: 'control.ScaleLine'
+  }, {
+    olClass: 'control.Zoom'
+  }, {
+    olClass: 'control.ZoomSlider'
+  }],
+  loadTilesWhileAnimating: true,
+  loadTilesWhileInteracting: true
 };
 var LAYER_DEFAULTS = {
-    preload: 7,
-
-    // for VectorLayer
-    updateWhileAnimating: true,
-    updateWhileInteracting: true
+  preload: 7,
+  // for VectorLayer
+  updateWhileAnimating: true,
+  updateWhileInteracting: true
 };
 var VIEW_DEFAULTS = {
-    olClass: 'View',
-    maxZoom: 15,
-    zoom: 5
+  olClass: 'View',
+  maxZoom: 15,
+  zoom: 5
 };
 var SOURCE_DEFAULTS = {
-    maxZoom: 15
+  maxZoom: 15
 };
 
 function loadMap(trailName, targetId) {
-    document.addEventListener('DOMContentLoaded', function () {
-        return loadMapAsync(trailName, targetId);
-    });
+  document.addEventListener('DOMContentLoaded', function () {
+    return loadMapAsync(trailName, targetId);
+  });
 }
 
 /***/ })

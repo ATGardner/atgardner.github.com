@@ -1,29 +1,29 @@
 module.exports = {
-    entry: {
-        trails: './src/trails.js'
-    },
-    output: {
-        path: './jekyll/assets/trails',
-        filename: '[name].bundle.js',
-        library: 'trails'
-    },
-    devtool: 'source-map',
-    target: 'web',
-    bail: true,
-    watch: false,
-    externals: {
-        openlayers: 'ol'
-    },
-    module: {
-        rules: [
-            {
-                test: /\.js$/,
-                exclude: /node_modules/,
-                loader: 'babel-loader',
-                options: {
-                    presets: ['latest'],
-                }
-            }
-        ]
-    }
-}
+  entry: {
+    trails: './src/trails.js'
+  },
+  output: {
+    path: './assets',
+    filename: '[name].bundle.js',
+    library: '[name]'
+  },
+  devtool: 'source-map',
+  target: 'web',
+  bail: true,
+  watch: false,
+  externals: {
+    openlayers: 'ol'
+  },
+  module: {
+    rules: [
+      {
+        test: /\.js$/,
+        exclude: /node_modules/,
+        loader: 'babel-loader',
+        options: {
+          presets: ['latest']
+        }
+      }
+    ]
+  }
+};
