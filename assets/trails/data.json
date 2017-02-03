@@ -4,7 +4,7 @@
       "olClass": "layer.Tile",
       "source": {
         "olClass": "source.XYZ",
-        "url": "http://osm.org.il/IsraelHiking/Tiles/{z}/{x}/{y}.png",
+        "url": "http://israelhiking.osm.org.il/English/Tiles/{z}/{x}/{y}.png",
         "attributions": [
           "Data © <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap contributors</a>"
         ],
