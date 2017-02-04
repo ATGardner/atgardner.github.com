@@ -1,5 +1,6 @@
 module.exports = {
   entry: {
+    redirect: './src/redirect.js',
     trails: './src/trails.js'
   },
   output: {
