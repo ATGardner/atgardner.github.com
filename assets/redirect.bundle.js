@@ -79,12 +79,14 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.redirect = redirect;
-function redirect(timestamp) {
+function redirect(pageType, timestamp) {
   var newPathname = '/';
   var _window = window,
       pathname = _window.location.pathname;
 
-  if (/\/\d{4}\/\d{2}\/.*/.test(pathname)) {
+  if (pageType === 'static_page') {
+    newPathname = pathname.replace(/\/p\//, '/pages/');
+  } else if (/\/\d{4}\/\d{2}\/.*/.test(pathname)) {
     var published = new Date(timestamp);
     var date = published.getDate();
     if (date < 10) {
