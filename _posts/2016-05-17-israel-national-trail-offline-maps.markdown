@@ -27,11 +27,11 @@ A great source of information about the INT can be found in its Wiki page. There
 
 Unlike long trails in the US, there are no fixed water caches in the desert part of the trail, so be sure to understand that the "Water Cache" entries in the Water Sources list are only popular suggestions for places that people normally use for their own water caches. They do not contain any publicly available water, and caching water there would take time and/or money. It is possible to hike the trail without any caches, but it will require some detours to nearby settlements, and some 2-day water carries. Please do not go into the desert section without considering the options, and knowing what you are going into.
 
-I have created an offline map file along the trail, using data from [OpenStreetMaps] (OSM), and the Hiking Map Rules of the [Israel Hiking Map]. I changed the rendering rules to use the English place name labels (where available), so that the map will be more useful for hikers from abroad.
+I have created an offline map file along the trail, using data from [OpenStreetMaps] (OSM), and the Hiking Map Rules of the [Israel Hiking Map].
 
 <div id="map-int"></div>
 
-You can get an updated gpx file of the entire trail using [this] link. This uses a [simple app] I wrote that exports an OSM relation to a gpx file directly from their servers. That link uses relationId 282071, which is the Id of the INT, but you can substitute it with any other relationId you might be interested in, if you want to download an updated gpx of some other trail.
+You can get an updated gpx file of the entire trail using [this][INTOsmExport] link. This uses a [simple app][OSMExport] I wrote that exports an OSM relation to a gpx file directly from their servers. That link uses relationId 282071, which is the Id of the INT, but you can substitute it with any other relationId you might be interested in, if you want to download an updated gpx of some other trail.
 
 #### Disclaimer
 
@@ -47,7 +47,7 @@ All the data was used "as-is", and I do not take responsibility for its correctn
 * [BCNav, Hebrew] (5543MB)
 * [Orux, Hebrew] (554MB)
 
-A detailed walk-through on how to use these files with [Backcountry Navigator] or [Orux Maps] can be found [here].
+A detailed walk-through on how to use these files with [Backcountry Navigator] or [Orux Maps] can be found [here][offline-maps].
 
 Share and enjoy!
 
@@ -57,12 +57,12 @@ Share and enjoy!
 [Israel National Trail Forum]: http://israeltrail.myfastforum.org/
 [OpenStreetMaps]: http://www.openstreetmap.org/
 [Israel Hiking Map]: http://israelhiking.osm.org.il/
-[this]: http://osmexport.azurewebsites.net/osm2gpx?relationId=282071
-[simple app]: https://github.com/ATGardner/OSMExport
+[INTOsmExport]: http://osmexport.azurewebsites.net/osm2gpx?relationId=282071
+[OSMExport]: https://github.com/ATGardner/OSMExport
 [BCNav, English]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20EN%20-%207-15%20-%20BCNav.zip
 [Orux, English]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20EN%20-%207-15%20-%20MBTiles.zip
 [BCNav, Hebrew]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%20-%207-15%20-%20BCNav.zip
 [Orux, Hebrew]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%20-%207-15%20-%20MBTiles.zip
 [Backcountry Navigator]: http://backcountrynavigator.com/
 [Orux Maps]: http://www.oruxmaps.com/index_en.html
-[here]: {{ site.baseurl }}{% link pages/offline-maps.markdown %}
+[offline-maps]: {{ site.baseurl }}{% link pages/offline-maps.markdown %}

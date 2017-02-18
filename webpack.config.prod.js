@@ -1,7 +1,9 @@
+const webpack = require('webpack');
+
 module.exports = {
   entry: {
     redirect: './src/redirect.js',
-    trails: './src/trails.js'
+    trails: ['whatwg-fetch', 'babel-polyfill', './src/trails.js']
   },
   output: {
     path: './assets',
@@ -13,8 +15,10 @@ module.exports = {
   bail: true,
   watch: false,
   externals: {
-    openlayers: 'ol'
+    openlayers: 'ol',
+    ol: 'ol'
   },
+  plugins: [new webpack.optimize.UglifyJsPlugin()],
   module: {
     rules: [
       {
