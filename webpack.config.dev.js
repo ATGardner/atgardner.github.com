@@ -1,7 +1,7 @@
 module.exports = {
   entry: {
     redirect: './src/redirect.js',
-    trails: './src/trails.js'
+    trails: ['whatwg-fetch', 'babel-polyfill', './src/trails.js']
   },
   output: {
     path: './assets',
