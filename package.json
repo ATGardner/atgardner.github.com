@@ -6,7 +6,10 @@
   "scripts": {
     "start": "webpack --config webpack.config.dev.js",
     "build": "webpack --config webpack.config.prod.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "npm run lint:js && npm run lint:md && npm run lint:scss",
+    "lint:js": "eslint --fix src/**/*.js",
+    "lint:md": "prettier --write pages/**/*.markdown",
+    "lint:scss": "prettier --write src/**/*.scss"
   },
   "repository": {
     "type": "git",
@@ -20,11 +23,28 @@
   "homepage": "https://github.com/ATGardner/atgardner.github.com#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
+    "babel-eslint": "^8.1.2",
     "babel-loader": "^7.1.2",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
-    "ol-wrapper": "^0.6.0",
-    "webpack": "^3.8.1",
+    "eslint": "^4.14.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-prettier": "^2.4.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "ol-wrapper": "^0.7.2",
+    "prettier": "^1.9.2",
+    "remark-cli": "^4.0.0",
+    "remark-preset-lint-recommended": "^3.0.1",
+    "webpack": "^3.10.0",
     "whatwg-fetch": "^2.0.2"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-recommended"
+    ]
   }
 }
