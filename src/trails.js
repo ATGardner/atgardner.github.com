@@ -1,52 +1,57 @@
-import { createOlObject } from 'ol-wrapper';
+/** @format */
+
+import {createOlObject} from 'ol-wrapper';
 
 const MAP_DEFAULTS = {
   controls: [
     {
-      olClass: 'control.Attribution'
+      olClass: 'control.Attribution',
     },
     {
-      olClass: 'control.ScaleLine'
+      olClass: 'control.ScaleLine',
     },
     {
-      olClass: 'control.Zoom'
+      olClass: 'control.Zoom',
     },
     {
-      olClass: 'control.ZoomSlider'
-    }
+      olClass: 'control.ZoomSlider',
+    },
   ],
   loadTilesWhileAnimating: true,
-  loadTilesWhileInteracting: true
+  loadTilesWhileInteracting: true,
 };
 const LAYER_DEFAULTS = {
   preload: 7,
-  // for VectorLayer
+  // For VectorLayer
   updateWhileAnimating: true,
-  updateWhileInteracting: true
+  updateWhileInteracting: true,
 };
 const VIEW_DEFAULTS = {
   olClass: 'View',
   maxZoom: 15,
-  zoom: 5
+  zoom: 5,
 };
 const SOURCE_DEFAULTS = {
-  maxZoom: 15
+  maxZoom: 15,
 };
 
 async function getTrailData() {
-  trails = await fetch('/assets/trails_data/data.json');
-  return await trails.json();
+  const trails = await fetch('/assets/trails_data/data.json');
+  return trails.json();
 }
 
 async function getTrailConfig(trailName) {
   const trails = await getTrailData();
-  const { trails: { [trailName]: trail }, layers } = trails;
+  const {trails: {[trailName]: trail}, layers} = trails;
   trail.layers = trail.layers.map(l => {
     const layer = Object.assign({}, layers[l], LAYER_DEFAULTS);
     layer.source = Object.assign({}, layer.source, SOURCE_DEFAULTS);
     return layer;
   });
-  const pathClass = trail.path.split('.').pop().toUpperCase();
+  const pathClass = trail.path
+    .split('.')
+    .pop()
+    .toUpperCase();
   const format = `format.${pathClass}`;
   const pathLayer = {
     olClass: 'layer.Vector',
@@ -56,11 +61,11 @@ async function getTrailConfig(trailName) {
         olClass: 'source.Vector',
         url: trail.path,
         format: {
-          olClass: format
-        }
+          olClass: format,
+        },
       },
-      SOURCE_DEFAULTS
-    )
+      SOURCE_DEFAULTS,
+    ),
   };
   if (pathClass === 'GPX') {
     pathLayer.style = {
@@ -68,8 +73,8 @@ async function getTrailConfig(trailName) {
       stroke: {
         olClass: 'style.Stroke',
         color: 'red',
-        width: 1
-      }
+        width: 1,
+      },
     };
   }
 
@@ -86,11 +91,13 @@ async function loadMapAsync(trailName, targetId) {
     const view = map.getView();
     view.fit(config.fit, map.getSize());
   } catch (e) {
+    // eslint-disable-next-line no-console
     console.error('Failed loading map', e);
   }
 }
 
 export function loadMap(trailName, targetId) {
   document.addEventListener('DOMContentLoaded', () =>
-    loadMapAsync(trailName, targetId));
+    loadMapAsync(trailName, targetId),
+  );
 }
