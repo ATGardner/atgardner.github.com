@@ -3,6 +3,7 @@ layout: page
 title: Links
 weight: 6
 ---
+
 Here are some links I have collected regarding the PCT:
 
 * [Pacific Crest Trail Association] - The official PCTA site, filled with up to date information about trail changes, news relating the trail, and data for section and upcoming thru-hikers. Specifically, the page about needed [permits] is a must for everyone who hopes to make it all the way up to Canada.
@@ -15,9 +16,9 @@ Here are some links I have collected regarding the PCT:
 
 * [Yogi's Guides] - Sells guidebooks for the PCT (As well as the CDT and the Colorado Trail). The PCT Handbook is very informative, and very good for planning your hike.
 
-[Pacific Crest Trail Association]: http://www.pcta.org/
+[pacific crest trail association]: http://www.pcta.org/
 [permits]: http://www.pcta.org/discover-the-trail/permits/
-[Craig's PCT Planner]: http://www.pctplanner.com/
-[Halfmile's Pacific Crest Trail Map]: http://www.pctmap.net/
-[PostHoler]: http://postholer.com/
-[Yogi's Guides]: http://www.yogisbooks.com/
+[craig's pct planner]: http://www.pctplanner.com/
+[halfmile's pacific crest trail map]: http://www.pctmap.net/
+[postholer]: http://postholer.com/
+[yogi's guides]: http://www.yogisbooks.com/
