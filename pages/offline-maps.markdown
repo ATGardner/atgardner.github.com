@@ -4,7 +4,7 @@ title: Offline Maps
 weight: 5
 ---
 
-I have big plans on creating a nice web service that allows anyone to create an offline map file for any trail of his choosing. Since I am a terrible procrastinator (or a great one), I decided to start by creating some value, instead of planning too big. So here are some map files I already created, for your pleasure:
+I have big plans to create a nice web service that allows anyone to download an offline map file for any trail of his or her choosing. Since I am a terrible procrastinator (or a great one), I decided to start by adding some value, instead of planning too big. So here are some map files I already made, for your pleasure:
 
 | Trail                                  | Size (MB) |       Tile Source        |             BCNav             |            Orux Maps            | Updated  |
 | -------------------------------------- | :-------: | :----------------------: | :---------------------------: | :-----------------------------: | :------: |
