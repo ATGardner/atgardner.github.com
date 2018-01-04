@@ -6,20 +6,22 @@ weight: 5
 
 I have big plans to create a nice web service that allows anyone to download an offline map file for any trail of his or her choosing. Since I am a terrible procrastinator (or a great one), I decided to start by adding some value, instead of planning too big. So here are some map files I already made, for your pleasure:
 
-| Trail                                  | Size (MB) |       Tile Source        |             BCNav             |            Orux Maps            | Updated  |
-| -------------------------------------- | :-------: | :----------------------: | :---------------------------: | :-----------------------------: | :------: |
-| [Appalachian Trail][at]                |    661    | [USA Topo Maps][ustopo]  |       [link][at-bcnav]        |       [link][at-mbtiles]        | 02-13-17 |
-| [Continental Divide Trail][cdt]        |    877    | [USA Topo Maps][ustopo]  |                               |       [link][cdt-mbtiles]       | 02-13-17 |
-| [Colorado Trail][ct]                   |    754    |  [MapBuilder Topo][mbt]  | [link][colorado-trail-bcnav]  | [link][colorado-trail-mbtiles]  | 09-05-17 |
-| [Colorado Trail][ct]                   |    174    | [USA Topo Maps][ustopo]  | [link][colorado-trail-bcnav2] | [link][colorado-trail-mbtiles2] | 06-16-17 |
-| [Israel National Trail][int] (Hebrew)  |    554    | [Israel Hiking Map][ihm] |     [link][int-bcnav-he]      |     [link][int-mbtiles-he]      | 02-13-17 |
-| [Israel National Trail][int] (English) |    554    | [Israel Hiking Map][ihm] |     [link][int-bcnav-en]      |     [link][int-mbtiles-en]      | 02-13-17 |
-| [John Muir Trail][jmt]                 |    765    |  [MapBuilder Topo][mbt]  |       [link][jmt-bcnav]       |                                 | 02-13-17 |
-| [Pacific Crest Trail][pct]             |    534    |  [MapBuilder Topo][mbt]  |       [link][pct-bcnav]       |        [link][pct-orux]         | 08-02-17 |
-| [Pacific Crest Trail][pct]             |    991    | [USA Topo Maps][ustopo]  |      [link][pct-bcnav2]       |                                 | 02-13-17 |
-| [Te Araroa][ta]                        |    724    | [Land Information][linz] |       [link][ta-bcnav]        |         [link][ta-orux]         | 10-25-17 |
-| [Tour du Mont Blanc][tmb]              |    153    | [Maperitive][maperitive] |       [link][tmb-bcnav]       |        [link][tmb-orux]         | 06-16-17 |
-| [Walker's Haute Route][whr]            |    269    | [Maperitive][maperitive] |       [link][whr-bcnav]       |        [link][whr-orux]         | 02-13-17 |
+| Trail                                  | Size (MB) |          Tile Source           |        BCNav         |      Orux Maps      |  Updated   |
+| -------------------------------------- | :-------: | :----------------------------: | :------------------: | :-----------------: | :--------: |
+| [Appalachian Trail][at]                |    259    | [CalTopo Mapbuilder Topo][mbt] |   [link][at-bcnav]   |   [link][at-orux]   | 2018-01-03 |
+| [Arizona Trail][azt]                   |    93     | [CalTopo Mapbuilder Topo][mbt] |  [link][azt-bcnav]   |  [link][azt-orux]   | 2018-01-03 |
+| [Baja Divide Trail][bdt]               |    187    |       [OpenTopoMap][otm]       |  [link][bdt-bcnav]   |  [link][bdt-orux]   | 2018-01-03 |
+| [Colorado Trail][ct]                   |    83     | [CalTopo Mapbuilder Topo][mbt] |   [link][ct-bcnav]   |   [link][ct-orux]   | 2018-01-03 |
+| [Continental Divide Trail][cdt]        |    371    | [CalTopo Mapbuilder Topo][mbt] |  [link][cdt-bcnav]   |  [link][cdt-orux]   | 2018-01-03 |
+| [Hayduke Trail][hdt]                   |    164    | [CalTopo Mapbuilder Topo][mbt] |  [link][hdt-bcnav]   |  [link][hdt-orux]   | 2018-01-03 |
+| [Israel National Trail][int] (English) |    622    |    [Israel Hiking Map][ihm]    | [link][int-bcnav-en] | [link][int-orux-en] | 2018-01-03 |
+| [Israel National Trail][int] (Hebrew)  |    620    |    [Israel Hiking Map][ihm]    | [link][int-bcnav-he] | [link][int-orux-he] | 2018-01-03 |
+| [John Muir Trail][jmt]                 |    31     | [CalTopo Mapbuilder Topo][mbt] |  [link][jmt-bcnav]   |  [link][jmt-orux]   | 2018-01-03 |
+| [Pacific Crest Trail][pct]             |    537    | [CalTopo Mapbuilder Topo][mbt] |  [link][pct-bcnav]   |  [link][pct-orux]   | 2018-01-03 |
+| [Sunshine Coast Trail][sct]            |    17     |       [OpenTopoMap][otm]       |  [link][sct-bcnav]   |  [link][sct-orux]   | 2018-01-03 |
+| [Te Araroa][ta]                        |    711    |    [Land Information][linz]    |   [link][ta-bcnav]   |   [link][ta-orux]   | 2018-01-03 |
+| [Tour du Mont Blanc][tmb]              |    30     |       [OpenTopoMap][otm]       |  [link][tmb-bcnav]   |  [link][tmb-orux]   | 2018-01-03 |
+| [Walker's Haute Route][whr]            |    51     |       [OpenTopoMap][otm]       |  [link][whr-bcnav]   |  [link][whr-orux]   | 2018-01-03 |
 
 Let me know if you want any more trails or tile sources or general help on how to use these map files.
 
@@ -80,39 +82,49 @@ Here is a short walk-through explaining how to use the offline map files with [B
    {% include image.html src="/assets/images/orux 11.png" class="screen-shot" %}
 
 [at]: http://www.appalachiantrail.org/home/explore-the-trail
-[at-bcnav]: https://storage.googleapis.com/atgardner/AT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20BCNav.zip
-[at-mbtiles]: https://storage.googleapis.com/atgardner/AT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20MBTiles.zip
-[cdt]: http://continentaldividetrail.org/cdt-data/
-[cdt-mbtiles]: https://storage.googleapis.com/atgardner/CDT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20MBTiles.zip
+[at-bcnav]: https://storage.googleapis.com/atgardner/Appalachian%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
+[at-orux]: https://storage.googleapis.com/atgardner/Appalachian%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
+[azt]: http://www.aztrail.org/interactive_map.php
+[azt-bcnav]: https://storage.googleapis.com/atgardner/Arizona%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
+[azt-orux]: https://storage.googleapis.com/atgardner/Arizona%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
+[bdt]: https://bajadivide.com/mapping/
+[bdt-bcnav]: https://storage.googleapis.com/atgardner/Baja%20Divide%20Trail%20-%20OpenTopoMap%20-%201-15%20-%20BCNav.zip
+[bdt-orux]: https://storage.googleapis.com/atgardner/Baja%20Divide%20Trail%20-%20OpenTopoMap%20-%201-15%20-%20Orux.zip
 [ct]: http://bearcreeksurvey.com/but_ct_waypoints.htm
-[colorado-trail-bcnav]: https://storage.googleapis.com/atgardner/Colorado%20Trail%20-%20MapBuilder%20-%2010-15.sqlitedb
-[colorado-trail-mbtiles]: https://storage.googleapis.com/atgardner/Colorado%20Trail%20-%20MapBuilder%20-%2010-15.mbtiles
-[colorado-trail-bcnav2]: https://storage.googleapis.com/atgardner/CT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20BCNav.zip
-[colorado-trail-mbtiles2]: https://storage.googleapis.com/atgardner/CT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20MBTiles.zip
+[ct-bcnav]: https://storage.googleapis.com/atgardner/Colorado%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
+[ct-orux]: https://storage.googleapis.com/atgardner/Colorado%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
+[cdt]: http://continentaldividetrail.org/cdt-data/
+[cdt-bcnav]: https://storage.googleapis.com/atgardner/Continental%20Divide%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
+[cdt-orux]: https://storage.googleapis.com/atgardner/Continental%20Divide%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
+[hdt]: http://www.hayduketrail.org/Maps.html
+[hdt-bcnav]: https://storage.googleapis.com/atgardner/Hayduke%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
+[hdt-orux]: https://storage.googleapis.com/atgardner/Hayduke%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
 [int]: https://hiking.waymarkedtrails.org/#route?id=282071
-[int-bcnav-he]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%20-%207-15%20-%20BCNav.zip
-[int-mbtiles-he]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%20-%207-15%20-%20MBTiles.zip
-[int-bcnav-en]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20EN%20-%207-15%20-%20BCNav.zip
-[int-mbtiles-en]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20EN%20-%207-15%20-%20MBTiles.zip
+[int-bcnav-en]: https://storage.googleapis.com/atgardner/Israel%20National%20Trail%20-%20Israel%20Hiking%20Map%2C%20en%20-%207-15%20-%20BCNav.zip
+[int-orux-en]: https://storage.googleapis.com/atgardner/Israel%20National%20Trail%20-%20Israel%20Hiking%20Map%2C%20en%20-%207-15%20-%20Orux.zip
+[int-bcnav-he]: https://storage.googleapis.com/atgardner/Israel%20National%20Trail%20-%20Israel%20Hiking%20Map%2C%20he%20-%207-15%20-%20BCNav.zip
+[int-orux-he]: https://storage.googleapis.com/atgardner/Israel%20National%20Trail%20-%20Israel%20Hiking%20Map%2C%20he%20-%207-15%20-%20Orux.zip
 [jmt]: https://hiking.waymarkedtrails.org/#route?id=1244828
-[jmt-bcnav]: https://storage.googleapis.com/atgardner/John%20Muir%20Trail%20-%20MapBuilder%20Topo%20-%2010-16.sqlitedb
+[jmt-bcnav]: https://storage.googleapis.com/atgardner/John%20Muir%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%201-15%20-%20BCNav.zip
+[jmt-orux]: https://storage.googleapis.com/atgardner/John%20Muir%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%201-15%20-%20Orux.zip
 [pct]: https://www.pctmap.net/google/
-[pct-bcnav]: https://storage.googleapis.com/atgardner/PCT%20-%20MapBuilder%20Topo%20-%205-15%20-%20BCNav.zip
-[pct-orux]: https://storage.googleapis.com/atgardner/PCT%20-%20MapBuilder%20Topo%20-%205-15%20-%20Orux.zip
-[pct-bcnav2]: https://storage.googleapis.com/atgardner/PCT%20-%20USA%20Topo%20Maps%20-%200-15%20-%20BCNav.zip
+[pct-bcnav]: https://storage.googleapis.com/atgardner/Pacific%20Crest%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
+[pct-orux]: https://storage.googleapis.com/atgardner/Pacific%20Crest%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
+[sct]: https://hiking.waymarkedtrails.org/#route?id=7406716
+[sct-bcnav]: https://storage.googleapis.com/atgardner/Sunshine%20Coast%20Trail%20-%20OpenTopoMap%20-%201-15%20-%20BCNav.zip
+[sct-orux]: https://storage.googleapis.com/atgardner/Sunshine%20Coast%20Trail%20-%20OpenTopoMap%20-%201-15%20-%20Orux.zip
 [ta]: https://www.teararoa.org.nz/downloads/
-[ta-bcnav]: https://storage.googleapis.com/atgardner/TA%20-%20Land%20Information%20-%200-15%20-%20BCNav.zip
-[ta-orux]: https://storage.googleapis.com/atgardner/TA%20-%20Land%20Information%20-%200-15%20-%20MBTiles.zip
+[ta-bcnav]: https://storage.googleapis.com/atgardner/Te%20Araroa%20-%20NZ%20Topo50%20-%200-15%20-%20BCNav.zip
+[ta-orux]: https://storage.googleapis.com/atgardner/Te%20Araroa%20-%20NZ%20Topo50%20-%200-15%20-%20Orux.zip
 [tmb]: https://hiking.waymarkedtrails.org/#route?id=6436417
-[tmb-bcnav]: https://storage.googleapis.com/atgardner/Tour%20du%20Mont%20Blanc%20-%20Maperitive%20-%2010-15%20-%20BCNav.zip
-[tmb-orux]: https://storage.googleapis.com/atgardner/Tour%20du%20Mont%20Blanc%20-%20Maperitive%20-%2010-15%20-%20MBTiles.zip
+[tmb-bcnav]: https://storage.googleapis.com/atgardner/Tour%20du%20Mont%20Blanc%20-%20OpenTopoMap%20-%201-15%20-%20BCNav.zip
+[tmb-orux]: https://storage.googleapis.com/atgardner/Tour%20du%20Mont%20Blanc%20-%20OpenTopoMap%20-%201-15%20-%20Orux.zip
 [whr]: https://hiking.waymarkedtrails.org/#route?id=7383151
-[whr-bcnav]: https://storage.googleapis.com/atgardner/Walker's%20Haute%20Route%20-%20Maperitive%20-%2010-15%20-%20BCNav.zip
-[whr-orux]: https://storage.googleapis.com/atgardner/Walker's%20Haute%20Route%20-%20Maperitive%20-%2010-15%20-%20MBTiles.zip
-[ustopo]: http://www.arcgis.com/home/webmap/viewer.html?url=http%3A%2F%2Fservices.arcgisonline.com%2Farcgis%2Frest%2Fservices%2FUSA_Topo_Maps%2FMapServer&source=sd
+[whr-bcnav]: https://storage.googleapis.com/atgardner/Walker's%20Haute%20Route%20-%20OpenTopoMap%20-%201-15%20-%20BCNav.zip
+[whr-orux]: https://storage.googleapis.com/atgardner/Walker's%20Haute%20Route%20-%20OpenTopoMap%20-%201-15%20-%20Orux.zip
+[otm]: https://hiking.waymarkedtrails.org/
 [mbt]: https://caltopo.com/map.html#b=mbt
 [ihm]: https://israelhiking.osm.org.il/
 [linz]: https://www.topomap.co.nz/
-[maperitive]: http://maperitive.net/
 [backcountry navigator]: http://backcountrynavigator.com/
 [orux maps]: http://www.oruxmaps.com/
