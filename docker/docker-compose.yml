@@ -1,9 +1,15 @@
-version: '2.1'
+version: '3.5'
 services:
-    jekyll:
-        image: starefossen/github-pages
-        container_name: jekyll
-        volumes:
-            - ..:/usr/src/app
-        ports:
-            - "4000:4000"
+  site:
+    command: jekyll serve
+    environment:
+      - FORCE_POLLING=true
+    image: jekyll/jekyll:latest
+    volumes:
+      - ..:/srv/jekyll
+      - ../vendor/bundle:/usr/local/bundle
+    ports:
+      - 4000:4000
+      - 35729:35729
+      - 3000:3000
+      - 80:4000

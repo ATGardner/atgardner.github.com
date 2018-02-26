@@ -28,7 +28,7 @@ google_analytics: UA-18054605-9
 markdown: kramdown
 theme: minima
 paginate: 5
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
 exclude:
@@ -38,3 +38,4 @@ exclude:
   - docker
   - node_modules
   - src
+  - vendor
