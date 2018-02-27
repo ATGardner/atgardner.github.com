@@ -4,6 +4,7 @@
   "description": "",
   "main": "app/index.js",
   "scripts": {
+    "serve": "docker-compose -f docker/docker-compose.yml up -d",
     "start": "webpack --config webpack.config.dev.js",
     "build": "webpack --config webpack.config.prod.js",
     "lint": "npm run lint:js && npm run lint:md && npm run lint:scss",
