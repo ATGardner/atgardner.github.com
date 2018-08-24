@@ -70,4 +70,11 @@ body {
   .eng {
     direction: ltr;
   }
+
+  ol,
+  ul {
+    li {
+      margin-right: 1em;
+    }
+  }
 }
