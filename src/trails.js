@@ -42,7 +42,10 @@ async function getTrailData() {
 
 async function getTrailConfig(trailName) {
   const trails = await getTrailData();
-  const {trails: {[trailName]: trail}, layers} = trails;
+  const {
+    trails: {[trailName]: trail},
+    layers,
+  } = trails;
   trail.layers = trail.layers.map(l => {
     const layer = Object.assign({}, layers[l], LAYER_DEFAULTS);
     layer.source = Object.assign({}, layer.source, SOURCE_DEFAULTS);

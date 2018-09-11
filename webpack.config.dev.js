@@ -1,10 +1,10 @@
 module.exports = {
   entry: {
     redirect: './src/redirect.js',
-    trails: ['whatwg-fetch', 'babel-polyfill', './src/trails.js'],
+    trails: ['whatwg-fetch', '@babel/polyfill', './src/trails.js'],
   },
   output: {
-    path: __dirname + '/assets',
+    path: `${__dirname}/assets`,
     filename: '[name].bundle.js',
     library: '[name]',
   },
@@ -16,6 +16,7 @@ module.exports = {
     openlayers: 'ol',
     ol: 'ol',
   },
+  mode: 'development',
   module: {
     rules: [
       {
@@ -23,7 +24,7 @@ module.exports = {
         exclude: /node_modules/,
         loader: 'babel-loader',
         options: {
-          presets: ['env'],
+          presets: ['@babel/preset-env'],
         },
       },
     ],

@@ -2,7 +2,9 @@
 
 export function redirect(pageType, timestamp) {
   let newPathname = '/';
-  const {location: {pathname}} = window;
+  const {
+    location: {pathname},
+  } = window;
   if (pageType === 'static_page') {
     newPathname = pathname.replace(/\/p\//, '/pages/');
   } else if (/\/\d{4}\/\d{2}\/.*/.test(pathname)) {

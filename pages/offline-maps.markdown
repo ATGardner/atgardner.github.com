@@ -10,22 +10,27 @@ procrastinator (or a great one), I decided to start by adding some value,
 instead of planning too big. So here are some map files I already made, for your
 pleasure:
 
-| Trail                                  | Size (MB) |          Tile Source           |        BCNav         |      Orux Maps      |  Updated   |
-| -------------------------------------- | :-------: | :----------------------------: | :------------------: | :-----------------: | :--------: |
-| [Appalachian Trail][at]                |    259    | [CalTopo Mapbuilder Topo][mbt] |   [link][at-bcnav]   |   [link][at-orux]   | 2018-01-03 |
-| [Arizona Trail][azt]                   |    93     | [CalTopo Mapbuilder Topo][mbt] |  [link][azt-bcnav]   |  [link][azt-orux]   | 2018-01-03 |
-| [Baja Divide Trail][bdt]               |    187    |       [OpenTopoMap][otm]       |  [link][bdt-bcnav]   |  [link][bdt-orux]   | 2018-01-03 |
-| [Colorado Trail][ct]                   |    83     | [CalTopo Mapbuilder Topo][mbt] |   [link][ct-bcnav]   |   [link][ct-orux]   | 2018-01-03 |
-| [Continental Divide Trail][cdt]        |    371    | [CalTopo Mapbuilder Topo][mbt] |  [link][cdt-bcnav]   |  [link][cdt-orux]   | 2018-01-03 |
-| [Hayduke Trail][hdt]                   |    164    | [CalTopo Mapbuilder Topo][mbt] |  [link][hdt-bcnav]   |  [link][hdt-orux]   | 2018-01-03 |
-| [Israel National Trail][int] (English) |    622    |    [Israel Hiking Map][ihm]    | [link][int-bcnav-en] | [link][int-orux-en] | 2018-01-03 |
-| [Israel National Trail][int] (Hebrew)  |    620    |    [Israel Hiking Map][ihm]    | [link][int-bcnav-he] | [link][int-orux-he] | 2018-01-03 |
-| [John Muir Trail][jmt]                 |    31     | [CalTopo Mapbuilder Topo][mbt] |  [link][jmt-bcnav]   |  [link][jmt-orux]   | 2018-01-03 |
-| [Pacific Crest Trail][pct]             |    537    | [CalTopo Mapbuilder Topo][mbt] |  [link][pct-bcnav]   |  [link][pct-orux]   | 2018-01-03 |
-| [Sunshine Coast Trail][sct]            |    17     |       [OpenTopoMap][otm]       |  [link][sct-bcnav]   |  [link][sct-orux]   | 2018-01-03 |
-| [Te Araroa][ta]                        |    711    |    [Land Information][linz]    |   [link][ta-bcnav]   |   [link][ta-orux]   | 2018-01-03 |
-| [Tour du Mont Blanc][tmb]              |    30     |       [OpenTopoMap][otm]       |  [link][tmb-bcnav]   |  [link][tmb-orux]   | 2018-01-03 |
-| [Walker's Haute Route][whr]            |    51     |       [OpenTopoMap][otm]       |  [link][whr-bcnav]   |  [link][whr-orux]   | 2018-01-03 |
+| Trail                                  | Size (MB) |          Tile Source           |            BCNav            |         Orux Maps          |  Updated   |
+| -------------------------------------- | :-------: | :----------------------------: | :-------------------------: | :------------------------: | :--------: |
+| [Appalachian Trail][at]                |    259    | [CalTopo Mapbuilder Topo][mbt] |      [link][at-bcnav]       |      [link][at-orux]       | 2018-01-03 |
+| [Arizona Trail][azt]                   |    93     | [CalTopo Mapbuilder Topo][mbt] |      [link][azt-bcnav]      |      [link][azt-orux]      | 2018-01-03 |
+| [Baja Divide Trail][bdt]               |    187    |       [OpenTopoMap][otm]       |      [link][bdt-bcnav]      |      [link][bdt-orux]      | 2018-01-03 |
+| [Colorado Trail][ct]                   |    83     | [CalTopo Mapbuilder Topo][mbt] |      [link][ct-bcnav]       |      [link][ct-orux]       | 2018-01-03 |
+| [Continental Divide Trail][cdt]        |    371    | [CalTopo Mapbuilder Topo][mbt] |      [link][cdt-bcnav]      |      [link][cdt-orux]      | 2018-01-03 |
+| [GR10][gr10]                           |    222    |       [OpenTopoMap][otm]       |     [link][gr10-bcnav]      |     [link][gr10-orux]      | 2018-09-10 |
+| [GR11][gr11]                           |    204    |       [OpenTopoMap][otm]       |     [link][gr11-bcnav]      |     [link][gr11-orux]      | 2018-09-10 |
+| [GR20][gr20]                           |    49     |       [OpenTopoMap][otm]       |     [link][gr20-bcnav]      |     [link][gr20-orux]      | 2018-09-11 |
+| [Haute Route Pyrenees][hrp]            |    255    |       [OpenTopoMap][otm]       |      [link][hrp-bcnav]      |      [link][hrp-orux]      | 2018-09-10 |
+| gr10/11/hrp                            |    494    |       [OpenTopoMap][otm]       | [link][gr10-gr11-hrp-bcnav] | [link][gr10-gr11-hrp-orux] | 2018-09-10 |
+| [Hayduke Trail][hdt]                   |    164    | [CalTopo Mapbuilder Topo][mbt] |      [link][hdt-bcnav]      |      [link][hdt-orux]      | 2018-01-03 |
+| [Israel National Trail][int] (English) |    622    |    [Israel Hiking Map][ihm]    |    [link][int-bcnav-en]     |    [link][int-orux-en]     | 2018-01-03 |
+| [Israel National Trail][int] (Hebrew)  |    620    |    [Israel Hiking Map][ihm]    |    [link][int-bcnav-he]     |    [link][int-orux-he]     | 2018-01-03 |
+| [John Muir Trail][jmt]                 |    31     | [CalTopo Mapbuilder Topo][mbt] |      [link][jmt-bcnav]      |      [link][jmt-orux]      | 2018-01-03 |
+| [Pacific Crest Trail][pct]             |    537    | [CalTopo Mapbuilder Topo][mbt] |      [link][pct-bcnav]      |      [link][pct-orux]      | 2018-01-03 |
+| [Sunshine Coast Trail][sct]            |    17     |       [OpenTopoMap][otm]       |      [link][sct-bcnav]      |      [link][sct-orux]      | 2018-01-03 |
+| [Te Araroa][ta]                        |    711    |    [Land Information][linz]    |      [link][ta-bcnav]       |      [link][ta-orux]       | 2018-01-03 |
+| [Tour du Mont Blanc][tmb]              |    30     |       [OpenTopoMap][otm]       |      [link][tmb-bcnav]      |      [link][tmb-orux]      | 2018-01-03 |
+| [Walker's Haute Route][whr]            |    51     |       [OpenTopoMap][otm]       |      [link][whr-bcnav]      |      [link][whr-orux]      | 2018-01-03 |
 
 Let me know if you want any more trails or tile sources or general help on how
 to use these map files.
@@ -105,6 +110,20 @@ refers to the file extracted from the zip downloaded from my blog.
 [cdt]: http://continentaldividetrail.org/cdt-data/
 [cdt-bcnav]: https://storage.googleapis.com/atgardner/Continental%20Divide%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
 [cdt-orux]: https://storage.googleapis.com/atgardner/Continental%20Divide%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
+[gr10]: https://hiking.waymarkedtrails.org/#route?id=7411272
+[gr10-bcnav]: https://storage.googleapis.com/atgardner/GR10%20-%20OpenTopoMap%20-%201-15%20-%20BCNav.zip
+[gr10-orux]: https://storage.googleapis.com/atgardner/GR10%20-%20OpenTopoMap%20-%201-15%20-%20Orux.zip
+[gr11]: https://hiking.waymarkedtrails.org/#route?id=380905
+[gr11-bcnav]: https://storage.googleapis.com/atgardner/GR11%20-%20OpenTopoMap%20-%201-15%20-%20BCNav.zip
+[gr11-orux]: https://storage.googleapis.com/atgardner/GR11%20-%20OpenTopoMap%20-%201-15%20-%20Orux.zip
+[gr20]: https://hiking.waymarkedtrails.org/#route?id=101692
+[gr20-bcnav]: https://storage.googleapis.com/atgardner/GR20%20-%20OpenTopoMap%20-%201-15%20-%20BCNav.zip
+[gr20-orux]: https://storage.googleapis.com/atgardner/GR20%20-%20OpenTopoMap%20-%201-15%20-%20Orux.zip
+[gr10-gr11-hrp-bcnav]: https://storage.googleapis.com/atgardner/GR10%2C%20GR11%2C%20HRP%20-%20OpenTopoMap%20-%201-15%20-%20BCNav.zip
+[gr10-gr11-hrp-orux]: https://storage.googleapis.com/atgardner/GR10%2C%20GR11%2C%20HRP%20-%20OpenTopoMap%20-%201-15%20-%20Orux.zip
+[hrp]: https://hiking.waymarkedtrails.org/#route?id=2018553
+[hrp-bcnav]: https://storage.googleapis.com/atgardner/HRP%20-%20OpenTopoMap%20-%201-15%20-%20BCNav.zip
+[hrp-orux]: https://storage.googleapis.com/atgardner/HRP%20-%20OpenTopoMap%20-%201-15%20-%20Orux.zip
 [hdt]: http://www.hayduketrail.org/Maps.html
 [hdt-bcnav]: https://storage.googleapis.com/atgardner/Hayduke%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
 [hdt-orux]: https://storage.googleapis.com/atgardner/Hayduke%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
