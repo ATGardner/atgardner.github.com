@@ -23,8 +23,8 @@ pleasure:
 | [Haute Route Pyrenees][hrp]            |    255    |       [OpenTopoMap][otm]       |      [link][hrp-bcnav]      |      [link][hrp-orux]      | 2018-09-10 |
 | gr10/11/hrp                            |    494    |       [OpenTopoMap][otm]       | [link][gr10-gr11-hrp-bcnav] | [link][gr10-gr11-hrp-orux] | 2018-09-10 |
 | [Hayduke Trail][hdt]                   |    164    | [CalTopo Mapbuilder Topo][mbt] |      [link][hdt-bcnav]      |      [link][hdt-orux]      | 2018-01-03 |
-| [Israel National Trail][int] (English) |    622    |    [Israel Hiking Map][ihm]    |    [link][int-bcnav-en]     |    [link][int-orux-en]     | 2018-01-03 |
-| [Israel National Trail][int] (Hebrew)  |    620    |    [Israel Hiking Map][ihm]    |    [link][int-bcnav-he]     |    [link][int-orux-he]     | 2018-01-03 |
+| [Israel National Trail][int] (English) |    663    |    [Israel Hiking Map][ihm]    |    [link][int-bcnav-en]     |    [link][int-orux-en]     | 2018-09-11 |
+| [Israel National Trail][int] (Hebrew)  |    662    |    [Israel Hiking Map][ihm]    |    [link][int-bcnav-he]     |    [link][int-orux-he]     | 2018-09-11 |
 | [John Muir Trail][jmt]                 |    31     | [CalTopo Mapbuilder Topo][mbt] |      [link][jmt-bcnav]      |      [link][jmt-orux]      | 2018-01-03 |
 | [Pacific Crest Trail][pct]             |    537    | [CalTopo Mapbuilder Topo][mbt] |      [link][pct-bcnav]      |      [link][pct-orux]      | 2018-01-03 |
 | [Sunshine Coast Trail][sct]            |    17     |       [OpenTopoMap][otm]       |      [link][sct-bcnav]      |      [link][sct-orux]      | 2018-01-03 |
@@ -128,10 +128,10 @@ refers to the file extracted from the zip downloaded from my blog.
 [hdt-bcnav]: https://storage.googleapis.com/atgardner/Hayduke%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
 [hdt-orux]: https://storage.googleapis.com/atgardner/Hayduke%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
 [int]: https://hiking.waymarkedtrails.org/#route?id=282071
-[int-bcnav-en]: https://storage.googleapis.com/atgardner/Israel%20National%20Trail%20-%20Israel%20Hiking%20Map%2C%20en%20-%207-15%20-%20BCNav.zip
-[int-orux-en]: https://storage.googleapis.com/atgardner/Israel%20National%20Trail%20-%20Israel%20Hiking%20Map%2C%20en%20-%207-15%20-%20Orux.zip
-[int-bcnav-he]: https://storage.googleapis.com/atgardner/Israel%20National%20Trail%20-%20Israel%20Hiking%20Map%2C%20he%20-%207-15%20-%20BCNav.zip
-[int-orux-he]: https://storage.googleapis.com/atgardner/Israel%20National%20Trail%20-%20Israel%20Hiking%20Map%2C%20he%20-%207-15%20-%20Orux.zip
+[int-bcnav-en]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20en%20-%207-15%20-%20BCNav.zip
+[int-orux-en]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20en%20-%207-15%20-%20Orux.zip
+[int-bcnav-he]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20he%20-%207-15%20-%20BCNav.zip
+[int-orux-he]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20he%20-%207-15%20-%20Orux.zip
 [jmt]: https://hiking.waymarkedtrails.org/#route?id=1244828
 [jmt-bcnav]: https://storage.googleapis.com/atgardner/John%20Muir%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%201-15%20-%20BCNav.zip
 [jmt-orux]: https://storage.googleapis.com/atgardner/John%20Muir%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%201-15%20-%20Orux.zip
