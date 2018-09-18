@@ -12,8 +12,8 @@ pleasure:
 
 | Trail                                  | Size (MB) |          Tile Source           |            BCNav            |         Orux Maps          |  Updated   |
 | -------------------------------------- | :-------: | :----------------------------: | :-------------------------: | :------------------------: | :--------: |
-| [Alta Via 1 - (dolomita)][av1d]        |    13     |       [OpenTopoMap][otm]       |     [link][av1d-bcnav]      |     [link][av1d-orux]      | 2018-09-18 |
-| [Alta Via 2 - (dolomita)][av2d]        |    18     |       [OpenTopoMap][otm]       |     [link][av2d-bcnav]      |     [link][av2d-orux]      | 2018-09-18 |
+| [Alta Via 1 - (dolomites)][av1d]        |    13     |       [OpenTopoMap][otm]       |     [link][av1d-bcnav]      |     [link][av1d-orux]      | 2018-09-18 |
+| [Alta Via 2 - (dolomites)][av2d]        |    18     |       [OpenTopoMap][otm]       |     [link][av2d-bcnav]      |     [link][av2d-orux]      | 2018-09-18 |
 | [Appalachian Trail][at]                |    259    | [CalTopo Mapbuilder Topo][mbt] |      [link][at-bcnav]       |      [link][at-orux]       | 2018-01-03 |
 | [Arizona Trail][azt]                   |    93     | [CalTopo Mapbuilder Topo][mbt] |      [link][azt-bcnav]      |      [link][azt-orux]      | 2018-01-03 |
 | [Baja Divide Trail][bdt]               |    187    |       [OpenTopoMap][otm]       |      [link][bdt-bcnav]      |      [link][bdt-orux]      | 2018-01-03 |
