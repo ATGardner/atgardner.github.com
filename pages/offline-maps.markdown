@@ -12,6 +12,8 @@ pleasure:
 
 | Trail                                  | Size (MB) |          Tile Source           |            BCNav            |         Orux Maps          |  Updated   |
 | -------------------------------------- | :-------: | :----------------------------: | :-------------------------: | :------------------------: | :--------: |
+| [Alta Via 1 - (dolomita)][av1d]        |    13     |       [OpenTopoMap][otm]       |     [link][av1d-bcnav]      |     [link][av1d-orux]      | 2018-09-18 |
+| [Alta Via 2 - (dolomita)][av2d]        |    18     |       [OpenTopoMap][otm]       |     [link][av2d-bcnav]      |     [link][av2d-orux]      | 2018-09-18 |
 | [Appalachian Trail][at]                |    259    | [CalTopo Mapbuilder Topo][mbt] |      [link][at-bcnav]       |      [link][at-orux]       | 2018-01-03 |
 | [Arizona Trail][azt]                   |    93     | [CalTopo Mapbuilder Topo][mbt] |      [link][azt-bcnav]      |      [link][azt-orux]      | 2018-01-03 |
 | [Baja Divide Trail][bdt]               |    187    |       [OpenTopoMap][otm]       |      [link][bdt-bcnav]      |      [link][bdt-orux]      | 2018-01-03 |
@@ -95,6 +97,12 @@ refers to the file extracted from the zip downloaded from my blog.
 1.  Select the mbtiles file you placed in step 2 {% include image.html
     src="/assets/images/orux 11.png" class="screen-shot" %}
 
+[av1d]: https://hiking.waymarkedtrails.org/#route?id=177743
+[av1d-bcnav]: https://storage.googleapis.com/atgardner/AV1%20Dolomites%20-%20OpenTopoMaps%20-%201-14%20-%20BCNav.zip
+[av1d-orux]: https://storage.googleapis.com/atgardner/AV1%20Dolomites%20-%20OpenTopoMaps%20-%201-14%20-%20Orux.zip
+[av2d]: https://hiking.waymarkedtrails.org/#route?id=404914
+[av2d-bcnav]: https://storage.googleapis.com/atgardner/AV2%20Dolomites%20-%20OpenTopoMaps%20-%201-14%20-%20BCNav.zip
+[av2d-orux]: https://storage.googleapis.com/atgardner/AV2%20Dolomites%20-%20OpenTopoMaps%20-%201-14%20-%20Orux.zip
 [at]: http://www.appalachiantrail.org/home/explore-the-trail
 [at-bcnav]: https://storage.googleapis.com/atgardner/Appalachian%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
 [at-orux]: https://storage.googleapis.com/atgardner/Appalachian%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
