@@ -12,8 +12,8 @@ pleasure:
 
 | Trail                                  | Size (MB) |          Tile Source           |            BCNav            |         Orux Maps          |  Updated   |
 | -------------------------------------- | :-------: | :----------------------------: | :-------------------------: | :------------------------: | :--------: |
-| [Alta Via 1 - (dolomites)][av1d]        |    35     |       [OpenTopoMap][otm]       |     [link][av1d-bcnav]      |     [link][av1d-orux]      | 2018-09-18 |
-| [Alta Via 2 - (dolomites)][av2d]        |    48     |       [OpenTopoMap][otm]       |     [link][av2d-bcnav]      |     [link][av2d-orux]      | 2018-09-18 |
+| [Alta Via 1 - (dolomites)][av1d]       |    35     |       [OpenTopoMap][otm]       |     [link][av1d-bcnav]      |     [link][av1d-orux]      | 2018-09-18 |
+| [Alta Via 2 - (dolomites)][av2d]       |    48     |       [OpenTopoMap][otm]       |     [link][av2d-bcnav]      |     [link][av2d-orux]      | 2018-09-18 |
 | [Appalachian Trail][at]                |    259    | [CalTopo Mapbuilder Topo][mbt] |      [link][at-bcnav]       |      [link][at-orux]       | 2018-01-03 |
 | [Arizona Trail][azt]                   |    93     | [CalTopo Mapbuilder Topo][mbt] |      [link][azt-bcnav]      |      [link][azt-orux]      | 2018-01-03 |
 | [Baja Divide Trail][bdt]               |    187    |       [OpenTopoMap][otm]       |      [link][bdt-bcnav]      |      [link][bdt-orux]      | 2018-01-03 |
@@ -25,9 +25,10 @@ pleasure:
 | [Haute Route Pyrenees][hrp]            |    255    |       [OpenTopoMap][otm]       |      [link][hrp-bcnav]      |      [link][hrp-orux]      | 2018-09-10 |
 | gr10/11/hrp                            |    494    |       [OpenTopoMap][otm]       | [link][gr10-gr11-hrp-bcnav] | [link][gr10-gr11-hrp-orux] | 2018-09-10 |
 | [Hayduke Trail][hdt]                   |    164    | [CalTopo Mapbuilder Topo][mbt] |      [link][hdt-bcnav]      |      [link][hdt-orux]      | 2018-01-03 |
-| [Israel National Trail][int] (English) |    663    |    [Israel Hiking Map][ihm]    |    [link][int-bcnav-en]     |    [link][int-orux-en]     | 2018-09-11 |
-| [Israel National Trail][int] (Hebrew)  |    662    |    [Israel Hiking Map][ihm]    |    [link][int-bcnav-he]     |    [link][int-orux-he]     | 2018-09-11 |
+| [Israel National Trail][int] (English) |    686    |    [Israel Hiking Map][ihm]    |    [link][int-bcnav-en]     |    [link][int-orux-en]     | 2019-01-28 |
+| [Israel National Trail][int] (Hebrew)  |    685    |    [Israel Hiking Map][ihm]    |    [link][int-bcnav-he]     |    [link][int-orux-he]     | 2019-01-28 |
 | [John Muir Trail][jmt]                 |    31     | [CalTopo Mapbuilder Topo][mbt] |      [link][jmt-bcnav]      |      [link][jmt-orux]      | 2018-01-03 |
+| [Jordan Trail][jt]                     |    144    |       [OpenTopoMap][otm]       |      [link][jt-bcnav]       |      [link][jt-orux]       | 2019-01-22 |
 | [Pacific Crest Trail][pct]             |    537    | [CalTopo Mapbuilder Topo][mbt] |      [link][pct-bcnav]      |      [link][pct-orux]      | 2018-01-03 |
 | [Sunshine Coast Trail][sct]            |    17     |       [OpenTopoMap][otm]       |      [link][sct-bcnav]      |      [link][sct-orux]      | 2018-01-03 |
 | [Te Araroa][ta]                        |    711    |    [Land Information][linz]    |      [link][ta-bcnav]       |      [link][ta-orux]       | 2018-01-03 |
@@ -143,6 +144,9 @@ refers to the file extracted from the zip downloaded from my blog.
 [jmt]: https://hiking.waymarkedtrails.org/#route?id=1244828
 [jmt-bcnav]: https://storage.googleapis.com/atgardner/John%20Muir%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%201-15%20-%20BCNav.zip
 [jmt-orux]: https://storage.googleapis.com/atgardner/John%20Muir%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%201-15%20-%20Orux.zip
+[jt]: https://jordantrail.org/planning-your-trip/maps-gps/
+[jt-bcnav]: https://storage.googleapis.com/atgardner/JT%20-%20OpenTopoMaps-c%20-%201-15%20-%20BCNav.zip
+[jt-orux]: https://storage.googleapis.com/atgardner/JT%20-%20OpenTopoMaps-c%20-%201-15%20-%20Orux.zip
 [pct]: https://www.pctmap.net/google/
 [pct-bcnav]: https://storage.googleapis.com/atgardner/Pacific%20Crest%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
 [pct-orux]: https://storage.googleapis.com/atgardner/Pacific%20Crest%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
