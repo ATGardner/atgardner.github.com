@@ -15,7 +15,7 @@ blogger_id: tag:blogger.com,1999:blog-8715620883377891841.post-27070384429895823
 blogger_orig_url: http://pct14.blogspot.com/2016/05/israel-national-trail-offline-maps.html
 mapName: int
 ---
-_update: I have created a new set of offline map files at February 12, 2017._
+_update: I have created a new set of offline map files at January 28, 2019._
 
 Lets get it straight - I have never thru-hiked the entire Israel National Trail (INT). I started it in September 2008, and did almost half of it (The northern half. The easy half), before quitting. I still hope on finishing my hike someday, either by hiking from Eilat to Arad (should take ~3 weeks), or by doing the whole thing from the beginning again.
 
@@ -59,10 +59,10 @@ Share and enjoy!
 [Israel Hiking Map]: http://israelhiking.osm.org.il/
 [INTOsmExport]: http://osmexport.azurewebsites.net/osm2gpx?relationId=282071
 [OSMExport]: https://github.com/ATGardner/OSMExport
-[BCNav, English]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20EN%20-%207-15%20-%20BCNav.zip
-[Orux, English]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20EN%20-%207-15%20-%20MBTiles.zip
-[BCNav, Hebrew]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%20-%207-15%20-%20BCNav.zip
-[Orux, Hebrew]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%20-%207-15%20-%20MBTiles.zip
+[BCNav, English]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20en%20-%207-15%20-%20BCNav.zip
+[Orux, English]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20en%20-%207-15%20-%20Orux.zip
+[BCNav, Hebrew]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20he%20-%207-15%20-%20BCNav.zip
+[Orux, Hebrew]: https://storage.googleapis.com/atgardner/INT%20-%20Israel%20Hiking%20Map%2C%20he%20-%207-15%20-%20Orux.zip
 [Backcountry Navigator]: http://backcountrynavigator.com/
 [Orux Maps]: http://www.oruxmaps.com/index_en.html
 [offline-maps]: {{ site.baseurl }}{% link pages/offline-maps.markdown %}
