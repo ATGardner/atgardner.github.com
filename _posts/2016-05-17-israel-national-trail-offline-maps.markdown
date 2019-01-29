@@ -42,10 +42,10 @@ All the data was used "as-is", and I do not take responsibility for its correctn
 (Updated: 2017-02-13)
 {: .small}
 
-* [BCNav, English] (555MB)
-* [Orux, English] (555MB)
-* [BCNav, Hebrew] (5543MB)
-* [Orux, Hebrew] (554MB)
+* [BCNav, English] (686MB)
+* [Orux, English] (686MB)
+* [BCNav, Hebrew] (685MB)
+* [Orux, Hebrew] (685MB)
 
 A detailed walk-through on how to use these files with [Backcountry Navigator] or [Orux Maps] can be found [here][offline-maps].
 
