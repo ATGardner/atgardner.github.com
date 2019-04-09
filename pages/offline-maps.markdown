@@ -18,7 +18,7 @@ pleasure:
 | [Arizona Trail][azt]                   |    93     | [CalTopo Mapbuilder Topo][mbt] |      [link][azt-bcnav]      |      [link][azt-orux]      | 2018-01-03 |
 | [Baja Divide Trail][bdt]               |    187    |       [OpenTopoMap][otm]       |      [link][bdt-bcnav]      |      [link][bdt-orux]      | 2018-01-03 |
 | [Colorado Trail][ct]                   |    83     | [CalTopo Mapbuilder Topo][mbt] |      [link][ct-bcnav]       |      [link][ct-orux]       | 2018-01-03 |
-| [Continental Divide Trail][cdt]        |    371    | [CalTopo Mapbuilder Topo][mbt] |      [link][cdt-bcnav]      |      [link][cdt-orux]      | 2018-01-03 |
+| [Continental Divide Trail][cdt]        |    529    | [CalTopo Mapbuilder Topo][mbt] |      [link][cdt-bcnav]      |      [link][cdt-orux]      | 2019-04-09 |
 | [GR10][gr10]                           |    222    |       [OpenTopoMap][otm]       |     [link][gr10-bcnav]      |     [link][gr10-orux]      | 2018-09-10 |
 | [GR11][gr11]                           |    204    |       [OpenTopoMap][otm]       |     [link][gr11-bcnav]      |     [link][gr11-orux]      | 2018-09-10 |
 | [GR20][gr20]                           |    49     |       [OpenTopoMap][otm]       |     [link][gr20-bcnav]      |     [link][gr20-orux]      | 2018-09-11 |
@@ -117,8 +117,8 @@ refers to the file extracted from the zip downloaded from my blog.
 [ct-bcnav]: https://storage.googleapis.com/atgardner/Colorado%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
 [ct-orux]: https://storage.googleapis.com/atgardner/Colorado%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
 [cdt]: http://continentaldividetrail.org/cdt-data/
-[cdt-bcnav]: https://storage.googleapis.com/atgardner/Continental%20Divide%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20BCNav.zip
-[cdt-orux]: https://storage.googleapis.com/atgardner/Continental%20Divide%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%208-15%20-%20Orux.zip
+[cdt-bcnav]: https://storage.googleapis.com/atgardner/Continental%20Divide%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%207-15%20-%20BCNav.zip
+[cdt-orux]: https://storage.googleapis.com/atgardner/Continental%20Divide%20Trail%20-%20CalTopo%20MapBuilder%20Topo%20-%207-15%20-%20Orux.zip
 [gr10]: https://hiking.waymarkedtrails.org/#route?id=7411272
 [gr10-bcnav]: https://storage.googleapis.com/atgardner/GR10%20-%20OpenTopoMap%20-%201-15%20-%20BCNav.zip
 [gr10-orux]: https://storage.googleapis.com/atgardner/GR10%20-%20OpenTopoMap%20-%201-15%20-%20Orux.zip
