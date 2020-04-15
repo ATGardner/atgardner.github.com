@@ -4,6 +4,7 @@ title: שאלות נפוצות
 weight: 2
 ---
 
+1.  [אישורים](#חבילות_אישורים)
 1.  [חבילות ומשלוחים](#חבילות_ומשלוחים)
     1.  [איך לשלוח חבילה לסניף דואר?](#איך_לשלוח_חבילה_לסניף_דואר)
     1.  [איך לשלוח חבילה לבית עסק?](#איך_לשלוח_חבילה_לבית_עסק)
@@ -12,6 +13,33 @@ weight: 2
 1.  [מים](#מים)
     1.  [מה ההבדל בין האמצעים השונים לטיפול במים?](#אמצעי_טיפול_במים)
     1.  [מה עושים בנוגע למים במדבר?](#מים_במדבר)
+
+## [↑](#) <a name="אישורים"></a>[אישורים][permits]
+ישנם שלושה אישורים עיקריים שצריך/כדאי בשביל לעשות את כל ה PCT.
+
+
+### [↑](#) <a name="אישור_הליכה_למרחקים_ארוכים"></a>[אישור הליכה למרחקים ארוכים][pct-long-distance-permit]
+
+בשביל לצעוד לכל אורך השביל, צריך לקבל אישורים שונים מכל מיני פארקים ורשויות טבע מקומיות שנמצאות לאורכו. בלתי אפשרי לדעת שבועות (או חודשים) מראש, מתי תזדקקו לאישור כניסה לאיזה פארק רחוק במעלה השביל. קשה מאוד ליצור קשר עם רשויות מקומיות כאלה תוך כדי צעידה על השביל, בשביל לתאם אישור רלוונטי לימים הקרובים. גם לא תמיד אישור כזה יהיה זמין (ברוב המקומות ישנם מכסות על מספר אנשים שיקבלו אישור, לכל יום). את הבעיות האלה בא לפתור אישור ההליכה למרחקים ארוכים של ה PCTA.
+האישור הזה מתאים רק למי שמתכנן לצעוד 500 מייל או יותר על השביל. למרות שהאישור מחולק על ידי ה PCTA, אין להם סמכות רשמית. האישור עצמו הוא של ה USFS. מי שמחזיק באישור הזה לא צריך להוציא אישורים נוספים לרוב המוחלט של השביל. לאחרונה, השתנו ההגדרות של כמה פארקים באורגון, והם כן מצריכים אישור מקומי (שאפשר להוציא אותו על השביל).  
+בשנים האחרונות, בעקבות העליה בפופולריות של השביל, ה PCTA מחלק מספר מוגבל של אישורים כאלה, כתלות במקום ההתחלה, ובתאריך המבוקש. בשיא העונה (בדרך כלל ממרץ ועד יוני) הם מחלקים 50 אישורים להתחלה מהקצה הדרומי. תהליך החלוקה כולל 35 אישורים ליום שמחולקים בסביבות נובמבר, ועוד 15 אישורים שמחולקים בסביבות ינואר.
+
+### [↑](#) <a name="אישור_הדלקת_אש_בקליפורניה"></a>[אישור הדלקת אש בקליפורניה][california-fire-permit]
+חוץ מהאישור הזה, בזמן ההליכה בקליפורניה צריך לשאת עליכם גם אישור הדלקת אש בקליפורניה.  שימו לב - האישור הזה *לא* נותן לכם אישור להדליק מדורות בקליפורניה.  
+בשביל לקבל את האישור הזה צריך לצפות בסרטון ולענות על כמה שאלות אמריקאיות. לאחר מכן צריך להדפיס אותו, ולשאת אותו עליכם. לכל פקח בקליפורניה יש זכות לדרוש מכם להציג את האישור הזה.
+
+### [↑](#) <a name="אישור_כניסה_לקנדה"></a>[אישור כניסה לקנדה][canada-pct-entry-permit]
+אישור נוסף שמומלץ לעשות לפני השביל (למרות שאפשר להוציא אותו גם תוך כדי הצעדה, טכנית) זה אישור הכניסה לקנדה.  
+השביל עצמו מסתיים בגבול ארה"ב-קנדה. משם יש שתי אפשרויות להגיע לדרך שממנה אפשר לתפוס טרמפים "החוצה" - רוב האנשים בוחרים להמשיך צפונה 9 מייל אל תוך קנדה, ל Manning Park, ומשם לתפוס טרמפ או אוטובוס לוונקובר. אפשרות נוספת היא לצעוד 30 מייל בחזרה דרומה ל Harts Pass (או לבחור באחד מכמה שבילים אחרים שחוזרים דרומה לכיוון כביש 20).  
+([Getting to and from the Northern Terminus][directions-northern-terminus-pct])  
+כדי להיכנס לקנדה בסיום השביל (מאחר שאין שם שום מעבר גבול רשמי), צריך לשלוח מראש בקשה לרשויות בקנדה, ולקבל בחזרה את אישור הכניסה החתום. בלעדיו - כשתנסו לצאת מקנדה עלולים לעשות לכם בעיות על זה שאין לכם חותמת כניסה לקנדה בדרכון.  
+נקודה נוספת שחשוב לדעת - עבור מי שמתכנן לצעוד את השביל מצפון לדרום, אין אפשרות להתחיל ב Manning Park ולצעוד דרומה אל תוך ארה"ב. האפשרות היחידה להתחיל בגבול, היא להתחיל לצעוד מ Harts Pass צפונה, להגיע לגבול, ולהסתובב בחזרה דרומה. אפשרות נוספת - לוותר על 30 המיילים הצפוניים ביותר של השביל.
+
+[permits]: https://www.pcta.org/discover-the-trail/permits/
+[pct-long-distance-permit]: https://www.pcta.org/discover-the-trail/permits/pct-long-distance-permit/
+[california-fire-permit]: https://www.pcta.org/discover-the-trail/permits/california-fire-permit/
+[canada-pct-entry-permit]: https://www.pcta.org/discover-the-trail/permits/canada-pct-entry-permit/
+[directions-northern-terminus-pct]: https://www.pcta.org/discover-the-trail/backcountry-basics/pct-transportation/directions-northern-terminus-pct/
 
 ## [↑](#) <a name="חבילות_ומשלוחים"></a> חבילות ומשלוחים
 
@@ -118,12 +146,22 @@ Notes], ובכל האפליקציות/מקורות מידע אחרים של הש
 |                              דגמים |    [ResQLink+]     |     [SPOT GEN3]      |
 |                                    |   [FastFind 220]   | [inReach Explorer+]  |
 |                                    |       [PLB1]       |    [inReach SE+]     |
+| | | [inReach Mini] |
 
 \* לחלק מהמכשירים יש יכולת לשלוח רק הודעות מוגדרות מראש, ואילו אחרים יכולים לשמש
 ממש כאמצעי תקשורת בהודעות טקסט עם הבית
 
 הסברים נוספים על ההבדלים בין סוגי המכשירים השונים אפשר למצוא ב
 [OutdoorGearLab][ogb_plb]
+
+[resqlink+]: https://www.acrartex.com/products/catalog/personal-locator-beacons/resqlinkplus/#sthash.gocVfN1W.dpbs
+[fastfind 220]: https://www.mcmurdogroup.com/mcmurdo-products/mcmurdo-fastfind-220/
+[plb1]: http://oceansignal.com/products/plb1/
+[spot gen3]: https://www.findmespot.com/en/index.php?cid=100
+[inreach explorer+]: https://buy.garmin.com/en-US/US/p/561269
+[inreach se+]: https://buy.garmin.com/en-US/US/p/561286
+[inreach mini]: https://buy.garmin.com/en-US/US/p/592606
+[ogb_plb]: https://www.outdoorgearlab.com/topics/camping-and-hiking/best-personal-locator-beacon/buying-advice
 
 ## [↑](#) <a name="מים"></a> מים
 
@@ -175,13 +213,6 @@ Offline File. במצב זה, בכל פעם שהטלפון יהיה מחובר ל
 יבשים ללא מקורות מים טבעיים. ה Water Report מכיל מידע עבור כל השביל, בכל מקרה.
 
 [halfmile trail notes]: https://www.pctmap.net/trail-notes/
-[resqlink+]: https://www.acrartex.com/products/catalog/personal-locator-beacons/resqlinkplus/#sthash.gocVfN1W.dpbs
-[fastfind 220]: https://www.mcmurdogroup.com/mcmurdo-products/mcmurdo-fastfind-220/
-[plb1]: http://oceansignal.com/products/plb1/
-[spot gen3]: https://www.findmespot.com/en/index.php?cid=100
-[inreach explorer+]: https://buy.garmin.com/en-US/US/p/561269
-[inreach se+]: https://buy.garmin.com/en-US/US/p/561286
-[ogb_plb]: https://www.outdoorgearlab.com/topics/camping-and-hiking/best-personal-locator-beacon/buying-advice
 [sawyer squeeze]: https://sawyer.com/products/sawyer-squeeze-filter/
 [sawyer mini]: https://sawyer.com/products/mini-filter/
 [katadyn befree]: https://www.katadyn.com/us/us/14946-8019639-katadyn-beefree-water-filtration-system_usa
