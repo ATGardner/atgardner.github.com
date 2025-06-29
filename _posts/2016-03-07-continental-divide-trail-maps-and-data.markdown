@@ -56,12 +56,12 @@ Share and enjoy!
 [Jonathan Ley 2014]: http://www.phlumf.com/travels/cdt/cdtmaps.shtml
 [Continental Divide Trail Coalition Interactive Map]: http://continentaldividetrail.org/cdnst-interactive-map/
 [Google Earth]: https://www.google.com/earth/
-[New Mexico]: https://drive.google.com/open?id=0B_DXc1YJDxkHZVdWSmpCbDR3X28
-[Colorado]: https://drive.google.com/open?id=0B_DXc1YJDxkHRGxNOFNEQU00elE
-[Wyoming]: https://drive.google.com/open?id=0B_DXc1YJDxkHblB4WFJHbUVwa28
-[Montana]: https://drive.google.com/open?id=0B_DXc1YJDxkHRFJocWxpa3JCZDA
-[whole trail]: https://drive.google.com/open?id=0B_DXc1YJDxkHRWZKUW1FcEdrMW8
-[Google Drive]: https://drive.google.com/open?id=0B_DXc1YJDxkHUXFsYTY2MGwxazg
+[New Mexico]: https://drive.google.com/file/d/0B_DXc1YJDxkHZVdWSmpCbDR3X28/view?usp=sharing&resourcekey=0-VsptkAEyNkmDVROYSqpG-g
+[Colorado]: https://drive.google.com/file/d/0B_DXc1YJDxkHRGxNOFNEQU00elE/view?usp=sharing&resourcekey=0-JVtmkuGcIyiuiSDtSFiWNw
+[Wyoming]: https://drive.google.com/file/d/0B_DXc1YJDxkHblB4WFJHbUVwa28/view?usp=sharing&resourcekey=0-KICLLcBRIomG_FcNvXbIrQ
+[Montana]: https://drive.google.com/file/d/0B_DXc1YJDxkHRFJocWxpa3JCZDA/view?usp=sharing&resourcekey=0-M5sr8iZAmtpyWEzb0nIWfQ
+[whole trail]: https://drive.google.com/file/d/0B_DXc1YJDxkHRWZKUW1FcEdrMW8/view?usp=sharing&resourcekey=0-UM9xZ6fGXndIsxOg30Yqkw
+[Google Drive]: https://drive.google.com/drive/folders/0B_DXc1YJDxkHUXFsYTY2MGwxazg?resourcekey=0-UTmrfaAYcb7QIbs9d1tIHQ&usp=sharing
 [Offline Map File Generator]: http://atgardner.github.io/OfflineMapFileGenerator/
 [Backcountry Navigator]: http://backcountrynavigator.com/
 [Orux Maps]: http://www.oruxmaps.com/index_en.html
