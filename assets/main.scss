@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "minima";
+@import 'minima';
 
 body {
   font-family: 'Noto Sans', sans-serif;
@@ -25,11 +25,11 @@ body {
 
   div {
     &.linz {
-      background-color: #D1E7F5;
+      background-color: #d1e7f5;
     }
 
     &.landcare {
-      background-color: #83A7B8;
+      background-color: #83a7b8;
     }
   }
 
