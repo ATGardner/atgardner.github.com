@@ -7,6 +7,6 @@ module.exports = {
   singleQuote: true,
   trailingComma: 'all',
   bracketSpacing: false,
-  jsxBracketSameLine: true,
+  bracketSameLine: true,
   proseWrap: 'preserve',
 };

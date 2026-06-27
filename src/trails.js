@@ -46,15 +46,12 @@ async function getTrailConfig(trailName) {
     trails: {[trailName]: trail},
     layers,
   } = trails;
-  trail.layers = trail.layers.map(l => {
+  trail.layers = trail.layers.map((l) => {
     const layer = Object.assign({}, layers[l], LAYER_DEFAULTS);
     layer.source = Object.assign({}, layer.source, SOURCE_DEFAULTS);
     return layer;
   });
-  const pathClass = trail.path
-    .split('.')
-    .pop()
-    .toUpperCase();
+  const pathClass = trail.path.split('.').pop().toUpperCase();
   const format = `format.${pathClass}`;
   const pathLayer = {
     olClass: 'layer.Vector',
@@ -94,7 +91,6 @@ async function loadMapAsync(trailName, targetId) {
     const view = map.getView();
     view.fit(config.fit, map.getSize());
   } catch (e) {
-    // eslint-disable-next-line no-console
     console.error('Failed loading map', e);
   }
 }
