@@ -1,42 +1,13 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:recommended",
-    "helpers:pinGitHubActionDigestsToSemver",
-    ":prHourlyLimitNone"
-  ],
-  "labels": ["dependencies"],
-  "timezone": "Asia/Jerusalem",
-  "lockFileMaintenance": {
-    "enabled": true
-  },
-  "minimumReleaseAge": "3 days",
-  "minimumReleaseAgeBehaviour": "timestamp-optional",
-  "rebaseWhen": "behind-base-branch",
+  "extends": ["local>ATGardner/home//renovate-presets/default"],
   "packageRules": [
     {
-      "matchUpdateTypes": [
-        "minor",
-        "patch"
-      ],
-      "automerge": true
-    },
-    {
-      "matchManagers": [
-        "bundler"
-      ],
+      "matchManagers": ["bundler"],
       "groupName": "Ruby dependencies"
     },
     {
-      "matchManagers": [
-        "npm"
-      ],
-      "groupName": "npm dependencies"
-    },
-    {
-      "matchManagers": [
-        "docker-compose"
-      ],
+      "matchManagers": ["docker-compose"],
       "groupName": "Docker images"
     }
   ]
