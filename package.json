@@ -38,7 +38,7 @@
     "remark-cli": "12.0.1",
     "remark-preset-lint-recommended": "7.0.1",
     "webpack": "5.110.1",
-    "webpack-cli": "7.2.2",
+    "webpack-cli": "7.2.3",
     "whatwg-fetch": "3.6.20"
   },
   "remarkConfig": {
