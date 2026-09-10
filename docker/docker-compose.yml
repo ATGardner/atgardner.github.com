@@ -4,7 +4,7 @@ services:
     command: jekyll serve --incremental
     environment:
       - FORCE_POLLING=true
-    image: jekyll/jekyll:latest@sha256:f0ccb9842a530181f73fe2b126a01634810a52ec6667c4b804d9d09432eadf4a
+    image: jekyll/jekyll:latest@sha256:15fa79ee6293d7970fe2456fa64ea64bbaf308617b2841e73d9e58cfe09445b6
     volumes:
       - ..:/srv/jekyll
       - ../vendor/bundle:/usr/local/bundle
