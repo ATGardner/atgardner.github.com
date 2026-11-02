@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ATGardner/atgardner.github.com#readme",
   "devDependencies": {
-    "@babel/core": "8.0.9",
+    "@babel/core": "8.0.10",
     "@babel/polyfill": "7.12.1",
     "@babel/preset-env": "8.0.7",
     "@babel/eslint-parser": "8.0.7",
